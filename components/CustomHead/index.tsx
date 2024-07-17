@@ -17,7 +17,7 @@ interface SectoinTitleProps {
 
 export const CustomHead = ({ type, post, project }: SectoinTitleProps) => {
   const router = useRouter();
-  let lang: string = "en";
+  let lang: string = "ko";
 
   if (type === "post" && post) {
     return (
@@ -64,7 +64,7 @@ export const CustomHead = ({ type, post, project }: SectoinTitleProps) => {
 
         {/* twitter og Tags */}
         <meta name="twitter:card" content="summary_large_image" data-gatsby-head="true" />
-        <meta property="twitter:domain" content={`https://${SITE_NAME}.github.io/`} data-gatsby-head="true" />
+        <meta property="twitter:domain" content={`https://${SITE_NAME}/`} data-gatsby-head="true" />
         <meta property="twitter:url" content={`${SITE_URL}/${router.asPath}`} data-gatsby-head="true" />
         <meta name="twitter:title" content={`${project.title} | ${SITE_NAME}`} data-gatsby-head="true" />
         <meta name="twitter:description" content={project.description} data-gatsby-head="true" />
@@ -90,7 +90,7 @@ export const CustomHead = ({ type, post, project }: SectoinTitleProps) => {
 
         {/* twitter og Tags */}
         <meta name="twitter:card" content="summary_large_image" data-gatsby-head="true" />
-        <meta property="twitter:domain" content={`https://${SITE_NAME}.github.io/`} data-gatsby-head="true" />
+        <meta property="twitter:domain" content={`https://${SITE_NAME}/`} data-gatsby-head="true" />
         <meta property="twitter:url" content={`${SITE_URL}/${router.asPath}`} data-gatsby-head="true" />
         <meta name="twitter:title" content={SITE_NAME} data-gatsby-head="true" />
         <meta name="twitter:description" content={SITE_DESCRIPTION[lang]} data-gatsby-head="true" />
