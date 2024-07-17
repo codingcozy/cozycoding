@@ -44,7 +44,7 @@ rm -rf *
 
 <div class="content-ad"></div>
 
-```sh
+```js
 cd ~/Library/Developer/Xcode/DerivedData
 rm -rf *
 ```
@@ -107,7 +107,7 @@ rm -rf *
 
 <div class="content-ad"></div>
 
-```sh
+```js
 cd ~/Library/Caches
 rm -rf *
 ```

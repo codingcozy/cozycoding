@@ -16,7 +16,7 @@ link: "https://medium.com/@sidcode/flutter-web-github-pages-9513667ef3f1"
 
 - 도메인을 소유하고 계신다면, 플러터 프로젝트 디렉토리로 이동해주세요
 
-```sh
+```js
 $ cd my_flutter_directory
 $ echo -e 'sidcode.me' > web/CNAME
 $ cat web/CNAME         

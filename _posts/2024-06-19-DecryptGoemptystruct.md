@@ -112,7 +112,7 @@ func main() {
 
 결과:
 
-```plaintext
+```js
 8
 8
 32
