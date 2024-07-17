@@ -1,15 +1,14 @@
 ---
 title: "Django NoReverseMatch 오류 해결 종합 가이드"
 description: ""
-coverImage: "/uidev-css.github.io/assets/no-image.jpg"
+coverImage: "/assets/no-image.jpg"
 date: 2024-07-13 21:56
-ogImage: 
-  url: /uidev-css.github.io/assets/no-image.jpg
+ogImage:
+  url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Fixing the NoReverseMatch Error in Django: A Comprehensive Guide"
 link: "https://medium.com/@kasata/fixing-the-noreversematch-error-in-django-a-comprehensive-guide-bbd74be4e5f4"
 ---
-
 
 Django를 사용할 때 마주칠 수 있는 일반적인 오류 중 하나는 NoReverseMatch 오류입니다. 이 오류는 Django가 reverse() 함수나 url 템플릿 태그에 제공된 매개변수와 일치하는 URL을 찾지 못할 때 발생합니다.
 
@@ -90,12 +89,10 @@ def my_view(request):
 또는 템플릿에서:
 
 ```html
-template.html
-<a href="{% url 'post_detail' id=5 %}">포스트 상세</a>
+template.html <a href="{% url 'post_detail' id=5 %}">포스트 상세</a>
 ```
 
 ## 3. URL 패턴 포함하기
-
 
 <div class="content-ad"></div>
 
@@ -121,10 +118,12 @@ urlpatterns = [
 - Django Debug Toolbar을 사용해보세요: 이를 통해 어떤 URL이 사용되는지 자세히 파악하고 문제에 대한 더 많은 통찰력을 얻을 수 있습니다.
 - Django의 URL resolver를 확인하세요: Django 쉘을 사용하여 URL reversing을 직접 테스트할 수 있습니다. 예를 들어:
 - python manage.py shell
+
 ```python
 from django.urls import reverse
 reverse('home') # '/home/'
 ```
+
 - 최근 변경 내용 검토: 에러가 갑자기 발생한 경우, 최근 URL 구성, 뷰 또는 템플릿의 변경 사항을 검토해보세요.
 
 ## 결론

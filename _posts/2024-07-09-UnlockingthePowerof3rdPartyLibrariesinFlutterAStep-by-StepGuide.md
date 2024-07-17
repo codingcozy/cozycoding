@@ -1,15 +1,14 @@
 ---
 title: "3rd Party 라이브러리로 Flutter를 강화하는 방법 단계별 가이드"
 description: ""
-coverImage: "/uidev-css.github.io/assets/no-image.jpg"
+coverImage: "/assets/no-image.jpg"
 date: 2024-07-09 22:47
-ogImage: 
-  url: /uidev-css.github.io/assets/no-image.jpg
+ogImage:
+  url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Unlocking the Power of 3rd Party Libraries in Flutter: A Step-by-Step Guide"
 link: "https://medium.com/@techdynasty/unlocking-the-power-of-3rd-party-libraries-in-flutter-a-step-by-step-guide-dbbbf9516afa"
 ---
-
 
 트랜스플러(Flutter)는 인기 있는 오픈소스 모바일 앱 개발 프레임워크로, 귀하의 앱의 기능성과 사용자 경험을 향상시킬 수 있는 다양한 제3자 라이브러리들을 제공합니다. 이러한 라이브러리들은 미리 만들어진 UI 구성 요소, API 및 도구를 제공하여 개발 시간과 노력을 절약할 수 있습니다. 이 문서에서는 플러터(Flutter)에서 3rd 파티 라이브러리를 통합하는 방법과 시작하는 데 도움이 되는 예제 및 이미지를 살펴보겠습니다.
 
@@ -49,7 +48,7 @@ Step 3: 라이브러리를 import하세요.
 다트 파일에서 라이브러리를 다음 라인을 사용하여 임포트하세요:
 
 ```js
-import 'package:flutter_svg/flutter_svg.dart';
+import "package:flutter_svg/flutter_svg.dart";
 ```
 
 예시: flutter_svg를 사용하여 SVG 이미지 표시하기

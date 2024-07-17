@@ -1,15 +1,14 @@
 ---
 title: "Flutter 확장 가능한 앱 뼈대 만들기 어플리케이션 기본 구조 완전 정복"
 description: ""
-coverImage: "/uidev-css.github.io/assets/no-image.jpg"
+coverImage: "/assets/no-image.jpg"
 date: 2024-07-07 13:13
-ogImage: 
-  url: /uidev-css.github.io/assets/no-image.jpg
+ogImage:
+  url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Flutter scalable app skeleton. Application bones."
 link: "https://medium.com/@orexjeka9/flutter-scalable-app-skeleton-application-bones-49514326deac"
 ---
-
 
 플러터 3.22.1, Dart 3.4.1, Mac OS, VS Code.
 
@@ -113,7 +112,7 @@ String _getEnvFileName() {
 assets/env/.env.x 파일에 넣어주세요.
 
 ```js
-base_api_url='http://localhost:8080'
+base_api_url = "http://localhost:8080";
 ```
 
 네트워크 레이어로 가는데, Dio + Retrofit을 선택했습니다. 다시 말해 Retrofit은 dio용 코드 생성 도구로, metadata 주석 내에서 아주 좋은 뼈대를 제공합니다.
@@ -177,7 +176,6 @@ abstract class RecordAppRestApiModuleTag {
 
 # 디자인 시스템
 
-
 <div class="content-ad"></div>
 
 이제 디자인 시스템에 관해 이야기해보겠습니다. 기본적으로 DS는 구체적인 값에 신경을 덜 쓰고 사전 정의된 추상화 세트로 작업할 수 있도록 도와주는 깔끔한 래퍼입니다. 회사의 규모에 따라 다르지만, 기본 사항을 알아보고 부드럽게 진행해 보겠습니다.
@@ -230,7 +228,6 @@ class Spacings {
 ```
 
 <div class="content-ad"></div>
-
 
 ```js
 // lib/core/design_system/atoms/text_type.dart
@@ -299,7 +296,6 @@ double spacingFun(BuildContext context, SizeType type) {
         tablet: (context) => Spacings.tabletXl,
 ...
 ```
-
 
 <div class="content-ad"></div>
 

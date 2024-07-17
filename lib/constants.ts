@@ -8,9 +8,9 @@ export const LANG_LOCALE: { [key: string]: string } = {
   en: "en_US",
   ja: "ja_JP",
 };
-export const SITE_NAME = "uidev-css";
-export const SITE_URL = "https://uidev-css.github.io/";
-export const AUTHOR = "UIDEV CSS";
+export const SITE_NAME = "Cozy Coding";
+export const SITE_URL = "https://cozycod.ing/";
+export const AUTHOR = "Cozy Coding";
 export const SITE_DESCRIPTION: { [key: string]: string } = {
   ko: "HTML, CSS, JS로 웹사이트, 게임, 앱을 만들고 있습니다.",
   en: "I develop websites, games and apps with HTML, CSS and JS.",

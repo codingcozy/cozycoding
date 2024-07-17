@@ -1,15 +1,14 @@
 ---
 title: "나의 생각에 갇힌 죄수 변호사를 고용하여 보석 받기"
 description: ""
-coverImage: "/uidev-css.github.io/assets/no-image.jpg"
+coverImage: "/assets/no-image.jpg"
 date: 2024-07-09 22:06
-ogImage: 
-  url: /uidev-css.github.io/assets/no-image.jpg
+ogImage:
+  url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Prisoner of My Own Thoughts: Hiring lawyer to bail out"
 link: "https://medium.com/@codecooker/prisoner-of-my-own-thoughts-hiring-lawyer-to-bail-out-c77868248c1b"
 ---
-
 
 나는 이번 주 월요일 아침에 폰 알람 소리에 깼어. 커튼을 통해 스며드는 햇빛이 나에게 다가온 다른 한 주가 시작되었음을 느끼게 했어. 그러나 속으로 경련하며, 얼마나 더 많은 월요일을 버물어야 하는지 궁금해했어.
 

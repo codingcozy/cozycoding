@@ -1,15 +1,14 @@
 ---
 title: "플러터 개발자 실력 향상을 위한 Injectable 패키지 사용 방법"
 description: ""
-coverImage: "/uidev-css.github.io/assets/no-image.jpg"
+coverImage: "/assets/no-image.jpg"
 date: 2024-07-07 22:22
-ogImage: 
-  url: /uidev-css.github.io/assets/no-image.jpg
+ogImage:
+  url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Improve Flutter Developer Skills “Injectable Package”"
 link: "https://medium.com/@ms3byoussef/improve-flutter-developer-skills-injectable-package-89fca602862e"
 ---
-
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*vPsRYWOqdWjuY8Fa5NLd3w.gif" />
 
@@ -107,7 +106,7 @@ import 'package:injectable/injectable.dart';
 void configureDependencies(final $Env env) => $env.initFromEnvironment();
 ```
 
-의존성 등록하기 (Injectable 클래스):  
+의존성 등록하기 (Injectable 클래스):
 
 <div class="content-ad"></div>
 
@@ -152,8 +151,8 @@ import 'injection.g.dart'; // 생성된 파일
 @injectableInit
 void configureDependencies() => $configureDependencies();
 void main() async {
-  configureDependencies();
-  runApp(MyApp());
+configureDependencies();
+runApp(MyApp());
 }
 ```
 

@@ -1,15 +1,14 @@
 ---
 title: "Flutter의 SegmentedButton 완전 정복 다재다능한 UI 컴포넌트 사용법"
 description: ""
-coverImage: "/uidev-css.github.io/assets/no-image.jpg"
+coverImage: "/assets/no-image.jpg"
 date: 2024-07-09 09:48
-ogImage: 
-  url: /uidev-css.github.io/assets/no-image.jpg
+ogImage:
+  url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Mastering Flutter’s SegmentedButton: A Versatile UI Component"
 link: "https://medium.com/@gimhantharuke856/mastering-flutters-segmentedbutton-a-versatile-ui-component-dd7af757954f"
 ---
-
 
 Flutter의 SegmentedButton은 개발자가 직관적이고 선택 가능한 버튼 그룹을 만들 수 있는 강력하고 유연한 위젯입니다. 날씨 앱, 설정 페이지 또는 사용자 선택이 필요한 인터페이스를 구축할 때 SegmentedButton은 깔끔하고 효율적인 해결책을 제공합니다. 이제 SegmentedButton의 기능과 구현 방법을 알아보겠습니다.
 

@@ -1,15 +1,14 @@
 ---
 title: "Riverpod으로 네트워크 호출하는 방법"
 description: ""
-coverImage: "/uidev-css.github.io/assets/no-image.jpg"
+coverImage: "/assets/no-image.jpg"
 date: 2024-07-07 22:28
-ogImage: 
-  url: /uidev-css.github.io/assets/no-image.jpg
+ogImage:
+  url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Network calls with Riverpod"
 link: "https://medium.com/@rkishan516/network-calls-with-riverpod-8eb53aec17bb"
 ---
-
 
 모든 앱은 서버 측에서 데이터를 보내고 받기 위해 어떤 네트워크 호출을 해야 합니다. 플러터 앱에서 이를 간단하게 만들기 위해, Riverpod을 사용하여 리포지토리 레이어를 좀더 간단하게 만들겠습니다.
 
@@ -20,7 +19,6 @@ link: "https://medium.com/@rkishan516/network-calls-with-riverpod-8eb53aec17bb"
 Riverpod은 코드 생성 버전과 코드 생성 없는 버전 두 가지가 있습니다. 두 버전을 살펴보고 앱 사용자를 가져오는 방법을 알아봅시다.
 
 <div class="content-ad"></div>
-
 
 ```js
 final userProvider = FutureProvider<User>((ref) {
@@ -56,7 +54,6 @@ class UserImage extends ConsumerWidget {
 }
 ```
 
-
 <div class="content-ad"></div>
 
 가정을 해 보면, 어떤 알림기에서 사용자가 먼저 로드되길 기다린 후에 해당 알림기의 상태를 업데이트하고 싶을 수 있습니다. 그러기 위해 이 공급자의 미래에 대해 기다릴 수 있습니다. 이렇게 할 수 있습니다 :-
@@ -90,7 +87,6 @@ class UserCurrentBalanceNotifier extends _$UserCurrentBalanceNotifier {
 
 <div class="content-ad"></div>
 
-
 ![image](https://miro.medium.com/v2/resize:fit:848/1*S_Ty8JzCgNyGfe-BJYGrjQ.gif)
 
 Now let’s talk about pros and cons of using riverpod for network calls :-
@@ -102,10 +98,10 @@ Pros :-
 - Provides a consistent API for making network calls
 - Supports code generation
 
-
 <div class="content-ad"></div>
 
 아래는 Riverpod의 단점입니다:
+
 - Riverpod은 제공자 트리를 만들고 유지하기 위해 일부 메모리를 사용할 수 있습니다.
 - Riverpod은 비교적 새로운 라이브러리이기 때문에 다른 상태 관리 라이브러리들보다 문서화가 떨어질 수 있습니다.
 - 크고 복잡한 앱에 대한 코드 생성이 느릴 수 있습니다.

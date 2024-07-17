@@ -1,25 +1,24 @@
 ---
 title: "Flutter 프로젝트에서 Firebase 및 Gradle 플러그인 설정하는 방법"
 description: ""
-coverImage: "/uidev-css.github.io/assets/no-image.jpg"
+coverImage: "/assets/no-image.jpg"
 date: 2024-07-13 21:33
-ogImage: 
-  url: /uidev-css.github.io/assets/no-image.jpg
+ogImage:
+  url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Configuring a Flutter Project with Firebase and Gradle Plugins"
 link: "https://medium.com/@mnc12004/configuring-a-flutter-project-with-firebase-and-gradle-plugins-7e2ef7e898cf"
 ---
-
 
 몇 분은 ~% flutter build apk 또는 appbundle을 실행할 때 이 메시지를 보았을 수 있습니다.
 
 # Deprecated imperative apply of Flutter’s Gradle plugins
 
 ```js
-flutter needs upgrade: You are applying Flutter's 
-app_plugin_loader Gradle plugin imperatively using the apply script method, 
-which is deprecated and will be removed in a future release. 
-Migrate to applying Gradle plugins with the declarative 
+flutter needs upgrade: You are applying Flutter's
+app_plugin_loader Gradle plugin imperatively using the apply script method,
+which is deprecated and will be removed in a future release.
+Migrate to applying Gradle plugins with the declarative
 plugins block: https://flutter.dev/go/flutter-gradle-plugin-apply
 ```
 
@@ -231,7 +230,7 @@ flutter build apk
 
 <div class="content-ad"></div>
 
-3. 앱 실행하기: 
+3. 앱 실행하기:
 
 ```js
 flutter run

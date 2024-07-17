@@ -3,7 +3,7 @@ const globby = require("globby");
 const path = require("path");
 const prettier = require("prettier");
 
-const YOUR_AWESOME_DOMAIN = `https://uidev-css.github.io`;
+const YOUR_AWESOME_DOMAIN = `https://cozycod.ing`;
 
 const formatted = (sitemap) => prettier.format(sitemap, { parser: "html" });
 

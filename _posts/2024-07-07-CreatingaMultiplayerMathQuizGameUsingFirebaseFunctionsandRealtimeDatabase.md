@@ -1,15 +1,14 @@
 ---
 title: "Firebase Functions와 Realtime Database를 이용한 멀티플레이어 수학 퀴즈 게임 만드는 방법"
 description: ""
-coverImage: "/uidev-css.github.io/assets/no-image.jpg"
+coverImage: "/assets/no-image.jpg"
 date: 2024-07-07 02:46
-ogImage: 
-  url: /uidev-css.github.io/assets/no-image.jpg
+ogImage:
+  url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Creating a Multiplayer Math Quiz Game Using Firebase Functions and Realtime Database"
 link: "https://medium.com/@nikunjjoshi5022/creating-a-multiplayer-math-quiz-game-using-firebase-functions-and-realtime-database-2e25a03d3f4f"
 ---
-
 
 인터랙티브 멀티플레이어 게임을 개발하려면 실시간 동기화와 서버리스 함수를 사용하여 게임 로직을 관리해야 합니다. Firebase는 실시간 데이터베이스와 Firebase Functions을 통해 이러한 애플리케이션에 이상적인 플랫폼을 제공합니다. 이 기사에서는 멀티플레이어 수학 퀴즈 게임을 디자인할 것입니다. 주요 기능, 데이터베이스 스키마, Firebase 실시간 데이터베이스, Firebase Functions을 자세히 살펴볼 것입니다.
 
@@ -107,10 +106,10 @@ Firebase Functions은 이벤트에 응답하여 실행되는 서버리스 함수
 Firebase를 초기화 중: Firebase 서비스를 사용하려면 먼저 Firebase 앱을 초기화하고 Realtime Database에 대한 참조를 가져와야 합니다:
 
 ```js
-import { initializeApp } from 'firebase-admin/app';
-import { getDatabase } from 'firebase-admin/database';
-import { onValueUpdated } from 'firebase-functions/v2/database';
-import { logger } from 'firebase-functions';
+import { initializeApp } from "firebase-admin/app";
+import { getDatabase } from "firebase-admin/database";
+import { onValueUpdated } from "firebase-functions/v2/database";
+import { logger } from "firebase-functions";
 
 initializeApp();
 const db = getDatabase();
@@ -123,12 +122,12 @@ const db = getDatabase();
 <div class="content-ad"></div>
 
 ```js
-export const startGame = onValueUpdated('/matchMaking', async (event) => {
-  const matchMakingRef = db.ref('/matchMaking');
-  const lockRef = db.ref('/lock');
+export const startGame = onValueUpdated("/matchMaking", async (event) => {
+  const matchMakingRef = db.ref("/matchMaking");
+  const lockRef = db.ref("/lock");
 
   try {
-    const lockResult = await lockRef.transaction(lock => {
+    const lockResult = await lockRef.transaction((lock) => {
       if (!lock) {
         return true;
       }
@@ -136,11 +135,11 @@ export const startGame = onValueUpdated('/matchMaking', async (event) => {
     });
 
     if (!lockResult.committed) {
-      logger.info('Lock already acquired by another instance');
+      logger.info("Lock already acquired by another instance");
       return;
     }
 
-    const snapshot = await matchMakingRef.once('value');
+    const snapshot = await matchMakingRef.once("value");
     const matchMaking = snapshot.val();
     const matchMakingKeys = Object.keys(matchMaking || {});
 
@@ -177,7 +176,7 @@ export const startGame = onValueUpdated('/matchMaking', async (event) => {
 
         const playerKeyValue = {
           [firstPlayerId]: firstPlayerInfo,
-          [secondPlayerId]: secondPlayerInfo
+          [secondPlayerId]: secondPlayerInfo,
         };
 
         const gameId = `${firstPlayerId}_${secondPlayerId}`;
@@ -187,19 +186,19 @@ export const startGame = onValueUpdated('/matchMaking', async (event) => {
 
         await inGameRef.set({
           players: playerKeyValue,
-          questionOptions: equations
+          questionOptions: equations,
         });
 
         const updates = {
           [`/matchMaking/${firstPlayerId}`]: { gameId, opponentUuid: secondPlayerId },
-          [`/matchMaking/${secondPlayerId}`]: { gameId, opponentUuid: firstPlayerId }
+          [`/matchMaking/${secondPlayerId}`]: { gameId, opponentUuid: firstPlayerId },
         };
 
         await db.ref().update(updates);
       }
     }
   } catch (error) {
-    logger.error('Error processing matchmaking:', error);
+    logger.error("Error processing matchmaking:", error);
   } finally {
     await lockRef.set(false);
   }
