@@ -1,5 +1,5 @@
 ---
-title: "2024년 배워야 할 상위 5개 프로그래밍 언어"
+title: "2024년에 떠오르는 5개 프로그래밍 언어"
 description: ""
 coverImage: "/assets/img/2024-08-21-Top5ProgrammingLanguagestoLearnin2024_0.png"
 date: 2024-08-21 18:17
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Top 5 Programming Languages to Learn in 2024"
 link: "https://medium.com/@youngwomencode/top-5-programming-languages-to-learn-in-2024-c9cf486b09d8"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244672805
 ---
 
 

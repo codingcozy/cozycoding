@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The 5 ChatGPT Prompts That Represent the State of Coding in 2024"
 link: "https://medium.com/@tsecretdeveloper/the-5-chatgpt-prompts-that-represent-the-state-of-coding-in-2024-cf314946bb80"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-13-The5ChatGPTPromptsThatRepresenttheStateofCodingin2024_0.png)

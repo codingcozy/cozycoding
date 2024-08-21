@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Ditch VS Code: The Era of the New Code Editor Zed Has Arrived"
 link: "https://medium.com/gitconnected/ditch-vs-code-the-era-of-the-new-code-editor-zed-has-arrived-790f20c57980"
+isUpdated: true
 ---
+
+
+
 
 
 ![image](/assets/img/2024-07-01-DitchVSCodeTheEraoftheNewCodeEditorZedHasArrived_0.png)

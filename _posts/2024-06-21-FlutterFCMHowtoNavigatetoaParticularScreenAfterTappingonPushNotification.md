@@ -3,12 +3,16 @@ title: "Flutter FCM - 푸시 알림 탭 후 특정 화면으로 이동하는 방
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterFCMHowtoNavigatetoaParticularScreenAfterTappingonPushNotification_0.png"
 date: 2024-06-21 23:04
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutterFCMHowtoNavigatetoaParticularScreenAfterTappingonPushNotification_0.png
 tag: Tech
 originalTitle: "Flutter: FCM — How to Navigate to a Particular Screen After Tapping on Push Notification"
 link: "https://medium.com/firebase-developers/flutter-fcm-how-to-navigate-to-a-particular-screen-after-tapping-on-push-notification-8cb5d5111ee6"
+isUpdated: true
 ---
+
+
+
 
 이 게시물에서는 FCM 푸시 알림을 수신하고 사용자가 푸시 알림을 탭했을 때 특정 페이지로 이동하는 방법에 대해 Flutter에서 설명하겠습니다 (서버 측 코드 없음).
 

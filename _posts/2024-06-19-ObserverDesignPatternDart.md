@@ -1,5 +1,5 @@
 ---
-title: "옵저버 디자인 패턴 - Dart"
+title: "Dart에서 옵저버 디자인 패턴 사용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-ObserverDesignPatternDart_0.png"
 date: 2024-06-19 00:11
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Observer Design Pattern — Dart"
 link: "https://medium.com/@tagizada.nicat/observer-design-pattern-dart-819536fe0298"
+isUpdated: true
 ---
+
+
+
 
 
 

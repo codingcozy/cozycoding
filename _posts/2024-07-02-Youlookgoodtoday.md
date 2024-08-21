@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "You look good today!"
 link: "https://medium.com/@gianlucasartori/you-look-good-today-5c0438fbe2ff"
+isUpdated: true
 ---
+
+
+
 
 
 **고지: 우리는 그것이 무엇인지는 상관하지 않습니다. 우리는 그것이 어떻게 보이는지에 중점을 둡니다. 왜냐하면 우리는 속을 수 있는 인간이기 때문입니다.**

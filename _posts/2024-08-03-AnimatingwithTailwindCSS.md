@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Animating with TailwindCSS"
 link: "https://dev.to/iamgoncaloalves/animating-with-tailwindcss-2gi9"
+isUpdated: true
+updatedAt: 1724246467016
 ---
 
 

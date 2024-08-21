@@ -1,14 +1,18 @@
 ---
-title: "State Management in Flutter  외부 라이브러리 종속성 없이"
+title: " Flutter에서 State Management 하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-StateManagementinFlutterNoThirdPartyDependencies_0.png"
 date: 2024-06-19 00:11
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-StateManagementinFlutterNoThirdPartyDependencies_0.png
 tag: Tech
 originalTitle: "State Management in Flutter — No Third Party Dependencies"
 link: "https://medium.com/prolog-app/state-management-in-flutter-no-third-party-dependencies-847dbc0ed3d0"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-19-StateManagementinFlutterNoThirdPartyDependencies_0.png" />
 

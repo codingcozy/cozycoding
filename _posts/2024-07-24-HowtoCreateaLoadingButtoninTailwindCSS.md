@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to Create a Loading Button in Tailwind CSS"
 link: "https://dev.to/saim_ansari/how-to-create-a-loading-button-in-tailwind-css-3hdo"
+isUpdated: true
 ---
+
+
 
 
 사용자 경험을 향상시키는 데 시각적인 피드백을 제공하는 것이 중요합니다. 이 튜토리얼에서는 Tailwind CSS를 사용하여 로딩 버튼을 만드는 방법을 보여드릴 거에요. 이 방법은 간단하고 웹 프로젝트에 완벽할 거예요. 시작해볼까요?

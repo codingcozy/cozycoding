@@ -3,12 +3,16 @@ title: "Flutter 상태 관리 비교 Provider, BLoC, GetX, Riverpod, GetIt, 그�
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterStateManagementProviderBLoCGetXRiverpodGetItandMobX_0.png"
 date: 2024-06-21 23:25
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutterStateManagementProviderBLoCGetXRiverpodGetItandMobX_0.png
 tag: Tech
 originalTitle: "Flutter State Management: Provider, BLoC, GetX, Riverpod, GetIt and MobX"
 link: "https://medium.com/@alvaro.armijoss/flutter-state-management-provider-bloc-getx-riverpod-getit-and-mobx-c9db3168a834"
+isUpdated: true
 ---
+
+
+
 
 본 기사에서는 상태 관리의 일반적인 개요를 검토한 후 가장 흥미로운 상태 관리 방법인 Provider, BLoC, GetX, Riverpod, GetIt, 그리고 MobX를 살펴보겠습니다.
 

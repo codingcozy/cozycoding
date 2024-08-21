@@ -1,5 +1,5 @@
 ---
-title: "최대 성능을 위한 React 애플리케이션 최적화 방법"
+title: "React 웹 페이지 성능 최적화 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-21 18:50
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Optimizing React Applications for Maximum Performance"
 link: "https://dev.to/surajondev/optimizing-react-applications-for-maximum-performance-5epm"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245631506
 ---
 
 

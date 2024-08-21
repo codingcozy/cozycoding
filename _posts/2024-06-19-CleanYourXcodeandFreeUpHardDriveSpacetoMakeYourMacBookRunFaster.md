@@ -1,5 +1,5 @@
 ---
-title: "Xcode 정리해서 MacBook을 빠르게 만들기"
+title: "느려진 MacBook을 위해 Xcode 불필요한 데이터 정리하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-CleanYourXcodeandFreeUpHardDriveSpacetoMakeYourMacBookRunFaster_0.png"
 date: 2024-06-19 00:08
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Clean Your Xcode and Free Up Hard Drive Space to Make Your MacBook Run Faster"
 link: "https://medium.com/@arshguleria1612/clean-your-xcode-and-free-up-hard-drive-space-to-make-your-macbook-run-faster-f6934be0b02f"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-19-CleanYourXcodeandFreeUpHardDriveSpacetoMakeYourMacBookRunFaster_0.png" />

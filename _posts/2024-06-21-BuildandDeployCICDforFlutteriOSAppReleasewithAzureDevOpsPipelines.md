@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Build and Deploy CI CD for Flutter iOS App Release with Azure DevOps Pipelines"
 link: "https://medium.com/@binasadw/setting-up-ci-cd-for-flutter-ios-app-release-with-azure-devops-pipelines-30ee0eab0729"
+isUpdated: true
 ---
+
+
+
 
 
 인디 소프트웨어 개발자로서, 내 Flutter 앱을 App Store에 고객에게 제공하는 것은 불가능한 일처럼 보였어요. 인증서를 관리하고, App Store Connect를 탐색하고, 테스트 릴리스를 구성하는 사이에, 진전이 없이 몇 일 동안 좌절했죠.

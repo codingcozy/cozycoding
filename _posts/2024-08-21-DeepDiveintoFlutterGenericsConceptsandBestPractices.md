@@ -1,5 +1,5 @@
 ---
-title: "Fluter 제네릭 개념과 최상의 실전 방법"
+title: "Fluter 제네릭 개념 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-DeepDiveintoFlutterGenericsConceptsandBestPractices_0.png"
 date: 2024-08-21 18:41
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Deep Dive into Flutter Generics Concepts and Best Practices"
 link: "https://medium.com/@durgeshparekh381/deep-dive-into-flutter-generics-concepts-and-best-practices-5de9b6b664bc"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245980638
 ---
 
 

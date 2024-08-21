@@ -3,12 +3,16 @@ title: "Flutter에서 백그라운드 서비스와 포어그라운드 서비스 
 description: ""
 coverImage: "/assets/img/2024-06-21-BackgroundandForegroundservicesinFlutter_0.png"
 date: 2024-06-21 22:36
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-BackgroundandForegroundservicesinFlutter_0.png
 tag: Tech
 originalTitle: "Background and Foreground services in Flutter"
 link: "https://medium.com/@sanjaysharmajw/background-and-foreground-services-in-flutter-cc66f612d58c"
+isUpdated: true
 ---
+
+
+
 
 ![그림](/assets/img/2024-06-21-BackgroundandForegroundservicesinFlutter_0.png)
 

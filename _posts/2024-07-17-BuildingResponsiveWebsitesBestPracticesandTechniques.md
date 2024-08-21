@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Building Responsive Websites Best Practices and Techniques"
 link: "https://medium.com/@araujogabe1/building-responsive-websites-best-practices-and-techniques-b0deccf276a4"
+isUpdated: true
 ---
+
+
 
 
 

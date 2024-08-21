@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Why Google Killing Off Material Web Components Makes Me Even More Bullish On Flutter"
 link: "https://medium.com/@impure/why-google-killing-off-material-web-components-makes-me-even-more-bullish-on-flutter-b869f8f8320c"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-07-WhyGoogleKillingOffMaterialWebComponentsMakesMeEvenMoreBullishOnFlutter_0.png" />

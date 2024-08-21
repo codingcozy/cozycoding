@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Create a Post HTML Article React Component TinyMCE  Firebase Firestore"
 link: "https://medium.com/javascript-quantum/create-a-post-html-article-react-component-tinymce-firebase-firestore-e1904cde29a7"
+isUpdated: true
 ---
+
+
 
 
 알겠어요, 간단한 개념 편집기 포스트와 기사 작성 및 저장을 위한 간단한 UI를 만들었어요. 저는 www.quantumcompass.xyz 에서 무료로 배우는 엔카 enarn 백과사전를 제작 중이에요. 제 첫 번째 목표는 Firebase Firestore 데이터베이스에 3 가지 엘리멘트(개념에 대한)를 저장하는 거에요:

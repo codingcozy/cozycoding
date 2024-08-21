@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Introduction"
 link: "https://nextjs.org/docs/getting-started"
+isUpdated: true
 ---
+
+
 
 
 # 소개

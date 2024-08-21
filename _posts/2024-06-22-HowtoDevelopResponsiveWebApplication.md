@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to Develop Responsive Web Application?"
 link: "https://medium.com/theymakedesign/how-to-develop-responsive-web-application-4129fd2e0827"
+isUpdated: true
 ---
+
+
+
 
 
 휴대전화는 온라인 쇼핑, 기사 읽기 등의 작업을 수행하는 데 노트북과 컴퓨터를 대체하기 시작했습니다. 데스크탑에 로그인해서 인터넷에 접속하던 시대는 사라졌어요. 대신, 현대적인 방식은 모바일 폰을 통해 웹을 탐색하는 것이에요.

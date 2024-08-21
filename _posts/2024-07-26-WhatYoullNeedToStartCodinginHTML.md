@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "What Youll Need To Start Coding in HTML"
 link: "https://dev.to/thekarlesi/what-youll-need-to-start-coding-in-html-14b6"
+isUpdated: true
 ---
+
+
 
 
 지금은 함께 따라 할 때 필요한 도구들을 살펴보겠습니다.

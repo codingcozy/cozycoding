@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Implementing Undo and Redo Functionality with the Memento Design Pattern"
 link: "https://medium.com/dev-genius/implementing-undo-and-redo-functionality-with-the-memento-design-pattern-bca64a5281ea"
+isUpdated: true
 ---
+
+
 
 
 

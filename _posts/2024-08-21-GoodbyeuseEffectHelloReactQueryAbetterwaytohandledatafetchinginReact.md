@@ -1,5 +1,5 @@
 ---
-title: "React Query로 데이터 가져오기 useEffect 대신 더 나은 방법"
+title: "useEffect 대신 React Query로 데이터 가져오는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-GoodbyeuseEffectHelloReactQueryAbetterwaytohandledatafetchinginReact_0.png"
 date: 2024-08-21 17:24
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Goodbye useEffect Hello React Query A better way to handle data fetching in React."
 link: "https://medium.com/@muhammad-lamine92/goodbye-useeffect-hello-react-query-a-better-way-to-handle-data-fetching-in-react-1c988596aa6f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245852156
 ---
 
 

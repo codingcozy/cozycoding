@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "HTML for Beginners Meta tags 3"
 link: "https://medium.com/@tomas-svojanovsky/html-for-beginners-meta-tags-3-e3266808bf04"
+isUpdated: true
 ---
+
+
 
 
 

@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Real-Time Machine Learning With Flutter Camera"
 link: "https://medium.com/kbtg-life/real-time-machine-learning-with-flutter-camera-bbcf1b5c3193"
+isUpdated: true
 ---
+
+
+
 
 
 내 최근 과제는 플러터를 사용하여 실시간 기계 학습을 수행하는 것이었는데, 많은 문제에 직면했습니다. 약 한 달 동안 이 일에 매달려 작업한 후에, 앞으로 나 자신을 위해 블로그를 써야겠다고 결정했습니다. 비슷한 일을 해야 하는 사람을 위해 쓰는 것도 포함해서요. 이 기사가 다른 누군가에게 시간을 아낄 수 있도록 한다면 좋겠어요. 그래서 그들이 구현 방법을 찾고 찾아다니지 않아도 되도록요. 전체 이야기를 전할 테니까요: 첫 번째 기계 학습 시도부터 모든 경우에 작동할 것으로 희망하는 최종 버전까지 말이에요.

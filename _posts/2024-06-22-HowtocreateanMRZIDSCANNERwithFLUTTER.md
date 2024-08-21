@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to create an MRZ ID SCANNER with FLUTTER"
 link: "https://medium.com/@cferrercava/how-to-create-an-mrz-id-scanner-with-flutter-ddd6e950802c"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-22-HowtocreateanMRZIDSCANNERwithFLUTTER_0.png" />

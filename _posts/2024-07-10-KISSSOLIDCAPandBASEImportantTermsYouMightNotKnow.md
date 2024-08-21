@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "KISS, SOLID, CAP, and BASE: Important Terms You Might Not Know"
 link: "https://medium.com/@techsuneel99/kiss-solid-cap-and-base-important-terms-you-might-not-know-dacccc07feb4"
+isUpdated: true
 ---
+
+
 
 
 소프트웨어 개발 및 시스템 디자인의 세계에서는 다양한 원칙과 개념이 개발자와 아키텍트들을 이끌어 견고하고 유지보수 가능하며 확장 가능한 시스템을 만들도록 안내합니다. 그 중에서도 KISS, SOLID, CAP, BASE가 기본 개념으로 두드러지며 모든 개발자가 이해해야 할 중요한 아이디어입니다. 본 문서에서는 각 개념을 깊이 있게 살펴보며 현실 시나리오에서의 중요성과 적용을 설명하겠습니다.

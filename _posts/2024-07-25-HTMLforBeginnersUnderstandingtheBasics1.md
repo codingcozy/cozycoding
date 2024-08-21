@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "HTML for Beginners Understanding the Basics 1"
 link: "https://medium.com/@tomas-svojanovsky/html-for-beginners-understanding-the-basics-1-ec6ef72505e1"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-25-HTMLforBeginnersUnderstandingtheBasics1_0.png" />

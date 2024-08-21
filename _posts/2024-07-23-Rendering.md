@@ -1,5 +1,5 @@
 ---
-title: "- Nextjs 14 빠른 페이지 로딩을 위한 렌더링 개선 2024 최신 가이드- Nextjs App Router 사용하여 효율적으로 렌더링하는 방법- Nextjs 14 렌더링 성능 비교 기존 버전과의 차이점 분석- Nextjs 14에서 Static 및 Server-side 렌더링 활용하기- Nextjs App Router를 활용한 서버 사이드 렌더링 SSR 손쉽게 구현하기- Nextjs 14 SEO 최적화를 위한 렌더링 전략- Nextjs 14의 새로운 렌더링 기능 총정리- Nextjs App Router로 SPA와 SSR 조합하기 5가지 팁- Nextjs 14에서의 클라이언트 사이드 vs 서버 사이드 렌더링 장단점 비교- Nextjs App Router로 페이지 로딩 속도 개선하는 비결 10가지"
+title: "Nextjs 14 빠른 페이지 로딩을 위한 렌더링 개선 2024 최신 가이드"
 description: ""
 coverImage: "/assets/nextjs.png"
 date: 2024-07-23 20:20
@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Rendering"
 link: "https://nextjs.org/docs/app/building-your-application/rendering"
+isUpdated: true
 ---
+
+
 
 
 # 렌더링

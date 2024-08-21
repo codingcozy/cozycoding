@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Edge and Node.js Runtimes"
 link: "https://nextjs.org/docs/app/building-your-application/rendering/edge-and-nodejs-runtimes"
+isUpdated: true
 ---
+
+
 
 
 # Edge와 Node.js 런타임

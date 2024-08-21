@@ -3,12 +3,16 @@ title: "노선 정의하기"
 description: ""
 coverImage: "/assets/img/2024-06-19-DefiningRoutes_0.png"
 date: 2024-06-19 06:52
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-DefiningRoutes_0.png
 tag: Tech
 originalTitle: "Defining Routes"
 link: "https://nextjs.org/docs/app/building-your-application/routing/defining-routes"
+isUpdated: true
 ---
+
+
+
 
 # 루트 정의
 

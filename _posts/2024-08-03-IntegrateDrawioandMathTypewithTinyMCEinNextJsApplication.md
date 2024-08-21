@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Integrate Drawio and MathType with TinyMCE in NextJs Application"
 link: "https://dev.to/sagar_gurung_7/integrate-drawio-and-mathtype-with-tinymce-in-nextjs-application-1lbd"
+isUpdated: true
+updatedAt: 1724246360553
 ---
 
 

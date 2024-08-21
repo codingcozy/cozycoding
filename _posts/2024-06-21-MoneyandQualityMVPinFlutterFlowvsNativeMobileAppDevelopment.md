@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Money and Quality: MVP in FlutterFlow vs. Native Mobile App Development"
 link: "https://medium.com/@maksymilian.pilzys/money-and-quality-mvp-in-flutterflow-vs-native-mobile-app-development-ee230d2a4c21"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-21-MoneyandQualityMVPinFlutterFlowvsNativeMobileAppDevelopment_0.png" />

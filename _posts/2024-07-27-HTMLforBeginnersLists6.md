@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "HTML for Beginners Lists 6"
 link: "https://medium.com/@tomas-svojanovsky/html-for-beginners-lists-6-b8d5b351046e"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-27-HTMLforBeginnersLists6_0.png" />

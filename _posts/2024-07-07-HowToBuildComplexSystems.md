@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How To Build Complex Systems"
 link: "https://medium.com/thoughts-on-machine-learning/how-to-build-complex-systems-f74c083bcdd3"
+isUpdated: true
 ---
+
+
 
 
 

@@ -3,12 +3,16 @@ title: "API 통합 및 상태 관리를 위한 Flutter BLoC 라이브러리"
 description: ""
 coverImage: "/assets/img/2024-06-19-APIIntegrationandStateManagementwithFlutterBLoCLibrary_0.png"
 date: 2024-06-19 08:08
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-APIIntegrationandStateManagementwithFlutterBLoCLibrary_0.png
 tag: Tech
 originalTitle: "API Integration and State Management with Flutter BLoC Library"
 link: "https://medium.com/@praiseajepe/api-integration-and-state-management-with-flutter-bloc-library-408b9dda9690"
+isUpdated: true
 ---
+
+
+
 
 Flutter Bloc 라이브러리는 잘 정의된 아키텍처를 통해 응용 프로그램 상태를 효과적으로 관리하는 방법을 제공합니다.
 

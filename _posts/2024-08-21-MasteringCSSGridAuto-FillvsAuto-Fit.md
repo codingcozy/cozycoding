@@ -1,5 +1,5 @@
 ---
-title: "CSS Grid 마스터하기 Auto-Fill 대 Auto-Fit 비교"
+title: "CSS Grid 속성 Auto-Fill vs Auto-Fit 비교 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-MasteringCSSGridAuto-FillvsAuto-Fit_0.png"
 date: 2024-08-21 16:54
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering CSS Grid Auto-Fill vs Auto-Fit"
 link: "https://medium.com/@ezeco26/mastering-css-grid-auto-fill-vs-auto-fit-ed5ad94148c1"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245730172
 ---
 
 

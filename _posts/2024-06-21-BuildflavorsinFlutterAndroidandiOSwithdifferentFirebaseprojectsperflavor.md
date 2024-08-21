@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Build flavors in Flutter (Android and iOS) with different Firebase projects per flavor"
 link: "https://medium.com/@animeshjain/build-flavors-in-flutter-android-and-ios-with-different-firebase-projects-per-flavor-27c5c5dac10b"
+isUpdated: true
 ---
+
+
+
 
 
 

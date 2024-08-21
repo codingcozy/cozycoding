@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Ultimate Guide to Angular Material Tab and Tab Indicator Styling"
 link: "https://medium.com/the-clever-dev/the-ultimate-guide-to-angular-material-tab-and-tab-indicator-styling-e85851f7cd60"
+isUpdated: true
 ---
+
+
 
 
 앵귤러 머티리얼 탭 컴포넌트는 사용자 정의 테두리 스타일링, 탭 인디케이터 색상, 활성 색상 등을 가질 수 있습니다. 이 튜토리얼에서는 DOM을 탐색하고 원하는 탭 스타일을 추가할 수 있는 클래스를 찾아보겠습니다.

@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Integrating Unity into a Flutter Application"
 link: "https://medium.com/@dipakbhatupawar/integrating-unity-into-a-flutter-application-f9f1f1940c38"
+isUpdated: true
 ---
+
+
+
 
 
 # 소개

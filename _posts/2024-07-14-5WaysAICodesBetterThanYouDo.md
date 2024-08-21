@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "5 Ways AI Codes Better Than You Do"
 link: "https://medium.com/@tsecretdeveloper/5-ways-ai-codes-better-than-you-do-407f03905fff"
+isUpdated: true
 ---
+
+
 
 
 

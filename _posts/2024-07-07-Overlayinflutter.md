@@ -3,12 +3,15 @@ title: "플러터에서 오버레이 사용 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-07 22:19
-ogImage:
+ogImage: 
   url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Overlay in flutter"
 link: "https://medium.com/@rkishan516/overlay-in-flutter-45abf2859fe2"
+isUpdated: true
 ---
+
+
 
 안녕하세요! 플러터에서 오버레이는 명령적인 방식으로 작동한다는 것을 아시다시피, 그러나 만약 제가 당신에게 선언적인 방식으로 사용할 수 있다고 말한다면 어떨까요?
 

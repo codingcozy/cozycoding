@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Leveraging Dart’s Features for Effective Flutter Development"
 link: "https://medium.com/@ahextechnologies/leveraging-darts-features-for-effective-flutter-developmenta-b5dfbb03b2ef"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-09-LeveragingDartsFeaturesforEffectiveFlutterDevelopment_0.png" />

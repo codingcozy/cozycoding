@@ -1,14 +1,18 @@
 ---
-title: "Flutter  Firebase로 푸시 알림 구현하는 완벽 가이드"
+title: "Flutter Firebase로 푸시 알림 구현하는 완벽 가이드"
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterFirebasePushNotificationsCompleteGuide_0.png"
 date: 2024-06-21 21:01
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutterFirebasePushNotificationsCompleteGuide_0.png
 tag: Tech
 originalTitle: "Flutter + Firebase Push Notifications (Complete Guide)"
 link: "https://medium.com/@ChanakaDev/flutter-firebase-push-notifications-complete-guide-fae42c88f32a"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-21-FlutterFirebasePushNotificationsCompleteGuide_0.png" />
 

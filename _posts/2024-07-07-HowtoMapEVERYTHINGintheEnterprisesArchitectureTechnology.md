@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to Map EVERYTHING in the Enterprise’s Architecture , Technology"
 link: "https://medium.com/analysts-corner/how-to-map-everything-in-the-enterprises-architecture-technology-4a708cefbd46"
+isUpdated: true
 ---
+
+
 
 
 ## 정보 기술

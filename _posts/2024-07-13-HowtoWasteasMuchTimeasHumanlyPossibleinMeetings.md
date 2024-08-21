@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to Waste as Much Time as Humanly Possible in Meetings"
 link: "https://medium.com/new-writers-welcome/how-to-waste-as-much-time-as-humanly-possible-in-meetings-3354f452d4a2"
+isUpdated: true
 ---
+
+
 
 
 ![Image](/assets/img/2024-07-13-HowtoWasteasMuchTimeasHumanlyPossibleinMeetings_0.png)

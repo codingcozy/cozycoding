@@ -1,14 +1,18 @@
 ---
-title: "제 자동화된 문서 작성 도구로 새로운 Toolips를 만들기"
+title: "자동화 도구로 새로운 Toolips 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-CreatingMyNewAutomatedDocumentationWithToolips_0.png"
 date: 2024-06-19 00:27
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-CreatingMyNewAutomatedDocumentationWithToolips_0.png
 tag: Tech
 originalTitle: "Creating My New Automated Documentation With Toolips"
 link: "https://medium.com/chifi-media/creating-my-new-automated-documentation-with-toolips-3b59f6e35122"
+isUpdated: true
 ---
+
+
+
 
 ## 소개
 

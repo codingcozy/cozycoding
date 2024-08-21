@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Why Horror Is the Hardest Game Genre"
 link: "https://medium.com/@GWBycer/why-horror-is-the-hardest-game-genre-8932df9f3d52"
+isUpdated: true
 ---
+
+
 
 
 ![2024-07-14-WhyHorrorIstheHardestGameGenre_0.png](/assets/img/2024-07-14-WhyHorrorIstheHardestGameGenre_0.png)

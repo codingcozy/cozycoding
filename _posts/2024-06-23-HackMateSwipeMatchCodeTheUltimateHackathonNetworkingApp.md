@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "HackMate: Swipe, Match, Code — The Ultimate Hackathon Networking App"
 link: "https://medium.com/@sv30092001/hackmate-swipe-match-code-the-ultimate-hackathon-networking-app-27ee9984ceb3"
+isUpdated: true
 ---
+
+
+
 
 
 틴더에서 완벽한 매치를 찾지 못하고 좌우로 스크롤하는 것에 지쳤나요? 만약 다가오는 해커톤을 위한 완벽한 팀 멤버를 찾을 수 있는 틴더의 매칭 기능을 사용할 수 있다면 어떨까요? 많은 해커톤 참가자들이 상호 보완적인 기술과 공유된 관심사를 가진 팀 멤버를 찾는 데 어려움을 겪고 있고, 검색과 네트워킹에 많은 시간을 투자하면서 종종 좌절감을 느끼곤 합니다.

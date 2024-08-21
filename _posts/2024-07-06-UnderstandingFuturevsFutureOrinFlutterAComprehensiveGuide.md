@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding Future vs FutureOr in Flutter: A Comprehensive Guide"
 link: "https://medium.com/@azharbinanwar/understanding-future-vs-futureor-in-flutter-a-comprehensive-guide-cb115f1d58cd"
+isUpdated: true
 ---
+
+
+
 
 
 /assets/img/2024-07-06-UnderstandingFuturevsFutureOrinFlutterAComprehensiveGuide_0.png

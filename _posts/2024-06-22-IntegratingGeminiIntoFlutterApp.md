@@ -3,12 +3,16 @@ title: "Flutter 앱에 Gemini 연동 방법"
 description: ""
 coverImage: "/assets/img/2024-06-22-IntegratingGeminiIntoFlutterApp_0.png"
 date: 2024-06-22 05:06
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-22-IntegratingGeminiIntoFlutterApp_0.png
 tag: Tech
 originalTitle: "Integrating Gemini Into Flutter App"
 link: "https://medium.com/@aysealmaci/integrating-gemini-into-flutter-app-39d19d135d1b"
+isUpdated: true
 ---
+
+
+
 
 안녕하세요 여러분! 이 기사에서는 플러터 프로젝트에서 제미니를 사용하는 방법에 대해 이야기하고 싶습니다.
 

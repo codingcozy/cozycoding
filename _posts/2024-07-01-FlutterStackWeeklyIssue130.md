@@ -1,5 +1,5 @@
 ---
-title: "Flutter 스택 주간 소식  제130호"
+title: "Flutter 스택 주간 소식 제130호"
 description: ""
 coverImage: "/assets/img/2024-07-01-FlutterStackWeeklyIssue130_0.png"
 date: 2024-07-01 20:21
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Stack Weekly — Issue#130"
 link: "https://medium.com/canopas/flutter-stack-weekly-issue-130-e567894bf394"
+isUpdated: true
 ---
+
+
+
 
 
 

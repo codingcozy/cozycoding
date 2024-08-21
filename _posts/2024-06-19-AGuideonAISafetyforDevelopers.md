@@ -1,5 +1,5 @@
 ---
-title: "개발자를 위한 AI 안전 가이드"
+title: "개발자를 위한 AI 개발 가이드"
 description: ""
 coverImage: "/assets/img/2024-06-19-AGuideonAISafetyforDevelopers_0.png"
 date: 2024-06-19 08:22
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "A Guide on AI Safety for Developers"
 link: "https://medium.com/bitsrc/ai-safety-for-ctos-73a2e98ebb0b"
+isUpdated: true
 ---
+
+
+
 
 
 ## 앱에서 AI를 사용 중이라면 AI를 안전하게 사용하세요

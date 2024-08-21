@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Hidden Gems of .NET: Tricks and Features Every Developer Should Know"
 link: "https://medium.com/@justinamiller_52480/hidden-gems-of-net-tricks-and-features-every-developer-should-know-ca6e006288d2"
+isUpdated: true
 ---
+
+
+
 
 
 .NET은 세계 각지의 개발자들에게 필수적인 강력하고 다재다능한 프레임워크입니다. 그 핵심 기능들은 널리 알려져 있지만, 개발 경험과 효율성을 현저히 향상시킬 수 있는 몇 가지 숨겨진 기능과 요령이 있습니다. .NET 개발자라면 알아야 할 몇 가지 보석들에 대해 살펴봅시다.

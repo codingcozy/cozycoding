@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "HTML for Beginners Div, Span 10"
 link: "https://medium.com/@tomas-svojanovsky/html-for-beginners-div-span-10-8e1eff7f15c8"
+isUpdated: true
 ---
+
+
 
 
 ![HTML for Beginners](/assets/img/2024-07-29-HTMLforBeginnersDivSpan10_0.png)

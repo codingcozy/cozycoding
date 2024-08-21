@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "JavaScript DOM Manipulation Traversing the DOM 3"
 link: "https://medium.com/javascript-in-plain-english/javascript-dom-manipulation-traversing-the-dom-3-b39f33459e9c"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-23-JavaScriptDOMManipulationTraversingtheDOM3_0.png" />

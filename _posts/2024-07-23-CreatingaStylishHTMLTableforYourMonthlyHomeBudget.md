@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Creating a Stylish HTML Table for Your Monthly Home Budget"
 link: "https://medium.com/@andythemyth/creating-a-stylish-html-table-for-your-monthly-home-budget-6acda4d6318d"
+isUpdated: true
 ---
+
+
 
 
 매달 집 계산을 관리하는 것은 재정 건강을 유지하는 데 중요합니다. 예산을 조직화하고 시각화하는 효과적인 방법 중 하나는 CSS로 스타일링된 HTML 테이블을 사용하는 것입니다. 이 문서에서는 세련되고 기능적인 HTML 테이블을 만들어 매월 지출 내역을 추적하는 방법을 안내합니다.

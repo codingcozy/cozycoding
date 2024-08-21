@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding Firebase Queries in Flutter"
 link: "https://medium.com/@basitalyshah51214/understanding-firebase-queries-in-flutter-f45845861fd8"
+isUpdated: true
 ---
+
+
 
 
 

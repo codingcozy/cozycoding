@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter June 2024 💙 Flutter Monthly"
 link: "https://medium.com/flutter-taipei/flutter-june-2024-flutter-monthly-610f7c339483"
+isUpdated: true
 ---
+
+
 
 
 플러터 세계로 빠져들어 봐요!

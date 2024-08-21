@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Client Components"
 link: "https://nextjs.org/docs/app/building-your-application/rendering/client-components"
+isUpdated: true
 ---
+
+
 
 
 # 클라이언트 구성 요소

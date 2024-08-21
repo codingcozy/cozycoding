@@ -3,12 +3,16 @@ title: "Retrofit과 Flutter로 프로처럼 개발하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-22-RetrofitandFlutterlikeaPRO_0.png"
 date: 2024-06-22 04:08
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-22-RetrofitandFlutterlikeaPRO_0.png
 tag: Tech
 originalTitle: "Retrofit and Flutter like a PRO"
 link: "https://medium.com/@ayalon.idan/retrofit-and-flutter-like-a-pro-e80b654545c1"
+isUpdated: true
 ---
+
+
+
 
 ![이미지](/assets/img/2024-06-22-RetrofitandFlutterlikeaPRO_0.png)
 

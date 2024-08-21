@@ -3,12 +3,16 @@ title: "Flutter와 SocketIO 실시간 통합 방법"
 description: ""
 coverImage: "/assets/img/2024-06-23-FlutterandSocketIOReal-timeIntegration_0.png"
 date: 2024-06-23 14:53
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-23-FlutterandSocketIOReal-timeIntegration_0.png
 tag: Tech
 originalTitle: "Flutter and Socket.IO: Real-time Integration"
 link: "https://medium.com/@akshelar.18119/flutter-and-socket-io-real-time-integration-9112d48c41a3"
+isUpdated: true
 ---
+
+
+
 
 ![Socket.IO package for Flutter](/assets/img/2024-06-23-FlutterandSocketIOReal-timeIntegration_0.png)
 

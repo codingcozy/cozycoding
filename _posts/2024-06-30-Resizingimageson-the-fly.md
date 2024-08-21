@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Resizing images on-the-fly"
 link: "https://medium.com/apache-apisix/resizing-images-on-the-fly-d942485a9608"
+isUpdated: true
 ---
+
+
+
 
 
 

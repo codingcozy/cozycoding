@@ -1,5 +1,5 @@
 ---
-title: "Ruby on Rails에서 Materialized Views의 힘을 활용하는 방법"
+title: "Ruby on Rails에서 Materialized Views를 활용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-UtilizingmaterializedviewspowerinRubyonRails_0.png"
 date: 2024-08-21 18:07
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Utilizing materialized views power in Ruby on Rails"
 link: "https://medium.com/@michal.a.rudzki/utilizing-materialized-views-power-in-ruby-on-rails-bcd2332604bb"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244463214
 ---
 
 

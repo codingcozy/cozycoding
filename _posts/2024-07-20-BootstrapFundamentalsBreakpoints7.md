@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Bootstrap Fundamentals Breakpoints 7"
 link: "https://medium.com/@tomas-svojanovsky/bootstrap-fundamentals-breakpoints-7-44df7644a4ed"
+isUpdated: true
 ---
+
+
 
 
 

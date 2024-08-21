@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "SafeLine Community Edition releases dynamic protection capabilities"
 link: "https://dev.to/lulu_liu_c90f973e2f954d7f/safeline-community-edition-releases-dynamic-protection-capabilities-k9p"
+isUpdated: true
 ---
+
+
 
 
 SafeLine은 채이틴 테크가 10년 동안 섬세하게 개발한 WAF입니다. 그 핵심 탐지 능력은 지능적인 의미 분석 알고리즘으로 구동되며, 전문가들 사이에서 높은 인정을 받고 있어요. SafeLine Community Edition은 기업용 Ray Shield 제품의 파생 프로젝트입니다. 대형 전문 기업을 대상으로 한 복잡한 기능을 줄이고, 하드웨어 요구 사항을 낮추며, 사용법을 간소화하여 커뮤니티를 위해 특별히 설계된 무료 WAF 제품입니다.

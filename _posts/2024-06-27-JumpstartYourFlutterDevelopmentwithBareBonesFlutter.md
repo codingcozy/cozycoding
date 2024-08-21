@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Jumpstart Your Flutter Development with Bare Bones Flutter"
 link: "https://medium.com/codex/jumpstart-your-flutter-development-with-bare-bones-flutter-a6592fda9d84"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-27-JumpstartYourFlutterDevelopmentwithBareBonesFlutter_0.png" />

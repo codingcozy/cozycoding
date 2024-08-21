@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding Composited Layers to improve the performance of Flutter apps"
 link: "https://medium.com/@pomis172/understanding-composited-layers-to-improve-the-performance-of-flutter-apps-7b91079b4dd1"
+isUpdated: true
 ---
+
+
 
 
 플러터에서는 위젯, 엘리먼트 및 렌더 오브젝트 트리 외에도 레이어 트리가 있습니다. 엘리먼트 트리가 렌더 오브젝트 트리를 빌드 단계에서 생성하는 방식과 같이, 렌더 오브젝트 트리는 페인트 단계에서 레이어 트리를 생성합니다. RenderObject.isRepaintBoundary가 true인 경우 새 레이어가 생성됩니다.

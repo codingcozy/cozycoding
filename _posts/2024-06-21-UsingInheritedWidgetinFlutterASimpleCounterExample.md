@@ -3,12 +3,16 @@ title: "Flutter에서 InheritedWidget 사용하기 간단한 카운터 예제"
 description: ""
 coverImage: "/assets/img/2024-06-21-UsingInheritedWidgetinFlutterASimpleCounterExample_0.png"
 date: 2024-06-21 21:03
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-UsingInheritedWidgetinFlutterASimpleCounterExample_0.png
 tag: Tech
 originalTitle: "Using InheritedWidget in Flutter: A Simple Counter Example"
 link: "https://medium.com/@subhashchandrashukla/using-inheritedwidget-in-flutter-a-simple-counter-example-3eb0d03ca936"
+isUpdated: true
 ---
+
+
+
 
 ![사진](/assets/img/2024-06-21-UsingInheritedWidgetinFlutterASimpleCounterExample_0.png)
 

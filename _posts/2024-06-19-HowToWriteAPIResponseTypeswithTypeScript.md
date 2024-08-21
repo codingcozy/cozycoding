@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How To Write API Response Types with TypeScript"
 link: "https://medium.com/itnext/how-to-write-api-response-types-with-typescript-f8152ddd43dd"
+isUpdated: true
 ---
+
+
+
 
 
 ## API 응답을 위한 TypeScript 타입을 구성하여 훌륭한 개발 경험, 코드 유지 및 명백한 코딩 오류를 피하세요.

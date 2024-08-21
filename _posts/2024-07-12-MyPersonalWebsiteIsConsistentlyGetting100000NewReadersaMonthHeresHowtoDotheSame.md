@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "My Personal Website Is Consistently Getting 100,000+ New Readers a Month — Here’s How to Do the Same"
 link: "https://medium.com/writing-cooperative/my-personal-website-is-consistently-getting-100-000-new-readers-a-month-heres-how-to-do-the-5f40e129df40"
+isUpdated: true
 ---
+
+
 
 
 ![My Personal Website](/assets/img/2024-07-12-MyPersonalWebsiteIsConsistentlyGetting100000NewReadersaMonthHeresHowtoDotheSame_0.png)  

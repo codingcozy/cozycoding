@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "In-depth analysis of Redis memory fragmentation"
 link: "https://medium.com/gitconnected/in-depth-analysis-of-redis-memory-fragmentation-25eeca1a85a2"
+isUpdated: true
 ---
+
+
 
 
 Redis 메모리 단편화

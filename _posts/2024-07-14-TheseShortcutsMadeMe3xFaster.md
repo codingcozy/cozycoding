@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "These Shortcuts Made Me 3x Faster"
 link: "https://medium.com/gitconnected/these-shortcuts-made-me-3x-faster-8a5cb3f260e3"
+isUpdated: true
 ---
+
+
 
 
 ![TheseShortcutsMadeMe3xFaster_0](/assets/img/2024-07-14-TheseShortcutsMadeMe3xFaster_0.png)

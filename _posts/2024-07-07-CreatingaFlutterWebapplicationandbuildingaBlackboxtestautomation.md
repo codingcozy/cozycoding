@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Creating a Flutter Web application and building a Blackbox test automation"
 link: "https://medium.com/@pradappandiyan/creating-a-flutter-web-application-and-building-a-blackbox-test-automation-26c704b9a9b2"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-07-07-CreatingaFlutterWebapplicationandbuildingaBlackboxtestautomation_0.png" />

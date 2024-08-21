@@ -1,14 +1,18 @@
 ---
-title: "플러터에서 이미지를 다루는 일반적인 실수들"
+title: "플러터에서 이미지를 다룰 때 자주 하는 실수들"
 description: ""
 coverImage: "/assets/img/2024-06-19-CommonmistakeswithImagesinFlutter_0.png"
 date: 2024-06-19 00:09
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-CommonmistakeswithImagesinFlutter_0.png
 tag: Tech
 originalTitle: "Common mistakes with Images in Flutter"
 link: "https://medium.com/@pomis172/common-mistakes-with-images-in-flutter-aba46288e20d"
+isUpdated: true
 ---
+
+
+
 
 이미지는 대부분의 앱에서 사용하는 핵심 기능 중 하나입니다. 그러나 많은 사용자들은 간단히 피할 수 있는 실수로 응용 프로그램 성능에 부정적인 영향을 줄 수 있습니다. 몇 가지 주요 사례를 살펴보겠습니다.
 

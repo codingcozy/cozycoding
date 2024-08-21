@@ -1,5 +1,5 @@
 ---
-title: "스위프트 데이터 추상화101 왜 사용해야 하고 어떻게 사용하는지"
+title: "swift 데이터 추상화 하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-SwiftDataIntroduction_0.png"
 date: 2024-08-21 18:24
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Swift Data  Introduction"
 link: "https://medium.com/@ashishyadav_16301/swift-data-introduction-996deb05422d"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245303338
 ---
 
 

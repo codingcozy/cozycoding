@@ -1,5 +1,5 @@
 ---
-title: "클린 아키텍처 기반의 Flutter 폴더 구조 이렇게 해보세요"
+title: "클린 아키텍처 기반의 Flutter 폴더 구조 작성 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-FolderstructureforFlutterwithcleanarchitectureHowIdo_0.png"
 date: 2024-06-21 21:54
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Folder structure for Flutter with clean architecture. How I do."
 link: "https://medium.com/@felipeemidio/folder-structure-for-flutter-with-clean-architecture-how-i-do-bbe29225774f"
+isUpdated: true
 ---
+
+
+
 
 
 ## 폴더 구조

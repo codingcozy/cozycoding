@@ -1,5 +1,5 @@
 ---
-title: "Node.js에서 SAML 및 Okta, Auth0와 같은 주요 IdP와 함께 사용자 인증을 쉽게 만드는 SSO 로그인 포괄적인 사용자 인증 가이드"
+title: "Node.js에서 SAML 및 Okta, Auth0로 사용자 인증 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-SSOLogininNodejsmadeeasyAComprehensiveGuidetoUserAuthenticationwithSAMLandLeadingIdPslikeOktaAuth0andMore_0.png"
 date: 2024-08-21 17:40
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "SSO Login in Node.js made easy A Comprehensive Guide to User Authentication with SAML and Leading IdPs like Okta, Auth0, and More"
 link: "https://medium.com/@mujhassan786/sso-login-in-node-js-d071b2e4f47d"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245477562
 ---
 
 

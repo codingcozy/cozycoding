@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Pages and Layouts"
 link: "https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts"
+isUpdated: true
 ---
+
+
 
 
 # 페이지와 레이아웃

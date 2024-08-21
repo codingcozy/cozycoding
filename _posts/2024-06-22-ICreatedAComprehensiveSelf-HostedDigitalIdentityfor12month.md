@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "I Created A Comprehensive Self-Hosted Digital Identity for $12 month"
 link: "https://medium.com/gitconnected/i-created-a-comprehensive-self-hosted-digital-identity-for-12-month-59bc3fe3d69f"
+isUpdated: true
 ---
+
+
+
 
 
 ## 스마트 검색, 블로그, 뉴스레터, 분석, 제휴 마케팅, RSS 피드 — 모두 자체 호스팅되고 월 12달러 미만!

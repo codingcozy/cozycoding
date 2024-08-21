@@ -1,5 +1,5 @@
 ---
-title: "Airclap  모든 기기에 파일 전송하기"
+title: "Airclap 모든 기기에 파일 전송하기"
 description: ""
 coverImage: "/assets/img/2024-06-21-AirclapSendanyfiletoanydevice_0.png"
 date: 2024-06-21 23:44
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Airclap — Send any file to any device"
 link: "https://medium.com/@liangludev/airclap-send-any-file-to-any-device-e49759fb91ef"
+isUpdated: true
 ---
+
+
+
 
 
 

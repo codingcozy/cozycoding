@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Pythons Parallel Paradigm Shift"
 link: "https://medium.com/towards-data-science/pythons-parallel-paradigm-shift-2bb40d3c2dd0"
+isUpdated: true
 ---
+
+
 
 
 ## 무슨 일이 일어나고 있나요?

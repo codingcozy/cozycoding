@@ -1,14 +1,18 @@
 ---
-title: "2024년 기준으로 한 단계씩 따라 하는 플러터 웹뷰 예제"
+title: "플러터 웹뷰 프로젝트 예제"
 description: ""
 coverImage: "/assets/img/2024-06-19-FlutterWebviewExampleStepbyStepin2024_0.png"
 date: 2024-06-19 08:09
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-FlutterWebviewExampleStepbyStepin2024_0.png
 tag: Tech
 originalTitle: "Flutter Webview Example Step by Step in 2024"
 link: "https://medium.com/@oversimplifiedcoding/flutter-webview-example-step-by-step-in-2024-f9ed77397815"
+isUpdated: true
 ---
+
+
+
 
 이 블로그에서는 2024년에 단계별로 플러터 웹뷰 예제를 통합하는 방법을 탐색할 것입니다. 이 코드를 안드로이드 스튜디오에서 쉽게 사용할 수 있습니다.
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Building an AI-Powered Football Commentator"
 link: "https://medium.com/better-programming/building-an-ai-powered-football-commentator-6dbff5af9a88"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-13-BuildinganAI-PoweredFootballCommentator_0.png)

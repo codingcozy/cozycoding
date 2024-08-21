@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "10 Minor UX Changes That Have a Huge Impact on Your Website"
 link: "https://medium.com/design-bootcamp/10-minor-ux-changes-that-have-a-huge-impact-on-your-website-9d8386b9aad8"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-12-10MinorUXChangesThatHaveaHugeImpactonYourWebsite_0.png" />

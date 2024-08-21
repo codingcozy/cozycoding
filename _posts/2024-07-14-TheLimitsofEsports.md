@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Limits of Esports"
 link: "https://medium.com/@GWBycer/the-limits-of-esports-187e15af7dd4"
+isUpdated: true
 ---
+
+
 
 
 ![TheLimitsofEsports](/assets/img/2024-07-14-TheLimitsofEsports_0.png)

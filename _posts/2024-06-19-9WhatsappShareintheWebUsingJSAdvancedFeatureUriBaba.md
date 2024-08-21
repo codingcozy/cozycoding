@@ -1,5 +1,5 @@
 ---
-title: "9 JS를 사용하여 웹에서 Whatsapp 공유하기 고급 기능 UriBaba"
+title: "JS를 사용하여 웹에서 Whatsapp 공유하기 기능 만들기 "
 description: ""
 coverImage: "/assets/img/2024-06-19-9WhatsappShareintheWebUsingJSAdvancedFeatureUriBaba_0.png"
 date: 2024-06-19 00:38
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "9. Whatsapp Share in the Web Using JS (Advanced Feature) @UriBaba"
 link: "https://medium.com/@opensrc0/9-whatsapp-share-in-the-web-using-js-advanced-feature-uribaba-919fe89c1840"
+isUpdated: true
 ---
+
+
+
 
 
 ## 고급 JavaScript 기능에 대한 심층 탐구

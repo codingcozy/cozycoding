@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Don’t repeat yourself"
 link: "https://medium.com/atomic-engineer/that-time-i-redid-the-same-work-six-times-fda576ef9265"
+isUpdated: true
 ---
+
+
 
 
 OpenAI의 영광스러운 시대가 오기 훨씬 전, 저는 야심찬 자연어 처리 프로젝트의 창립팀 일원이었습니다. 이 프로젝트는 수십억 개의 온라인 고객 리뷰를 수집하여 집에서 개발한 측면 기반 감성 분석(ABSA) 엔진을 통해 실행하고, 이를 지불하고자 하는 누구에게나 AI 요약된 통찰력을 제공하는 것이 목표였습니다.

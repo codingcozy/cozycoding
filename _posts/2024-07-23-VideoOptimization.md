@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Video Optimization"
 link: "https://nextjs.org/docs/app/building-your-application/optimizing/videos"
+isUpdated: true
 ---
+
+
 
 
 # 영상 최적화

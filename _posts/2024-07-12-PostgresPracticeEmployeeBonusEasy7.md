@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Postgres Practice — Employee Bonus (Easy) #7"
 link: "https://medium.com/@tomas-svojanovsky/postgres-practice-employee-bonus-easy-7-8e562755eab5"
+isUpdated: true
 ---
+
+
 
 
 

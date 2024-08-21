@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "The Two-Hour Workday Experiment"
 link: "https://medium.com/@kairsten-fay/the-two-hour-workday-experiment-0d6e009f28ce"
+isUpdated: true
 ---
+
+
+
 
 
 /assets/img/2024-07-06-TheTwo-HourWorkdayExperiment_0.png

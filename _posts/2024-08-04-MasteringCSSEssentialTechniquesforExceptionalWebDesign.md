@@ -1,5 +1,5 @@
 ---
-title: "CSS 완전 정복 뛰어난 웹 디자인을 위한 필수 기술들"
+title: " 웹 디자인을 위한 필수 CSS 기술들"
 description: ""
 coverImage: "/assets/img/2024-08-04-MasteringCSSEssentialTechniquesforExceptionalWebDesign_0.png"
 date: 2024-08-04 19:51
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering CSS Essential Techniques for Exceptional Web Design"
 link: "https://dev.to/arsalanmeee/mastering-css-essential-techniques-for-exceptional-web-design-2b3i"
+isUpdated: true
+updatedAt: 1724246242914
 ---
 
 

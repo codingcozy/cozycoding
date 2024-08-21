@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Reading Inputs in Java"
 link: "https://medium.com/@nimakarimian/reading-inputs-in-java-3ea2168d9516"
+isUpdated: true
 ---
+
+
 
 
 자바에서 입력을 읽는 것은 파이썬보다 조금 더 복잡합니다. 파이썬에 익숙하다면 이렇게 입력을 읽을 수 있다는 것을 알고 있을 것입니다:

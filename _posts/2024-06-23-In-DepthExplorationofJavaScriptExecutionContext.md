@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "In-Depth Exploration of JavaScript Execution Context"
 link: "https://medium.com/@Choco23/in-depth-exploration-of-javascript-execution-context-82974bb068c7"
+isUpdated: true
 ---
+
+
+
 
 
 자바스크립트 초심자든 전문가든, 면접이건 일상적인 개발 작업이건, 우리는 종종 다음과 같은 상황을 맞닥뜨립니다: 몇 줄의 코드가 주어졌을 때, 그들이 무엇을 출력하며 어떤 순서로 실행되는지 알아야 합니다. 🧑‍💻 자바스크립트는 싱글 스레드 언어이기 때문에 우리는 다음 결론을 내릴 수 있습니다:

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Setting up Playwright with Next.js"
 link: "https://nextjs.org/docs/app/building-your-application/testing/playwright"
+isUpdated: true
 ---
+
+
 
 
 # Next.js와 함께 Playwright 설정하기

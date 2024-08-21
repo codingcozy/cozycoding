@@ -1,5 +1,5 @@
 ---
-title: "HTML과 TailwindCSS로 반응형 포트폴리오 웹사이트 만들기 초보자를 위한 안내"
+title: "HTML과 TailwindCSS로 반응형 포트폴리오 웹사이트 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-BuildaResponsivePortfolioWebsitewithHTMLandTailwindCSSABeginnersGuide_0.png"
 date: 2024-08-21 16:57
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Build a Responsive Portfolio Website with HTML and TailwindCSS A Beginners Guide"
 link: "https://medium.com/javascript-in-plain-english/build-a-responsive-portfolio-website-with-html-and-tailwindcss-a-beginners-guide-22d7b5759b47"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246053987
 ---
 
 

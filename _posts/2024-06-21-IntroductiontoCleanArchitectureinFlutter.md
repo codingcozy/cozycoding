@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Introduction to Clean Architecture in Flutter"
 link: "https://medium.com/@baharudin-yusup/introduction-to-clean-architecture-in-flutter-41260acdda3d"
+isUpdated: true
 ---
+
+
+
 
 
 

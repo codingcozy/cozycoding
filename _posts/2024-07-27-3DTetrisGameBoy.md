@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "3D Tetris Game Boy"
 link: "https://dev.to/dan52242644dan/3d-tetris-game-boy-42f6"
+isUpdated: true
 ---
+
+
 
 
 내가 만든 이 Pen을 확인해보세요!

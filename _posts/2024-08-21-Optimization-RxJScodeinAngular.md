@@ -1,5 +1,5 @@
 ---
-title: "앵귤러에서 RxJS 코드 최적화하기"
+title: "앵귤러에서 RxJS 코드 최적화하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-Optimization-RxJScodeinAngular_0.png"
 date: 2024-08-21 17:30
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Optimization-RxJS code in Angular"
 link: "https://medium.com/gitconnected/optimization-rxjs-code-in-angular-c454d6cf8333"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245643250
 ---
 
 

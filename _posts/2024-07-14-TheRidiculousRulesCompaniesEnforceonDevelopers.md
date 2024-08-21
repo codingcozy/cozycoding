@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Ridiculous Rules Companies Enforce on Developers"
 link: "https://medium.com/@tsecretdeveloper/the-ridiculous-rules-companies-enforce-on-developers-b7983597e13b"
+isUpdated: true
 ---
+
+
 
 
 ![2024-07-14-TheRidiculousRulesCompaniesEnforceonDevelopers_0.png](/assets/img/2024-07-14-TheRidiculousRulesCompaniesEnforceonDevelopers_0.png)

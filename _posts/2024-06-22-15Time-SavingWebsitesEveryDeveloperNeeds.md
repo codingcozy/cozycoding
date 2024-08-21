@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "15 Time-Saving Websites Every Developer Needs"
 link: "https://medium.com/javascript-in-plain-english/15-time-saving-websites-every-developer-needs-cf76ea19e430"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-06-22-15Time-SavingWebsitesEveryDeveloperNeeds_0.png)

@@ -1,5 +1,5 @@
 ---
-title: "React Native V0.74 안정 버전 출시 "
+title: "React Native V0.74 에 추가된 기능 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-ReactNativeV074Stableisout_0.png"
 date: 2024-08-21 18:08
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "React Native V0.74  Stable is out "
 link: "https://medium.com/@anisurrahmanbup/react-native-v0-74-stable-is-out-8943ea367217"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245499855
 ---
 
 

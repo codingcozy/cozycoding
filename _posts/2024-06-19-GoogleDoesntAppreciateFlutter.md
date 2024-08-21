@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Google Doesn’t Appreciate Flutter"
 link: "https://medium.com/@impure/google-doesnt-appreciate-flutter-as-much-as-they-should-have-885dd1d2bd2a"
+isUpdated: true
 ---
+
+
+
 
 
 또 하루, 또 하나의 "Google이 Flutter를 제거할까?" 글이 올라왔어요. 이젠 거의 유쾌하다고 해야하나요?

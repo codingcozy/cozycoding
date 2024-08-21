@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "11 Jaw-Dropping HTML Effects You Can Create in Minutes"
 link: "https://medium.com/@learntocodetoday/11-jaw-dropping-html-effects-you-can-create-in-minutes-399421421b9b"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-17-11Jaw-DroppingHTMLEffectsYouCanCreateinMinutes_0.png)

@@ -3,12 +3,16 @@ title: "Flutter 애플리케이션에서 빌드 플레버 설정하는 방법 iO
 description: ""
 coverImage: "/assets/img/2024-06-21-CreateBuildFlavorinFlutterApplicationiOSAndroid_0.png"
 date: 2024-06-21 20:29
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-CreateBuildFlavorinFlutterApplicationiOSAndroid_0.png
 tag: Tech
 originalTitle: "Create Build Flavor in Flutter Application (iOS , Android)"
 link: "https://medium.com/@dwirandyh/create-build-flavor-in-flutter-application-ios-android-fb35a81a9fac"
+isUpdated: true
 ---
+
+
+
 
 ## Flutter 앱에서 다른 환경을 설정하는 방법이 궁금한 적이 있나요? 예를 들어, 다른 API URL, API 키, 개발 및 제품용 아이콘과 같은 것들을 설정해야 하는 경우가 있습니다.
 

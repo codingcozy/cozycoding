@@ -3,12 +3,16 @@ title: "패키지 없이 Flutter에서 스크롤로 페이지네이션 하는 �
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterPaginationOnScrollwithoutanypackages_0.png"
 date: 2024-06-21 23:10
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutterPaginationOnScrollwithoutanypackages_0.png
 tag: Tech
 originalTitle: "Flutter Pagination On Scroll without any packages"
 link: "https://medium.com/@m1nori/flutter-pagination-without-any-packages-8c24095555b3"
+isUpdated: true
 ---
+
+
+
 
 안녕하세요 여러분! 이 기사는 플러터에서 어떠한 패키지를 사용하지 않고 동적 인피니티 스크롤 페이징을 구현하는 방법에 대해 소개하고 있어요.
 여기서 '동적' 이라는 용어는 스크롤 시 새로운 데이터를 로드하는 것을 의미합니다. maxScrollExtent 위치에 도달했을 때가 아니라는 거죠.

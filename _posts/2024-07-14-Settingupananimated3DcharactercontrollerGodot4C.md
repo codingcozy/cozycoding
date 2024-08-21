@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Setting up an animated 3D character controller (Godot 4 C#)"
 link: "https://medium.com/codex/setting-up-an-animated-3d-character-controller-godot-4-c-ef1c9cd3ddcc"
+isUpdated: true
 ---
+
+
 
 
 비디오 게임은 다른 세계에 몸을 빼고 배회하는 것이 전부입니다. 3D 캐릭터를 만들어내는 것은 복잡할 수 있지만, 다음 Godot 게임을 위한 기본 캐릭터 컨트롤러를 만드는 것은 어렵지 않습니다!

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Git for Pro Devs: Why a Linear History is Your New Best Friend"
 link: "https://medium.com/git-happy/git-for-pro-devs-why-a-linear-history-is-your-new-best-friend-df35215fc14"
+isUpdated: true
 ---
+
+
 
 
 ![image](/assets/img/2024-07-12-GitforProDevsWhyaLinearHistoryisYourNewBestFriend_0.png)

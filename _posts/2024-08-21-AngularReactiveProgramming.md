@@ -1,5 +1,5 @@
 ---
-title: "Angular에서 반응형 프로그래밍 활용하기"
+title: "Angular에서 반응형 웹사이트 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-AngularReactiveProgramming_0.png"
 date: 2024-08-21 17:13
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Angular Reactive Programming"
 link: "https://medium.com/@adam.ondrejkovic/angular-reactive-programming-f01116647516"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246082424
 ---
 
 

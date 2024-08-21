@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding target_blank"
 link: "https://dev.to/bridget_amana/understanding-targetblank-m12"
+isUpdated: true
 ---
+
+
 
 
 텍스트 링크의 target="_blank"에 관해 읽은 이후에 접근성과 사용자 편의성을 고려해 만들어진 것을 이해하게 되었어요. 이 속성의 주요 목적은 링크를 새 탭에서 열 수 있게 해서 사용자가 원래 페이지의 이용성을 유지할 수 있는 데에 도움을 주는 것이죠. 그러나 모든 상황에 적합한 것은 아니며 중요한 보안 고려 사항이 따르는 겁니다. 언제 target="_blank"를 사용할 지, 그리고 그 단점에 대해 더 깊이 알아볼까요?

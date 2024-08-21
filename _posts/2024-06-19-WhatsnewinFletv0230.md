@@ -1,5 +1,5 @@
 ---
-title: "Flet v0230에서 무슨 변화가 있을까요"
+title: "Flet v0230 새로 추가된 내용 정리"
 description: ""
 coverImage: "/assets/img/2024-06-19-WhatsnewinFletv0230_0.png"
 date: 2024-06-19 14:17
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "What’s new in Flet v0.23.0?"
 link: "https://medium.com/python-in-plain-english/whats-new-in-flet-v0-23-0-25613d742db9"
+isUpdated: true
 ---
+
+
+
 
 
 알아야 할 모든 것!

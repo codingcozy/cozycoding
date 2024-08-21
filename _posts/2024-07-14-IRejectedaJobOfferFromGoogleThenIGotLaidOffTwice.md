@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "I Rejected a Job Offer From Google. Then I Got Laid Off, Twice."
 link: "https://medium.com/@matangans/i-rejected-a-job-offer-from-google-then-i-got-laid-off-twice-842e91d0224a"
+isUpdated: true
 ---
+
+
 
 
 ![2024-07-14-IRejectedaJobOfferFromGoogleThenIGotLaidOffTwice_0.png](/assets/img/2024-07-14-IRejectedaJobOfferFromGoogleThenIGotLaidOffTwice_0.png)

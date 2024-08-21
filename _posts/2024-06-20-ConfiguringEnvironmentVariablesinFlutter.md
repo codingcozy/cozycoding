@@ -3,12 +3,16 @@ title: "플러터Flutter에서 환경 변수 설정하기"
 description: ""
 coverImage: "/assets/img/2024-06-20-ConfiguringEnvironmentVariablesinFlutter_0.png"
 date: 2024-06-20 13:48
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-20-ConfiguringEnvironmentVariablesinFlutter_0.png
 tag: Tech
 originalTitle: "Configuring Environment Variables in Flutter"
 link: "https://medium.com/@9dan_/configuring-environment-variables-in-flutter-e0614e3449e5"
+isUpdated: true
 ---
+
+
+
 
 우리 앱이 개발, 스테이징, 프로덕션 등 여러 환경을 지원해야 하는 경우가 많습니다.
 

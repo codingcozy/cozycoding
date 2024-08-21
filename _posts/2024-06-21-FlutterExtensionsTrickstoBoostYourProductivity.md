@@ -1,14 +1,18 @@
 ---
-title: "Flutter 확장 프로그램 생산성을 높이는 7가지 꿀팁 "
+title: "Flutter 확장 프로그램 생산성을 높이는 7가지 꿀팁"
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterExtensionsTrickstoBoostYourProductivity_0.png"
 date: 2024-06-21 21:39
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutterExtensionsTrickstoBoostYourProductivity_0.png
 tag: Tech
 originalTitle: "Flutter Extensions: Tricks to Boost Your Productivity 💫"
 link: "https://medium.com/stackademic/flutter-extensions-tricks-to-boost-your-productivity-88573b7efc0f"
+isUpdated: true
 ---
+
+
+
 
 ![이미지](/assets/img/2024-06-21-FlutterExtensionsTrickstoBoostYourProductivity_0.png)
 

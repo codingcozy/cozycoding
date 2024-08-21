@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Implementing Command Query Responsibility Segregation (CQRS) in Angular"
 link: "https://medium.com/@Charles_Matte/implementing-command-query-responsibility-segregation-cqrs-in-angular-4def3409fa0f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245776422
 ---
 
 

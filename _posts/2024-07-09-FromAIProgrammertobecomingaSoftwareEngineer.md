@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "From AI Programmer to becoming a “Software Engineer”"
 link: "https://medium.com/@keerthigowdad/from-ai-programmer-to-becoming-a-software-engineer-dcba8aae801a"
+isUpdated: true
 ---
+
+
 
 
 ![Image](/assets/img/2024-07-09-FromAIProgrammertobecomingaSoftwareEngineer_0.png)

@@ -1,5 +1,5 @@
 ---
-title: "XcodeGen을 Flutter 프로젝트에 활용해보세요"
+title: "XcodeGen을 Flutter 프로젝트에 활용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-UseXcodeGenforFlutterProject_0.png"
 date: 2024-06-19 14:26
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Use XcodeGen for Flutter Project"
 link: "https://medium.com/@lllttt06/use-xcodegen-for-flutter-project-6084b695a7b6"
+isUpdated: true
 ---
+
+
+
 
 
 # 소개

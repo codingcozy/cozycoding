@@ -1,5 +1,5 @@
 ---
-title: "Flutter 웹의 혁신적인 새로운 기능 게임 체인저 "
+title: "Flutter 웹에 추가된 새로운 기능"
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterWebNewFeatureGameChanger_0.png"
 date: 2024-06-21 21:05
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Web New Feature : Game Changer 🔥😵‍💫"
 link: "https://medium.com/@nemikardani23/flutter-web-new-feature-game-changer-be6dd60553b2"
+isUpdated: true
 ---
+
+
+
 
 
 Flutter WebAssembly: 빠른 웹 앱 만들기

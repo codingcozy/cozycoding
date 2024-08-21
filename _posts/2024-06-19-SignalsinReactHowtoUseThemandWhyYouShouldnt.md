@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Signals in React: How to Use Them and Why You Shouldn’t"
 link: "https://medium.com/@goldinevgeny/signals-in-react-how-to-use-them-and-why-you-shouldnt-645e9d15c6bc"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-19-SignalsinReactHowtoUseThemandWhyYouShouldnt_0.png" />

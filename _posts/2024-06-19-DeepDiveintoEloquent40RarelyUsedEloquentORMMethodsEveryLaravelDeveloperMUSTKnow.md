@@ -1,5 +1,5 @@
 ---
-title: "엘로퀀트 깊숙한 학습 라라벨 개발자가 반드시 알아야 할 40가지 잘 사용되지 않는 엘로퀀트 ORM 메서드"
+title: "라라벨 개발자가 반드시 알아야 할 40가지 잘 사용되지 않는 엘로퀀트 ORM 메서드"
 description: ""
 coverImage: "/assets/img/2024-06-19-DeepDiveintoEloquent40RarelyUsedEloquentORMMethodsEveryLaravelDeveloperMUSTKnow_0.png"
 date: 2024-06-19 14:42
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Deep Dive into Eloquent: 40 Rarely Used Eloquent ORM Methods Every Laravel Developer MUST Know"
 link: "https://medium.com/@prevailexcellent/deep-dive-into-eloquent-40-rarely-used-eloquent-orm-methods-every-laravel-developer-must-know-9c75b58f456b"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-19-DeepDiveintoEloquent40RarelyUsedEloquentORMMethodsEveryLaravelDeveloperMUSTKnow_0.png" />

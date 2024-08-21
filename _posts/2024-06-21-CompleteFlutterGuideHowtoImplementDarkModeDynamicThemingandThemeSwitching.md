@@ -1,14 +1,18 @@
 ---
-title: "완벽한 Flutter 가이드 다크 모드, 동적 테마 및 테마 전환 구현하는 방법"
+title: "Flutter 다크 모드, 동적 테마 및 테마 전환 구현하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-CompleteFlutterGuideHowtoImplementDarkModeDynamicThemingandThemeSwitching_0.png"
 date: 2024-06-21 20:35
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-CompleteFlutterGuideHowtoImplementDarkModeDynamicThemingandThemeSwitching_0.png
 tag: Tech
 originalTitle: "Complete Flutter Guide: How to Implement Dark Mode, Dynamic Theming and Theme Switching"
 link: "https://medium.com/@amazing_gs/complete-flutter-guide-how-to-implement-dark-mode-dynamic-theming-and-theme-switching-ddabaef48d5a"
+isUpdated: true
 ---
+
+
+
 
 # 소개
 

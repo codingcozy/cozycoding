@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "What is the use of flex 1"
 link: "https://medium.com/javascript-in-plain-english/what-is-the-use-of-flex-1-9c1932fa3969"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-30-Whatistheuseofflex1_0.png" />

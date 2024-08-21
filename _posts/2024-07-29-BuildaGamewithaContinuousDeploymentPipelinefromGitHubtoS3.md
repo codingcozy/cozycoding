@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Build a Game with a Continuous Deployment Pipeline from GitHub to S3"
 link: "https://dev.to/albine_peter_c2ffb10b422f/build-a-game-with-a-continuous-deployment-pipeline-from-github-to-s3-43op"
+isUpdated: true
 ---
+
+
 
 
 게임 개발:

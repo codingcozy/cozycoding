@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "I coded an app after 2.5 MONTH-BREAK and it actually looks cool !"
 link: "https://medium.com/@ashutosh7379947493/i-coded-an-app-after-2-5-month-break-and-it-looks-cool-41a14554dca5"
+isUpdated: true
 ---
+
+
+
 
 
 ## 플러터를 사용한 심플한 룩의 날씨 앱 (소스 코드 제공 가능)

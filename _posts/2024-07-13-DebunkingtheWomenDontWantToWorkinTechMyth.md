@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Debunking the “Women Don’t Want To Work in Tech” Myth"
 link: "https://medium.com/the-tech-collective/debunking-the-women-dont-want-to-work-in-tech-myth-ead3bbb223f9"
+isUpdated: true
 ---
+
+
 
 
 ![Image](/assets/img/2024-07-13-DebunkingtheWomenDontWantToWorkinTechMyth_0.png)

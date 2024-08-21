@@ -1,5 +1,5 @@
 ---
-title: "파이썬 oracledb 2.4로 파이프라인 형식의 데이터베이스 작업 처리하기"
+title: "파이썬 oracledb 2.4로 파이프라인 형식의 데이터베이스 작업 처리하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-Pipelineddatabaseoperationswithpython-oracledb24_0.png"
 date: 2024-08-21 17:10
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Pipelined database operations with python-oracledb 2.4"
 link: "https://medium.com/@cjones-oracle/pipelined-database-operations-with-python-oracledb-2-4-dd8bfbdadf0d"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245556891
 ---
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Danse Macabre of Company And Customer"
 link: "https://medium.com/codex/the-danse-macabre-of-company-and-customer-eac377dd0e86"
+isUpdated: true
 ---
+
+
 
 
 지라에서 만들어진 샷건 소프트웨어 결혼의 서막인 속임수, 거짓말, 그리고 속임수의 연극.

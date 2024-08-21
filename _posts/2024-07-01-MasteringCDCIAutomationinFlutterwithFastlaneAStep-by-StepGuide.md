@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering CD CI Automation in Flutter with Fastlane: A Step-by-Step Guide"
 link: "https://medium.com/@pietechnolabs/mastering-cd-ci-automation-in-flutter-with-fastlane-a-step-by-step-guide-3c5d64680717"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-07-01-MasteringCDCIAutomationinFlutterwithFastlaneAStep-by-StepGuide_0.png)

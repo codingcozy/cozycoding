@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to implement a dead zone and adjust the cameras position while following an object using Unity3D"
 link: "https://medium.com/@joemoceri/how-to-implement-a-dead-zone-and-adjust-the-cameras-position-while-following-an-object-using-91a76eca940f"
+isUpdated: true
 ---
+
+
+
 
 
 소개

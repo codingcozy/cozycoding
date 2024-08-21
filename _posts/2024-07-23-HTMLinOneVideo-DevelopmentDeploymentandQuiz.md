@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "HTML in One Video - Development, Deployment and Quiz"
 link: "https://dev.to/sh20raj/html-in-one-video-development-deployment-and-quiz-697"
+isUpdated: true
 ---
+
+
 
 
 # HTML in One Video 위키에 오신 것을 환영합니다!

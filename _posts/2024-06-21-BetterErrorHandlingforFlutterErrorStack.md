@@ -1,5 +1,5 @@
 ---
-title: "Flutter에서 더 나은 오류 처리 방법  Error Stack 알아보기"
+title: "Flutter에서 더 나은 오류 처리 방법 Error Stack 알아보기"
 description: ""
 coverImage: "/assets/img/2024-06-21-BetterErrorHandlingforFlutterErrorStack_0.png"
 date: 2024-06-21 21:07
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Better Error Handling for Flutter — Error Stack"
 link: "https://medium.com/@agordn52/better-error-handling-for-flutter-error-stack-754a14fb9871"
+isUpdated: true
 ---
+
+
+
 
 
 ## 플러터용 모던 오류 처리 UI가 있습니다. 이로 인해 버그를 더 빨리 해결할 수 있습니다

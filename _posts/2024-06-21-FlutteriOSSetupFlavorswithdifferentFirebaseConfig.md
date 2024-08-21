@@ -1,14 +1,18 @@
 ---
-title: "Flutter iOS  다양한 Firebase 설정으로 Flavors 설정하는 방법"
+title: "Flutter iOS 다양한 Firebase 설정으로 Flavors 설정하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutteriOSSetupFlavorswithdifferentFirebaseConfig_0.png"
 date: 2024-06-21 21:47
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutteriOSSetupFlavorswithdifferentFirebaseConfig_0.png
 tag: Tech
 originalTitle: "Flutter iOS — Setup Flavors with different Firebase Config"
 link: "https://medium.com/@ahmedyusuf/setup-flavors-in-ios-flutter-with-different-firebase-config-43c4c4823e6b"
+isUpdated: true
 ---
+
+
+
 
 ![이미지](/assets/img/2024-06-21-FlutteriOSSetupFlavorswithdifferentFirebaseConfig_0.png)
 

@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to add Apple Pass on a Flutter project with Firebase"
 link: "https://medium.com/@giordanolucaa.98/how-to-add-apple-pass-on-a-flutter-project-with-firebase-fa730c5676b0"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-21-HowtoaddApplePassonaFlutterprojectwithFirebase_0.png" />

@@ -3,12 +3,16 @@ title: "Dart에서 CC Rest Api로 REST API 호출 간단하게 하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-SimplifyYourRESTAPICallswithCCRestApiinDart_0.png"
 date: 2024-06-21 20:34
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-SimplifyYourRESTAPICallswithCCRestApiinDart_0.png
 tag: Tech
 originalTitle: "Simplify Your REST API Calls with CC Rest Api in Dart"
 link: "https://medium.com/@ferhaterdem/simplify-your-rest-api-calls-with-cc-rest-api-in-dart-1e944e7ea9ab"
+isUpdated: true
 ---
+
+
+
 
 # 안녕하세요, Dart 애호가 여러분!
 

@@ -1,5 +1,5 @@
 ---
-title: "ASPNET 프로젝트를 IIS에 배포하는 단계별 안내"
+title: "ASPNET 프로젝트를 IIS에 배포하는 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-06-19-AStep-by-StepGuidetoDeployingYourASPNETProjectinIIS_0.png"
 date: 2024-06-19 00:32
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "A Step-by-Step Guide to Deploying Your ASP.NET Project in IIS"
 link: "https://medium.com/@binaridissanayake/a-step-by-step-guide-to-deploying-your-asp-net-project-in-iis-3bf5be6366ef"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-19-AStep-by-StepGuidetoDeployingYourASPNETProjectinIIS_0.png" />

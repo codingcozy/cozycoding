@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Building Your Application"
 link: "https://nextjs.org/docs/app/building-your-application"
+isUpdated: true
 ---
+
+
 
 
 # 애플리케이션 구축하기

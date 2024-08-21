@@ -3,12 +3,16 @@ title: "Flutter 애니메이션, 전환 효과 Flutter에서 위젯의 페이드
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterAnimationsTransitionsFadeaWidgetInandOutinFlutter_0.png"
 date: 2024-06-21 20:05
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutterAnimationsTransitionsFadeaWidgetInandOutinFlutter_0.png
 tag: Tech
 originalTitle: "Flutter Animations , Transitions: Fade a Widget In and Out in Flutter."
 link: "https://medium.com/@blup-tool/flutter-animations-transitions-fade-a-widget-in-and-out-in-flutter-9f95849076f8"
+isUpdated: true
 ---
+
+
+
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*BOcAOqWDdYizQO08mQaOiA.gif" />
 

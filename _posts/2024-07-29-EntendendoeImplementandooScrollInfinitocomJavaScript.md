@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Entendendo e Implementando o Scroll Infinito com JavaScript"
 link: "https://dev.to/josimar_canejo/entendendo-e-implementando-o-scroll-infinito-com-javascript-4526"
+isUpdated: true
 ---
+
+
 
 
 #### 무한 스크롤이란?

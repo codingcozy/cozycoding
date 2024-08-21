@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "CodeIgniter 4 Query Builder union() and unionAll() methods"
 link: "https://medium.com/gitconnected/codeigniter-4-query-builder-union-and-unionall-methods-de00668e785c"
+isUpdated: true
 ---
+
+
 
 
 UNION 및 UNION ALL 세트 연산자는 1개 이상의 SELECT 쿼리에서 결합된 행을 반환합니다. CodeIgniter 4 Query Builder는 이제 $builder->union() 및 $builder->unionAll() 메서드를 사용하여 UNION 및 UNION ALL 쿼리를 지원합니다. 이 문서에서는 이러한 유형의 쿼리를 생성하는 방법을 배워보세요.

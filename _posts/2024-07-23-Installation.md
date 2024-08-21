@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Installation"
 link: "https://nextjs.org/docs/getting-started/installation"
+isUpdated: true
 ---
+
+
 
 
 # 설치

@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "getComputedStyle The good, the bad and the ugly parts"
 link: "https://dev.to/nikneym/getcomputedstyle-the-good-the-bad-and-the-ugly-parts-1l34"
+isUpdated: true
+updatedAt: 1724246272141
 ---
 
 

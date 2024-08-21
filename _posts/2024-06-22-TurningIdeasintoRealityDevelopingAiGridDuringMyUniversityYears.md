@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Turning Ideas into Reality: Developing AiGrid During My University Years"
 link: "https://medium.com/@dizzpy/turning-ideas-into-reality-developing-aigrid-during-my-university-years-e3c43056e8fd"
+isUpdated: true
 ---
+
+
+
 
 
 

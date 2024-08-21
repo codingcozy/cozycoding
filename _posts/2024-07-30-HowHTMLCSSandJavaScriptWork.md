@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How HTML, CSS, and JavaScript Work"
 link: "https://dev.to/thekarlesi/how-html-css-and-javascript-work-266f"
+isUpdated: true
 ---
+
+
 
 
 ### HTML이란 무엇인가요?

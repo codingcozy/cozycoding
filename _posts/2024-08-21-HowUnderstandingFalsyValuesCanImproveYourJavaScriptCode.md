@@ -1,5 +1,5 @@
 ---
-title: "JavaScript 코드를 개선하는 데 도움이 되는 Falsy 값 이해하기"
+title: "JavaScript Falsy 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-HowUnderstandingFalsyValuesCanImproveYourJavaScriptCode_0.png"
 date: 2024-08-21 17:38
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How Understanding Falsy Values Can Improve Your JavaScript Code"
 link: "https://medium.com/@kushalsharma44/how-understanding-falsy-values-can-improve-your-javascript-code-dd2fc2465072"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245843686
 ---
 
 

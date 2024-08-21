@@ -1,5 +1,5 @@
 ---
-title: "토탈 워 ROME II와 크리에이티브 어셈블리  10년 후 나의 성명서"
+title: "토탈 워 ROME II와 크리에이티브 어셈블리 10년 후 나의 성명서"
 description: ""
 coverImage: "/assets/img/2024-07-01-TotalWarROMEIIandCreativeAssemblyMyStatementTenYearsOn_0.png"
 date: 2024-07-01 21:21
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Total War: ROME II and Creative Assembly — My Statement Ten Years On"
 link: "https://medium.com/@julianmckinlay/total-war-rome-ii-and-creative-assembly-my-statement-ten-years-on-d964f65b0a8f"
+isUpdated: true
 ---
+
+
+
 
 
 10년 전, 전체 전쟁: 로마 II의 참상적인 출시 후 커뮤니티에서 증오의 대상으로 여겨졌던 기회가 주어졌습니다. 이로 인해 막대한 개인적 비용을 치뤘습니다. 게임의 문제로 널리 비난을 받고 무능력으로 채용 해지된 것으로 여기는 사람도 많았습니다. 하지만 사실은 저는 게임을 수리하기 위한 노력을 주도했고, 생산과 디자인에 대한 변경을 위해 뒷말로 싸웠습니다. 또한 리더십이 같은 실수를 반복하려고 할 때 회사를 떠났습니다.

@@ -1,5 +1,5 @@
 ---
-title: "긴 여정을 떠나는 프론트엔드 개발 야심과 실행의 균형에 대한 고찰"
+title: "프론트엔드 개발자가 되려고 한다면"
 description: ""
 coverImage: "/assets/img/2024-08-21-PlayingtheLongGameinFrontendDevelopmentReflectionsonBalancingAmbitionandExecution_0.png"
 date: 2024-08-21 18:55
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Playing the Long Game in Frontend Development Reflections on Balancing Ambition and Execution"
 link: "https://dev.to/eransakal/playing-the-long-game-in-frontend-development-reflections-on-balancing-ambition-and-execution-1d7d"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245552768
 ---
 
 

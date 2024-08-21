@@ -3,12 +3,15 @@ title: "Flutter에서 보안 구현하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-09 22:40
-ogImage:
+ogImage: 
   url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Implementing security in Flutter"
 link: "https://medium.com/@nooralibutt/implementing-security-in-flutter-7eb5e53be66e"
+isUpdated: true
 ---
+
+
 
 - 인증서 핀 설정
 - 루트 탐지

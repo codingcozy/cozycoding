@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "PWAs Are Now Officially Dead On iOS In The EU"
 link: "https://medium.com/itnext/pwas-are-now-officially-dead-on-ios-in-the-eu-fbb4d26e5325"
+isUpdated: true
 ---
+
+
+
 
 
 애플이 개발자, 고객 및 규제 기관을 무시하고 있어요.

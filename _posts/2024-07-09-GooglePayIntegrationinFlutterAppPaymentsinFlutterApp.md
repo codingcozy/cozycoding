@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Google Pay Integration in Flutter App | Payments in Flutter App"
 link: "https://medium.com/@sachin.dev2910/google-pay-integration-in-flutter-app-payments-in-flutter-app-c85f1c7e260e"
+isUpdated: true
 ---
+
+
 
 
 이 기사에서는 몇 가지 간단한 단계로 Google Pay를 Flutter 앱에 통합하는 방법을 알아볼 것입니다.

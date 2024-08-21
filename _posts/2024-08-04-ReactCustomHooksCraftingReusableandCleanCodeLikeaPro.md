@@ -1,5 +1,5 @@
 ---
-title: "프로 개발자처럼 재사용 가능한 클린 코드 작성하는 방법 React 커스텀 훅스 "
+title: "재사용 가능한 React 커스텀 훅을 만드는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-04 19:40
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "React Custom Hooks Crafting Reusable and Clean Code Like a Pro"
 link: "https://dev.to/gboladetrue/react-custom-hooks-crafting-reusable-and-clean-code-like-a-pro-3kol"
+isUpdated: true
+updatedAt: 1724246234082
 ---
 
 

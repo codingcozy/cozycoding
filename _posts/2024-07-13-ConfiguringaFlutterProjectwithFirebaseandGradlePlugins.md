@@ -3,12 +3,15 @@ title: "Flutter 프로젝트에서 Firebase 및 Gradle 플러그인 설정하는
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-13 21:33
-ogImage:
+ogImage: 
   url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Configuring a Flutter Project with Firebase and Gradle Plugins"
 link: "https://medium.com/@mnc12004/configuring-a-flutter-project-with-firebase-and-gradle-plugins-7e2ef7e898cf"
+isUpdated: true
 ---
+
+
 
 몇 분은 ~% flutter build apk 또는 appbundle을 실행할 때 이 메시지를 보았을 수 있습니다.
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Dangers of Relying Too Much on Frontend Frameworks - A Short Story"
 link: "https://medium.com/@mariusbongarts/the-dangers-of-relying-too-much-on-frontend-frameworks-a-short-story-a1821fc3918c"
+isUpdated: true
 ---
+
+
 
 
 # 프레임워크 덫에 걸린 피터의 이야기

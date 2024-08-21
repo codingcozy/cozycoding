@@ -1,5 +1,5 @@
 ---
-title: "올해의 ESP32 IoT 실시간 데이터 모니터링 시스템 구축 방법"
+title: "ESP32 IoT 실시간 데이터 모니터링 시스템 구축 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-ESP32IoT-BasedReal-TimeDataMonitoringSystemfromScratch_0.png"
 date: 2024-08-21 17:42
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "ESP32 IoT-Based Real-Time Data Monitoring System from Scratch"
 link: "https://medium.com/@sudipto3331/esp32-iot-based-real-time-data-monitoring-system-from-scratch-c3e2b2bedf0a"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245960423
 ---
 
 

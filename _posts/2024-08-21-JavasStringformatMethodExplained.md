@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Javas String.format() Method Explained"
 link: "https://medium.com/@AlexanderObregon/javas-string-format-method-explained-82707214c953"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245752930
 ---
 
 

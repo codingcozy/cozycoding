@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Obfuscation in Flutter and Dart: Mysterious codes"
 link: "https://medium.com/@gizemgizgg/obfuscation-in-flutter-and-dart-mysterious-codes-64d91f0fad10"
+isUpdated: true
 ---
+
+
+
 
 
 ![image](/assets/img/2024-06-21-ObfuscationinFlutterandDartMysteriouscodes_0.png)

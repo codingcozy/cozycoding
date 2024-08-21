@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flow Widget: How to Design Complex User Interfaces with Flow, including Sliders and Parallax"
 link: "https://medium.com/@sachinsingh1781998/flow-widget-how-to-design-complex-user-interfaces-with-flow-including-sliders-and-parallax-b2777811b759"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="https://miro.medium.com/v2/resize:fit:800/1*M38mWCGROry2WzU62iNWgQ.gif" />

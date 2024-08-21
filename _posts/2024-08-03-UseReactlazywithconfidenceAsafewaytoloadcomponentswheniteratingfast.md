@@ -1,5 +1,5 @@
 ---
-title: "빠른 반복 시에도 안전하게 컴포넌트를 로드하는 방법 Reactlazy 자신 있게 사용하기"
+title: "빠른 반복 시에도 안전하게 컴포넌트를 로드하는 방법 Reactlazy 사용하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 19:28
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Use Reactlazy with confidence A safe way to load components when iterating fast"
 link: "https://dev.to/logto/use-reactlazy-with-confidence-a-safe-way-to-load-components-when-iterating-fast-1gkh"
+isUpdated: true
+updatedAt: 1724246281452
 ---
 
 

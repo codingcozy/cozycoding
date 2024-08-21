@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Signing your flutter app with Keystore"
 link: "https://medium.com/@surajbhandari5502/signing-your-flutter-app-with-keystore-f425a7b31356"
+isUpdated: true
 ---
+
+
+
 
 
 파이널?에서 플러터는 기본적으로 앱이 디버그 키스토어로 서명됩니다. 이를 디버그 키스토어라고 합니다. 이 키스토어는 기본적으로 다음 위치에 있습니다.

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "MongoDB CRUD Operations — Query Documents Part-1."
 link: "https://medium.com/@yogeshchiluka/mongodb-crud-operations-query-documents-part-1-9eda8b14d6dd"
+isUpdated: true
 ---
+
+
 
 
 ## 쿼리 문서와 중첩/내장

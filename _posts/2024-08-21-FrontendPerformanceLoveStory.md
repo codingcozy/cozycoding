@@ -1,5 +1,5 @@
 ---
-title: "프론트엔드 성능 향상 러브 스토리"
+title: "프론트엔드 성능 향상시키는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-FrontendPerformanceLoveStory_0.png"
 date: 2024-08-21 17:17
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Frontend Performance Love Story"
 link: "https://medium.com/itnext/frontend-performance-love-story-ce92302fea5f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245860862
 ---
 
 

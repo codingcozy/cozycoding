@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Hard Core Programming is Dead"
 link: "https://medium.com/@tsecretdeveloper/hard-core-programming-is-dead-9ac99b381a46"
+isUpdated: true
 ---
+
+
+
 
 
 ![Image](/assets/img/2024-07-07-HardCoreProgrammingisDead_0.png)

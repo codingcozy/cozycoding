@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How Ahrefs Gets a Billion Dollar-Worth Infrastructure With a 90% Discount"
 link: "https://medium.com/ahrefs/how-ahrefs-gets-a-billion-dollar-worth-infrastructure-with-a-90-discount-5edd473b2399"
+isUpdated: true
 ---
+
+
+
 
 
 싱가포르 데이터 센터에서 3년 동안 4억 달러 이상을 절감한 우리 글이 화제였습니다. 이 글에서는 850대의 동일한 서버가 AWS 대체품에 어떻게 비교되어 한 달간의 지출을 기준으로 설명되었습니다. 이제 우리는 시야를 넓혀서 Ahrefs가 콜로케이션 여정 시작부터 온프레미스 인프라 전체를 클라우드로 전환했다면 총 비용이 어땠을지 고려해보겠습니다.

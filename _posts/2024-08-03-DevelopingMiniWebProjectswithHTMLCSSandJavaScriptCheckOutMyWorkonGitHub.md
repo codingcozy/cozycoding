@@ -1,5 +1,5 @@
 ---
-title: " HTML, CSS, JavaScript로 미니 웹 프로젝트 개발 GitHub 작업물 확인"
+title: "HTML, CSS, JavaScript로 미니 웹 프로젝트 개발하기"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 18:07
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: " Developing Mini Web Projects with HTML, CSS, and JavaScript Check Out My Work on GitHub"
 link: "https://dev.to/amirhirx/-developing-mini-web-projects-with-html-css-and-javascript-check-out-my-work-on-github-3h1b"
+isUpdated: true
+updatedAt: 1724246415394
 ---
 
 

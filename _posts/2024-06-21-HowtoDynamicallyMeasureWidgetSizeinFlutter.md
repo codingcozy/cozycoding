@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to Dynamically Measure Widget Size in Flutter"
 link: "https://medium.com/@dpon1996/how-to-dynamically-measure-widget-size-in-flutter-e4004f3bd5fb"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-21-HowtoDynamicallyMeasureWidgetSizeinFlutter_0.png" />

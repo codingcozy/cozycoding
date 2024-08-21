@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "ALWAYS test 404 Not Found in Bug Bounties!"
 link: "https://medium.com/@mares.viktor/always-test-404-not-found-in-bug-bounties-2be47801b4c0"
+isUpdated: true
 ---
+
+
+
 
 
 안녕하세요 여러분, 오늘은 항상 "/" 디렉토리가 없는 웹 사이트를 테스트해야 하는 이유와 다른 많은 버그 바운티 헌터들이 놓치고 있는 것을 보여드리고 싶습니다.

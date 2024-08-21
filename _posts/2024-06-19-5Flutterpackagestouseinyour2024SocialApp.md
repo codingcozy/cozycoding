@@ -1,5 +1,5 @@
 ---
-title: "2024년 소셜 앱에서 사용할 5가지 플러터 패키지"
+title: "2024년 소셜 앱에 사용할 수 있는 5가지 플러터 패키지"
 description: ""
 coverImage: "/assets/img/2024-06-19-5Flutterpackagestouseinyour2024SocialApp_0.png"
 date: 2024-06-19 08:03
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "5 Flutter packages to use in your 2024 Social App"
 link: "https://medium.com/@kanellopoulos.leo/5-flutter-packages-to-use-in-your-2024-social-app-20082ed8a42d"
+isUpdated: true
 ---
+
+
+
 
 
 패키지에 대한 다른 기사가 나왔네요. 이번에는 소셜 앱을 만들 때 선호하는 패키지를 공유하려고 해요. 회사에서는 사용자 간 상호 작용이 최소한인 작은 앱부터 완전한 소셜 네트워크까지 다양한 소셜 앱을 개발했어요. 소셜 앱을 만드는 것은 도전적일 수 있지만 사용자 사이의 직접적인 상호 작용을 항상 즐기며 앱이 어떻게 발전하는지 바뀌는 것을 관찰하는 것을 즐겨요.

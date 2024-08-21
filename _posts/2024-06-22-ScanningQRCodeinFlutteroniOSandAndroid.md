@@ -3,12 +3,16 @@ title: "iOS와 Android에서 QR 코드를 스캔하는 방법 Flutter 사용하�
 description: ""
 coverImage: "/assets/img/2024-06-22-ScanningQRCodeinFlutteroniOSandAndroid_0.png"
 date: 2024-06-22 15:41
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-22-ScanningQRCodeinFlutteroniOSandAndroid_0.png
 tag: Tech
 originalTitle: "Scanning QR Code in Flutter on iOS and Android"
 link: "https://medium.com/@rishi_singh/scanning-qr-code-in-flutter-on-ios-and-android-b9caa26c4e74"
+isUpdated: true
 ---
+
+
+
 
 ## 플러터 앱에서 QR 코드 스캔 기능을 구현하는 방법을 배워보세요
 

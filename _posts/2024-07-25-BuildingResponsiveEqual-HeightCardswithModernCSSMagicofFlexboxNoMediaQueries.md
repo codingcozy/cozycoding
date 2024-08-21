@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Building Responsive, Equal-Height Cards with Modern CSS Magic of Flexbox , No Media Queries"
 link: "https://dev.to/jennavisions/building-responsive-equal-height-cards-with-modern-css-magic-of-flexbox-no-media-queries-2h0b"
+isUpdated: true
 ---
+
+
 
 
 ## 목차

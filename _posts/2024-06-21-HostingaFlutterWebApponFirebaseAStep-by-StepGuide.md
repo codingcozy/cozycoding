@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Hosting a Flutter Web App on Firebase: A Step-by-Step Guide"
 link: "https://medium.com/@yawarosman/hosting-a-flutter-web-app-on-firebase-a-step-by-step-guide-46a8bc2f0a5b"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-21-HostingaFlutterWebApponFirebaseAStep-by-StepGuide_0.png" />

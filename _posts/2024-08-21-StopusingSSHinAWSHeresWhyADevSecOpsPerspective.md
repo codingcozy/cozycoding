@@ -1,5 +1,5 @@
 ---
-title: "AWS에서 SSH 사용 중지 개발보안운영 (DevSecOps) 관점에서 알아본 이유"
+title: "AWS에서 SSH 사용 중지 개발보안운영 (DevSecOps) 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-StopusingSSHinAWSHeresWhyADevSecOpsPerspective_0.png"
 date: 2024-08-21 17:56
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Stop using SSH in AWS Heres Why A DevSecOps Perspective"
 link: "https://medium.com/aws-tip/stop-using-ssh-in-aws-heres-why-a-devsecops-perspective-a320a14612f8"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245367601
 ---
 
 

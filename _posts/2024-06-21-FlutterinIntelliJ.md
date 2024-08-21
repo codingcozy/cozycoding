@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter in IntelliJ"
 link: "https://medium.com/@tigerasks/flutter-in-intellij-7cf9677b0d7e"
+isUpdated: true
 ---
+
+
+
 
 
 ## 완전 초보자를 위한 "플러터 시작하기" 시리즈의 3부

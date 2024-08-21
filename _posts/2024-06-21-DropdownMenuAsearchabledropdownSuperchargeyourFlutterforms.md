@@ -1,14 +1,18 @@
 ---
-title: "DropdownMenu  검색 가능한 드롭다운 Flutter 폼을 향상시키는 방법"
+title: "DropdownMenu 검색 가능한 드롭다운 Flutter 폼을 향상시키는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-DropdownMenuAsearchabledropdownSuperchargeyourFlutterforms_0.png"
 date: 2024-06-21 23:34
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-DropdownMenuAsearchabledropdownSuperchargeyourFlutterforms_0.png
 tag: Tech
 originalTitle: "DropdownMenu — A searchable dropdown: Supercharge your Flutter forms!"
 link: "https://medium.com/@mohan-smk23/dropdownmenu-a-searchable-dropdown-supercharge-your-flutter-forms-8dde6d46809f"
+isUpdated: true
 ---
+
+
+
 
 세 번째 파티 제약을 작별하고! 플러터에서 검색 가능한 드롭다운을 만들어보세요. 검색과 스타일이 적용된 여러분만의 드롭다운.
 

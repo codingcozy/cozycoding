@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "HTML Hackathon"
 link: "https://dev.to/theholyspirit/html-hackathon-5852"
+isUpdated: true
 ---
+
+
 
 
 HTML은 웹 페이지에 나타나는 것을 정의하는 데 사용되는 결정적인 언어입니다. 브라우저인 Google Chrome에 의해 렌더링됩니다.

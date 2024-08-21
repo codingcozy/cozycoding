@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "3D Reconstruction Tutorial with Python and Meshroom"
 link: "https://medium.com/towards-data-science/3d-reconstruction-tutorial-with-python-and-meshroom-2aa37805ab4a"
+isUpdated: true
 ---
+
+
 
 
 ## 3D 재구성

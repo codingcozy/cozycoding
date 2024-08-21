@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Automating Flutter Builds with GitHub Actions: A Step-by-Step Guide"
 link: "https://medium.com/@colonal/automating-flutter-builds-and-releases-with-github-actions-77ccf4a1ccdd"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-06-23-AutomatingFlutterBuildswithGitHubActionsAStep-by-StepGuide_0.png)

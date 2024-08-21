@@ -1,5 +1,5 @@
 ---
-title: "React에서 실용적인 드래그 앤 드롭을 통해 사용자 경험 향상하기 dropTargetForElements API 소개"
+title: "React에서 드래그 앤 드롭 쉽게 사용하기(dropTargetForElements API)"
 description: ""
 coverImage: "/assets/img/2024-08-21-EnhanceuserexperiencewithPragmaticdraganddropinReactIntroducedropTargetForElementsAPI_0.png"
 date: 2024-08-21 17:25
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Enhance user experience with Pragmatic drag and drop in React Introduce dropTargetForElements API"
 link: "https://medium.com/itnext/enhance-user-experience-with-pragmatic-drag-and-drop-in-react-introduce-droptargetforelements-api-8316afc397a7"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245953526
 ---
 
 

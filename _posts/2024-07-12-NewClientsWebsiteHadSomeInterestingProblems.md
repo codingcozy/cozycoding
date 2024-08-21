@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "New Client’s Website Had Some Interesting “Problems”"
 link: "https://medium.com/@deathshadow/new-clients-website-had-some-interesting-problems-faaba7755e08"
+isUpdated: true
 ---
+
+
 
 
 

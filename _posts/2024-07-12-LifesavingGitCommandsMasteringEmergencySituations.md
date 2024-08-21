@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Lifesaving “Git” Commands: Mastering Emergency Situations"
 link: "https://medium.com/@codeeverywhere/lifesaving-git-commands-mastering-emergency-situations-0a9ccebcc421"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-12-LifesavingGitCommandsMasteringEmergencySituations_0.png)

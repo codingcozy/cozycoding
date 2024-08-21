@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "The Top 6 CSS Cheatsheets that will Save You Hours"
 link: "https://medium.com/stackademic/the-top-6-css-cheatsheets-that-will-save-you-hours-2e1d29ed5c24"
+isUpdated: true
+updatedAt: 1724246208072
 ---
 
 

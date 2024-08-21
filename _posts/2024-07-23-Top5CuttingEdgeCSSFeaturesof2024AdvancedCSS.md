@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Top 5 Cutting Edge CSS Features of 2024  Advanced CSS"
 link: "https://medium.com/javascript-in-plain-english/top-5-cutting-edge-css-features-of-2024-advanced-css-630e728a85fd"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-23-Top5CuttingEdgeCSSFeaturesof2024AdvancedCSS_0.png" />

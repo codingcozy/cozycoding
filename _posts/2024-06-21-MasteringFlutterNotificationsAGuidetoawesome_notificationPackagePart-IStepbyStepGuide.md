@@ -1,5 +1,5 @@
 ---
-title: "Flutter 알림 마스터하기 awesome_notification 패키지 가이드 Part-I 단계별 가이드"
+title: "Flutter 알림 마스터하기 awesome_notification 패키지 가이드 "
 description: ""
 coverImage: "/assets/img/2024-06-21-MasteringFlutterNotificationsAGuidetoawesome_notificationPackagePart-IStepbyStepGuide_0.png"
 date: 2024-06-21 22:46
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Flutter Notifications: A Guide to awesome_notification Package Part-I (Step by Step Guide)"
 link: "https://medium.com/@shubhamsoni82422/mastering-flutter-notifications-a-guide-to-awesome-notification-package-part-i-step-by-step-4bda734d114a"
+isUpdated: true
 ---
+
+
+
 
 
 - Flutter 앱에서 원활하고 강력하며 사용자 친화적인 알림 경험을 위해 awesome_notification의 모든 기능을 활용해보세요.

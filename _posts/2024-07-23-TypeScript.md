@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "TypeScript"
 link: "https://nextjs.org/docs/app/building-your-application/configuring/typescript"
+isUpdated: true
 ---
+
+
 
 
 # TypeScript

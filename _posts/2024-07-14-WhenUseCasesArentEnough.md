@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "When Use Cases Aren’t Enough"
 link: "https://medium.com/analysts-corner/when-use-cases-arent-enough-bb2094f5b01d"
+isUpdated: true
 ---
+
+
 
 
 ![WhenUseCasesArentEnough_0](/assets/img/2024-07-14-WhenUseCasesArentEnough_0.png)

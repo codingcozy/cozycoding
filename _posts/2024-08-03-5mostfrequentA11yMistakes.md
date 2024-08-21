@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "5 most frequent A11y Mistakes"
 link: "https://dev.to/daelmaak/5-most-frequent-a11y-mistakes-2f65"
+isUpdated: true
+updatedAt: 1724246496352
 ---
 
 

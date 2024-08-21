@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Optimizing Web Backends"
 link: "https://medium.com/itnext/optimizing-web-backends-5a9ff96f555f"
+isUpdated: true
 ---
+
+
+
 
 
 ## 자주 사용되는 백엔드 최적화 기술을 담은 핸드북

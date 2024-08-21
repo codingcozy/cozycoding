@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How To Create React Components That Run On Every React Framework?"
 link: "https://medium.com/bitsrc/create-react-components-in-nextjs-bea5ce6d7171"
+isUpdated: true
 ---
+
+
+
 
 
 ## React 프레임워크와 호환되는 React 컴포넌트 구축하기 - Next.js, Gatsby, React Native 및 그 외!

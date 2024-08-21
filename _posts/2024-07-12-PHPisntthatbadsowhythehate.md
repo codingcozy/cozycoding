@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "PHP isn’t that bad, so why the hate?"
 link: "https://medium.com/@PurpleGreenLemon/php-isnt-that-bad-so-why-the-hate-c7b374b87ee4"
+isUpdated: true
 ---
+
+
 
 
 ![Image](/assets/img/2024-07-12-PHPisntthatbadsowhythehate_0.png)

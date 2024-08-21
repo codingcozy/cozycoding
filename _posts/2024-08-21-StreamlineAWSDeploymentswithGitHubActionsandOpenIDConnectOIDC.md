@@ -1,5 +1,5 @@
 ---
-title: "GitHub Actions와 OpenID Connect (OIDC)를 활용한 AWS 배포 자동화 방법"
+title: "GitHub Actions와 OpenID Connect (OIDC)를 활용한 AWS 배포 자동화하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-StreamlineAWSDeploymentswithGitHubActionsandOpenIDConnectOIDC_0.png"
 date: 2024-08-21 17:55
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Streamline AWS Deployments with GitHub Actions and OpenID Connect (OIDC)"
 link: "https://medium.com/gitconnected/streamline-aws-deployments-with-github-actions-and-openid-connect-oidc-39892d74b8f5"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245346306
 ---
 
 

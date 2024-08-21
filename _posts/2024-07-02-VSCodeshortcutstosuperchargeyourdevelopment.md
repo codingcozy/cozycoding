@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "VSCode shortcuts to supercharge your development"
 link: "https://medium.com/@matthewdbill/vscode-shortcuts-to-supercharge-your-development-c58fcab3e7bc"
+isUpdated: true
 ---
+
+
+
 
 
 개발 속도를 폭발적으로 향상시키는 바로가기 목록을 줄여보았어요!

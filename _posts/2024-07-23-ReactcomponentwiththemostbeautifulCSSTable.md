@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "React component with the most beautiful CSS Table"
 link: "https://medium.com/javascript-quantum/react-component-with-the-most-beautiful-css-table-99fe7eca2c60"
+isUpdated: true
 ---
+
+
 
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*8LgPQKrUmpSEvnocHcnVzA.gif" />

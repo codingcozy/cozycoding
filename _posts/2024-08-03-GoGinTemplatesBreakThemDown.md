@@ -1,5 +1,5 @@
 ---
-title: "Go Gin 템플릿 세세히 파헤치기"
+title: "Go Gin 템플릿 알아보기"
 description: ""
 coverImage: "/assets/img/2024-08-03-GoGinTemplatesBreakThemDown_0.png"
 date: 2024-08-03 19:21
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Go Gin Templates Break Them Down"
 link: "https://dev.to/ossan/go-gin-templates-break-them-down-4mob"
+isUpdated: true
+updatedAt: 1724246397071
 ---
 
 

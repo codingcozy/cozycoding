@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Svelte: Different and Engaging Experience Unlike Others"
 link: "https://medium.com/trendyol-tech/svelte-different-and-engaging-experience-unlike-others-9fe641566104"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-06-30-SvelteDifferentandEngagingExperienceUnlikeOthers_0.png)

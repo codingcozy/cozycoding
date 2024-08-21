@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "The Web Developer’s New Best Friend: AI , Machine Learning"
 link: "https://medium.com/@nagendramirajkar/the-web-developers-new-best-friend-ai-machine-learning-608c02a939e4"
+isUpdated: true
 ---
+
+
+
 
 
 # AI 및 기계 학습을 통한 웹 애플리케이션의 변혁적 역할

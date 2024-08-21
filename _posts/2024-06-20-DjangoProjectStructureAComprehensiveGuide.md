@@ -1,5 +1,5 @@
 ---
-title: "장고 프로젝트 구조 포괄적인 가이드"
+title: "장고 프로젝트 구조 셋팅하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-20-DjangoProjectStructureAComprehensiveGuide_0.png"
 date: 2024-06-20 14:04
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Django Project Structure: A Comprehensive Guide"
 link: "https://medium.com/django-unleashed/django-project-structure-a-comprehensive-guide-4b2ddbf2b6b8"
+isUpdated: true
 ---
+
+
+
 
 
 

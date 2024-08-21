@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Optimizations"
 link: "https://nextjs.org/docs/app/building-your-application/optimizing"
+isUpdated: true
 ---
+
+
 
 
 # 최적화

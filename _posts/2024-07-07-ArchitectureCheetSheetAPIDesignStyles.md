@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Architecture Cheet Sheet – API Design Styles"
 link: "https://medium.com/@ilia.galashko/architecture-cheet-sheet-api-design-styles-2d5bf38e10dd"
+isUpdated: true
 ---
+
+
+
 
 
 ![ArchitectureCheetSheetAPIDesignStyles_0](/assets/img/2024-07-07-ArchitectureCheetSheetAPIDesignStyles_0.png)

@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Azure CosmosDB , Zod: Data Validation on Steroids"
 link: "https://medium.com/@mingyang-li/azure-cosmosdb-zod-data-validation-on-steroids-af28adf73335"
+isUpdated: true
 ---
+
+
+
 
 
 

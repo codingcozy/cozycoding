@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How a developer should read WCAG"
 link: "https://medium.com/user-experience-design-1/how-a-developer-should-read-wcag-b1aec621b9d2"
+isUpdated: true
 ---
+
+
+
 
 
 

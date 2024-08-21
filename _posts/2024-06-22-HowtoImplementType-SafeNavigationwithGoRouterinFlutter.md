@@ -3,12 +3,16 @@ title: "Flutter에서 Go Router를 사용해 타입-안전 내비게이션 구�
 description: ""
 coverImage: "/assets/img/2024-06-22-HowtoImplementType-SafeNavigationwithGoRouterinFlutter_0.png"
 date: 2024-06-22 04:10
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-22-HowtoImplementType-SafeNavigationwithGoRouterinFlutter_0.png
 tag: Tech
 originalTitle: "How to Implement Type-Safe Navigation with Go Router in Flutter"
 link: "https://medium.com/canopas/how-to-implement-type-safe-navigation-with-go-router-in-flutter-b11315bd183b"
+isUpdated: true
 ---
+
+
+
 
 ## Flutter에서 안전한 탐색: Go Router 및 Go Router Builder와 함께하는 가이드
 

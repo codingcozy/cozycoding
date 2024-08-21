@@ -1,5 +1,5 @@
 ---
-title: "Flutter GPU를 활용한 초보자 가이드"
+title: "Flutter에서 GPU를 활용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-GettingstartedwithFlutterGPU_0.png"
 date: 2024-08-21 18:37
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Getting started with Flutter GPU"
 link: "https://medium.com/flutter/getting-started-with-flutter-gpu-f33d497b7c11"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245936695
 ---
 
 

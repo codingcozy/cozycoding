@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Decrypt Go: empty struct"
 link: "https://medium.com/gitconnected/decrypt-go-empty-struct-56640cd668e5"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-19-DecryptGoemptystruct_0.png" />

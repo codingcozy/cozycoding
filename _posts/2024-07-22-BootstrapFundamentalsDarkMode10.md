@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Bootstrap Fundamentals  Dark Mode 10"
 link: "https://medium.com/@tomas-svojanovsky/bootstrap-fundamentals-dark-mode-10-ec746978c7b4"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-22-BootstrapFundamentalsDarkMode10_0.png" />

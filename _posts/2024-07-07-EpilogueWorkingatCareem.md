@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Epilogue: Working at Careem"
 link: "https://medium.com/@imixtron/epilogue-working-at-careem-c17dd1e4457f"
+isUpdated: true
 ---
+
+
+
 
 
 Careem에 합류한 지 5년이 되었을 때, 사람들이 이동하는 방식을 바꾸는 지역 최초의 유니콘 기업의 일원이 된 것에 흥분했습니다. 여행은 두바이의 본사 캠프에서 따뜻한 환영과 교육을 받으며 시작되었고, 제 역할을 이해하는 데 도움이 되었습니다. 처음부터 일하는 동안 활기찬 창의적인 분위기에 감명을 받았습니다.

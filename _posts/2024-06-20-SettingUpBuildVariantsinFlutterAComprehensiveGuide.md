@@ -1,14 +1,18 @@
 ---
-title: "플러터에서 빌드 변형 설정하기 포괄적인 안내"
+title: "플러터에서 빌드 변형 설정하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-20-SettingUpBuildVariantsinFlutterAComprehensiveGuide_0.png"
 date: 2024-06-20 13:52
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-20-SettingUpBuildVariantsinFlutterAComprehensiveGuide_0.png
 tag: Tech
 originalTitle: "Setting Up Build Variants in Flutter: A Comprehensive Guide"
 link: "https://medium.com/@johnsonsivakumar13/setting-up-build-variants-in-flutter-a-comprehensive-guide-6cc15f77c948"
+isUpdated: true
 ---
+
+
+
 
 현대 앱 개발에서는 다양한 빌드 변형을 관리하는 것이 중요합니다. 플러터(Flutter)에서 빌드 변형은 개발, 스테이징 및 프로덕션과 같이 여러 버전의 앱을 구성할 수 있도록 해줍니다. 각각이 API 엔드포인트, 기능 플래그 및 기타 환경별 설정과 같은 고유의 구성을 가지고 있습니다. 이 안내서에서는 플러터 프로젝트에서 빌드 변형을 설정하는 방법을 안내해 드릴 예정입니다.
 

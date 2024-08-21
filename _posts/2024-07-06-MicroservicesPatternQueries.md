@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Microservices Pattern: Queries"
 link: "https://medium.com/@joudwawad/microservices-pattern-query-444d114e9a30"
+isUpdated: true
 ---
+
+
+
 
 
 # 소개

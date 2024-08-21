@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Unlocking the Power of Deep Links in Flutter Apps"
 link: "https://medium.com/@sailesshakya/unlocking-the-power-of-deep-links-in-flutter-apps-ebf12824b710"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-09-UnlockingthePowerofDeepLinksinFlutterApps_0.png" />

@@ -1,5 +1,5 @@
 ---
-title: "아웃시스템 및 CSS 스프라이트 이미지 활용하기"
+title: "CSS 스프라이트 이미지 사용 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-OutSystemsandCSSSpriteimages_0.png"
 date: 2024-08-21 16:50
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "OutSystems and CSS Sprite images"
 link: "https://medium.com/@mariana.m.junges/outsystems-and-css-sprite-images-bbc578711033"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245622740
 ---
 
 

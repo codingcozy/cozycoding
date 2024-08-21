@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The 5 paid subscriptions I actually use in 2024 as a software engineer"
 link: "https://medium.com/gitconnected/the-5-paid-subscriptions-i-actually-use-in-2024-as-a-software-engineer-edd9949df58b"
+isUpdated: true
 ---
+
+
 
 
 저는 사용하는 도구에 많은 관심을 가지고 있어요. 특히 무료가 아닌 경우에는 더욱 신중하게 선택하죠.

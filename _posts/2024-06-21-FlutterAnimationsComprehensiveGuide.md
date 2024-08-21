@@ -3,12 +3,16 @@ title: "Flutter 애니메이션 종합 가이드"
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterAnimationsComprehensiveGuide_0.png"
 date: 2024-06-21 22:15
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutterAnimationsComprehensiveGuide_0.png
 tag: Tech
 originalTitle: "Flutter Animations Comprehensive Guide"
 link: "https://medium.com/flutter-community/flutter-animations-comprehensive-guide-cb93b246ca5d"
+isUpdated: true
 ---
+
+
+
 
 이 기사에서는 플러터 애니메이션에 대해 자세히 설명하고 여러 예제와 함께 다루어보겠습니다. 이 기사를 끝까지 읽으면 다양한 복잡성을 갖는 애니메이션을 플러터 앱에 추가할 수 있을 것입니다. 또한 플러터에서 제공하는 다양한 접근 방법 중에서 여러분의 애니메이션 목표에 가장 적합한 것을 알게 될 것입니다. 그럼 바로 시작해 봅시다!
 

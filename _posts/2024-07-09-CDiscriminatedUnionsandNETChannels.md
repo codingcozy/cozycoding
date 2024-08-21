@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "C# Discriminated Unions and .NET Channels"
 link: "https://medium.com/itnext/c-discriminated-unions-and-net-channels-372381c571bd"
+isUpdated: true
 ---
+
+
 
 
 ![image](/assets/img/2024-07-09-CDiscriminatedUnionsandNETChannels_0.png)

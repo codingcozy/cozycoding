@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How I bombed coding interviews?"
 link: "https://medium.com/@rabhinaya0/how-i-bombed-coding-interviews-44f350f35875"
+isUpdated: true
 ---
+
+
+
 
 
 암호화폐 전문가에요. 아래 이야기를 읽고 다시 정리해서 제게 보낼까요?

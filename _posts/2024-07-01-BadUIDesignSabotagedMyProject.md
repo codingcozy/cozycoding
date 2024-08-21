@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Bad UI Design Sabotaged My Project"
 link: "https://medium.com/womenintechnology/bad-ui-design-sabotaged-my-project-faede3fc0ab9"
+isUpdated: true
 ---
+
+
+
 
 
 ![image](/assets/img/2024-07-01-BadUIDesignSabotagedMyProject_0.png)

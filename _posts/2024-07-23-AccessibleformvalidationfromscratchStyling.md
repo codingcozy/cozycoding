@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Accessible form validation from scratch  Styling"
 link: "https://medium.com/user-experience-design-1/accessible-form-validation-from-scratch-styling-6810b1a21b36"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-23-AccessibleformvalidationfromscratchStyling_0.png" />

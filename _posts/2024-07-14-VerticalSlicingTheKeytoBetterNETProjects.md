@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "🚀 Vertical Slicing: The Key to Better .NET Projects!"
 link: "https://medium.com/@kmorpex/vertical-slicing-the-key-to-better-net-projects-991c1c757393"
+isUpdated: true
 ---
+
+
 
 
 ![2024-07-14-VerticalSlicingTheKeytoBetterNETProjects_0](/assets/img/2024-07-14-VerticalSlicingTheKeytoBetterNETProjects_0.png)

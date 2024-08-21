@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Content Security Policy"
 link: "https://nextjs.org/docs/app/building-your-application/configuring/content-security-policy"
+isUpdated: true
 ---
+
+
 
 
 # 콘텐츠 보안 정책

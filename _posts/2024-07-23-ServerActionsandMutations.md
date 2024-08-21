@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Server Actions and Mutations"
 link: "https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations"
+isUpdated: true
 ---
+
+
 
 
 # 서버 작업 및 변이

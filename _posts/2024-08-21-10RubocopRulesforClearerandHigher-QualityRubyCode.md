@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "10 Rubocop Rules for Clearer and Higher-Quality Ruby Code"
 link: "https://medium.com/unagi/10-rubocop-rules-for-clearer-and-higher-quality-ruby-code-eec49d64079e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246168111
 ---
 
 

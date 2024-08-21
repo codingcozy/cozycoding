@@ -3,12 +3,15 @@ title: "Django NoReverseMatch 오류 해결 종합 가이드"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-13 21:56
-ogImage:
+ogImage: 
   url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Fixing the NoReverseMatch Error in Django: A Comprehensive Guide"
 link: "https://medium.com/@kasata/fixing-the-noreversematch-error-in-django-a-comprehensive-guide-bbd74be4e5f4"
+isUpdated: true
 ---
+
+
 
 Django를 사용할 때 마주칠 수 있는 일반적인 오류 중 하나는 NoReverseMatch 오류입니다. 이 오류는 Django가 reverse() 함수나 url 템플릿 태그에 제공된 매개변수와 일치하는 URL을 찾지 못할 때 발생합니다.
 

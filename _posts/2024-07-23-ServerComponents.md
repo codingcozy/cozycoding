@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Server Components"
 link: "https://nextjs.org/docs/app/building-your-application/rendering/server-components"
+isUpdated: true
 ---
+
+
 
 
 # 서버 구성 요소

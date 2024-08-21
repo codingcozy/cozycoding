@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "What It’s Like to Be a Professional Open Source Developer?"
 link: "https://medium.com/code-like-a-girl/what-its-like-to-be-a-professional-open-source-developer-ccba02b10b40"
+isUpdated: true
 ---
+
+
 
 
 ![What It's Like to Be a Professional Open-Source Developer](/assets/img/2024-07-13-WhatItsLiketoBeaProfessionalOpenSourceDeveloper_0.png)

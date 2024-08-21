@@ -1,5 +1,5 @@
 ---
-title: "브라우저 디버깅을 위한 15가지 강력한 테크닉"
+title: "브라우저에서 디버깅하는 15가지 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 19:19
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "15 Powerful Browser Debugging Techniques"
 link: "https://dev.to/nilebits/15-powerful-browser-debugging-techniques-c3n"
+isUpdated: true
+updatedAt: 1724245449272
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "2023년 AI 개발자로서의 여정 생성 모델 AI 웹 앱 개발 과정에서 얻은 교훈"
+title: "2023년 AI 개발자가 알아둬야할 내용 정리"
 description: ""
 coverImage: "/assets/img/2024-06-19-FromDataScientisttoAIDeveloperLessonsBuildingaGenerativeAIWebAppin2023_0.png"
 date: 2024-06-19 14:46
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "From Data Scientist to AI Developer: Lessons Building a Generative AI Web App in 2023"
 link: "https://medium.com/towards-data-science/from-data-scientist-to-ai-developer-lessons-building-an-generative-ai-web-app-in-2023-95959a00a474"
+isUpdated: true
 ---
+
+
+
 
 
 ## 수천 명의 사용자를 대상으로 하는 AI 웹 앱을 구축하고자 하는 데이터 과학 열정가를 위한 기술 팁 안내서

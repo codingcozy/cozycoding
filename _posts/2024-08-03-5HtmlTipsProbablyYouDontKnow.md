@@ -1,5 +1,5 @@
 ---
-title: "모르는 사람도 많은 HTML 꿀팁 5가지"
+title: "시니어 개발자도 모르는 HTML 꿀팁 5가지"
 description: ""
 coverImage: "/assets/img/2024-08-03-5HtmlTipsProbablyYouDontKnow_0.png"
 date: 2024-08-03 19:44
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "5 Html Tips Probably You Dont Know"
 link: "https://medium.com/developers-corner/5-html-tips-probably-you-dont-know-3dc68d9b5214"
+isUpdated: true
+updatedAt: 1724246508606
 ---
 
 

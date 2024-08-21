@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Intercepting Routes"
 link: "https://nextjs.org/docs/app/building-your-application/routing/intercepting-routes"
+isUpdated: true
 ---
+
+
 
 
 # 경로 가로채기

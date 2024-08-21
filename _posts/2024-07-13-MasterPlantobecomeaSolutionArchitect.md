@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Master Plan to become a Solution Architect"
 link: "https://medium.com/@azeynalli1990/master-plan-to-become-a-solution-architect-e4228d8c849b"
+isUpdated: true
 ---
+
+
 
 
 ![2024-07-13-MasterPlantobecomeaSolutionArchitect_0.png](/assets/img/2024-07-13-MasterPlantobecomeaSolutionArchitect_0.png)

@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Building a Real-Time GitHub Webhook Listener with Flask, MongoDB, and React"
 link: "https://medium.com/@achu1997singh/building-a-real-time-github-webhook-listener-with-flask-mongodb-and-react-0ce5bac43ac0"
+isUpdated: true
 ---
+
+
+
 
 
 본 기사에서는 "Push", "Pull Request", "Merge"와 같은 GitHub 웹훅을 수신하는 프로젝트를 만드는 방법을 안내하겠습니다. 이러한 이벤트를 Flask 애플리케이션에서 캡처하고 MongoDB에 저장하며, React 프론트엔드를 사용하여 실시간으로 표시할 것입니다. 마지막으로 Flask 앱을 Vercel에 배포해 보겠습니다.

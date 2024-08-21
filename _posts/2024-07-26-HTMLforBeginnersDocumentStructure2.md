@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "HTML for Beginners Document Structure 2"
 link: "https://medium.com/@tomas-svojanovsky/html-for-beginners-document-structure-2-cb0ebb49aaa7"
+isUpdated: true
 ---
+
+
 
 
 

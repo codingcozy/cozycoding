@@ -3,12 +3,16 @@ title: "Dio 패키지를 사용하여 Flutter에서 REST API에 이미지 업로
 description: ""
 coverImage: "/assets/img/2024-06-21-UploadimagestoRESTAPIwithFlutterusingDioPackage_0.png"
 date: 2024-06-21 22:44
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-UploadimagestoRESTAPIwithFlutterusingDioPackage_0.png
 tag: Tech
 originalTitle: "Upload images to REST API with Flutter using Dio Package"
 link: "https://medium.com/@kashifchandio/upload-images-to-rest-api-with-flutter-using-dio-package-421111389c27"
+isUpdated: true
 ---
+
+
+
 
 플러터 개발자들로부터 받은 엄청난 반응 뒤에 http 패키지를 사용하여 REST API에 이미지를 업로드하는 방법에 대한 이야기를 공유한 후, 많은 사람들이 dio 패키지를 사용하여 그렇게 하는 데 어려움을 겪는 것을 보았습니다. 초보자들은 일반적으로 사용할 수 있는 코드 스니펫을 찾을 수 있는 자세하고 쉽게 배울 수 있는 자료를 원합니다.  
 이 이야기에서는 flutter에서 이미지를 업로드하는 방법에 대해 dio 패키지를 사용하여 작성하겠습니다. 가능한 모든 측면에 대해 설명하기 위해 최선을 다하겠지만, 빠진 부분이 있다고 생각하거나 의겢가 있으면 의겢를 남겨주시고 학습 과정에서 도와주십시오.

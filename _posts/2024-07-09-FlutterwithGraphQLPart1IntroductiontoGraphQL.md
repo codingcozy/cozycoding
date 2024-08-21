@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter with GraphQL : Part 1 Introduction to GraphQL"
 link: "https://medium.com/@debasmitasarkar.93/flutter-with-graphql-part-1-introduction-to-graphql-ab3d88ce35fb"
+isUpdated: true
 ---
+
+
 
 
 

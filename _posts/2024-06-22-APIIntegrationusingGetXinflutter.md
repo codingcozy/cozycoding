@@ -3,12 +3,16 @@ title: "GetX로 API 통합하기 Flutter를 이용한 쉬운 방법"
 description: ""
 coverImage: "/assets/img/2024-06-22-APIIntegrationusingGetXinflutter_0.png"
 date: 2024-06-22 04:13
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-22-APIIntegrationusingGetXinflutter_0.png
 tag: Tech
 originalTitle: "API Integration using GetX in flutter"
 link: "https://medium.com/@sanjaysharmajw/api-integration-using-getx-in-flutter-0337243b5cc0"
+isUpdated: true
 ---
+
+
+
 
 ![APIIntegrationusingGetXinflutter](/assets/img/2024-06-22-APIIntegrationusingGetXinflutter_0.png)
 

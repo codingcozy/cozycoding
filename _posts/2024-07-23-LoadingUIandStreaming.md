@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Loading UI and Streaming"
 link: "https://nextjs.org/docs/app/building-your-application/routing/loading-ui-and-streaming"
+isUpdated: true
 ---
+
+
 
 
 # UI 및 스트리밍 로딩

@@ -3,12 +3,16 @@ title: "Flutter에서 동적으로 앱 아이콘 변경하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-23-DynamicchangeAppIconFlutter_0.png"
 date: 2024-06-23 14:51
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-23-DynamicchangeAppIconFlutter_0.png
 tag: Tech
 originalTitle: "Dynamic change App Icon Flutter"
 link: "https://medium.com/@diego.mazega/dynamic-change-app-icon-flutter-061dae4da40e"
+isUpdated: true
 ---
+
+
+
 
 안녕하세요! 이번 기사에서는 앱 아이콘을 동적으로 변경하는 방법을 구성하고 코딩하는 방법을 살펴보겠습니다. 안드로이드에서는 원하는 경우 라벨도 변경할 수 있습니다.
 

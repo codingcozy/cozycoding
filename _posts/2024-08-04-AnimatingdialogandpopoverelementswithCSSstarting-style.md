@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Animating dialog and popover elements with CSS starting-style"
 link: "https://dev.to/logrocket/animating-dialog-and-popover-elements-with-css-starting-style-1a43"
+isUpdated: true
+updatedAt: 1724246255245
 ---
 
 

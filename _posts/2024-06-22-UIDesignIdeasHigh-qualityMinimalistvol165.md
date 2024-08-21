@@ -1,5 +1,5 @@
 ---
-title: "최고의 미니멀리스트 UI 디자인 아이디어  vol 165"
+title: "최고의 미니멀리스트 UI 디자인 아이디어 vol 165"
 description: ""
 coverImage: "/assets/img/2024-06-22-UIDesignIdeasHigh-qualityMinimalistvol165_0.png"
 date: 2024-06-22 04:21
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "UI Design Ideas: High-quality , Minimalist — vol. 165"
 link: "https://medium.com/theymakedesign/ui-design-ideas-vol-165-f7bd6b044787"
+isUpdated: true
 ---
+
+
+
 
 
 ## 고품질이고 미니멀한 UI/UX 디자인을 살펴보세요. 섬세하고 프리미엄한 빌드로 눈에 띄는 디자인들입니다. 이 작품들은 최고의 사용자 경험 디자인 에이전시에서 나온 것으로, 미니멀리즘에 초점을 맞추고 있습니다.

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter. GetX 5.0 breaking changes"
 link: "https://medium.com/@yurinovicow/flutter-getx-5-0-breaking-changes-28f381931c96"
+isUpdated: true
 ---
+
+
 
 
 

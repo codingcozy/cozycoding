@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Introduction"
 link: "https://medium.com/@andrewbekhiet/flutter-switching-floating-action-button-21ca86bb7fe1"
+isUpdated: true
 ---
+
+
 
 
 이 튜토리얼에서는 플러터 애플리케이션에서 부드럽고 동적인 전환 플로팅 액션 버튼 (FAB) 애니메이션을 만드는 방법을 살펴볼 것입니다. 목표는 TabBarView에서 선택한 탭에 따라 아이콘과 기능이 변경되는 FAB를 구현하는 것입니다. 이 튜토리얼을 마치면 탭 변경에 대한 시각적 피드백을 제공하여 사용자 경험을 향상시키는 애니메이션화된 FAB가 포함된 완전히 작동하는 앱을 보유하게 될 것입니다.

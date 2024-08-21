@@ -1,5 +1,5 @@
 ---
-title: "ReactJS에서 useState의 Polyfill 만들기 단계별 안내"
+title: "ReactJS에서 useState의 Polyfill 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-CreatingaPolyfillforuseStateinReactJSAStep-by-StepGuide_0.png"
 date: 2024-08-21 17:26
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Creating a Polyfill for useState in ReactJS A Step-by-Step Guide"
 link: "https://medium.com/@rahuulmiishra/creating-a-polyfill-for-usestate-in-reactjs-a-step-by-step-guide-20dcee6cef74"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245986288
 ---
 
 

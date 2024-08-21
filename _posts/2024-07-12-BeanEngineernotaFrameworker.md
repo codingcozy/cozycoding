@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Be an Engineer, not a Frameworker"
 link: "https://medium.com/@johndanielraines/be-an-engineer-not-a-frameworker-c58fe28d0c88"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-12-BeanEngineernotaFrameworker_0.png)

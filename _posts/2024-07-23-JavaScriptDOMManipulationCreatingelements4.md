@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "JavaScript DOM Manipulation Creating elements 4"
 link: "https://medium.com/@tomas-svojanovsky/javascript-dom-manipulation-creating-elements-4-9a26b57c72ed"
+isUpdated: true
 ---
+
+
 
 
 

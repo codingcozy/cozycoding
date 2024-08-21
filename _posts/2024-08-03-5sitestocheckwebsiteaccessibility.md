@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "5 sites to check website accessibility"
 link: "https://dev.to/axorax/5-sites-to-check-website-accessibility-21l6"
+isUpdated: true
+updatedAt: 1724246493773
 ---
 
 

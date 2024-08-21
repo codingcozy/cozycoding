@@ -1,5 +1,5 @@
 ---
-title: "CSS 스타일링을 위한 3가지 꿀팁"
+title: "CSS 스타일링을 위한 3가지 꿀팁 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-3StylingTricksforCSSYoushouldknow_0.png"
 date: 2024-08-21 16:51
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "3 Styling Tricks for CSS  You should know"
 link: "https://medium.com/@tajammalmaqbool11/3-styling-tricks-for-css-you-should-know-291c637d5868"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246163458
 ---
 
 

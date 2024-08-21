@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "WCAG 2.2 Parsing — the Success Criterion that didn’t make it"
 link: "https://medium.com/user-experience-design-1/wcag-2-2-parsing-the-success-criterion-that-didnt-make-it-ab8d4904328e"
+isUpdated: true
 ---
+
+
 
 
 ## 성공 기준 4.1.1 구문 분석

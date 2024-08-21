@@ -1,5 +1,5 @@
 ---
-title: "HTML에서 CSS 파일을 사용하는 방법  첫 웹사이트 만들기 파트 4"
+title: "HTML에서 CSS 파일을 사용하는 방법 "
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 19:37
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "A Gentle Intro to CSS Files in HTML  Build Your First Website Part 4"
 link: "https://medium.com/modernnerd-code/a-gentle-intro-to-css-files-in-html-2e9b4dccc2ae"
+isUpdated: true
+updatedAt: 1724246470459
 ---
 
 

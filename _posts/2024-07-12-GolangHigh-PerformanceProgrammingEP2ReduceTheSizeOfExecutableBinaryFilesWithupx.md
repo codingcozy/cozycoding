@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Golang High-Performance Programming EP2: Reduce The Size Of Executable Binary Files With upx"
 link: "https://medium.com/faun/golang-high-performance-programming-ep2-reduces-compiled-volume-with-upx-62c0ef00d51b"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-12-GolangHigh-PerformanceProgrammingEP2ReduceTheSizeOfExecutableBinaryFilesWithupx_0.png" />

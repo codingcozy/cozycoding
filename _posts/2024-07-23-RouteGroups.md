@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Route Groups"
 link: "https://nextjs.org/docs/app/building-your-application/routing/route-groups"
+isUpdated: true
 ---
+
+
 
 
 # 라우트 그룹

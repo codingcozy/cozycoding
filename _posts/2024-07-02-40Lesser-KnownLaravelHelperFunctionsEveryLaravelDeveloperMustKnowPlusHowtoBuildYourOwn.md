@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "40 Lesser-Known Laravel Helper Functions Every Laravel Developer Must Know, Plus How to Build Your Own"
 link: "https://medium.com/@prevailexcellent/40-lesser-known-laravel-helper-functions-every-laravel-developer-must-know-plus-how-to-build-your-064e8f1ad2d7"
+isUpdated: true
 ---
+
+
+
 
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "27 CSS Shortcuts to Save You Hours of Coding"
 link: "https://medium.com/@learntocodetoday/27-css-shortcuts-to-save-you-hours-of-coding-3512c7d7f306"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-26-27CSSShortcutstoSaveYouHoursofCoding_0.png)

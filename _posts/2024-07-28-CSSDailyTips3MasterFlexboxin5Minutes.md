@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "CSS Daily Tips 3 Master Flexbox in 5 Minutes"
 link: "https://medium.com/@Marioskif/css-daily-tips-3-master-flexbox-in-5-minutes-ee130cba5e60"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-28-CSSDailyTips3MasterFlexboxin5Minutes_0.png" />

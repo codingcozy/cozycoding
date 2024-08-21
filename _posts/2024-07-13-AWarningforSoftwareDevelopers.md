@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "A Warning for Software Developers"
 link: "https://medium.com/@tsecretdeveloper/a-warning-for-software-developers-b8af21eababe"
+isUpdated: true
 ---
+
+
 
 
 ![2024-07-13-AWarningforSoftwareDevelopers_0.png](/assets/img/2024-07-13-AWarningforSoftwareDevelopers_0.png)

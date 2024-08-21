@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Postgres Practice — Rising Temperature (Easy) #6"
 link: "https://medium.com/@tomas-svojanovsky/postgres-practice-rising-temperature-6-b2155b6917d8"
+isUpdated: true
 ---
+
+
 
 
 

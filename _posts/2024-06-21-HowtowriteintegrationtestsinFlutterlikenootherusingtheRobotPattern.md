@@ -1,5 +1,5 @@
 ---
-title: "Robot 패턴을 사용한 Flutter 통합 테스트 작성법  이제껏 경험하지 못한 방법"
+title: "Robot 패턴을 사용한 Flutter 통합 테스트 작성법 이제껏 경험하지 못한 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-HowtowriteintegrationtestsinFlutterlikenootherusingtheRobotPattern_0.png"
 date: 2024-06-21 23:30
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to write integration tests in Flutter like no other, using the Robot Pattern"
 link: "https://medium.com/flutter-community/how-to-write-integration-tests-in-flutter-like-no-other-using-the-robot-pattern-8edfd14dc081"
+isUpdated: true
 ---
+
+
+
 
 
 플러터에서 통합 테스트를 작성하고 싶다면, 더 이상 찾을 필요가 없어요! 전문가처럼 로봇 패턴을 사용하여 통합 테스트를 작성하는 방법을 정확히 보여드릴 거예요.

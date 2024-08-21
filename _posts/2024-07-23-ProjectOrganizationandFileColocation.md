@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Project Organization and File Colocation"
 link: "https://nextjs.org/docs/app/building-your-application/routing/colocation"
+isUpdated: true
 ---
+
+
 
 
 # 프로젝트 구조화 및 파일 동시 배치

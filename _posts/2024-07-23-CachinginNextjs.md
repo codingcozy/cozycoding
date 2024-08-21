@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Caching in Next.js"
 link: "https://nextjs.org/docs/app/building-your-application/caching"
+isUpdated: true
 ---
+
+
 
 
 # Next.js에서의 캐싱

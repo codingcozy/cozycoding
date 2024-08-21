@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Java Stream API Exploring Intermediate Operations"
 link: "https://medium.com/gitconnected/java-stream-api-exploring-intermediate-operations-a8fb7be4cac1"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245756558
 ---
 
 

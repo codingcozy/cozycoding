@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Amazon SDE-2[L5] Interview Experience and Tips Resources for Interview Prep"
 link: "https://medium.com/@bhargavacharanreddy/amazon-sde-2-l5-interview-experience-and-tips-resources-for-interview-prep-9e7602c32176"
+isUpdated: true
 ---
+
+
+
 
 
 Hello Everyone,

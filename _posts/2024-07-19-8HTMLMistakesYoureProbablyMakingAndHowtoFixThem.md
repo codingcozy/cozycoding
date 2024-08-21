@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "8 HTML Mistakes Youre Probably Making And How to Fix Them"
 link: "https://medium.com/@learntocodetoday/8-html-mistakes-youre-probably-making-and-how-to-fix-them-e4e397e87e3a"
+isUpdated: true
 ---
+
+
 
 
 

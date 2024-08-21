@@ -3,12 +3,16 @@ title: "Flutter 앱 테마 커스터마이즈 라이트와 다크 모드 전환 
 description: ""
 coverImage: "/assets/img/2024-06-23-CustomizeFlutterAppThemesSwappingBetweenLightDarkModesandUsingExtensions_0.png"
 date: 2024-06-23 14:53
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-23-CustomizeFlutterAppThemesSwappingBetweenLightDarkModesandUsingExtensions_0.png
 tag: Tech
 originalTitle: "Customize Flutter App Themes: Swapping Between Light Dark Modes and Using Extensions"
 link: "https://medium.com/@9dan_/customize-flutter-app-themes-swapping-between-light-dark-modes-and-using-extensions-66b1586aae1b"
+isUpdated: true
 ---
+
+
+
 
 플러터는 테마 지원을 통해 개발자들이 다양한 테마 기능으로 애플리케이션을 사용자 정의할 수 있도록 훌륭한 지원을 제공합니다. 이 글에서는 두 가지 핵심 테마 기능에 중점을 두겠습니다:
 

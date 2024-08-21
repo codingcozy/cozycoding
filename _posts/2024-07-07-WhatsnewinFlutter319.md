@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "What’s new in Flutter 3.19"
 link: "https://medium.com/flutter/whats-new-in-flutter-3-19-58b1aae242d2"
+isUpdated: true
 ---
+
+
 
 
 오늘은 새로운 Flutter 릴리즈인 Flutter 3.19을 소개합니다. 해당 릴리즈에는 새로운 Dart SDK for Gemini, 위젯 애니메이션에 세밀한 제어를 추가할 수 있는 위젯, Impeller의 업데이트로 렌더링 속도가 향상되었으며, 딥링크를 구현하는 도구, Windows Arm64 지원 등이 포함되어 있습니다!

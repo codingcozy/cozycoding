@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to Disable Autofill for Real"
 link: "https://dev.to/gera2ld/how-to-disable-autofill-for-real-1411"
+isUpdated: true
 ---
+
+
 
 
 알고 계시겠지만, 브라우저는 입력란에 대해 자동 완성 및 자동 기입 기능을 제공합니다.

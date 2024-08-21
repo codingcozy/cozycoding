@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Share On LinkedIn Web Link"
 link: "https://dev.to/theholyspirit/share-on-linkedin-web-link-em"
+isUpdated: true
 ---
+
+
 
 
 아이디어는 공유함으로써 성장합니다. 시청자들이 소셜 미디어에서 자신의 경험을 공유할 수 있도록 허용하여 그들과 소통하세요. 연구에 따르면, 읽는 사람들은 미디어 콘텐츠 근처에 쉽게 사용할 수 있는 버튼이나 링크가 있을 때 더 많이 공유한다는 것을 보여줍니다. LinkedIn에서 공유 버튼을 설정하는 방법은 다음과 같습니다.

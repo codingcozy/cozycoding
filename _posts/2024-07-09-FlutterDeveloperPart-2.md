@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter — Developer — Part-2"
 link: "https://medium.com/@rubanraghavendar/flutter-developer-part-2-fb922bb177a7"
+isUpdated: true
 ---
+
+
 
 
 플러터: 완전한 로드맵 시리즈...

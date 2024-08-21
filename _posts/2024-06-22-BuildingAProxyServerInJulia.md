@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Building A Proxy Server In Julia"
 link: "https://medium.com/chifi-media/building-a-proxy-server-in-julia-9a6e39d5803c"
+isUpdated: true
 ---
+
+
+
 
 
 올해에 서버 및 웹사이트를 배포하는 데 중요한 계획이 있어요. 1년 반 동안 데이터 과학 관점에서 웹 개발을 위해 타깃으로 삼는 줄리아 모듈 시리즈를 개발해 왔어요. 이러한 모듈들이 결합되어 상호 연결된 서버 시스템을 형성하고 이를 올해 초에 배포할 계획입니다. Chifi, Toolips, Olive와 관련해서는 2024년이 될 것입니다. 이 웹 시스템을 용이하게 지원하기 위해 만들어 놓은 생태계 개요를 확인하고 싶다면, chifi README가 좋은 시작점이에요:

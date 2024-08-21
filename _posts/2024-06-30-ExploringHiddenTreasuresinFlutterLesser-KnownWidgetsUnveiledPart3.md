@@ -1,14 +1,18 @@
 ---
-title: "Flutter 숨겨진 보물 탐험 잘 알려지지 않은 위젯 공개  Part 3"
+title: "Flutter 숨겨진 보물 탐험 잘 알려지지 않은 위젯 공개 Part 3"
 description: ""
 coverImage: "/assets/img/2024-06-30-ExploringHiddenTreasuresinFlutterLesser-KnownWidgetsUnveiledPart3_0.png"
 date: 2024-06-30 18:46
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-30-ExploringHiddenTreasuresinFlutterLesser-KnownWidgetsUnveiledPart3_0.png
 tag: Tech
 originalTitle: "Exploring Hidden Treasures in Flutter: Lesser-Known Widgets Unveiled — Part 3"
 link: "https://medium.com/stackademic/exploring-hidden-treasures-in-flutter-lesser-known-widgets-unveiled-part-3-3c92242fa181"
+isUpdated: true
 ---
+
+
+
 
 플러터는 다양하고 시각적으로 멋진 애플리케이션을 개발할 수 있도록 개발자들에게 넓은 위젯 카탈로그로 유명합니다. 자주 사용되는 위젯들은 잘 알려져 있지만, 플러터는 잘 알려지지 않지만 매우 유용한 다양한 위젯들도 제공합니다. UI의 세련됨과 기능성을 향상시킬 수 있는 이런 숨겨진 보석들을 알아보겠습니다.
 

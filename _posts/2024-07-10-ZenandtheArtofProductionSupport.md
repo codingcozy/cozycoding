@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Zen and the Art of Production Support"
 link: "https://medium.com/@danielwsinger/zen-and-the-art-of-production-support-d05f4c1f55a5"
+isUpdated: true
 ---
+
+
 
 
 스타트업에서의 프로덕션 지원은 인기가 없을 수 있어요. "빠르게 진행하고 문제를 해결하라"는 세상에서, 많은 것이 망가지고 당신은 빠르게 움직여야 합니다. 버그 보고서와 경고는 스트레스를 유발하며, 모든 것이 긴급하며, 고쳐야 할 문제가 빨리 그리고 허접하게 처리됩니다. 다음에 무슨 일이 일어날 지 아무도 모릅니다.

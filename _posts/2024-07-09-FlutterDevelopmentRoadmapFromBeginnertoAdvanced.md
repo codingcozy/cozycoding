@@ -3,12 +3,15 @@ title: "Flutter 개발 로드맵 초급부터 고급까지 단계별 안내"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-09 22:52
-ogImage:
+ogImage: 
   url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Flutter Development Roadmap: From Beginner to Advanced"
 link: "https://medium.com/@bhavesh.sachala/flutter-development-roadmap-from-beginner-to-advanced-06e6f65116ad"
+isUpdated: true
 ---
+
+
 
 # 초급자 레벨
 

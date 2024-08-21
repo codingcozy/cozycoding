@@ -3,12 +3,16 @@ title: "예제와 함께 배우는 Flutter에서의 MVC 아키텍처 완벽 가�
 description: ""
 coverImage: "/assets/img/2024-06-21-UnderstandingMVCArchitectureinFlutterAComprehensiveGuidewithExamples_0.png"
 date: 2024-06-21 21:27
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-UnderstandingMVCArchitectureinFlutterAComprehensiveGuidewithExamples_0.png
 tag: Tech
 originalTitle: "Understanding MVC Architecture in Flutter: A Comprehensive Guide with Examples"
 link: "https://medium.com/@Faiz_Rhm/understanding-mvc-architecture-in-flutter-a-comprehensive-guide-with-examples-5d1a372c7eaf"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-21-UnderstandingMVCArchitectureinFlutterAComprehensiveGuidewithExamples_0.png" />
 

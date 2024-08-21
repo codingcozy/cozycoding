@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "What is kotlin best for?"
 link: "https://medium.com/@satishlokhande5674/what-is-kotlin-best-for-9f33169bb5fd"
+isUpdated: true
 ---
+
+
+
 
 
 /assets/img/2024-07-06-Whatiskotlinbestfor_0.png

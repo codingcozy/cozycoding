@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "What is the difference between ListView and RecyclerView?"
 link: "https://medium.com/@satishlokhande5674/what-is-the-difference-between-listview-and-recyclerview-045ea3dfe8c2"
+isUpdated: true
 ---
+
+
+
 
 
 /assets/img/2024-07-06-WhatisthedifferencebetweenListViewandRecyclerView_0.png

@@ -1,5 +1,5 @@
 ---
-title: "엔터프라이즈 웹 프레임워크 대결 React vs. Angular vs. Blazor"
+title: "React vs. Angular vs. Blazor 비교 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-ReactvsAngularvsBlazorTheUltimateShowdownforEnterprise-ReadyFrontendFrameworks_0.png"
 date: 2024-08-21 17:29
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "React vs. Angular vs. Blazor The Ultimate Showdown for Enterprise-Ready Frontend Frameworks"
 link: "https://medium.com/@bairagi44/react-vs-angular-vs-blazor-the-ultimate-showdown-for-enterprise-ready-frontend-frameworks-3badb6ba38a2"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245483654
 ---
 
 

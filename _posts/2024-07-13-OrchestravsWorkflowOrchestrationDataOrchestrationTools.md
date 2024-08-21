@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Orchestra vs. Workflow Orchestration   Data Orchestration Tools"
 link: "https://medium.com/@hugolu87/orchestra-vs-workflow-orchestration-data-orchestration-tools-d31587158f34"
+isUpdated: true
 ---
+
+
 
 
 # 오케스트라 플랫폼과 오픈 소스 데이터 오케스트레이션 도구 간의 유사점과 차이점에 대해 알아보세요.

@@ -1,5 +1,5 @@
 ---
-title: "스마트 컴포넌트를 위한 Storybook 스토리북"
+title: "컴포넌트 테스트를 위한 Storybook 사용 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-StorybookStoriesforSmartComponents_0.png"
 date: 2024-08-21 18:53
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Storybook Stories for Smart Components"
 link: "https://dev.to/bymarsel/storybook-stories-for-smart-components-35g5"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245363120
 ---
 
 

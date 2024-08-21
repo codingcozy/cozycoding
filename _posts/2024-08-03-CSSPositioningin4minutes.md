@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "CSS Positioning in 4 minutes"
 link: "https://medium.com/@aravind16101800/css-positioning-in-4-minutes-e15f798c26c6"
+isUpdated: true
+updatedAt: 1724246417614
 ---
 
 

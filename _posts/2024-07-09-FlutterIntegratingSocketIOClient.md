@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter: Integrating Socket IO Client"
 link: "https://medium.com/flutter-community/flutter-integrating-socket-io-client-2a8f6e208810"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-09-FlutterIntegratingSocketIOClient_0.png" />

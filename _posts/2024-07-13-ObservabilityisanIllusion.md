@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Observability is an Illusion"
 link: "https://medium.com/@PurpleGreenLemon/observability-is-an-illusion-08ecc4fea730"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-13-ObservabilityisanIllusion_0.png)

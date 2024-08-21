@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Composition Over Inheritance; A Controversial Take"
 link: "https://medium.com/@xainulabideen600/composition-over-inheritance-a-controversial-take-9570738b512c"
+isUpdated: true
 ---
+
+
+
 
 
 ![Alt text](/assets/img/2024-07-01-CompositionOverInheritanceAControversialTake_0.png)

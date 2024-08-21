@@ -3,12 +3,15 @@ title: "Nextjs 14에서 Tailwind CSS를 사용하는 방법"
 description: ""
 coverImage: "/assets/nextjs.png"
 date: 2024-07-23 20:30
-ogImage:
+ogImage: 
   url: /assets/nextjs.png
 tag: Tech
 originalTitle: "Tailwind CSS"
 link: "https://nextjs.org/docs/app/building-your-application/styling/tailwind-css"
+isUpdated: true
 ---
+
+
 
 # Tailwind CSS
 

@@ -1,5 +1,5 @@
 ---
-title: "대시보드 UI 디자인 예시 크리에이티브와 마케팅  258번째 컬렉션"
+title: "대시보드 UI 디자인 예시 크리에이티브와 마케팅 258번째 컬렉션"
 description: ""
 coverImage: "/assets/img/2024-06-22-DashboardUIDesignExamplesCreativeMarketingvol258_0.png"
 date: 2024-06-22 15:52
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Dashboard UI Design Examples: Creative , Marketing — vol. 258"
 link: "https://medium.com/theymakedesign/dashboard-ui-design-examples-vol-258-fd39629f05f4"
+isUpdated: true
 ---
+
+
+
 
 
 ## 디지털 마케팅 분야를 위해 디자인된 창의적이고 마케팅 대시보드를 살펴보세요. 창의적인 웹 앱 개발팀이 만들어, 예술적이면서도 기능적인 대시보드를 제공합니다.

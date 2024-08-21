@@ -3,12 +3,15 @@ title: "Riverpod으로 네트워크 호출하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-07 22:28
-ogImage:
+ogImage: 
   url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Network calls with Riverpod"
 link: "https://medium.com/@rkishan516/network-calls-with-riverpod-8eb53aec17bb"
+isUpdated: true
 ---
+
+
 
 모든 앱은 서버 측에서 데이터를 보내고 받기 위해 어떤 네트워크 호출을 해야 합니다. 플러터 앱에서 이를 간단하게 만들기 위해, Riverpod을 사용하여 리포지토리 레이어를 좀더 간단하게 만들겠습니다.
 

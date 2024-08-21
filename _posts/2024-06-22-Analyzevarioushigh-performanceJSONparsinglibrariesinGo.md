@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Analyze various high-performance JSON parsing libraries in Go."
 link: "https://medium.com/faun/analyze-various-high-performance-json-parsing-libraries-in-go-4c699fc12cba"
+isUpdated: true
 ---
+
+
+
 
 
 ![image](/assets/img/2024-06-22-Analyzevarioushigh-performanceJSONparsinglibrariesinGo_0.png)

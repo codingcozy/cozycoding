@@ -1,5 +1,5 @@
 ---
-title: "CSS 그리드에 패딩을 사용하면 컨테이너를 넘어갈 수 있습니다."
+title: "CSS 그리드에서 컨테이너를 넘어가는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-21 16:56
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "CSS grid with padding overflows container"
 link: "https://medium.com/@fixitblog/solved-css-grid-with-padding-overflows-container-24a1a4e4512e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246029733
 ---
 
 

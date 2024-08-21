@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to implement Callback Function in Dart"
 link: "https://medium.com/@alfonsinabeltref/how-to-implement-callback-function-in-dart-5f06d059df06"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-22-HowtoimplementCallbackFunctioninDart_0.png" />

@@ -1,5 +1,5 @@
 ---
-title: "단어 구름 생성의 심층 탐구"
+title: "단어 클라우드 생성하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-DeepDiveintoWordCloudCreation_0.png"
 date: 2024-08-21 17:08
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Deep Dive into Word Cloud Creation"
 link: "https://medium.com/@nayeonkn0330/deep-dive-into-word-cloud-creation-c2fc7fc09c12"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245977604
 ---
 
 

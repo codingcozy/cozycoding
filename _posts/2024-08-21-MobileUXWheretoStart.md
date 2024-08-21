@@ -1,5 +1,5 @@
 ---
-title: "Mobile UX 디자인 초보자를 위한 시작 가이드"
+title: "Mobile UX 디자인의 기초적인 내용 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-MobileUXWheretoStart_0.png"
 date: 2024-08-21 18:32
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Mobile UX Where to Start"
 link: "https://medium.com/friflex/mobile-ux-where-to-start-deb539df1688"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245695266
 ---
 
 

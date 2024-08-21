@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "#90 World Community Game-Mini Game【Figure VS Card】"
 link: "https://medium.com/world-community-game-project/90-world-community-game-mini-game-figure-vs-card-e5923698a7c2"
+isUpdated: true
 ---
+
+
 
 
 ![Game](/assets/img/2024-07-14-90WorldCommunityGame-MiniGameFigureVSCard_0.png)

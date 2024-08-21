@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Building Powerful Cross-Platform Mobile Apps with Flutter"
 link: "https://medium.com/@1saptarshichowdhury/building-powerful-cross-platform-mobile-apps-with-flutter-aa576fec5c6b"
+isUpdated: true
 ---
+
+
+
 
 
 플러터(Flutter)를 활용하여 모바일 개발의 최대 잠재력을 발휘하세요. iOS와 안드로이드를 위한 고성능, 아름다운 앱을 만드는 방법을 배워보세요!

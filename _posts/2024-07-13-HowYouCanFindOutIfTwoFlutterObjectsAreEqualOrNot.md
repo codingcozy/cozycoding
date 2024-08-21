@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How You Can Find Out If Two Flutter Objects Are Equal Or Not"
 link: "https://medium.com/gitconnected/how-you-can-find-out-if-two-flutter-objects-are-equal-or-not-6271c62a2807"
+isUpdated: true
 ---
+
+
 
 
 

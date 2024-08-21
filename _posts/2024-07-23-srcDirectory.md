@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "src Directory"
 link: "https://nextjs.org/docs/app/building-your-application/configuring/src-directory"
+isUpdated: true
 ---
+
+
 
 
 # src 디렉토리

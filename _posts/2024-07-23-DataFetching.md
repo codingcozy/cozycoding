@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Data Fetching"
 link: "https://nextjs.org/docs/app/building-your-application/data-fetching"
+isUpdated: true
 ---
+
+
 
 
 # 데이터 추출

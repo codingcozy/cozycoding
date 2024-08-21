@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Journey to Becoming a Great Programmer: Insights from My Bootcamp Adventure"
 link: "https://medium.com/@afifalthafs1/the-journey-to-becoming-a-great-programmer-insights-from-my-bootcamp-adventure-e7449646615b"
+isUpdated: true
 ---
+
+
 
 
 작가가 이 글을 쓸 당시, 저는 곧 GoTo에서 소프트웨어 엔지니어링 부트캠프 여정을 마친 직후였습니다. GoTo는 인도네시아의 기술 기업으로, 온디맨드 교통, 전자 상거래, 음식 및 식료품 배달, 물류 및 이행, 그리고 금융 서비스를 제공합니다. 저는 캠퍼스 채용 프로그램을 통해 신입 소프트웨어 엔지니어로 GoTo에 합류했습니다. 이 채용 프로그램은 팀에 합류하기 전에 엔지니어링 부트캠프에 참석하도록 지원자들을 요구합니다.

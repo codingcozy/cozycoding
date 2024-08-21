@@ -1,5 +1,5 @@
 ---
-title: "C Net에서의 멀티스레딩 소개 및 모범 사례"
+title: "C Net에서의 멀티스레딩 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-06-19-MultithreadinginCNetIntroductionandBestpractices_0.png"
 date: 2024-06-19 14:35
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Multithreading in C# .Net Introduction and Best practices"
 link: "https://medium.com/@codebob75/multithreading-in-c-net-introduction-and-best-practices-fe32257e2956"
+isUpdated: true
 ---
+
+
+
 
 
 

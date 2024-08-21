@@ -1,14 +1,18 @@
 ---
-title: "포괄적인 미디어 쿼리 안내"
+title: "CSS 미디어 쿼리 정리"
 description: ""
 coverImage: "/assets/img/2024-06-19-AComprehensiveMediaQueryGuide_0.png"
 date: 2024-06-19 00:00
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-AComprehensiveMediaQueryGuide_0.png
 tag: Tech
 originalTitle: "A Comprehensive MediaQuery Guide"
 link: "https://medium.com/@rishad2002/a-comprehensive-mediaquery-guide-7ce6c65f7147"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-19-AComprehensiveMediaQueryGuide_0.png" />
 

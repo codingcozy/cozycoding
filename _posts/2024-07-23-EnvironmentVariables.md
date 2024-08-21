@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Environment Variables"
 link: "https://nextjs.org/docs/app/building-your-application/configuring/environment-variables"
+isUpdated: true
 ---
+
+
 
 
 # 환경 변수

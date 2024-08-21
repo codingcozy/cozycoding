@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How do I add a benchmark to flutter?"
 link: "https://medium.com/@satishlokhande5674/how-do-i-add-a-benchmark-to-flutter-32f635195d14"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-22-HowdoIaddabenchmarktoflutter_0.png" />

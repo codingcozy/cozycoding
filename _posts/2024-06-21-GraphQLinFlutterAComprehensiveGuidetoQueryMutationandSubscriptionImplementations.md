@@ -1,5 +1,5 @@
 ---
-title: "2024년 Flutter에서 GraphQL 사용법 쿼리, 뮤테이션, 서브스크립션 구현 완벽 가이드"
+title: "2024년 Flutter에서 GraphQL 사용법 쿼리, 뮤테이션, 서브스크립션 구현 가이드"
 description: ""
 coverImage: "/assets/img/2024-06-21-GraphQLinFlutterAComprehensiveGuidetoQueryMutationandSubscriptionImplementations_0.png"
 date: 2024-06-21 22:20
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "GraphQL in Flutter: A Comprehensive Guide to Query, Mutation, and Subscription Implementations"
 link: "https://medium.com/@ahmedawwan/graphql-in-flutter-a-comprehensive-guide-to-query-mutation-and-subscription-implementations-cb868c07eab7"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-06-21-GraphQLinFlutterAComprehensiveGuidetoQueryMutationandSubscriptionImplementations_0.png)

@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Shapes and Clipping in Flutter"
 link: "https://medium.com/@pomis172/mastering-shapes-and-clipping-in-flutter-7c7caee5bcba"
+isUpdated: true
 ---
+
+
+
 
 
 도형과 상자를 다루는 것은 설계된 UI를 구현하는 방법을 알지 못하면 압도될 수 있습니다. 이 기사에서는 매우 기초부터 시작하여 일부 고급 예제로 이동할 것입니다.

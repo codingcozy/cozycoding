@@ -1,5 +1,5 @@
 ---
-title: "사용하지 않지만 사용해야 할 HTML의 상위 5가지 기능"
+title: "자주 사용하는 HTML 태그 5가지 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-Top5HTMLFeaturesYoureNotUsingButShouldBe_0.png"
 date: 2024-08-21 18:46
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Top 5 HTML Features Youre Not Using (But Should Be)"
 link: "https://dev.to/safdarali/top-5-html-features-youre-not-using-but-should-be-2i0e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244690127
 ---
 
 

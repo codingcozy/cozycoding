@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Defining Routes"
 link: "https://nextjs.org/docs/app/building-your-application/routing/defining-routes"
+isUpdated: true
 ---
+
+
 
 
 # 루트 정의하기

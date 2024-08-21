@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Memory Usage"
 link: "https://nextjs.org/docs/app/building-your-application/optimizing/memory-usage"
+isUpdated: true
 ---
+
+
 
 
 # 메모리 사용량

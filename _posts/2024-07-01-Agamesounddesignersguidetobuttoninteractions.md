@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "A game sound designer’s guide to button interactions"
 link: "https://medium.com/user-experience-design-1/a-game-sound-designers-guide-to-button-interactions-6837dd5cc977"
+isUpdated: true
 ---
+
+
+
 
 
 ## 게임에서 기본 상호 작용 패턴의 청각적 피드백 이해하기.

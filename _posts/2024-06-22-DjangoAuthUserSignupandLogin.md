@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Django Auth User Signup and Login"
 link: "https://medium.com/@devsumitg/django-auth-user-signup-and-login-7b424dae7fab"
+isUpdated: true
 ---
+
+
+
 
 
 아래는 Django Best Practices에 대한 이전 블로그를 확인해보세요: Tips for Writing Better Code.

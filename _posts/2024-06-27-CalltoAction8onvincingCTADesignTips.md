@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Call to Action: 8 Сonvincing CTA Design Tips"
 link: "https://medium.com/@FlowMapp/call-to-action-8-%D1%81onvincing-cta-design-tips-596a8f39b296"
+isUpdated: true
 ---
+
+
+
 
 
 디지턈 솔루션의 전환율을 극대화하기 위해 CTA(호출 행동 요소)가 무엇인지 알아보세요. 

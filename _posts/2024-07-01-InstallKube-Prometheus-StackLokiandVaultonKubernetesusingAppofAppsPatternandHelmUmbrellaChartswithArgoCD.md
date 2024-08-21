@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Install Kube-Prometheus-Stack, Loki, and Vault on Kubernetes using App of Apps Pattern and Helm Umbrella Charts with ArgoCD"
 link: "https://medium.com/devops-dev/install-kube-prometheus-stack-loki-and-vault-on-kubernetes-using-app-of-apps-pattern-and-helm-959d02f21959"
+isUpdated: true
 ---
+
+
+
 
 
 쿠버네티스 배포에서 GitOps 패턴을 사용하는 것은 현대 인프라 및 복잡한 응용 프로그램 배포에서의 게임 체인저입니다. argocd와 같은 도구를 사용하여 응용 프로그램을 git 저장소에 추적하여 저장소에 저장된 매니페스트와 동기화하여 DevOps 및 인프라 코드 관행을 향상시킵니다.

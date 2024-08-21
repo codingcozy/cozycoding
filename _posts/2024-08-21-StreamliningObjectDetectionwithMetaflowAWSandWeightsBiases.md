@@ -1,5 +1,5 @@
 ---
-title: "Metaflow, AWS, Weights  Biases로 객체 탐지 최적화하기"
+title: "Metaflow, AWS, Weights Biases로 객체 탐색 최적화하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-StreamliningObjectDetectionwithMetaflowAWSandWeightsBiases_0.png"
 date: 2024-08-21 17:59
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Streamlining Object Detection with Metaflow, AWS, and Weights , Biases"
 link: "https://medium.com/towards-data-science/streamlining-object-detection-with-metaflow-aws-and-weights-biases-b44a14cb2e11"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245339652
 ---
 
 

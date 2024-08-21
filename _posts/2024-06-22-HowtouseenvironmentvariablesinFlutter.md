@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to use environment variables in Flutter?"
 link: "https://medium.com/@ajay.kumar_14/how-to-use-environment-variables-in-flutter-90cfc882177d"
+isUpdated: true
 ---
+
+
+
 
 
 플러터는 크로스 플랫폼 기능, 성능 및 다양한 위젯 라이브러리로 모바일 앱을 구축하기 위해 인기가 있습니다. 플러터 개발자로서, API 키, 데이터베이스 URL 및 환경별 변수와 같은 다양한 구성 설정이 필요한 프로젝트에 자주 참여합니다. 이러한 설정을 적절하게 관리하는 것은 여러 가지 이유로 중요합니다:

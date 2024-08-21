@@ -1,5 +1,5 @@
 ---
-title: "플러터플로우 Low-Code 앱 개발을 위한 빠른 프로토타이핑 좋은 점, 나쁜 점 및 플로우"
+title: "플러터플로우 Low-Code 앱 개발을 위한 빠른 프로토타이핑 좋은 점, 나쁜 점 정리"
 description: ""
 coverImage: "/assets/img/2024-06-19-FlutterFlowRapidPrototypingforLow-CodeAppDevelopmentTheGoodtheBadandtheFlow_0.png"
 date: 2024-06-19 08:06
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "FlutterFlow: Rapid Prototyping for Low-Code App Development (The Good, the Bad, and the Flow)"
 link: "https://medium.com/@amr.m.m.hassanein/flutterflow-rapid-prototyping-for-low-code-app-development-the-good-the-bad-and-the-flow-c1d7674b6882"
+isUpdated: true
 ---
+
+
+
 
 
 플러터플로우는 로우코드 앱 개발 분야에서 중요한 역할을 하는 기업으로 떠오르고 있어요. 와이컴비네이터의 지원을 받은 플러터플로우는 구글 클라우드와 협력하여 1,250,000명 이상의 사용자로 이루어진 활발한 커뮤니티를 자랑해요. 그런데 무엇이 이렇게 매력적으로 만드는 걸까요? 그리고 여러분의 프로젝트에 정말로 적합한 도구일까요? 함께 알아봐요.

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Middleware"
 link: "https://nextjs.org/docs/app/building-your-application/routing/middleware"
+isUpdated: true
 ---
+
+
 
 
 # 미들웨어

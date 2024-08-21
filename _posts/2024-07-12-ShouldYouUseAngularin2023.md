@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Should You Use Angular in 2023?"
 link: "https://medium.com/better-programming/should-you-use-angular-in-2023-e85221071712"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-12-ShouldYouUseAngularin2023_0.png)

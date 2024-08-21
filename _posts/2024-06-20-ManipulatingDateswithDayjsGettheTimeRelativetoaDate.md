@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Manipulating Dates with Day.js — Get the Time Relative to a Date"
 link: "https://medium.com/javascript-in-plain-english/manipulating-dates-with-day-js-get-the-time-to-a-date-efcb149945ab"
+isUpdated: true
 ---
+
+
+
 
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Force Weekly"
 link: "https://medium.com/flutterforce/flutter-force-weekly-63843f06aa7c"
+isUpdated: true
 ---
+
+
 
 
 플러터에 관한 모든 것을 한 곳에서 확인하세요! 코드, 저장소, 라이브러리, 프로젝트 및 기사들을 발견해 보세요. 함께 멋진 앱을 만들어봐요!

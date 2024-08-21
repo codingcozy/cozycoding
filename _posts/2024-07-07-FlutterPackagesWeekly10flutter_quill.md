@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Packages Weekly #10: flutter_quill"
 link: "https://medium.com/@dev-woogi/flutter-packages-weekly-10-flutter-quill-19db39103298"
+isUpdated: true
 ---
+
+
+
 
 
 "flutter_quill: 플러터 앱에서 리치 텍스트 편집의 능력을 발휘하다"

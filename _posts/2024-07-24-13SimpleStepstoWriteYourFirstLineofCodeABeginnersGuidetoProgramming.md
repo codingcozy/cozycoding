@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "13 Simple Steps to Write Your First Line of Code A Beginners Guide to Programming"
 link: "https://medium.com/@learntocodetoday/13-simple-steps-to-write-your-first-line-of-code-a-beginners-guide-to-programming-4b5fb6802060"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-24-13SimpleStepstoWriteYourFirstLineofCodeABeginnersGuidetoProgramming_0.png)

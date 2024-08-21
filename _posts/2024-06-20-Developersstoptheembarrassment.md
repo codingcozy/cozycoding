@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Developers, stop the embarrassment"
 link: "https://medium.com/user-experience-design-1/developers-stop-the-embarrassment-5c75de8f4c06"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-20-개발자_0.png">

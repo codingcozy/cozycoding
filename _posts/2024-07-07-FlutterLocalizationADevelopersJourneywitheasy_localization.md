@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Localization: A Developer’s Journey with easy_localization"
 link: "https://medium.com/@juzuli.coinedone/flutter-localization-a-developers-journey-with-easy-localization-ebf5d93b871a"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-07-07-FlutterLocalizationADevelopersJourneywitheasy_localization_0.png" />

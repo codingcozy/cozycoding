@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Draft Mode"
 link: "https://nextjs.org/docs/app/building-your-application/configuring/draft-mode"
+isUpdated: true
 ---
+
+
 
 
 # 초안 모드

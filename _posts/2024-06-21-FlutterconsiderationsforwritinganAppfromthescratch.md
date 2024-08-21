@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter: considerations for writing an App from the scratch"
 link: "https://medium.com/stackademic/flutter-considerations-for-writing-an-app-from-the-scratch-1be5aec4dd76"
+isUpdated: true
 ---
+
+
+
 
 
 ## 앱을 작성할 때 고려해야 할 주제

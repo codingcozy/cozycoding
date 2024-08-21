@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "The end of the internet"
 link: "https://medium.com/@michalmalewicz/the-end-of-the-internet-f27317b8c687"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-06-19-Theendoftheinternet_0.png)

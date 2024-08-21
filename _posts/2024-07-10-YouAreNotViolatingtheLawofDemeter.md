@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "You Are Not Violating the Law of Demeter"
 link: "https://medium.com/code-like-a-girl/you-are-not-violating-the-law-of-demeter-cd48298aa02c"
+isUpdated: true
 ---
+
+
 
 
 최근 동료와 논의한 내용 중 하나가 제 코드가 데메테르 법칙을 위반한다고 말한 것이었습니다.

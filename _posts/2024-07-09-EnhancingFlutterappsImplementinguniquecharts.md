@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Enhancing Flutter apps: Implementing unique charts"
 link: "https://medium.com/mobile-app-circular/enhancing-flutter-apps-implementing-unique-charts-540fc1ab2749"
+isUpdated: true
 ---
+
+
 
 
 ## Flutter를 사용하여 경로를 이용해 하트 모양의 액체 차트 만들기

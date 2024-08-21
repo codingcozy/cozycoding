@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Next.js Project Structure"
 link: "https://nextjs.org/docs/getting-started/project-structure"
+isUpdated: true
 ---
+
+
 
 
 # Next.js 프로젝트 구조

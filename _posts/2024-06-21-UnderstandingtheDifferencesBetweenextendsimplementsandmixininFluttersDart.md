@@ -3,12 +3,16 @@ title: "플러터 다트에서 extends, implements, mixin의 차이점 완벽 �
 description: ""
 coverImage: "/assets/img/2024-06-21-UnderstandingtheDifferencesBetweenextendsimplementsandmixininFluttersDart_0.png"
 date: 2024-06-21 23:00
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-UnderstandingtheDifferencesBetweenextendsimplementsandmixininFluttersDart_0.png
 tag: Tech
 originalTitle: "Understanding the Differences Between “extends”, “implements”, and “mixin” in Flutter’s Dart"
 link: "https://medium.com/@lakshithlfvithana/understanding-the-differences-between-extends-implements-and-mixin-in-flutters-dart-f4bb152dd464"
+isUpdated: true
 ---
+
+
+
 
 ![image](/assets/img/2024-06-21-UnderstandingtheDifferencesBetweenextendsimplementsandmixininFluttersDart_0.png)
 

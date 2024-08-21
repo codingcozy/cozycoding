@@ -3,12 +3,16 @@ title: "Flutter 백그라운드 작업 앱 성능 향상 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterBackgroundTasksImprovingAppPerformance_0.png"
 date: 2024-06-21 23:32
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutterBackgroundTasksImprovingAppPerformance_0.png
 tag: Tech
 originalTitle: "Flutter Background Tasks: Improving App Performance"
 link: "https://medium.com/@parthbhanderi01/flutter-background-tasks-improving-app-performance-d1a6d54bd9ec"
+isUpdated: true
 ---
+
+
+
 
 요즘의 빠르게 변화하는 디지턈 세계에서 사용자들은 모바일 어플리케이션이 효율적이고 반응성이 있기를 원합니다. 개발자들은 이러한 요구를 충족시키기 위해 어플리케이션의 성능을 향상시키기 위한 다양한 전략을 사용해야 합니다. 그 중 하나는 백그라운드 작업을 실행하는 것인데, 이를 통해 Flutter 어플리케이션이 사용자 경험을 방해하지 않으면서 고통스러운 작업을 처리할 수 있습니다. 이 블로그 글에서 Flutter의 백그라운드 작업과 중요성을 살펴보고, 구현하는 방법을 보여줄 코딩 예제를 제공해보겠습니다.
 

@@ -1,14 +1,18 @@
 ---
-title: "Flutter 앱 설정을 위한 Firebase 설정 방법  Android 및 Web"
+title: "Flutter 앱 설정을 위한 Firebase 설정 방법 Android 및 Web"
 description: ""
 coverImage: "/assets/img/2024-06-21-HowtosetupFirebaseforFlutterAppAndroidandWeb_0.png"
 date: 2024-06-21 23:21
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-HowtosetupFirebaseforFlutterAppAndroidandWeb_0.png
 tag: Tech
 originalTitle: "How to setup Firebase for Flutter App — Android and Web."
 link: "https://medium.com/@dev.hassankhan/how-to-setup-firebase-for-flutter-app-android-and-web-afa7abf488d2"
+isUpdated: true
 ---
+
+
+
 
 ![이미지](/assets/img/2024-06-21-HowtosetupFirebaseforFlutterAppAndroidandWeb_0.png)
 

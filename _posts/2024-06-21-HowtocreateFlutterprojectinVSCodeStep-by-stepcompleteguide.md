@@ -1,5 +1,5 @@
 ---
-title: "VS Code에서 Flutter 프로젝트 만드는 방법  단계별 완벽 가이드"
+title: "VS Code에서 Flutter 프로젝트 만드는 방법 단계별 가이드"
 description: ""
 coverImage: "/assets/img/2024-06-21-HowtocreateFlutterprojectinVSCodeStep-by-stepcompleteguide_0.png"
 date: 2024-06-21 21:30
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to create Flutter project in VS Code| Step-by-step complete guide"
 link: "https://medium.com/@kamranktk807/how-to-create-flutter-project-in-vs-code-step-by-step-complete-guide-466e22b235ef"
+isUpdated: true
 ---
+
+
+
 
 
 ![image](/assets/img/2024-06-21-HowtocreateFlutterprojectinVSCodeStep-by-stepcompleteguide_0.png)

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Fundamental Proof Techniques Every Programmer Should Master"
 link: "https://medium.com/@pepitoscrespo/very-basic-proof-based-mathematics-every-average-programmer-should-know-2c307f7dc664"
+isUpdated: true
 ---
+
+
 
 
 

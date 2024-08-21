@@ -1,5 +1,5 @@
 ---
-title: "CC 웹 소켓을 활용한 실시간 플러터 앱 구축"
+title: "CC 웹 소켓을 활용한 실시간 플러터 앱 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-BuildingReal-TimeFlutterAppswithCCWebSocket_0.png"
 date: 2024-06-19 14:20
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Building Real-Time Flutter Apps with CC Web Socket"
 link: "https://medium.com/@ferhaterdem/building-real-time-flutter-apps-with-cc-web-socket-c8429fa5c83c"
+isUpdated: true
 ---
+
+
+
 
 
 환영합니다! 실시간 Flutter 애플리케이션의 세계로 오신 것을 환영합니다! 오늘은 CC Web Socket을 소개할 기쁨이 있습니다. 이 강력하고 유연한 웹소켓 클라이언트는 Flutter 애플리케이션을 위해 특별히 설계되었습니다. 채팅 앱, 라이브 트레이딩 플랫폼, 또는 다른 실시간 애플리케이션을 구축 중이라면 CC Web Socket이 여러분을 도와드릴 것입니다.

@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Navigating Mobile Development: Platforms, Architectures, and My Journey with HNG Internship."
 link: "https://medium.com/@adewoleemmanuel36/navigating-mobile-development-platforms-architectures-and-my-journey-with-hng-internship-3ead41159dfa"
+isUpdated: true
 ---
+
+
+
 
 
 # 소개

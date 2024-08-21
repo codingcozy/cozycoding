@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Bootstrap Fundamentals  Spacing 5"
 link: "https://medium.com/@tomas-svojanovsky/bootstrap-fundamentals-spacing-5-339f901cb0c0"
+isUpdated: true
 ---
+
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Jetpack Compose 상태 애니메이션 사용 시 주의사항"
+title: "Jetpack Compose 상태 애니메이션 사용 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-Becarefulwithjetpackcomposestateanimation_0.png"
 date: 2024-08-21 18:11
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Be careful with jetpack compose state animation"
 link: "https://medium.com/@camp888/be-careful-with-jetpack-compose-state-animation-89cffc6d773c"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246074075
 ---
 
 

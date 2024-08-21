@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "CSS basics for non-web designers"
 link: "https://dev.to/jojo97/css-basics-for-non-web-designers-50h7"
+isUpdated: true
 ---
+
+
 
 
 CSS는 웹 개발의 한 측면으로, 개발자들이 웹 페이지의 레이아웃, 시각적 스타일링 및 사용자 경험을 제어할 수 있게 합니다.

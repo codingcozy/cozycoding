@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "From Core to Kernel: The Basics of Operating Systems Explained"
 link: "https://medium.com/@devanshkatheria/from-core-to-kernel-the-basics-of-operating-systems-explained-d4fc63163377"
+isUpdated: true
 ---
+
+
 
 
 이 초보자 친화적인 안내서에서는 컴퓨터가 작동하는 핵심 구성 요소를 설명하겠습니다: 운영 체제, 커널, 코어, 프로세스, 그리고 스레드입니다. 이 기사는 이 용어들을 종종 듣지만 뒷단에서 무슨 일이 일어나고 있는지 시각화하는 데 어려움을 겪는 사람들을 위해 만들어졌습니다. 그래서 운영 체제에 대한 개요부터 시작해 보겠습니다.

@@ -1,5 +1,5 @@
 ---
-title: "2024년에 그리드는 구식이 될까 CSS 트렌드 분석"
+title: "2024년에 그리드 써도 될까, CSS 트렌드 분석"
 description: ""
 coverImage: "/assets/img/2024-08-03-CSSEn2024lesGridscesthasbeen_0.png"
 date: 2024-08-03 19:23
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "CSS  En 2024 les Grids cest has been "
 link: "https://dev.to/younup/css-en-2024-les-grids-cest-has-been--lmc"
+isUpdated: true
+updatedAt: 1724246431274
 ---
 
 

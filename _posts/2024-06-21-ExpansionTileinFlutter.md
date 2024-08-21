@@ -3,12 +3,16 @@ title: "플러터에서 Expansion Tile 사용 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-ExpansionTileinFlutter_0.png"
 date: 2024-06-21 20:50
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-ExpansionTileinFlutter_0.png
 tag: Tech
 originalTitle: "Expansion Tile in Flutter"
 link: "https://medium.com/@aakashpp/expansion-tile-in-flutter-7ba50c7386ab"
+isUpdated: true
 ---
+
+
+
 
 ![Image](/assets/img/2024-06-21-ExpansionTileinFlutter_0.png)
 

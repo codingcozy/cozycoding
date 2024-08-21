@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter development with Neovim"
 link: "https://medium.com/@lllttt06/flutter-development-with-neovim-7e45669aac53"
+isUpdated: true
 ---
+
+
+
 
 
 이 가이드는 플러터 개발을 위해 Neovim을 설정하고 사용하는 데 도움을 줍니다. Neovim 버전은 v0.10.0이며 플러그인 매니저는 lazy.nvim입니다. 제 dotfile은 여기에서 찾을 수 있습니다.

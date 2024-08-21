@@ -1,5 +1,5 @@
 ---
-title: "CSS 일간 팁 2 이 간단한 트릭으로 웹 디자인 혁신하기"
+title: " 간단한 CSS 팁으로 웹 디자인 쉽게 하기"
 description: ""
 coverImage: "/assets/img/2024-08-03-CSSDailyTips2TransformYourWebDesignwithThisSimpleTrick_0.png"
 date: 2024-08-03 19:39
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "CSS Daily Tips 2 Transform Your Web Design with This Simple Trick"
 link: "https://medium.com/dev-genius/css-daily-tips-2-transform-your-web-design-with-this-simple-trick-3d8a0d49729c"
+isUpdated: true
+updatedAt: 1724246448002
 ---
 
 

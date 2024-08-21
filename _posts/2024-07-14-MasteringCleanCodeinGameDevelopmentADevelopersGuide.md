@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Clean Code in Game Development: A Developer’s Guide"
 link: "https://medium.com/gitconnected/mastering-clean-code-in-game-development-a-developers-guide-f317d62a6440"
+isUpdated: true
 ---
+
+
 
 
 

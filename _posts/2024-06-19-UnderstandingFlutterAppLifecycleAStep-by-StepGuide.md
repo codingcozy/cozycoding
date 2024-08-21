@@ -1,5 +1,5 @@
 ---
-title: "플러터 앱 라이프사이클 이해하기 단계별 안내"
+title: "플러터 앱 라이프사이클 이해하기 "
 description: ""
 coverImage: "/assets/img/2024-06-19-UnderstandingFlutterAppLifecycleAStep-by-StepGuide_0.png"
 date: 2024-06-19 14:29
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding Flutter App Lifecycle: A Step-by-Step Guide"
 link: "https://medium.com/@sharansukesh2000/understanding-flutter-app-lifecycle-a-step-by-step-guide-89676251ac84"
+isUpdated: true
 ---
+
+
+
 
 
 # 소개

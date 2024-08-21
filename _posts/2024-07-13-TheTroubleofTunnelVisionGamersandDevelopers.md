@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Trouble of Tunnel Vision Gamers and Developers"
 link: "https://medium.com/@GWBycer/the-trouble-of-tunnel-vision-gamers-and-developers-f2168a6c73e0"
+isUpdated: true
 ---
+
+
 
 
 

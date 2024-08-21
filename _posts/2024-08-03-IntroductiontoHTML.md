@@ -1,5 +1,5 @@
 ---
-title: "HTML 기초 완벽 가이드 웹 개발을 시작하는 방법"
+title: "웹 개발을 시작할 때 알아둬야할 HTML 기초 완벽 가이드 "
 description: ""
 coverImage: "/assets/img/2024-08-03-IntroductiontoHTML_0.png"
 date: 2024-08-03 19:21
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Introduction to HTML"
 link: "https://dev.to/sudhanshu_developer/introduction-to-html-25ji"
+isUpdated: true
+updatedAt: 1724246359179
 ---
 
 

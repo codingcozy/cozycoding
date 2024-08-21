@@ -3,12 +3,16 @@ title: "Flutter에서 PDF를 표시하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-HowtoDisplayaPDFinFlutter_0.png"
 date: 2024-06-21 23:11
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-HowtoDisplayaPDFinFlutter_0.png
 tag: Tech
 originalTitle: "How to Display a PDF in Flutter"
 link: "https://medium.com/@ahmedtahaelelemy/how-to-display-a-pdf-in-flutter-9523e38f4ea1"
+isUpdated: true
 ---
+
+
+
 
 플러터는 iOS 및 Android용 모바일 앱을 구축하기 위한 강력한 프레임워크입니다. 다양한 플러그인과 패키지를 활용하여 플러터를 사용하면 앱에서 PDF 문서를 표시할 수 있습니다. 이 튜토리얼에서는 flutter_pdfview 패키지를 사용하여 Flutter 앱에서 PDF를 표시하는 방법을 알아보겠습니다.
 

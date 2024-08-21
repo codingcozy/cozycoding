@@ -1,5 +1,5 @@
 ---
-title: "HTML 초보자를 위한 가이드 Iframe과 SVG 사용법 17"
+title: "HTML에서 Iframe과 SVG 사용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-03-HTMLforBeginnersIframeSVG17_0.png"
 date: 2024-08-03 19:42
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "HTML for Beginners Iframe, SVG 17"
 link: "https://medium.com/stackademic/html-for-beginners-iframe-svg-17-4141e5bc2284"
+isUpdated: true
+updatedAt: 1724246392202
 ---
 
 

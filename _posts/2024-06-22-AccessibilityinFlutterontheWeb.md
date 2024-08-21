@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Accessibility in Flutter on the Web"
 link: "https://medium.com/flutter/accessibility-in-flutter-on-the-web-51bfc558b7d3"
+isUpdated: true
 ---
+
+
+
 
 
 ## Flutter가 어떻게 보조 기술을 사용하는 사용자에게 캔버스 렌더링 앱을 접근 가능하게 만들려고 하는가

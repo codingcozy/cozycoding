@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Third Party Libraries"
 link: "https://nextjs.org/docs/app/building-your-application/optimizing/third-party-libraries"
+isUpdated: true
 ---
+
+
 
 
 # 써드 파티 라이브러리

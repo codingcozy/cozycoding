@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "HTML for Beginners Headings, Paragraphs 4"
 link: "https://medium.com/@tomas-svojanovsky/html-for-beginners-headings-paragraphs-4-ee3724fca7e8"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-27-HTMLforBeginnersHeadingsParagraphs4_0.png" />

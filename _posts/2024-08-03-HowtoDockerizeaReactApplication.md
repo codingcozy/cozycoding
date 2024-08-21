@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Dockerize a React Application"
 link: "https://dev.to/sh20raj/how-to-dockerize-a-react-application-19kc"
+isUpdated: true
+updatedAt: 1724246370007
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Angular 상태 관리의 비밀 소스 Subject vs BehaviorSubject, 무엇을 사용해야 할까요"
+title: "Angular 상태 관리 Subject vs BehaviorSubject 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-TheSecretSauceofAngularStateManagementSubjectvsBehaviorSubject_0.png"
 date: 2024-08-21 17:13
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "The Secret Sauce of Angular State Management Subject vs. BehaviorSubject"
 link: "https://medium.com/stackademic/the-secret-sauce-of-angular-state-management-subject-vs-behaviorsubject-b624acee13cf"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244726259
 ---
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "My Journey Towards the Best: A Software Engineer’s Journal"
 link: "https://medium.com/@shivampatel066/my-journey-towards-the-best-a-software-engineers-journal-455ceee6a568"
+isUpdated: true
 ---
+
+
 
 
 ![My Journey Towards the Best: A Software Engineer's Journal](/assets/img/2024-07-07-MyJourneyTowardstheBestASoftwareEngineersJournal_0.png)

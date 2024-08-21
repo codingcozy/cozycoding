@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The 5 Design Patterns For Every Flutter Engineer"
 link: "https://medium.com/@efenstakes101/the-5-design-patterns-for-every-flutter-engineer-a791bca05db7"
+isUpdated: true
 ---
+
+
 
 
 

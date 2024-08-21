@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Anchor Away, The New CSS Anchor Positioning API Released by Chrome A Boon for React Developers"
 link: "https://medium.com/stackademic/anchor-away-the-new-css-anchor-positioning-api-released-by-chrome-a-boon-for-react-developers-adda957666a3"
+isUpdated: true
 ---
+
+
 
 
 Chrome의 새로운 CSS Anchor Positioning API가 React 개발자가 곤경에서 벗어나도록 어떻게 도와주는지 살펴보세요😉

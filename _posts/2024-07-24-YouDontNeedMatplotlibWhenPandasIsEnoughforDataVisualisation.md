@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "You Dont Need Matplotlib When Pandas Is Enough for Data Visualisation"
 link: "https://medium.com/towards-data-science/you-dont-need-matplotlib-when-pandas-is-enough-for-data-visualisation-38d5680197a5"
+isUpdated: true
 ---
+
+
 
 
 

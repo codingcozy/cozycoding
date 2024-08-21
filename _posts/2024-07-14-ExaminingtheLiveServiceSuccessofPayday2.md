@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Examining the Live Service Success of Payday 2"
 link: "https://medium.com/@GWBycer/examining-the-live-service-success-of-payday-2-f36558f231c1"
+isUpdated: true
 ---
+
+
 
 
 ![ExaminingtheLiveServiceSuccessofPayday2_0](/assets/img/2024-07-14-ExaminingtheLiveServiceSuccessofPayday2_0.png)

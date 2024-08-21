@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "From Legacy To Serverless: An Engineer’s Journey Essentials"
 link: "https://medium.com/gitconnected/from-legacy-to-serverless-an-engineers-journey-essentials-50f5a6ef2e98"
+isUpdated: true
 ---
+
+
 
 
 1970년대에 자라온 사람들에게는 대다수 사무실에서 타자기로 인해 발생하는 딸깍거리는 소리로 가득 차 있었습니다. 나의 성장 시기에는 타자기 실력과 속기 실력이 타자직을 확보하는 데에 중요한 기술들이었습니다.

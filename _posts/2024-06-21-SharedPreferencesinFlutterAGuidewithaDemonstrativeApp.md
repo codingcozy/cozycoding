@@ -3,12 +3,16 @@ title: "Flutter에서 Shared Preferences 사용하기 데모 앱과 함께하는
 description: ""
 coverImage: "/assets/img/2024-06-21-SharedPreferencesinFlutterAGuidewithaDemonstrativeApp_0.png"
 date: 2024-06-21 20:38
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-SharedPreferencesinFlutterAGuidewithaDemonstrativeApp_0.png
 tag: Tech
 originalTitle: "Shared Preferences in Flutter: A Guide with a Demonstrative App"
 link: "https://medium.com/@ndubuisiaso/shared-preferences-in-flutter-a-guide-with-a-demonstrative-app-e03582ccce9a"
+isUpdated: true
 ---
+
+
+
 
 ![image](/assets/img/2024-06-21-SharedPreferencesinFlutterAGuidewithaDemonstrativeApp_0.png)
 

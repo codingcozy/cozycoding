@@ -1,5 +1,5 @@
 ---
-title: "시니어 프론트엔드 개발자 인터뷰를 위한 나쁜 질문"
+title: "시니어 프론트엔드 개발자 인터뷰에 자주 나오는 단골 질문"
 description: ""
 coverImage: "/assets/img/2024-06-19-BadquestionsforSeniorFrontendDevInterview_0.png"
 date: 2024-06-19 00:36
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Bad questions for Senior Frontend Dev Interview"
 link: "https://medium.com/@maks-dolgikh/bad-questions-for-senior-frontend-dev-interview-2c94dd937d75"
+isUpdated: true
 ---
+
+
+
 
 
 

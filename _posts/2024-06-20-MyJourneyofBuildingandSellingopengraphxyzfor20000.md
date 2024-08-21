@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "My Journey of Building and Selling opengraph.xyz for $20,000"
 link: "https://medium.com/entrepreneur-s-handbook/my-journey-of-building-and-selling-opengraph-xyz-for-20-000-75fc26442948"
+isUpdated: true
 ---
+
+
+
 
 
 ![MyJourneyofBuildingandSellingopengraphxyzfor20000](/assets/img/2024-06-20-MyJourneyofBuildingandSellingopengraphxyzfor20000_0.png)

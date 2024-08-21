@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Refresh token (mobile side)"
 link: "https://medium.com/@mohammadjoumani/flutter-refresh-token-mobile-side-0eb890a4bfa7"
+isUpdated: true
 ---
+
+
+
 
 
 플러터에서 Dio를 사용하여 토큰을 새로 고치는 방법

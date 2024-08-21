@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Analytics"
 link: "https://nextjs.org/docs/app/building-your-application/optimizing/analytics"
+isUpdated: true
 ---
+
+
 
 
 # 분석

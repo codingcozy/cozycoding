@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Ultimate HTML Guide Kickstart Your Web Development Journey"
 link: "https://dev.to/saamsheron/the-ultimate-html-guide-kickstart-your-web-development-journey-2hpm"
+isUpdated: true
 ---
+
+
 
 
 ## 왜 기다리나요? 오늘부터 첫 웹 페이지 만들기를 시작해보세요!

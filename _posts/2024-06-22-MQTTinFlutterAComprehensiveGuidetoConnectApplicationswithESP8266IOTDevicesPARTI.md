@@ -1,5 +1,5 @@
 ---
-title: "Flutter에서 MQTT로 ESP8266 IOT 기기 연결하는 방법 종합 가이드  PART I"
+title: "Flutter에서 MQTT로 ESP8266 IOT 기기 연결하는 방법 종합 가이드 PART I"
 description: ""
 coverImage: "/assets/img/2024-06-22-MQTTinFlutterAComprehensiveGuidetoConnectApplicationswithESP8266IOTDevicesPARTI_0.png"
 date: 2024-06-22 05:09
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "MQTT in Flutter: A Comprehensive Guide to Connect Applications with ESP8266 IOT Devices — PART I"
 link: "https://medium.com/@punnyarthabanerjee/mqtt-in-flutter-a-comprehensive-guide-to-connect-applications-with-esp8266-iot-devices-part-i-5274ccc5874e"
+isUpdated: true
 ---
+
+
+
 
 
 요즘에는 많은 IOT 기기들과 작업하고 있어요. 많은 기기들을 다루는 데 큰 어려움이 있어요. 운영, 데이터 수집, 유지관리 등을 모두 집중적으로 하기가 어려워요.

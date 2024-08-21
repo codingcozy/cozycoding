@@ -1,5 +1,5 @@
 ---
-title: "WASM  Flutter Web  함께 알아보아요"
+title: "WASM Flutter Web 정리"
 description: ""
 coverImage: "/assets/img/2024-06-19-WASMFlutterWebLetsunderstandit_0.png"
 date: 2024-06-19 14:21
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "WASM + Flutter Web —Let’s understand it!"
 link: "https://medium.com/@abhishekdoshi26/wasm-650ca52f04df"
+isUpdated: true
 ---
+
+
+
 
 
 ## 지식을 향상시키고 플러터 웹 앱에서 WASM을 사용하는 시간입니다!

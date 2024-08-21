@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Cross-Platform Development Showdown: FlutterFlow vs. React Native vs. Flutter for MVPs"
 link: "https://medium.com/@maksymilian.pilzys/cross-platform-development-showdown-flutterflow-vs-react-native-vs-flutter-for-mvps-0306c4743e97"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-21-Cross-PlatformDevelopmentShowdownFlutterFlowvsReactNativevsFlutterforMVPs_0.png" />

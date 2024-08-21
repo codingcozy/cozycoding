@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Build A Google Gemini Chatbot with HTML CSS and JavaScript"
 link: "https://dev.to/codingnepal/build-a-google-gemini-chatbot-with-html-css-and-javascript-434p"
+isUpdated: true
+updatedAt: 1724246462853
 ---
 
 

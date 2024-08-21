@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to Set Up An End-to-End Development Environment?"
 link: "https://medium.com/bitsrc/end-to-end-development-with-bit-d1d493e09d8e"
+isUpdated: true
 ---
+
+
+
 
 
 ## Bit를 사용하여 End-To-End 개발 환경 구축하기

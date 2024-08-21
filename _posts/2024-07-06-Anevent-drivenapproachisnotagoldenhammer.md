@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "An event-driven approach is not a golden hammer"
 link: "https://medium.com/gitconnected/an-event-driven-approach-is-not-a-golden-hammer-b1b9265ec7d6"
+isUpdated: true
 ---
+
+
+
 
 
 ![Event-driven architecture](/assets/img/2024-07-06-Anevent-drivenapproachisnotagoldenhammer_0.png)

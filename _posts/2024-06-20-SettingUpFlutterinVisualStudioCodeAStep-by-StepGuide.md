@@ -1,5 +1,5 @@
 ---
-title: "비주얼 스튜디오 코드에서 Flutter 설정하기 단계별 가이드"
+title: "비주얼 스튜디오 코드에서 Flutter 설정하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-20-SettingUpFlutterinVisualStudioCodeAStep-by-StepGuide_0.png"
 date: 2024-06-20 13:54
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Setting Up Flutter in Visual Studio Code: A Step-by-Step Guide"
 link: "https://medium.com/@hanansani2002/setting-up-flutter-in-visual-studio-code-a-step-by-step-guide-1c64450728a7"
+isUpdated: true
 ---
+
+
+
 
 
 # 소개:

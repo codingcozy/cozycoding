@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Introducing ASP 2.0: Simplified, Predictable and Powerful State Management for Flutter"
 link: "https://medium.com/flutterando/introducing-asp-2-0-simplified-predictable-and-powerful-state-management-for-flutter-2f92f821b39b"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-09-IntroducingASP20SimplifiedPredictableandPowerfulStateManagementforFlutter_0.png" />

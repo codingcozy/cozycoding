@@ -1,5 +1,5 @@
 ---
-title: "HTML 문자열로 DOM 요소 만드는 방법 여러 가지 방법"
+title: "HTML 문자열로 DOM 요소 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-03-HowtoCreateDOMElementsfromHTMLStringsMultipleMethods_0.png"
 date: 2024-08-03 18:14
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Create DOM Elements from HTML Strings Multiple Methods"
 link: "https://dev.to/zacharylee/how-to-create-dom-elements-from-html-strings-multiple-methods-5fk"
+isUpdated: true
+updatedAt: 1724246374973
 ---
 
 

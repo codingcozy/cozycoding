@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Patterns and Best Practices"
 link: "https://nextjs.org/docs/app/building-your-application/data-fetching/patterns"
+isUpdated: true
 ---
+
+
 
 
 # 패턴 및 권장 사항

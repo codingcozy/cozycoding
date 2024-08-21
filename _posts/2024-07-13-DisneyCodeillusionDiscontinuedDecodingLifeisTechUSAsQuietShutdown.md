@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Disney Codeillusion Discontinued? Decoding Life is Tech! USA’s Quiet Shutdown"
 link: "https://medium.com/@omarvelarde/disney-codeillusion-discontinued-decoding-life-is-tech-usas-quiet-shutdown-18e692c3f699"
+isUpdated: true
 ---
+
+
 
 
 ![DisneyCodeillusion_Discontinued](/assets/img/2024-07-13-DisneyCodeillusionDiscontinuedDecodingLifeisTechUSAsQuietShutdown_0.png)

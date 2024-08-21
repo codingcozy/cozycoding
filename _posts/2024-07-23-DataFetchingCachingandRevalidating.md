@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Data Fetching, Caching, and Revalidating"
 link: "https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating"
+isUpdated: true
 ---
+
+
 
 
 # 데이터 가져 오기, 캐싱 및 재유효화

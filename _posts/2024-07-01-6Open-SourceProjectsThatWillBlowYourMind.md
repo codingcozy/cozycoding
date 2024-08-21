@@ -1,5 +1,5 @@
 ---
-title: "당신의 생각을 뒤흔들 6개의 오픈소스 프로젝트 "
+title: "당신의 생각을 뒤흔들 6개의 오픈소스 프로젝트"
 description: ""
 coverImage: "/assets/img/2024-07-01-6Open-SourceProjectsThatWillBlowYourMind_0.png"
 date: 2024-07-01 21:17
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "6 Open-Source Projects That Will Blow Your Mind 🤯"
 link: "https://medium.com/gitconnected/6-open-source-projects-that-will-blow-your-mind-991ecc96a1d7"
+isUpdated: true
 ---
+
+
+
 
 
 ![6 Open-Source Projects That Will Blow Your Mind](/assets/img/2024-07-01-6Open-SourceProjectsThatWillBlowYourMind_0.png)

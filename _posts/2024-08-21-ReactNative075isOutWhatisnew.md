@@ -1,5 +1,5 @@
 ---
-title: "React Native 0.75가 출시되었습니다. 새로운 기능들은 무엇이 있을까요"
+title: "React Native 0.75에 새로 추가된 기능 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-ReactNative075isOutWhatisnew_0.png"
 date: 2024-08-21 17:28
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "React Native 0.75 is Out. What is new"
 link: "https://medium.com/javascript-in-plain-english/react-native-0-75-is-out-what-is-new-1bf103963255"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245507729
 ---
 
 

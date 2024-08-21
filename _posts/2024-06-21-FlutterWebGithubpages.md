@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "[Flutter] Web Github pages"
 link: "https://medium.com/@sidcode/flutter-web-github-pages-9513667ef3f1"
+isUpdated: true
 ---
+
+
+
 
 
 - 이미 "your_id.github.io" 레포지토리를 생성했어요

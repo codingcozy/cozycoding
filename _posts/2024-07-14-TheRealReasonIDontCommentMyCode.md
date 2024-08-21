@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Real Reason I Don’t Comment My Code"
 link: "https://medium.com/gitconnected/the-real-reason-i-dont-comment-my-code-2c23da5a00c4"
+isUpdated: true
 ---
+
+
 
 
 거절을 받아도 내가 배울 건 단 한 가지도 없다.

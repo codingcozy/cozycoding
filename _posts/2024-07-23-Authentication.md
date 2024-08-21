@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Authentication"
 link: "https://nextjs.org/docs/app/building-your-application/authentication"
+isUpdated: true
 ---
+
+
 
 
 # 인증

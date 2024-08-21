@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Only CSS Animation Guide Youll Ever Need Seriously"
 link: "https://medium.com/gitconnected/the-only-css-animation-guide-youll-ever-need-seriously-293d9bdcfc7c"
+isUpdated: true
 ---
+
+
 
 
 CSS는 두 가지 주요 애니메이션 방법을 제공해요:

@@ -1,5 +1,5 @@
 ---
-title: "닷을 이어라 네트워크 클라이언트와 Swift에서의 유닛 테스트"
+title: "네트워크 클라이언트와 Swift에서의 유닛 테스트 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-ConnectingtheDotsNetworkClientandItsUnitTestsinSwift_0.png"
 date: 2024-08-21 18:22
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Connecting the Dots Network Client and Its Unit Tests in Swift"
 link: "https://medium.com/@yossansr/connecting-the-dots-network-client-and-its-unit-tests-in-swift-6474c73ab61a"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245994612
 ---
 
 

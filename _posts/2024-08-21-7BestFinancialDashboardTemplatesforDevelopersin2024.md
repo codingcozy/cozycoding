@@ -1,5 +1,5 @@
 ---
-title: "2024년 개발자를 위한 7 최고의 금융 대시보드 템플릿"
+title: "2024년 금융 대시보드 템플릿 공유"
 description: ""
 coverImage: "/assets/img/2024-08-21-7BestFinancialDashboardTemplatesforDevelopersin2024_0.png"
 date: 2024-08-21 19:00
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "7 Best Financial Dashboard Templates for Developers in 2024"
 link: "https://dev.to/hitesh_developer/7-best-financial-dashboard-templates-for-developers-in-2024-4hm7"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246158993
 ---
 
 

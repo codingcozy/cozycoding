@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Deploying"
 link: "https://nextjs.org/docs/app/building-your-application/deploying"
+isUpdated: true
 ---
+
+
 
 
 # 배포하기

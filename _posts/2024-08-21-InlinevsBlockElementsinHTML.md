@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Inline vs. Block Elements in HTML"
 link: "https://dev.to/ridoy_hasan/inline-vs-block-elements-in-htm-3pd3"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245769759
 ---
 
 

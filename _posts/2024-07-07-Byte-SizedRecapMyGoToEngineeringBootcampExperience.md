@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Byte-Sized Recap: My GoTo Engineering Bootcamp Experience"
 link: "https://medium.com/@fwznbg/byte-sized-recap-my-goto-engineering-bootcamp-experience-15d46f37d730"
+isUpdated: true
 ---
+
+
+
 
 
 2024년 7월 2일, GoTo Engineering Bootcamp과의 여정이 끝이 났어요. 부트캠프 동안의 경험을 요약한 8가지 주요 포인트를 소개합니다.

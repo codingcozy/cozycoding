@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Lua: The Easiest, Fully-Featured Language That Only a Few Programmers Know"
 link: "https://medium.com/gitconnected/lua-the-easiest-fully-featured-language-that-only-a-few-programmers-know-97476864bffc"
+isUpdated: true
 ---
+
+
 
 
 ![2024-07-07-LuaTheEasiestFully-FeaturedLanguageThatOnlyaFewProgrammersKnow_0.png](/assets/img/2024-07-07-LuaTheEasiestFully-FeaturedLanguageThatOnlyaFewProgrammersKnow_0.png)

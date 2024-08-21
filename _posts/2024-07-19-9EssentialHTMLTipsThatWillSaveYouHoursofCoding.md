@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "9 Essential HTML Tips That Will Save You Hours of Coding"
 link: "https://medium.com/@learntocodetoday/9-essential-html-tips-that-will-save-you-hours-of-coding-8717516e8c80"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-19-9EssentialHTMLTipsThatWillSaveYouHoursofCoding_0.png)

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Local Notification"
 link: "https://medium.com/@MarvelApps_/flutter-local-notification-d52aa41c065f"
+isUpdated: true
 ---
+
+
 
 
 Flutter 로컬 알림은 애플리케이션에서 수행되는 이벤트 또는 작업에 대해 사용자를 참여시키고 알릴 때 사용됩니다. Flutter의 로컬 알림 패키지를 사용하면 Android 또는 iOS에서 모바일 애플리케이션 내부에서 알림을 표시할 수 있습니다.

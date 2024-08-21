@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Machine Learning: A Comprehensive Roadmap"
 link: "https://medium.com/bb-tutorials-and-thoughts/mastering-machine-learning-a-comprehensive-roadmap-86fe14923c18"
+isUpdated: true
 ---
+
+
 
 
 ### 기계 학습 전문가가 되는 단계별 가이드

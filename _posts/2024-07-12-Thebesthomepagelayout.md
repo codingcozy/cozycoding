@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The best homepage layout"
 link: "https://medium.com/design-bootcamp/the-best-homepage-layout-573b13e27784"
+isUpdated: true
 ---
+
+
 
 
 홈페이지는 웹사이트의 디지턈 프론트 도어 역할을 합니다. 방문자를 유인하고 관심을 끌며 고객으로 전환하는 데 중요한 요소입니다. 좋은 홈페이지 레이아웃을 디자인하려면 미학과 사용성을 조화롭게 결합해야 합니다. 한 방향으로 치우침이 생기면 전환이 영향받을 수 있습니다.

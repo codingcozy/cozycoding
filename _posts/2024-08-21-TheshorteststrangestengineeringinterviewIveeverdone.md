@@ -1,5 +1,5 @@
 ---
-title: "가장 짧고 이상한 엔지니어링 인터뷰 경험 이야기"
+title: "가장 짧게 끝나는 개발자 면접 경험 이야기"
 description: ""
 coverImage: "/assets/img/2024-08-21-TheshorteststrangestengineeringinterviewIveeverdone_0.png"
 date: 2024-08-21 17:19
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "The shortest, strangest engineering interview Ive ever done."
 link: "https://medium.com/@bluepnume/the-shortest-strangest-engineering-interview-ive-ever-done-950e8fa95f4e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244716886
 ---
 
 

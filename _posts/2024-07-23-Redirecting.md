@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Redirecting"
 link: "https://nextjs.org/docs/app/building-your-application/routing/redirecting"
+isUpdated: true
 ---
+
+
 
 
 # 리다이렉팅

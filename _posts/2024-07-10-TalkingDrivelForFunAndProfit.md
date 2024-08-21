@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Talking Drivel For Fun And Profit"
 link: "https://medium.com/codex/talking-drivel-for-fun-and-profit-cc9c130f3abc"
+isUpdated: true
 ---
+
+
 
 
 가치 있는가요? 필자의 원칙, 자아, 그리고 실제 자신을 포기하고 독이 난, 죽어 버린 연못의 꼭대기에 오르는 데 그만한 가치가 있다는 걸까요?

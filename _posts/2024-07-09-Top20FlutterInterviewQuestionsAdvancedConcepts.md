@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Top 20 Flutter Interview Questions — Advanced Concepts."
 link: "https://medium.com/@blup-tool/top-20-flutter-interview-questions-advanced-concepts-4f053f06da5f"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-09-Top20FlutterInterviewQuestionsAdvancedConcepts_0.png" />

@@ -1,5 +1,5 @@
 ---
-title: "아웃시스템 UI를 사용자 정의하는 포괄적인 CSS 가이드"
+title: "아웃시스템 UI를 사용자 정의하는 CSS 가이드"
 description: ""
 coverImage: "/assets/img/2024-06-19-TheComprehensiveCSSGuideforCustomizingOutSystemsUI_0.png"
 date: 2024-06-19 00:17
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "The Comprehensive CSS Guide for Customizing OutSystems UI"
 link: "https://medium.com/itnext/the-comprehensive-css-guide-for-customizing-outsystems-ui-3a6e37f0cfb6"
+isUpdated: true
 ---
+
+
+
 
 
 모든 아웃시스템 열정가가 일생 동안 한 가지 일이 있다면 무엇일까요? 네, 있습니다. 아웃시스템 UI를 기반으로 응용 프로그램의 외관을 사용자 정의하는 것입니다.

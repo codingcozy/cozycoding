@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "JavaScript DOM Manipulation Replacing, Deleting Elements 5"
 link: "https://medium.com/@tomas-svojanovsky/javascript-dom-manipulation-replacing-deleting-elements-5-098f4b3a8f13"
+isUpdated: true
 ---
+
+
 
 
 ![image](/assets/img/2024-07-23-JavaScriptDOMManipulationReplacingDeletingElements5_0.png)

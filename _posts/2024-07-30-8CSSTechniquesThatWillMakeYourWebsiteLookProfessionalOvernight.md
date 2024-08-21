@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "8 CSS Techniques That Will Make Your Website Look Professional Overnight"
 link: "https://medium.com/@learntocodetoday/8-css-techniques-that-will-make-your-website-look-professional-overnight-0f9b7a16d251"
+isUpdated: true
 ---
+
+
 
 
 ![image](/assets/img/2024-07-30-8CSSTechniquesThatWillMakeYourWebsiteLookProfessionalOvernight_0.png)

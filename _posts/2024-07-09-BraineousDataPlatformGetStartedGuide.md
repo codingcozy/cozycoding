@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Braineous Data Platform : Get Started Guide"
 link: "https://medium.com/@bugs-bunny-shah/braineous-data-platform-get-started-guide-f4ab09025147"
+isUpdated: true
 ---
+
+
 
 
 **Braineous Data Platform**는 기업 데이터, ETL/ELT, 분석 및 기계 학습 애플리케이션용 오픈 소스 고규모 데이터 파이프라인 플랫폼입니다.

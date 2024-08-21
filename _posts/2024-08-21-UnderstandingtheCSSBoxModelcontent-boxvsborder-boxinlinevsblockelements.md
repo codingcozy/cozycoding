@@ -1,5 +1,5 @@
 ---
-title: "CSS 박스 모델 content-box vs border-box, 인라인 vs 블록 요소의 이해"
+title: "CSS 박스 모델 content-box vs border-box 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-UnderstandingtheCSSBoxModelcontent-boxvsborder-boxinlinevsblockelements_0.png"
 date: 2024-08-21 18:58
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding the CSS Box Model content-box vs border-box, inline vs. block elements"
 link: "https://dev.to/horaceshmorace/understanding-the-css-box-model-content-box-vs-border-box-inline-vs-block-elements-1amh"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244570767
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "훌륭한 프로그래머가 되기 위해 필요한 유틸리티-퍼스트 방식의 Tailwind CSS"
+title: "유틸리티-퍼스트 방식으로 Tailwind CSS 사용하기"
 description: ""
 coverImage: "/assets/img/2024-08-21-TailwindCSSOnlyUtility-FirstApproachYouNeedToBeAnExcellentProgrammer_0.png"
 date: 2024-08-21 16:53
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Tailwind CSS Only Utility-First Approach You Need To Be An Excellent Programmer"
 link: "https://medium.com/@rameswarybehera/tailwind-css-only-utility-first-approach-you-need-to-be-an-excellent-programmer-fb0846c0b341"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245276702
 ---
 
 

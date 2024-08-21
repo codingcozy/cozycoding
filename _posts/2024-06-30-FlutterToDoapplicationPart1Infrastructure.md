@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter ToDo application Part 1: Infrastructure"
 link: "https://medium.com/@sadegh.dehghani1992/flutter-todo-application-part-1-infrastructure-96a5ba762c15"
+isUpdated: true
 ---
+
+
+
 
 
 이 시리즈의 기사에서는 Flutter를 활용하여 ToDo 애플리케이션을 만들고 여러 플랫폼에서 사용하는 방법을 살펴보겠습니다. (전체 소스 코드는 GitHub에서 확인할 수 있으며, 이 시리즈의 기사를 건너뛰고 언제든지 소스 코드를 다운로드할 수 있습니다.)

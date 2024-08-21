@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How I find $1000+ freelance clients consistently as a programmer"
 link: "https://medium.com/coding-beauty/find-freelance-clients-5-ways-cf2e75815c84"
+isUpdated: true
 ---
+
+
 
 
 ![Image](/assets/img/2024-07-14-HowIfind1000freelanceclientsconsistentlyasaprogrammer_0.png)

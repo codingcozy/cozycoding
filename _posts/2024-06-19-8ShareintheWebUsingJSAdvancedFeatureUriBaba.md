@@ -1,5 +1,5 @@
 ---
-title: "8 웹에서 JS를 사용하여 공유하기 고급 기능 UriBaba"
+title: "웹 공유 기능 JS로 구현하기"
 description: ""
 coverImage: "/assets/img/2024-06-19-8ShareintheWebUsingJSAdvancedFeatureUriBaba_0.png"
 date: 2024-06-19 00:19
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "8. Share in the Web Using JS (Advanced Feature) @UriBaba"
 link: "https://medium.com/@opensrc0/8-share-in-the-web-using-js-advanced-feature-uribaba-4bd0c7a1b210"
+isUpdated: true
 ---
+
+
+
 
 
 ## 고급 JavaScript 기능으로의 심층 탐구

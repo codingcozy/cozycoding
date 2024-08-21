@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How To Use Flutter for Building Cross-Platform Apps:"
 link: "https://medium.com/@virvainfotech/how-to-use-flutter-for-building-cross-platform-apps-5a1fe101a242"
+isUpdated: true
 ---
+
+
+
 
 
 구글은 기술 산업에서 많은 혁신을 이끌어 온 주요한 역할을 해왔어요. 그중 하나가 플러터(Flutter)라는 강력한 프레임워크인데, 개발자들 사이에서 폭넓게 인기를 얻고 있어요. 플러터는 크로스 플랫폼 앱 개발을 용이하게 해주는 능력으로 특히 유명해요. 그리고 더욱 흥미로운 점은 플러터가 이제 웹 개발까지 지원하며, 개발자들이 단일 코드베이스를 사용해 크로스 플랫폼 웹 앱을 만들 수 있다는 것이에요. 이 글에서는 플러터의 크로스 플랫폼 앱 개발에 사용되는 장점을 탐색하고, 웹 개발을 위해 플러터로 시작하는 단계별 안내를 제공할 거에요.

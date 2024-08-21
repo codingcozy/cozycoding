@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Deliver New Content Faster — On Demand ISR"
 link: "https://medium.com/stackademic/on-demand-incremental-static-regeneration-3aac500641d8"
+isUpdated: true
 ---
+
+
+
 
 
 

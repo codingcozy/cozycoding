@@ -1,5 +1,5 @@
 ---
-title: "CSS 네이티브 중첩 기능 완벽 해부하기"
+title: "CSS 네이티브 중첩 기능 정리"
 description: ""
 coverImage: "/assets/img/2024-06-21-UnpackingNativeCSSNesting_0.png"
 date: 2024-06-21 23:52
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Unpacking Native CSS Nesting"
 link: "https://medium.com/mamitech/unpacking-native-css-nesting-0bdb94fc3fbe"
+isUpdated: true
 ---
+
+
+
 
 
 

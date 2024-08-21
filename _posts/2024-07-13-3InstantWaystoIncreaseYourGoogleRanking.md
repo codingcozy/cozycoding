@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "3 Instant Ways to Increase Your Google Ranking"
 link: "https://medium.com/@mariusbongarts/3-instant-ways-to-increase-your-google-ranking-d36cf98a933e"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-13-3InstantWaystoIncreaseYourGoogleRanking_0.png" />

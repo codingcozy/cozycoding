@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Dio"
 link: "https://medium.com/@hemantjamdev/flutter-dio-dc1e6d4659eb"
+isUpdated: true
 ---
+
+
+
 
 
 # Flutter에서 Dio를 활용한 네트워크 요청 마스터하기

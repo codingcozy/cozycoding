@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How To Add Password Manager Support To Your Flutter Apps"
 link: "https://medium.com/gitconnected/how-to-add-password-manager-support-to-your-flutter-apps-2412685145da"
+isUpdated: true
 ---
+
+
 
 
 ![링크](/assets/img/2024-07-12-HowToAddPasswordManagerSupportToYourFlutterApps_0.png)

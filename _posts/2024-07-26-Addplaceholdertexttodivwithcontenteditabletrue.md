@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Add placeholder text to div with contenteditabletrue"
 link: "https://dev.to/axorax/add-placeholder-text-to-div-with-contenteditabletrue-aa6"
+isUpdated: true
 ---
+
+
 
 
 contenteditable 속성을 사용해본 적이 있을 수 있습니다. 많은 곳에서 사용됩니다. 이는 textarea와 같은 것보다 훨씬 더 좋은 대안입니다. 아무 div에 contenteditable="true"을 추가하면 입력 필드처럼 작동합니다. 이 글에서는 contenteditable이 기본적으로 placeholder 속성을 지원하지 않으므로 placeholder를 추가하는 방법을 보여드리겠습니다.

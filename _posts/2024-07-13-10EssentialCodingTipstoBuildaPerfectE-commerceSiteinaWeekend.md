@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "10 Essential Coding Tips to Build a Perfect E-commerce Site in a Weekend!"
 link: "https://medium.com/@learntocodetoday/10-essential-coding-tips-to-build-a-perfect-e-commerce-site-in-a-weekend-f989f1d19548"
+isUpdated: true
 ---
+
+
 
 
 ![image](/assets/img/2024-07-13-10EssentialCodingTipstoBuildaPerfectE-commerceSiteinaWeekend_0.png)

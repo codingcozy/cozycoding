@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "All-in on AI Transforming a Poker Livestream with Computer Vision"
 link: "https://medium.com/@tom_pitts/all-in-on-ai-transforming-a-poker-livestream-with-computer-vision-3ed7834706aa"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246089402
 ---
 
 

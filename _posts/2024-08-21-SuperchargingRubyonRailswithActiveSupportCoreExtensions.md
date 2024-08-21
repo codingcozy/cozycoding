@@ -1,5 +1,5 @@
 ---
-title: "Active Support 핵심 확장 기능으로 루비 온 레일즈 슈퍼차징하기"
+title: "루비 온 레일즈 Active Support 사용하기"
 description: ""
 coverImage: "/assets/img/2024-08-21-SuperchargingRubyonRailswithActiveSupportCoreExtensions_0.png"
 date: 2024-08-21 18:01
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Supercharging Ruby on Rails with Active Support Core Extensions"
 link: "https://medium.com/unagi/supercharging-ruby-on-rails-with-active-support-core-extensions-30aff2300168"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245316271
 ---
 
 

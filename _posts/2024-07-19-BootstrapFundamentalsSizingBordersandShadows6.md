@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Bootstrap Fundamentals  Sizing, Borders and Shadows 6"
 link: "https://medium.com/@tomas-svojanovsky/bootstrap-fundamentals-sizing-borders-and-shadows-6-5eb971b96db4"
+isUpdated: true
 ---
+
+
 
 
 

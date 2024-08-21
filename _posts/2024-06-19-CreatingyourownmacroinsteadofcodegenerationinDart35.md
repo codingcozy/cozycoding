@@ -1,14 +1,18 @@
 ---
-title: "Dart 35에서 코드 생성 대신 매크로를 직접 만들어 봅시다"
+title: "Dart 35에서 코드 생성 대신 매크로 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-CreatingyourownmacroinsteadofcodegenerationinDart35_0.png"
 date: 2024-06-19 08:10
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-CreatingyourownmacroinsteadofcodegenerationinDart35_0.png
 tag: Tech
 originalTitle: "Creating your own macro instead of code generation in Dart 3.5"
 link: "https://medium.com/@alexey.inkin/creating-your-own-macro-instead-of-code-generation-in-dart-3-5-27274f8a5bf6"
+isUpdated: true
 ---
+
+
+
 
 Dart 3.5에는 주요한 새로운 기능인 매크로가 추가되었습니다. 이는 컴파일 시간에 메모리 내에서 완전히 발생하는 코드 생성으로 임시 파일이 필요하지 않습니다. 하지만 그 이상의 기능을 제공합니다.
 

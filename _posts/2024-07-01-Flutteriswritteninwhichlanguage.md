@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter is written in which language?"
 link: "https://medium.com/@satishlokhande5674/flutter-is-written-in-which-language-90b28491a483"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-07-01-Flutteriswritteninwhichlanguage_0.png)

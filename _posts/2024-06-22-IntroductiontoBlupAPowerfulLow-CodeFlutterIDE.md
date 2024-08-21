@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Introduction to Blup: A Powerful Low-Code Flutter IDE"
 link: "https://medium.com/@blup-tool/introduction-to-blup-a-powerful-low-code-flutter-ide-66d1d1ce9abb"
+isUpdated: true
 ---
+
+
+
 
 
 ![블로그 시리즈](/assets/img/2024-06-22-IntroductiontoBlupAPowerfulLow-CodeFlutterIDE_0.png)

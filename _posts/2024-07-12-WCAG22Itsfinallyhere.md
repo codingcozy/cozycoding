@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "WCAG 2.2 — It’s finally here"
 link: "https://medium.com/user-experience-design-1/wcag-2-2-its-finally-here-cd07862a192f"
+isUpdated: true
 ---
+
+
 
 
 ## 새로운 WCAG 표준은 무엇입니까?

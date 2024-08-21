@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to Geometrically Understand Integration By Parts"
 link: "https://medium.com/@keith-mcnulty/how-to-geometrically-understand-integration-by-parts-9c1edddfbed9"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-24-HowtoGeometricallyUnderstandIntegrationByParts_0.png)

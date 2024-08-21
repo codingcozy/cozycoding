@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Nuanced widgets in Flutter Web"
 link: "https://medium.com/@kon.syrokostas/nuanced-widgets-in-flutter-web-cf254df80116"
+isUpdated: true
 ---
+
+
+
 
 
 ## 제가 Fluttercon EU 2024에서 발표한 동반자

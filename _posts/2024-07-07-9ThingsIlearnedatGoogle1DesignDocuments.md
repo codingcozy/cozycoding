@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "9 Things I learned at Google: #1 Design Documents"
 link: "https://medium.com/@avrukin/9-things-i-learned-at-google-1-design-documents-6c3552c19406"
+isUpdated: true
 ---
+
+
+
 
 
 ![Design Document template](/assets/img/2024-07-07-9ThingsIlearnedatGoogle1DesignDocuments_0.png)

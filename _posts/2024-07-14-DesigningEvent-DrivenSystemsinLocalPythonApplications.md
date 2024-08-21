@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Designing Event-Driven Systems in Local Python Applications"
 link: "https://medium.com/gitconnected/designing-event-driven-systems-in-local-python-applications-8abf7544d7e4"
+isUpdated: true
 ---
+
+
 
 
 ![Event-Driven System](/assets/img/2024-07-14-DesigningEventDrivenSystemsinLocalPythonApplications_0.png)

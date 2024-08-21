@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Horizon: Forbidden West is Still a PS5 Showpiece"
 link: "https://medium.com/@xander51/horizon-forbidden-west-is-still-a-ps5-showpiece-4dcbf3878855"
+isUpdated: true
 ---
+
+
 
 
 최근 몇 주 동안 Alan Wake 2가 "지금까지 만들어진 가장 멋있는 게임"이라는 얘기를 많이 들었습니다. 정말 멋잇게 만들었다는 것은 의심할 여지가 없습니다. 그러나 그 매력을 완전히 뽑아내려면 현재 최고의 Nvidia GPU 중 하나를 장착한 PC에서 실행해야 합니다.

@@ -1,5 +1,5 @@
 ---
-title: "퓨어 매니페스토  웹 표준 기반 디자인 시스템을 위한"
+title: "퓨어 매니페스토 웹 표준 내용 정리"
 description: ""
 coverImage: "/assets/img/2024-06-19-ThePUREManifestoforWebStandardsbasedDesignSystems_0.png"
 date: 2024-06-19 00:33
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "The PURE Manifesto — for Web Standards based Design Systems"
 link: "https://medium.com/cto-as-a-service/the-pure-manifesto-for-web-standards-based-design-systems-d46f400853eb"
+isUpdated: true
 ---
+
+
+
 
 
 ## 초경량, 웹 표준 기반 디자인 시스템에 대한 기본 규칙

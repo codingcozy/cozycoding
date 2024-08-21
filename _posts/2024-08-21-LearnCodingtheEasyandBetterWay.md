@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Learn Coding the Easy (and Better) Way"
 link: "https://medium.com/@deepak11developer/learn-coding-the-easy-and-better-way-4bf1220b75dd"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245749893
 ---
 
 

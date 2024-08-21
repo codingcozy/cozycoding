@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "A Simple But Powerful Caching Algorithm: Presenting the Active-Victim-Cache"
 link: "https://medium.com/@drpicox/a-simple-but-powerful-caching-algorithm-eb55c04c5d8f"
+isUpdated: true
 ---
+
+
 
 
 캐시는 프로그램 실행을 드라마틱하게 가속화할 수 있지만, 메모리가 가득 찼을 때 어떤 데이터를 제거할지 결정해야 하는 중요한 과제에 직면합니다. 이 글에서는 구현을 간단하게 만들고 성능을 향상시키는 강력한 캐싱 알고리즘을 공개합니다. 복잡한 해결책으로 인한 머리 아픔 없이요!

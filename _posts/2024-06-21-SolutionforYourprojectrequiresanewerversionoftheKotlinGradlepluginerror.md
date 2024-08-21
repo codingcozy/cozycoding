@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Solution for “Your project requires a newer version of the Kotlin Gradle plugin.” error"
 link: "https://medium.com/@emrnel/solution-for-your-project-requires-a-newer-version-of-the-kotlin-gradle-plugin-error-3125f332c224"
+isUpdated: true
 ---
+
+
+
 
 
 안녕하세요 여러분,

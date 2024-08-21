@@ -1,5 +1,5 @@
 ---
-title: "JavaScript 안전 대입 연산자 () 완벽한 안내"
+title: "JavaScript 안전 대입 연산자 () 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-JavaScriptSafeAssignmentOperatorACompleteGuide_0.png"
 date: 2024-08-21 17:22
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "JavaScript Safe Assignment Operator () A Complete Guide"
 link: "https://medium.com/@shahbishwa21/introduction-to-the-safe-assignment-operator-in-javascript-ddc35e87d37c"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245765599
 ---
 
 

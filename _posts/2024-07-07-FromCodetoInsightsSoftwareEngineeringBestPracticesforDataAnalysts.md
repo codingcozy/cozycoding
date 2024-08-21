@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "From Code to Insights: Software Engineering Best Practices for Data Analysts"
 link: "https://medium.com/towards-data-science/from-code-to-insights-software-engineering-best-practices-for-data-analysts-0dd6a2aaadfc"
+isUpdated: true
 ---
+
+
+
 
 
 ## 데이터 분석가가 알아야 할 상위 10가지 엔지니어링 교훈

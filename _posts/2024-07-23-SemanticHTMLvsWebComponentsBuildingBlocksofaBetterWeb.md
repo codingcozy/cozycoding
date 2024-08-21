@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Semantic HTML vs Web Components Building Blocks of a Better Web"
 link: "https://dev.to/leonardorafael/semantic-html-vs-web-components-building-blocks-of-a-better-web-1j09"
+isUpdated: true
 ---
+
+
 
 
 프론트엔드 개발은 사용자 경험을 만드는 데 관한 모든 것이며, 이 경험의 기초는 코드 내부에 있습니다. 우리의 무기 가운데 강력한 두 가지 도구는 의미 있는 HTML과 웹 컴포넌트입니다. 하지만 이 둘은 어떻게 다르며, 언제 어떤 것을 사용해야 할까요?

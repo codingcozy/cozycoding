@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Different Ways to Center a Div in HTML and CSS"
 link: "https://dev.to/muhammedshamal/different-ways-to-center-a-div-in-html-and-css-47df"
+isUpdated: true
 ---
+
+
 
 
 제 LinkedIn 팔로우해주세요

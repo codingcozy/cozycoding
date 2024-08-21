@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How We Optimized The Problem Of Global Containers Distribution"
 link: "https://medium.com/towards-data-science/how-we-optimized-the-problem-of-global-containers-distribution-ea6201d4513e"
+isUpdated: true
+updatedAt: 1724246376081
 ---
 
 

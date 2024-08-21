@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Improve Flutter App Efficiency: Handling Multiple Futures at Once"
 link: "https://medium.com/@hpatilabhi10/improve-flutter-app-efficiency-handling-multiple-futures-at-once-158836bf2794"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-21-ImproveFlutterAppEfficiencyHandlingMultipleFuturesatOnce_0.png" />

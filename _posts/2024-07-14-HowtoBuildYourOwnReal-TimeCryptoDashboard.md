@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to Build Your Own Real-Time Crypto Dashboard"
 link: "https://medium.com/@humblequant/how-to-build-your-own-real-time-crypto-dashboard-19c899f2274c"
+isUpdated: true
 ---
+
+
 
 
 안녕하세요 친구들, 몇 주 전에 리액트를 활용해 바이낸스의 무료 웹소켓 API를 활용한 실시간 가격 차트를 만들었습니다.

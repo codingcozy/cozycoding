@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Day 7 Introduction to CSS"
 link: "https://dev.to/dipakahirav/day-7-introduction-to-css-2n2k"
+isUpdated: true
 ---
+
+
 
 
 HTML 및 CSS 마스터하기 여정 7일차에 오신 것을 환영합니다! 오늘은 CSS(계층화 스타일 시트)를 소개할 것입니다. CSS는 HTML 콘텐츠를 스타일링하는 데 사용되는 언어입니다. 이 글을 마치면 CSS의 기본 개념을 이해하고 웹 페이지에 스타일을 적용하는 방법을 이해할 수 있을 것입니다.

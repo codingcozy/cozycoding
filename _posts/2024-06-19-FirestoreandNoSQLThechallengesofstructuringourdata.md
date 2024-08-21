@@ -1,14 +1,18 @@
 ---
-title: "Firestore와 NoSQL - 데이터 구조화의 어려움"
+title: "Firestore와 NoSQL 데이터 구조화 하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-FirestoreandNoSQLThechallengesofstructuringourdata_0.png"
 date: 2024-06-19 00:03
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-FirestoreandNoSQLThechallengesofstructuringourdata_0.png
 tag: Tech
 originalTitle: "Firestore and NoSQL — The challenges of structuring our data"
 link: "https://medium.com/itnext/firestore-and-nosql-the-challenges-of-structuring-our-data-c812f1f1a961"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-19-FirestoreandNoSQLThechallengesofstructuringourdata_0.png" />
 

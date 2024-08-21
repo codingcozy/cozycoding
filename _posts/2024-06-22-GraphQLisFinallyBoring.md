@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "GraphQL is Finally Boring"
 link: "https://medium.com/javascript-in-plain-english/graphql-is-finally-boring-681d3328b31c"
+isUpdated: true
 ---
+
+
+
 
 
 ## GraphQL의 종말에 대한 보고는 크게 과장되었습니다. 대신에 트렌드를 넘어서 성숙하고 신뢰할 수 있는 GraphQL이 기관을 더 나게 만드는 방법을 살펴봅시다.

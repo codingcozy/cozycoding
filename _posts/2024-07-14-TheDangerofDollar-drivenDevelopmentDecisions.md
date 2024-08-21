@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Danger of Dollar-driven Development Decisions"
 link: "https://medium.com/@tsecretdeveloper/the-danger-of-dollar-driven-development-decisions-db8b3374babd"
+isUpdated: true
 ---
+
+
 
 
 ![2024-07-14-TheDangerofDollar-drivenDevelopmentDecisions_0.png]

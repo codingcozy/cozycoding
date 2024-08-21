@@ -1,5 +1,5 @@
 ---
-title: "코틀린 멀티플랫폼이 플러터를 죽일까요"
+title: "코틀린 멀티플랫폼이 플러터를 대체할 수 있을까?"
 description: ""
 coverImage: "/assets/img/2024-06-19-IsKotlinMultiplatformkillingFlutter_0.png"
 date: 2024-06-19 00:14
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Is Kotlin Multiplatform killing Flutter?"
 link: "https://medium.com/@thomasmiddel/is-kotlin-multiplatform-killing-flutter-c35f7a06e0ac"
+isUpdated: true
 ---
+
+
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "HTML과 CSS로 처음 만드는 반응형 웹사이트 제작 가이드"
+title: "HTML과 CSS로 반응형 웹사이트 만드는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 18:17
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Building Your First Responsive Website with HTML and CSS"
 link: "https://dev.to/egbo2255/building-your-first-responsive-website-with-html-and-css-32eh"
+isUpdated: true
+updatedAt: 1724246460033
 ---
 
 

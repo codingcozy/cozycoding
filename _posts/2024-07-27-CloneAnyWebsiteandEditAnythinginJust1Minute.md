@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Clone Any Website and Edit Anything in Just 1 Minute"
 link: "https://dev.to/kooboo/clone-any-website-and-edit-anything-in-just-1-minute-lo"
+isUpdated: true
 ---
+
+
 
 
 웹 사이트, 전자 상거래, 및 애플리케이션 개발을 위한 강력한 도구를 개발했습니다. 내 의견으로는 이 도구가 WordPress보다 훨씬 뛰어나다고 생각합니다. 커뮤니티로부터 피드백을 기대하고 있습니다.

@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "9 Must-Try React UI Component Libraries for Stunning Web Apps in 2024"
 link: "https://dev.to/vyan/9-must-try-react-ui-component-libraries-for-stunning-web-apps-in-2024-p7j"
+isUpdated: true
+updatedAt: 1724246268308
 ---
 
 

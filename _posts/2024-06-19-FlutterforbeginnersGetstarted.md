@@ -1,5 +1,5 @@
 ---
-title: "초보자를 위한 Flutter 시작하기"
+title: "초보 개발자를 위한 Flutter 정리"
 description: ""
 coverImage: "/assets/img/2024-06-19-FlutterforbeginnersGetstarted_0.png"
 date: 2024-06-19 14:23
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter for beginners —Get started"
 link: "https://medium.com/@lidongw90/flutter-for-beginners-get-started-7586cfc10b63"
+isUpdated: true
 ---
+
+
+
 
 
 # 1. 플러터 소개

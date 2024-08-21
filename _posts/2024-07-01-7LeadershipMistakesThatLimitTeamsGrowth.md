@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "7 Leadership Mistakes That Limit Team’s Growth"
 link: "https://medium.com/code-like-a-girl/7-leadership-mistakes-that-limit-teams-growth-4f325e938769"
+isUpdated: true
 ---
+
+
+
 
 
 ![](/assets/img/2024-07-01-7LeadershipMistakesThatLimitTeamsGrowth_0.png)

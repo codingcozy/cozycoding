@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Tech Interviews are Changing. Not for the Better"
 link: "https://medium.com/@tsecretdeveloper/tech-interviews-are-changing-not-for-the-better-4f7eab902287"
+isUpdated: true
 ---
+
+
 
 
 ![img](/assets/img/2024-07-10-TechInterviewsareChangingNotfortheBetter_0.png)

@@ -1,5 +1,5 @@
 ---
-title: "웹 개발 초보자를 위한 가이드 기술 명시나 특정 기능방법이 포함되어 있으면 더욱 좋습니다."
+title: "웹 개발 초보자를 위한 가이드"
 description: ""
 coverImage: "/assets/img/2024-08-21-Abeginnersguidetowebdevelopment_0.png"
 date: 2024-08-21 17:21
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "A beginners guide to web development"
 link: "https://medium.com/@hasanraza24/a-beginners-guide-to-web-development-76c65a8b76f9"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246138475
 ---
 
 

@@ -1,14 +1,18 @@
 ---
-title: "플러터 위젯 생명주기 모든 것을 알아보세요"
+title: "플러터 위젯 라이프사이클 정리"
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterWidgetLifecycleEverythingYouNeedtoKnow_0.png"
 date: 2024-06-21 21:28
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutterWidgetLifecycleEverythingYouNeedtoKnow_0.png
 tag: Tech
 originalTitle: "Flutter Widget Lifecycle: Everything You Need to Know"
 link: "https://medium.com/gytworkz/flutter-widget-lifecycle-everything-you-need-to-know-629d01ca4a09"
+isUpdated: true
 ---
+
+
+
 
 ![이미지](/assets/img/2024-06-21-FlutterWidgetLifecycleEverythingYouNeedtoKnow.png)
 

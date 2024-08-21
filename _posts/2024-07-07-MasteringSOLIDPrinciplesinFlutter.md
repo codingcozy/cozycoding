@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering SOLID Principles in Flutter"
 link: "https://medium.com/gitconnected/mastering-solid-principles-in-flutter-30cdaaa5475b"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-07-MasteringSOLIDPrinciplesinFlutter_0.png" />

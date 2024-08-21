@@ -1,14 +1,18 @@
 ---
-title: "Flutter에서 날짜와 시간 다루기  전문가 되는 팁과 트릭"
+title: "Flutter에서 날짜와 시간 다루기 전문가 되는 팁과 트릭"
 description: ""
 coverImage: "/assets/img/2024-06-22-DateandTimeinFlutterGettingMasterTipsandTricks_0.png"
 date: 2024-06-22 15:40
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-22-DateandTimeinFlutterGettingMasterTipsandTricks_0.png
 tag: Tech
 originalTitle: "Date and Time in Flutter | Getting Master ~ Tips and Tricks"
 link: "https://medium.com/@fakgun/date-and-time-in-flutter-getting-master-tips-and-tricks-7d5667aee966"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-22-DateandTimeinFlutterGettingMasterTipsandTricks_0.png" />
 

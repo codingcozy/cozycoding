@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Fluttercon Europe 2024"
 link: "https://medium.com/itnext/fluttercon-europe-2024-b202aafd1c20"
+isUpdated: true
 ---
+
+
 
 
 

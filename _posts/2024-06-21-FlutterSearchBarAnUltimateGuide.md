@@ -1,5 +1,5 @@
 ---
-title: "Flutter 검색바 궁극의 가이드"
+title: "Flutter 검색창 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterSearchBarAnUltimateGuide_0.png"
 date: 2024-06-21 23:41
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter SearchBar: An Ultimate Guide"
 link: "https://medium.com/stackademic/flutter-searchbar-an-ultimate-guide-011a8ae0aa9a"
+isUpdated: true
 ---
+
+
+
 
 
 # 소개

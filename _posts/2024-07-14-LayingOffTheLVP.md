@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Laying Off The LVP"
 link: "https://medium.com/codex/laying-off-the-lvp-a756bb5f18f5"
+isUpdated: true
 ---
+
+
 
 
 "소프트웨어 개발에서 'AI'가 살을 덧붙이고 있는 가운데, 정말로 불필요한 사람은 누구일까요?

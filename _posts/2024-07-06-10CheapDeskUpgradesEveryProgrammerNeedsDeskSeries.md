@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "10 Cheap Desk Upgrades Every Programmer Needs #DeskSeries"
 link: "https://medium.com/@rajster.miha/10-cheap-desk-upgrades-every-programmer-needs-f89d92d16de4"
+isUpdated: true
 ---
+
+
+
 
 
 /assets/img/2024-07-06-10CheapDeskUpgradesEveryProgrammerNeedsDeskSeries_0.png

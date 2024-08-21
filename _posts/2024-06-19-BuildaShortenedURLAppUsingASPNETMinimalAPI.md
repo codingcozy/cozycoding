@@ -1,5 +1,5 @@
 ---
-title: "ASPNET Minimal API를 사용하여 단축 URL 앱 만들기 "
+title: "ASPNET Minimal API를 사용하여 단축 URL 앱 만들기"
 description: ""
 coverImage: "/assets/img/2024-06-19-BuildaShortenedURLAppUsingASPNETMinimalAPI_0.png"
 date: 2024-06-19 08:17
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Build a Shortened URL App Using ASP.NET Minimal 🚀API"
 link: "https://medium.com/@shahedbd/build-a-shortened-url-app-using-asp-net-minimal-api-d2572d6fd75a"
+isUpdated: true
 ---
+
+
+
 
 
 오늘날의 디지털 세상에서 URL 단축 서비스는 긴 웹 주소를 관리하고 공유하기 쉽게 만들기 위해 필수적입니다. 이러한 서비스는 URL의 가독성을 향상시키는 것뿐만 아니라 마케터와 개발자들을 위한 추적 기능과 분석을 제공합니다. 자신만의 URL 단축 서비스를 구축하고 싶다면, ASP.NET Minimal API를 사용하면 간소화되고 효율적인 방법으로 이를 달성할 수 있습니다.

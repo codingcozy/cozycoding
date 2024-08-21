@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "OpenTelemetry"
 link: "https://nextjs.org/docs/app/building-your-application/optimizing/open-telemetry"
+isUpdated: true
 ---
+
+
 
 
 # OpenTelemetry

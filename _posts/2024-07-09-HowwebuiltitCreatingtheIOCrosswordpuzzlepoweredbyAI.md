@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How we built it: Creating the I O Crossword puzzle, powered by AI"
 link: "https://medium.com/flutter/how-we-built-it-creating-the-i-o-crossword-puzzle-powered-by-ai-2210e39b04b9"
+isUpdated: true
 ---
+
+
 
 
 클래식 단어 게임에 재미와 도움이 되는 변화를 넣어보세요. 플러터(Flutter), 파이어베이스(Firebase) Genkit 및 Gemini API로! 

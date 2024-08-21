@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Alternative colors for pure white in UI UX design"
 link: "https://medium.com/design-bootcamp/alternative-colors-for-pure-white-in-ui-ux-design-f861ab5a33d7"
+isUpdated: true
 ---
+
+
+
 
 
 UI/UX 디자인에서 순수 흰색 대신 대안 컬러를 탐색하여 사용자 경험을 향상시키고 눈부심을 줄일 수 있습니다. 독특한 매력과 편안함 수준을 갖춘 다양한 흰색 음영을 발견해보세요.

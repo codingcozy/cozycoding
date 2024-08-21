@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to center a div"
 link: "https://dev.to/neonx26/how-to-center-a-div-12ai"
+isUpdated: true
 ---
+
+
 
 
 여기에 각 CSS 기술을 사용하여 `div`를 가운데 정렬하는 방법을 설명하겠습니다.

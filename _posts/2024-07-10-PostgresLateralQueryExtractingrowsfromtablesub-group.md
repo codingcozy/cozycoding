@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Postgres Lateral Query: Extracting rows from table sub-group"
 link: "https://medium.com/@krishnaraam/postgres-lateral-query-extracting-rows-from-table-sub-group-b53722d7c3ad"
+isUpdated: true
 ---
+
+
 
 
 ## 리소스 수명주기 관리: 측면 쿼리의 실용적 사용 사례 기반 설명

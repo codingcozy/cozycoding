@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How Feature Distribution Impacts Team Performance and Quality"
 link: "https://medium.com/@drpicox/how-feature-distribution-impacts-team-performance-and-quality-65d2626d8039"
+isUpdated: true
 ---
+
+
+
 
 
 /assets/img/2024-07-06-HowFeatureDistributionImpactsTeamPerformanceandQuality_0.png

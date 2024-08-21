@@ -1,5 +1,5 @@
 ---
-title: "간단한 Snake 게임 만들기 HTML, CSS 및 JavaScript를 활용하여 함께 해봐요"
+title: "HTML, CSS 및 JavaScript로 Snake 게임 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-BuildingaSimpleSnakeGamewithHTMLCSSandJavaScript_0.png"
 date: 2024-06-19 14:38
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Building a Simple Snake Game with HTML, CSS, and JavaScript"
 link: "https://medium.com/@algorhythm2411/building-a-simple-snake-game-with-html-css-and-javascript-2f98eab6e71d"
+isUpdated: true
 ---
+
+
+
 
 
 

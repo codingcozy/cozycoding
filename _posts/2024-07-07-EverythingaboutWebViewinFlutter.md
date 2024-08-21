@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Everything about WebView in Flutter"
 link: "https://medium.com/@MarvelApps_/everything-about-webview-in-flutter-ab56a2315f0f"
+isUpdated: true
 ---
+
+
+
 
 
 웹뷰는 모바일 애플리케이션의 중요한 부분입니다. 앱 내에서 웹사이트에 접근할 수 있게 해주어 브라우저로 이동하지 않아도 됩니다. 앱 내부에서 외부 웹 리소스를 보여줘야 할 때 유용하게 사용될 수 있습니다. 특히, 모바일 애플리케이션을 구축하기 위해 많은 비용과 시간이 소요된다면, 웹뷰를 사용하여 앱에서 해당 웹 리소스를 표시할 수 있습니다.

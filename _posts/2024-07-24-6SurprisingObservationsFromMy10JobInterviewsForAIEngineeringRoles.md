@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "6 Surprising Observations From My 10 Job Interviews For AI Engineering Roles"
 link: "https://medium.com/ai-advances/6-insights-from-my-10-job-interviews-for-ai-engineering-roles-665b5eb1c1b7"
+isUpdated: true
 ---
+
+
 
 
 ![image](/assets/img/2024-07-24-6SurprisingObservationsFromMy10JobInterviewsForAIEngineeringRoles_0.png)

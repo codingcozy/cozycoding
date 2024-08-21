@@ -1,5 +1,5 @@
 ---
-title: "플러터Flutter에서의 TabBar와 TabView"
+title: "플러터Flutter에서의 TabBar와 TabView 만들기"
 description: ""
 coverImage: "/assets/img/2024-06-19-TabBarandTabViewinFlutter_0.png"
 date: 2024-06-19 14:25
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "TabBar and TabView in Flutter"
 link: "https://medium.com/@MarvelApps_/tabbar-and-tabview-in-flutter-1d93008663aa"
+isUpdated: true
 ---
+
+
+
 
 
 TabBar는 홈 모듈, 프로필 모듈 등과 같은 애플리케이션의 주요 (또는 부수적인) 섹션에 빠르고 편리하게 접근할 수 있도록하는 중요한 부분입니다. TabBar는 항상 메인 화면에 표시되므로 사용자의 탐색이 편리해집니다.

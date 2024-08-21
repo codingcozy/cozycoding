@@ -1,5 +1,5 @@
 ---
-title: "Angular에서 데이터 바인딩 이해하기 철저한 가이드"
+title: "Angular에서 데이터 바인딩하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-UnderstandingDataBindinginAngularAComprehensiveGuide_0.png"
 date: 2024-08-21 17:34
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding Data Binding in Angular A Comprehensive Guide"
 link: "https://medium.com/@viiveksingh93/understanding-data-binding-in-angular-a-comprehensive-guide-be1db5a50561"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244582825
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "제가 앱을 만들 때 Shadcn UI에서 Zod를 사용한 경험"
+title: "Shadcn UI에서 Zod를 사용해보기"
 description: ""
 coverImage: "/assets/img/2024-08-21-MyExperiencewithZodinShadcnUIWhileBuildingmyapp_0.png"
 date: 2024-08-21 17:15
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: " My Experience with Zod in Shadcn UI While Building my app"
 link: "https://medium.com/@n.ghalebi/my-experience-with-zod-in-shadcn-ui-while-building-my-app-34570ee98470"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245679102
 ---
 
 

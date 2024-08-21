@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "“It Works, Don’t Touch It” Is a Recipe for Disaster (And Here’s Why Your Code Will Hate You Later)"
 link: "https://medium.com/@PurpleGreenLemon/it-works-dont-touch-it-is-a-recipe-for-disaster-and-here-s-why-your-code-will-hate-you-later-08236e310b3f"
+isUpdated: true
 ---
+
+
 
 
 이해해요. 다들 그런 적이 있죠 — 마감이 점점 다가오고, 클라이언트가 목에서 숨을 쉬는 것 같고, 코드 한 부분은... 그냥 말로만 해도 참을성과 의지만으로 유지되고 있는 것 같아요.

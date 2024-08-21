@@ -1,5 +1,5 @@
 ---
-title: "React에서 SOLID 원칙 정복하기 코드 퀄리티 높이는 방법"
+title: "React에서 SOLID 원칙으로 코드 퀄리티 높히는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-21 18:52
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering SOLID Principles in React Elevating Your Code Quality"
 link: "https://dev.to/vyan/mastering-solid-principles-in-react-elevating-your-code-quality-2c6h"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245714404
 ---
 
 

@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Create Your Own Form with Power Automate"
 link: "https://dev.to/wyattdave/how-to-create-your-own-form-with-power-automate-4546"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245790209
 ---
 
 

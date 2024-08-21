@@ -1,5 +1,5 @@
 ---
-title: "진화하는 프로그레시브 웹 앱 웹과 모바일 경험 통합"
+title: "프로그레시브 웹 앱 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-TheRiseofProgressiveWebAppsUnifyingtheWebandMobileExperience_0.png"
 date: 2024-08-21 18:31
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "The Rise of Progressive Web Apps Unifying the Web and Mobile Experience"
 link: "https://medium.com/burhanuddins-code-chronicles/the-rise-of-progressive-web-apps-unifying-the-web-and-mobile-experience-a01828e9ec5f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245260075
 ---
 
 

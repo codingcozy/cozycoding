@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Linking and Navigating"
 link: "https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating"
+isUpdated: true
 ---
+
+
 
 
 # 링크 및 탐색

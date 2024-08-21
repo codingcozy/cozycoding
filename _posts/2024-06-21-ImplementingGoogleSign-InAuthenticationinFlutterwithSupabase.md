@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Implementing Google Sign-In Authentication in Flutter with Supabase"
 link: "https://medium.com/@fianto74/implementing-google-sign-in-authentication-in-flutter-with-supabase-acf7f33a98b1"
+isUpdated: true
 ---
+
+
+
 
 
 

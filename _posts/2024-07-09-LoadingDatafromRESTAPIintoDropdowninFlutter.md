@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Loading Data from REST API into Dropdown in Flutter"
 link: "https://medium.com/@axiftaj/loading-data-from-rest-api-into-dropdown-in-flutter-9e788ee927d3"
+isUpdated: true
 ---
+
+
 
 
 

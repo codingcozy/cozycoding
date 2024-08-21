@@ -1,5 +1,5 @@
 ---
-title: "Flutter 기본 위젯들을 알고 계신가요"
+title: "Flutter 기본 위젯 정리"
 description: ""
 coverImage: "/assets/img/2024-06-21-DoyouknowthebasicwidgetsofFlutter_0.png"
 date: 2024-06-21 20:23
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Do you know the basic widgets of Flutter?"
 link: "https://medium.com/@yagnik2411/do-you-know-the-basic-ui-building-widgets-of-flutter-18686fb10ca4"
+isUpdated: true
 ---
+
+
+
 
 
 "플러터로 UI를 만들고 싶으신가요? 네.

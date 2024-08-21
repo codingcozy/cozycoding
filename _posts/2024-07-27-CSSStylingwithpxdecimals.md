@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "CSS  Styling with px decimals"
 link: "https://medium.com/@rayonline/css-styling-with-px-decimals-7d683bc8bbf8"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-27-CSSStylingwithpxdecimals_0.png" />

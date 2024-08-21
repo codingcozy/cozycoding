@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding SOLID Principles in .NET (C#): A Practical Guide with Code Examples"
 link: "https://medium.com/@jeslurrahman/understanding-solid-principles-in-net-c-a-practical-guide-with-code-examples-2e759010974e"
+isUpdated: true
 ---
+
+
+
 
 
 SOLID 원칙은 개발자가 쉽게 확장 가능한 코드를 작성하고 일반적인 코딩 오류를 피할 수 있게 도와줍니다.

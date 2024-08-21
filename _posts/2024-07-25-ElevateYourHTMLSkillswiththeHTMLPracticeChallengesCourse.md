@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Elevate Your HTML Skills with the HTML Practice Challenges Course"
 link: "https://dev.to/labex/elevate-your-html-skills-with-the-html-practice-challenges-course-5a2c"
+isUpdated: true
 ---
+
+
 
 
 웹 개발자로서의 전체 잠재력을 발휘하기 위해 매혹적이고 실용적인 HTML 학습 여정에 착수하세요. LabEx에서 제공하는 HTML 실습 도전 과정은 여러 실전 프로젝트와 과제를 통해 HTML 기술을 갈고 닦을 수 있도록 설계되었습니다.

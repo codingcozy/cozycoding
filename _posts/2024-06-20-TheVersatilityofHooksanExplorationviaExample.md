@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "The Versatility of Hooks: an Exploration via Example"
 link: "https://medium.com/@heydarianc/the-versatility-of-hooks-an-exploration-via-example-f7b602eb2e0b"
+isUpdated: true
 ---
+
+
+
 
 
 ## 소개: 프리랜스 React 기회

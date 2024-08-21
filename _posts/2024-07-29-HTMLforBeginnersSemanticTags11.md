@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "HTML for Beginners Semantic Tags 11"
 link: "https://medium.com/stackademic/html-for-beginners-semantic-tags-11-459094b14322"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-29-HTMLforBeginnersSemanticTags11_0.png)

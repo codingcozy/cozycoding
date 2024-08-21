@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Routing Fundamentals"
 link: "https://nextjs.org/docs/app/building-your-application/routing"
+isUpdated: true
 ---
+
+
 
 
 # 라우팅 기초

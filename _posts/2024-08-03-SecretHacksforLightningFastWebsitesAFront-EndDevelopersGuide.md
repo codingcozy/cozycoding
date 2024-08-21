@@ -1,5 +1,5 @@
 ---
-title: " 번개처럼 빠른 웹사이트를 만드는 비밀 팁 프론트엔드 개발자를 위한 가이드"
+title: "대기업에서 빠른 웹사이트를 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-03-SecretHacksforLightningFastWebsitesAFront-EndDevelopersGuide_0.png"
 date: 2024-08-03 19:41
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: " Secret Hacks for Lightning Fast Websites A Front-End Developers Guide"
 link: "https://medium.com/javascript-in-plain-english/secret-hacks-for-lightning-fast-websites-a-front-end-developers-guide-d9e4e916717d"
+isUpdated: true
+updatedAt: 1724246298442
 ---
 
 

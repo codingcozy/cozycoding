@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Deep Dive into Maps in Dart|Flutter"
 link: "https://medium.com/@mohamed-abdo/deep-dive-into-maps-in-dart-flutter-511cd1f13849"
+isUpdated: true
 ---
+
+
 
 
 `<img src="/assets/img/2024-07-09-DeepDiveintoMapsinDartFlutter_0.png" />`

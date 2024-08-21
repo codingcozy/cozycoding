@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Create A Chrome Browser Extension In 5 Minutes  HTML, CSS, JS"
 link: "https://medium.com/codex/create-a-chrome-browser-extension-in-5-minutes-html-css-js-90f88a259769"
+isUpdated: true
 ---
+
+
 
 
 HTML, CSS 및 JavaScript의 기본 지식이 있다면 브라우저 확장 프로그램을 만들 수 있어요.

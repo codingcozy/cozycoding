@@ -3,12 +3,16 @@ title: "Flutter 상태 관리 BLoC와 Provider 비교 어떤 걸 선택해야 �
 description: ""
 coverImage: "/assets/img/2024-06-22-FlutterStateManagementBLoCVSProvider_0.png"
 date: 2024-06-22 15:47
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-22-FlutterStateManagementBLoCVSProvider_0.png
 tag: Tech
 originalTitle: "Flutter State Management BLoC VS Provider"
 link: "https://medium.com/@Victor.Ahmad/bloc-vs-provider-flutter-state-management-a-detailed-comparison-5a932e9033dd"
+isUpdated: true
 ---
+
+
+
 
 세부 비교
 

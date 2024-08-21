@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "ML Engineering is Not What You Think — ML Jobs Explained"
 link: "https://medium.com/towards-artificial-intelligence/ml-engineering-is-not-what-you-think-ml-jobs-explained-c3433f6925a7"
+isUpdated: true
 ---
+
+
 
 
 ![링크](/assets/img/2024-07-13-MLEngineeringisNotWhatYouThinkMLJobsExplained_0.png)

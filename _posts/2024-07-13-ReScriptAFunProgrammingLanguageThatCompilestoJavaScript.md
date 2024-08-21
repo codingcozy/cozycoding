@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "ReScript: A Fun Programming Language That Compiles to JavaScript"
 link: "https://medium.com/@louispetrik/rescript-a-fun-programming-language-that-compiles-to-javascript-5f9a3fc7a287"
+isUpdated: true
 ---
+
+
 
 
 ![image](/assets/img/2024-07-13-ReScriptAFunProgrammingLanguageThatCompilestoJavaScript_0.png)

@@ -1,5 +1,5 @@
 ---
-title: "AWS EKS를 활용한 Kubernetes를 이용한 3계층 애플리케이션 컨테이너화와 배포 방법"
+title: "AWS EKS를 활용한 Kubernetes를 이용한 배포 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-HowtoContainerizeandDeployaThree-TierApplicationonAWSEKSwithKubernetes_0.png"
 date: 2024-08-21 17:52
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Containerize and Deploy a Three-Tier Application on AWS EKS with Kubernetes"
 link: "https://medium.com/@amanpathakdevops/how-to-containerize-and-deploy-a-three-tier-application-on-aws-eks-with-kubernetes-327c104f9c9f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245820321
 ---
 
 

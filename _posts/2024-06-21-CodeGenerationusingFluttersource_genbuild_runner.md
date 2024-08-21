@@ -1,14 +1,18 @@
 ---
-title: "Flutter로 코드 생성하기  source_gen과 build_runner 사용 방법"
+title: "Flutter로 코드 생성하기 source_gen과 build_runner 사용 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-CodeGenerationusingFluttersource_genbuild_runner_0.png"
 date: 2024-06-21 22:30
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-CodeGenerationusingFluttersource_genbuild_runner_0.png
 tag: Tech
 originalTitle: "Code Generation using Flutter | source_gen | build_runner."
 link: "https://medium.com/@yamen.abd98/code-generator-using-flutter-source-gen-build-runner-9cc1fe0e2ff2"
+isUpdated: true
 ---
+
+
+
 
 ![2024-06-21-CodeGenerationusingFluttersource_genbuild_runner_0.png](/assets/img/2024-06-21-CodeGenerationusingFluttersource_genbuild_runner_0.png)
 

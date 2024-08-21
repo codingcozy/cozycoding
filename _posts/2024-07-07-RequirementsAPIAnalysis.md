@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Requirements , API: Analysis"
 link: "https://medium.com/analysts-corner/requirements-api-analysis-df62b5808fa2"
+isUpdated: true
 ---
+
+
 
 
 이전 장: [여기를 클릭하여 이전 장을 읽어보세요.](https://medium.com/analysts-corner/requirements-api-definitions-3f75a7308ae6)

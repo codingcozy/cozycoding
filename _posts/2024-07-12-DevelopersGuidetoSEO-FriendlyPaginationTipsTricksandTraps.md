@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Developer’s Guide to SEO-Friendly Pagination: Tips, Tricks, and Traps"
 link: "https://medium.com/code-like-a-girl/developers-guide-to-seo-friendly-pagination-tips-tricks-and-traps-619d61b8afbe"
+isUpdated: true
 ---
+
+
 
 
 안녕하세요, 내 신뢰 있는 개발자 친구들! 오늘은 페이지네이션의 매혹적인 세계로 뛰어들어 보려고 해요.

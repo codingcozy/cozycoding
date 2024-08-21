@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "A Software Engineer’s Perspective on Generative AI"
 link: "https://medium.com/@debrajmaity/a-software-engineers-perspective-on-generative-ai-5e97dc6bf102"
+isUpdated: true
 ---
+
+
+
 
 
 Generative AI 기술의 등장으로, 소프트웨어 전문가들 사이에서 가장 이슈가 되는 주제 중 하나는 이 기술이 그들의 직업에 어떤 영향을 미칠지에 대한 이야기입니다. 미래에는 AI가 동일한 일을 훨씬 빠르고 저렴하게 처리할 수 있기 때문에 인간 프로그래머들을 필요로 하지 않을 것이라는 추측이 만연하게 퍼지고 있습니다. devin.ai와 같은 제품을 출시하는 스타트업들이 "AI 소프트웨어 개발자"를 약속하며 소프트웨어 솔루션을 만들고 문제를 해결할 수 있다고 약속하고 있습니다. 아직 초기 단계에 있다고 하더라도 우리는 이미 AI가 소프트웨어를 작성할 수 있는 미래를 목도하고 있습니다.

@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Local LLM Fine-Tuning on Mac M1 16GB"
 link: "https://medium.com/towards-data-science/local-llm-fine-tuning-on-mac-m1-16gb-f59f4f598be7"
+isUpdated: true
+updatedAt: 1724246346024
 ---
 
 

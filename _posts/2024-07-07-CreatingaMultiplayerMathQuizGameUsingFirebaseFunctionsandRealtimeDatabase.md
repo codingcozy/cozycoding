@@ -3,12 +3,16 @@ title: "Firebase Functions와 Realtime Database를 이용한 멀티플레이어 
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-07 02:46
-ogImage:
+ogImage: 
   url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Creating a Multiplayer Math Quiz Game Using Firebase Functions and Realtime Database"
 link: "https://medium.com/@nikunjjoshi5022/creating-a-multiplayer-math-quiz-game-using-firebase-functions-and-realtime-database-2e25a03d3f4f"
+isUpdated: true
 ---
+
+
+
 
 인터랙티브 멀티플레이어 게임을 개발하려면 실시간 동기화와 서버리스 함수를 사용하여 게임 로직을 관리해야 합니다. Firebase는 실시간 데이터베이스와 Firebase Functions을 통해 이러한 애플리케이션에 이상적인 플랫폼을 제공합니다. 이 기사에서는 멀티플레이어 수학 퀴즈 게임을 디자인할 것입니다. 주요 기능, 데이터베이스 스키마, Firebase 실시간 데이터베이스, Firebase Functions을 자세히 살펴볼 것입니다.
 

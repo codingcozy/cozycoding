@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Script Optimization"
 link: "https://nextjs.org/docs/app/building-your-application/optimizing/scripts"
+isUpdated: true
 ---
+
+
 
 
 # 스크립트 최적화

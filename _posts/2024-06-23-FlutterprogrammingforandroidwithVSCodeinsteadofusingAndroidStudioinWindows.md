@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter programming for android with VSCode instead of using Android Studio in Windows"
 link: "https://medium.com/@m.yuvaraj2303/flutter-programming-for-android-with-vscode-instead-of-using-android-studio-in-windows-af20f2d67e81"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-23-FlutterprogrammingforandroidwithVSCodeinsteadofusingAndroidStudioinWindows_0.png" />

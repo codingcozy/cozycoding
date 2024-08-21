@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The big 3 cracks beginning to show in the Modern Data Stack"
 link: "https://medium.com/@hugolu87/the-big-3-cracks-beginning-to-show-in-the-modern-data-stack-d4394ff7f6aa"
+isUpdated: true
 ---
+
+
 
 
 # 소개

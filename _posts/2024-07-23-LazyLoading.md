@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Lazy Loading"
 link: "https://nextjs.org/docs/app/building-your-application/optimizing/lazy-loading"
+isUpdated: true
 ---
+
+
 
 
 # Lazy Loading

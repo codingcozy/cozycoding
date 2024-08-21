@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "I Miss Dynasty Warriors, But So What?"
 link: "https://medium.com/@xander51/i-miss-dynasty-warriors-but-so-what-abfe43112516"
+isUpdated: true
 ---
+
+
 
 
 보통 이 시기에 "내가 선택한 2023년 최고의 덕후 전사 게임 Top X" 목록을 작성했을 때입니다. 이것은 코에이의 오랜 액션 시리즈 및 다양한 스핀오프를 사랑하는 축하며, 동시에 오메가 포스 개발 스튜디오의 다수 게임 출시 일정을 가볍게 조롱하는 것으로 시작했습니다. 그들은 보통 매해 많은 해적 액션 게임을 출시해서 그들만의 올해의 게임 목록을 갖게 되기에 충분했으며, 진실하고 아이러니하게 모두에게 인기가 있었습니다.

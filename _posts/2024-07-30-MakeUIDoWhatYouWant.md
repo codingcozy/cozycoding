@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Make UI Do What You Want"
 link: "https://medium.com/@iammanolov98/make-ui-do-what-you-want-1036f91e21c3"
+isUpdated: true
 ---
+
+
 
 
 

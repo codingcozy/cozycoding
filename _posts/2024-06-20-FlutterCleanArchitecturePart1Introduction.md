@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Clean Architecture Part 1 — Introduction"
 link: "https://medium.com/@enesakbal00/flutter-clean-architecture-part-1-introduction-f5dadf1bf3ee"
+isUpdated: true
 ---
+
+
+
 
 
 

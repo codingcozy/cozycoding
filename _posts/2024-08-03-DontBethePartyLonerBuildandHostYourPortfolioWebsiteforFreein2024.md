@@ -1,5 +1,5 @@
 ---
-title: "파티에서 왕따가 되지 마세요 2024년 무료로 포트폴리오 웹사이트 만들고 호스팅하는 방법"
+title: "2024년 무료로 포트폴리오 웹사이트 만들고 호스팅 하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-03-DontBethePartyLonerBuildandHostYourPortfolioWebsiteforFreein2024_0.png"
 date: 2024-08-03 18:12
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Dont Be the Party Loner Build and Host Your Portfolio Website for Free in 2024"
 link: "https://dev.to/curious-abhi/dont-be-the-party-loner-build-and-host-your-portfolio-website-for-free-in-2024-3g7h"
+isUpdated: true
+updatedAt: 1724246407734
 ---
 
 

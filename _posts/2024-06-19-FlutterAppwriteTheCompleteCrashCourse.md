@@ -1,14 +1,18 @@
 ---
-title: "Flutter Appwrite  완벽한 크래시 코스"
+title: "Flutter Appwrite 하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-FlutterAppwriteTheCompleteCrashCourse_0.png"
 date: 2024-06-19 00:13
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-FlutterAppwriteTheCompleteCrashCourse_0.png
 tag: Tech
 originalTitle: "Flutter Appwrite — The Complete Crash Course"
 link: "https://medium.com/@tomicriedel/flutter-appwrite-the-complete-crash-course-20eea45bdb65"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-19-FlutterAppwriteTheCompleteCrashCourse_0.png" />
 

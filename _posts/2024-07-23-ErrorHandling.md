@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Error Handling"
 link: "https://nextjs.org/docs/app/building-your-application/routing/error-handling"
+isUpdated: true
 ---
+
+
 
 
 # 오류 처리

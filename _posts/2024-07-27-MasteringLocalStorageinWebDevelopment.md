@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Local Storage in Web Development"
 link: "https://dev.to/code_passion/mastering-local-storage-in-web-development-fl5"
+isUpdated: true
 ---
+
+
 
 
 로컬 스토리지는 개발자가 사용자의 브라우저 내에 데이터를 저장할 수 있는 유용한 웹 개발 도구입니다. 이 글에서는 로컬 스토리지의 다양한 기능을 살펴보고, 초보자를 위한 예제부터 더 복잡한 기술까지 다룰 것입니다. 이 가이드를 마칠 때쯤에는 웹 애플리케이션에서 로컬 스토리지를 성공적으로 활용하는 방법에 대한 기본적인 이해를 갖게 될 것입니다.

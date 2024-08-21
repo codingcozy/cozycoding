@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "It Is Almost Server Time!"
 link: "https://medium.com/chifi-media/it-is-almost-server-time-d9fe4b8dde29"
+isUpdated: true
 ---
+
+
+
 
 
 ## CHIFI UPDATE | 2024년 6월

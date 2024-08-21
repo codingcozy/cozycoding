@@ -1,14 +1,18 @@
 ---
-title: "처음 시작하는 Flutter 초보자를 위한 가이드 II"
+title: "처음 시작하는 Flutter 초보자를 위한 가이드"
 description: ""
 coverImage: "/assets/img/2024-06-21-GettingstartedwithFlutterABeginnersGuideII_0.png"
 date: 2024-06-21 20:07
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-GettingstartedwithFlutterABeginnersGuideII_0.png
 tag: Tech
 originalTitle: "Getting started with Flutter: A Beginner’s Guide II"
 link: "https://medium.com/@ishinidesilva2418/getting-started-with-flutter-a-beginners-guide-ii-2cbeaf9c4f79"
+isUpdated: true
 ---
+
+
+
 
 내가 만든 플러터 개발 시리즈의 두 번째 부분에 다시 오신 것을 환영합니다. 첫 번째 부분에서는 Flutter의 이점, 설치, 그리고 프로젝트 설정에 대해 이야기했습니다. 이제 플러터 여정에서 중요한 구성 요소들에 대해 자세히 살펴보겠습니다. 이 글에서는 다음 주제를 다룰 것입니다.
 

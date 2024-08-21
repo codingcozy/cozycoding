@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "HerTechTrail Journey"
 link: "https://medium.com/@violetovedje17/hertechtrail-journey-127c2ec5bbef"
+isUpdated: true
 ---
+
+
+
 
 
 프론트엔드 개발자가 되는 길

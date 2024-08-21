@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding Thread Pools: When to Use Fixed Thread Pools vs. Work-Stealing Pools"
 link: "https://medium.com/@codechefvaibhavkashyap/understanding-thread-pools-when-to-use-fixed-thread-pools-vs-work-stealing-pools-0d6716591e1d"
+isUpdated: true
 ---
+
+
 
 
 스레드 풀은 동시 프로그래밍에서 기본적인 개념으로 여러 가지 중요한 이유로 사용됩니다. 다음은 우리가 스레드 풀을 필요로 하는 주요 이유입니다:

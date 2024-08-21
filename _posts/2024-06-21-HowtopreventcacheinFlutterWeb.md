@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to prevent cache in Flutter Web"
 link: "https://medium.com/codebrew/how-to-prevent-cache-in-flutter-web-dead8c8d3730"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-06-21-HowtopreventcacheinFlutterWeb_0.png)

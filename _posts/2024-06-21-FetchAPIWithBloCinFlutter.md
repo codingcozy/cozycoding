@@ -3,12 +3,16 @@ title: "플러터에서 BloC 패턴으로 Fetch API 사용 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-FetchAPIWithBloCinFlutter_0.png"
 date: 2024-06-21 22:39
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FetchAPIWithBloCinFlutter_0.png
 tag: Tech
 originalTitle: "Fetch API With BloC in Flutter"
 link: "https://medium.com/gitconnected/fetch-api-with-bloc-in-flutter-730b9e305c54"
+isUpdated: true
 ---
+
+
+
 
 이 문서에서는 블록 라이브러리를 사용하여 HTTP 요청을 수행하고 애플리케이션의 상태를 관리하는 방법을 살펴보겠습니다. 최종 애플리케이션은 다음과 같습니다:
 

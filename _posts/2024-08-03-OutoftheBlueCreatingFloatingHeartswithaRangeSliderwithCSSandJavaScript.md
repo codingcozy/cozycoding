@@ -1,5 +1,5 @@
 ---
-title: "CSS와 JavaScript로 구현하는 슬라이더로 떠다니는 하트 만들기 방법"
+title: "CSS와 JavaScript로 떠다니는 하트 만드는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 18:13
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Out of the Blue Creating Floating Hearts with a Range Slider with CSS and JavaScript"
 link: "https://dev.to/rodrigoantunes/bringing-floating-hearts-to-life-with-css-and-javascript-2hcd"
+isUpdated: true
+updatedAt: 1724246321234
 ---
 
 

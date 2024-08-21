@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Three Essential Questions Every Developer Should Ask on Their Path to Growth"
 link: "https://medium.com/@tsecretdeveloper/three-essential-questions-every-developer-should-ask-on-their-path-to-growth-76e274691937"
+isUpdated: true
 ---
+
+
 
 
 ![Image](/assets/img/2024-07-13-ThreeEssentialQuestionsEveryDeveloperShouldAskonTheirPathtoGrowth_0.png)

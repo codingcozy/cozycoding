@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Drawing connective elements between fixed positions on several html elements"
 link: "https://medium.com/@fixitblog/solved-drawing-connective-elements-between-fixed-positions-on-several-html-elements-cae5ee78cfc1"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245963360
 ---
 
 

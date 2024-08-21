@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Is Flutter Dying in 2024? Future of Cross-Platform Development"
 link: "https://medium.com/@frixou89/is-flutter-dying-in-2024-future-of-cross-platform-development-a8eba5f03667"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-21-IsFlutterDyingin2024FutureofCross-PlatformDevelopment_0.png" />

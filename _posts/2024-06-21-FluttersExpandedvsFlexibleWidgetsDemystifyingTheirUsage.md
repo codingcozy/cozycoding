@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter’s Expanded vs. Flexible Widgets: Demystifying Their Usage"
 link: "https://medium.com/@naveenjose24/flutters-expanded-vs-flexible-widgets-demystifying-their-usage-c1ff0712c725"
+isUpdated: true
 ---
+
+
+
 
 
 플러터 레이아웃 내에서 공간을 효율적으로 관리하는 것은 시각적으로 매력적이고 반응이 뛰어난 사용자 인터페이스를 만드는 데 필수적인 요소입니다. 우리 플러터 개발자로서는 종종 사용 가능한 공간을 다양한 위젯과 구성 요소 사이에 분배하는 도전에 직면하곤 합니다. 이럴 때 공간 할당을 어떻게 제어하는지 이해하는 것이 원하는 디자인과 사용자 경험을 달성하는 데 중요합니다.

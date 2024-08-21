@@ -3,12 +3,16 @@ title: "Flutter 앱에서 메모리 사용 최적화 방법 파트 1"
 description: ""
 coverImage: "/assets/img/2024-06-27-OptimizingMemoryUsageinFlutterAppsPart-1_0.png"
 date: 2024-06-27 18:29
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-27-OptimizingMemoryUsageinFlutterAppsPart-1_0.png
 tag: Tech
 originalTitle: "Optimizing Memory Usage in Flutter Apps (Part-1)"
 link: "https://medium.com/@gauravswarankar/optimizing-memory-usage-in-flutter-apps-part-1-1ad377b1e975"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-27-OptimizingMemoryUsageinFlutterAppsPart-1_0.png" />
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Golang type conversion summary"
 link: "https://medium.com/gitconnected/golang-type-conversion-summary-dc9e36842d25"
+isUpdated: true
 ---
+
+
 
 
 고랭의 타입 변환에 대해 명확히 설명한 기사입니다.

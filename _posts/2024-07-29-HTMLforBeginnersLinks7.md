@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "HTML for Beginners Links 7"
 link: "https://medium.com/@tomas-svojanovsky/html-for-beginners-links-7-0361a966e2c7"
+isUpdated: true
 ---
+
+
 
 
 

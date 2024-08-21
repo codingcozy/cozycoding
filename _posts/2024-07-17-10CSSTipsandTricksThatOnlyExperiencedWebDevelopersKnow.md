@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "10 CSS Tips and Tricks That Only Experienced Web Developers Know"
 link: "https://medium.com/gitconnected/10-css-tips-and-tricks-that-only-experienced-web-developers-know-d18da43d2632"
+isUpdated: true
 ---
+
+
 
 
 웹 개발자들은 시멘틱 HTML 문서에 동적이고 창의적이며 사용자 친화적인 스타일을 추가하기 위해 CSS 스타일링 언어를 사용합니다. CSS를 처음 사용하는 웹 개발자들은 기본 CSS 선택자 구문, 속성, at-룰, 가상 클래스/요소를 연습하여 스타일링을 배우기 시작합니다. 이러한 CSS 기능을 알고 있다면 접근성이 좋고 아름다운 사용자 친화적이며 현대적인 웹 사이트를 구축하는 데 충분하지만, CSS의 전체 잠재력을 이해하기 위해 더 많은 것을 배워야 합니다.

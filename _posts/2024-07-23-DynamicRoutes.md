@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Dynamic Routes"
 link: "https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes"
+isUpdated: true
 ---
+
+
 
 
 # 동적 라우트

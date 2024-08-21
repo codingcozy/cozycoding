@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Internationalization"
 link: "https://nextjs.org/docs/app/building-your-application/routing/internationalization"
+isUpdated: true
 ---
+
+
 
 
 # 국제화

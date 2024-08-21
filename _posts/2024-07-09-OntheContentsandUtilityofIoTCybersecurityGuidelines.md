@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "On the Contents and Utility of IoT Cybersecurity Guidelines"
 link: "https://medium.com/@davisjam/on-the-contents-and-utility-of-iot-cybersecurity-guidelines-9a0479949ba3"
+isUpdated: true
 ---
+
+
 
 
 이 글은 ACM FSE 2024(PACSME)에서 발표된 연구 논문 "IoT 사이버 보안 가이드라인의 내용과 유용성에 관한 연구"에 대한 간략한 설명입니다. 본 연구는 Jesse Chen이 이끈 연구로, 아리조나 대학(첸, 라만)과 퍼듀 대학(아난다유바라지, 데이비스)의 협력을 대표합니다. 전체 논문은 여기에서 확인할 수 있습니다.

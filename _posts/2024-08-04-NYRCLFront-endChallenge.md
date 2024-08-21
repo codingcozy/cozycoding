@@ -1,5 +1,5 @@
 ---
-title: "NYRCL 프론트엔드 챌린지 도전 과제와 해결 방법 "
+title: "NYRCL 프론트엔드 챌린지 도전 과제와 해결 방법"
 description: ""
 coverImage: "/assets/img/2024-08-04-NYRCLFront-endChallenge_0.png"
 date: 2024-08-04 19:47
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "NYRCL Front-end Challenge"
 link: "https://dev.to/debugging_dragon/nyrcl-2pk1"
+isUpdated: true
+updatedAt: 1724246235610
 ---
 
 

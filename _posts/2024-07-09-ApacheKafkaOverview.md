@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Apache Kafka — Overview"
 link: "https://medium.com/@vutrinh274/apache-kafka-overview-b04c4ab8ef49"
+isUpdated: true
 ---
+
+
 
 
 ## 용어 및 구조.

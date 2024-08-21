@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "SwiftUIMapKit Set and Track Map Position"
 link: "https://medium.com/gitconnected/swiftui-mapkit-set-and-track-map-position-5b1c5bf8a741"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245280579
 ---
 
 

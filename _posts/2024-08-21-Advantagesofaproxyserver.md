@@ -1,5 +1,5 @@
 ---
-title: "프록시 서버의 장점 및 활용 방법"
+title: "프록시 서버의 장점 및 활용 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-Advantagesofaproxyserver_0.png"
 date: 2024-08-21 18:16
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Advantages of a proxy server"
 link: "https://medium.com/educative/advantages-of-a-proxy-server-d14ccb2be1a8"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246092520
 ---
 
 

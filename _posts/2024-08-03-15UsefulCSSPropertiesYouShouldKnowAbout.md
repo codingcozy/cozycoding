@@ -1,5 +1,5 @@
 ---
-title: "꼭 알아야 할 유용한 15가지 CSS 속성 "
+title: "알아두면 유용한 15가지 CSS 속성"
 description: ""
 coverImage: "/assets/img/2024-08-03-15UsefulCSSPropertiesYouShouldKnowAbout_0.png"
 date: 2024-08-03 18:21
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "15 Useful CSS Properties You Should Know About "
 link: "https://medium.com/@kaderbiral26/15-useful-css-properties-you-should-know-about-d924343d6f9c"
+isUpdated: true
+updatedAt: 1724245456933
 ---
 
 

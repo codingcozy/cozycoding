@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Galactic Defenders Game By Omer Adar"
 link: "https://dev.to/mer_adar_ada76e5dafb3db6/galactic-defenders-by-omer-adar-20kc"
+isUpdated: true
 ---
+
+
 
 
 https://codepen.io/OmerAdar155/pen/LYKEaeN

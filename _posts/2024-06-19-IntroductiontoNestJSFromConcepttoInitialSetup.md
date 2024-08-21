@@ -1,5 +1,5 @@
 ---
-title: "네스트JS 소개 개념부터 초기 설정까지"
+title: "NestJS 소개 개념부터 초기 설정하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-IntroductiontoNestJSFromConcepttoInitialSetup_0.png"
 date: 2024-06-19 08:21
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Introduction to NestJS: From Concept to Initial Setup"
 link: "https://medium.com/@aazimanishgdev/introduction-to-nestjs-from-concept-to-initial-setup-7bd6ae0eb96a"
+isUpdated: true
 ---
+
+
+
 
 
 ![NestJS 이미지](/assets/img/2024-06-19-IntroductiontoNestJSFromConcepttoInitialSetup_0.png)

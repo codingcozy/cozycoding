@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Conflicted Economics of Prompt Engineering in Software Development"
 link: "https://medium.com/@dnastacio/economics-prompt-engineering-2aebc03acb58"
+isUpdated: true
 ---
+
+
 
 
 "If you are nothing without this suit, then you shouldn’t have it." – Tony Stark

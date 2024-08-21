@@ -1,5 +1,5 @@
 ---
-title: "Range Input과 스크롤 애니메이션에 대해 몰랐던 5가지 사실"
+title: "Range Input과 스크롤 애니메이션 개념 정리"
 description: ""
 coverImage: "/assets/img/2024-08-04-SomethingyoudidntknowabouttheRangeInputandScrollAnimations_0.png"
 date: 2024-08-04 20:06
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Something you didnt know about the Range Input and Scroll Animations"
 link: "https://medium.com/@levchenkod/something-you-didnt-know-about-the-range-input-and-scroll-animations-20c21540e8c3"
+isUpdated: true
+updatedAt: 1724246216183
 ---
 
 

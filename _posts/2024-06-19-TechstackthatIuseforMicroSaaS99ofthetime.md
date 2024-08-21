@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Tech stack that I use for Micro SaaS 99% of the time!"
 link: "https://medium.com/@shivanshudev/tech-stack-that-i-use-for-micro-saas-99-of-the-time-2aebc9cb6922"
+isUpdated: true
 ---
+
+
+
 
 
 현재 많은 기술이 사용 가능하며, 매달 새로운 JS 프레임워크가 출시됩니다. 때로는 처음부터 올바른 기술 스택을 선택하지 않으면 나중에 확장하기 어려울 수 있습니다. 그래서 오늘의 글에서는 제가 Micro SaaS를 개발하는 데 사용하는 기술과 스택을 공유하겠습니다.

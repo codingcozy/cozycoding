@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Introduction to (Binary) Trees  Visual Guide"
 link: "https://medium.com/@funCoded/introduction-to-binary-trees-a-visual-guide-68cd9bbb3a18"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245766611
 ---
 
 

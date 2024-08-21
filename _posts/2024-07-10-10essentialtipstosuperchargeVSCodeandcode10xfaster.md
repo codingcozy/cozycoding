@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "10 essential tips to supercharge VS Code and code 10x faster"
 link: "https://medium.com/coding-beauty/vscode-upgrade-tips-246481c27e8e"
+isUpdated: true
 ---
+
+
 
 
 ![image](/assets/img/2024-07-10-10essentialtipstosuperchargeVSCodeandcode10xfaster_0.png)

@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Two-way Binding can be a One-way Street"
 link: "https://dev.to/mlrawlings/two-way-binding-can-be-a-one-way-street-1o3"
+isUpdated: true
+updatedAt: 1724246204836
 ---
 
 

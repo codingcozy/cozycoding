@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Too Many Meetings at Work? Here’s How To Stop the Meeting Madness"
 link: "https://medium.com/code-like-a-girl/too-many-meetings-at-work-heres-how-to-stop-the-meeting-madness-47a6fb141c8a"
+isUpdated: true
 ---
+
+
 
 
 ![TooManyMeetingsatWorkHeresHowToStoptheMeetingMadness_0.png](/assets/img/2024-07-10-TooManyMeetingsatWorkHeresHowToStoptheMeetingMadness_0.png)

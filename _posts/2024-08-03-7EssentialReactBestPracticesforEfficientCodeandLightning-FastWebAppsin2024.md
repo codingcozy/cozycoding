@@ -1,5 +1,5 @@
 ---
-title: "2024년 효율적인 코드와 초고속 웹 앱을 위한 7가지 필수 React 베스트 프랙티스"
+title: "React로 빠른 웹 앱을 위한 7가지 필수 내용들 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 19:27
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "7 Essential React Best Practices for Efficient Code and Lightning-Fast Web Apps in 2024"
 link: "https://dev.to/vyan/7-essential-react-best-practices-for-efficient-code-and-lightning-fast-web-apps-in-2024-daj"
+isUpdated: true
+updatedAt: 1724246492236
 ---
 
 

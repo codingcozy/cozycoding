@@ -1,5 +1,5 @@
 ---
-title: "ReactJS에서 프로파일러 컴포넌트 이해하기 실제 예제와 함께 깊게 파헤치기"
+title: "ReactJS에서 프로파일러 컴포넌트 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-21 17:27
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding the Profiler Component in ReactJS A Deep Dive with Real-Life Examples"
 link: "https://medium.com/@lovetrivedi/understanding-the-profiler-component-in-reactjs-a-deep-dive-with-real-life-examples-71e0995fa123"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244498837
 ---
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Hate😡Your Fellow Coder? Here’s What to Do."
 link: "https://medium.com/@tsecretdeveloper/hate-your-fellow-coder-heres-what-to-do-669f1e027a8a"
+isUpdated: true
 ---
+
+
 
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Cubit + Freezed: Powerful BloC pattern option🧊"
 link: "https://medium.com/@caio.dev29/cubit-freezed-powerful-bloc-pattern-option-98e4f047b00c"
+isUpdated: true
 ---
+
+
 
 
 플러터 생태계에서는 다양한 컨텍스트 간 상태를 관리하는 방법이 많이 있어요. 이에 맞게 Cubit과 Freezed를 결합하여 새로운 접근법을 소개해 드리려고 해요. 이 방법은 코딩과 코드 생성을 향상시켜 생산성을 높일 수 있어요!

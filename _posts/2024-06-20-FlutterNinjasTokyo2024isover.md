@@ -1,5 +1,5 @@
 ---
-title: "플러터닌자 도쿄 2024가 끝났어요"
+title: "플러터닌자 도쿄 2024 정리"
 description: ""
 coverImage: "/assets/img/2024-06-20-FlutterNinjasTokyo2024isover_0.png"
 date: 2024-06-20 13:45
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "FlutterNinjas Tokyo 2024 is over!!"
 link: "https://medium.com/@keifujikawa/flutterninjas-tokyo-2024-is-over-cfb6ffd6db20"
+isUpdated: true
 ---
+
+
+
 
 
 플러터닌자 도쿄 2024가 끝났어요!!

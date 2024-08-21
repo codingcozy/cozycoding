@@ -1,5 +1,5 @@
 ---
-title: "Spring Data JPA를 사용하는 최상의 방법"
+title: "Spring Data JPA를 사용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-BestPracticeusingSpringDataJPA_0.png"
 date: 2024-06-19 08:23
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Best Practice using Spring Data JPA"
 link: "https://medium.com/xtmd/best-practice-using-spring-data-jpa-883c95472274"
+isUpdated: true
 ---
+
+
+
 
 
 ## 최적 성능을 위해 Spring Data JPA를 숙달하는 방법

@@ -1,5 +1,5 @@
 ---
-title: "프론트엔드 주간 요약 367 2024년 6월 10일 - 6월 16일"
+title: "프론트엔드 주간 요약 2024년 6월 10일 - 6월 16일"
 description: ""
 coverImage: "/assets/img/2024-06-19-FrontendWeeklyDigest3671016Jun2024_0.png"
 date: 2024-06-19 14:31
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Frontend Weekly Digest #367 (10–16 Jun 2024)"
 link: "https://medium.com/@frontender-ua/frontend-weekly-digest-367-10-16-jun-2024-885157f6f1f5"
+isUpdated: true
 ---
+
+
+
 
 
 

@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Future.wait — Flutter: Managing Multiple Tasks Together"
 link: "https://medium.com/@sanjaysharmajw/future-wait-flutter-9add7ac71f7e"
+isUpdated: true
 ---
+
+
+
 
 
 /assets/img/2024-07-06-FuturewaitFlutterManagingMultipleTasksTogether_0.png

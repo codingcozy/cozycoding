@@ -1,14 +1,18 @@
 ---
-title: "Serverpod 시작하기 인증  첫 번째 파트"
+title: "Serverpod 시작하기 인증 첫 번째 파트"
 description: ""
 coverImage: "/assets/img/2024-06-21-GettingStartedwithServerpodAuthenticationPart1_0.png"
 date: 2024-06-21 21:49
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-GettingStartedwithServerpodAuthenticationPart1_0.png
 tag: Tech
 originalTitle: "Getting Started with Serverpod: Authentication — Part 1"
 link: "https://medium.com/serverpod/getting-started-with-serverpod-authentication-part-1-72c25280e6e9"
+isUpdated: true
 ---
+
+
+
 
 ## 서버파드에서 이메일 및 비밀번호 인증 구현 단계별 가이드
 

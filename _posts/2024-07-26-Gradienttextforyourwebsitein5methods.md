@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Gradient text for your website in 5 methods"
 link: "https://dev.to/axorax/gradient-text-for-your-website-in-5-methods-4fj9"
+isUpdated: true
 ---
+
+
 
 
 이 글에서는 CSS를 사용하여 그라데이션 텍스트를 만드는 몇 가지 방법을 소개하겠습니다. CSS를 사용하지 않는 방법도 포함되어 있습니다. 이미 한 가지 방법에 익숙할 수도 있습니다.

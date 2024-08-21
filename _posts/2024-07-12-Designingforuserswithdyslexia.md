@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Designing for users with dyslexia"
 link: "https://medium.com/user-experience-design-1/designing-for-dyslexia-37f9afd73a02"
+isUpdated: true
 ---
+
+
 
 
 

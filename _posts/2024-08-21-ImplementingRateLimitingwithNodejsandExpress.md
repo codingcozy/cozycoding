@@ -1,5 +1,5 @@
 ---
-title: "Node.js와 Express로 레이트 리미팅 구현하기 초보자를 위한 가이드"
+title: "Node.js와 Express로 레이트 리미팅 구현하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-ImplementingRateLimitingwithNodejsandExpress_0.png"
 date: 2024-08-21 17:41
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Implementing Rate Limiting with Node.js and Express"
 link: "https://medium.com/@achrefbenbrahim/implementing-rate-limiting-with-node-js-and-express-94f4ed598e61"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245773978
 ---
 
 

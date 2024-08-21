@@ -1,5 +1,5 @@
 ---
-title: "10개의 JavaScript 원 라이너 - 초보 개발자들이 전문가 같이 보이는 방법"
+title: "10개의 JavaScript 한줄짜리 코드 작성 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-10JavaScriptOne-LinersforBeginnerDeveloperstoLookPro_0.png"
 date: 2024-06-19 08:20
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "10 JavaScript One-Liners for Beginner Developers to Look Pro"
 link: "https://medium.com/@pinjarirehan/10-javascript-one-liners-for-beginner-developers-to-look-pro-b9548353330a"
+isUpdated: true
 ---
+
+
+
 
 
 이미지 태그를 수정하여 마크다운 형식으로 변환해보세요.

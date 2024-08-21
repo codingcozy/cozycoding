@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Forms and Validation in Flutter: A Practical Guide"
 link: "https://medium.com/@sparkleotech/forms-and-validation-in-flutter-a-practical-guide-45c614679272"
+isUpdated: true
 ---
+
+
+
 
 
 모바일 폼은 스마트폰, 태블릿 등의 모바일 장치로 접근할 수 있는 전자 버전의 종이 양식입니다.

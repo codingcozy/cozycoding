@@ -3,12 +3,16 @@ title: "Flutter 테스트 완벽 가이드 유닛 테스트부터 통합 테스�
 description: ""
 coverImage: "/assets/img/2024-06-21-TestinginFlutterFromUnitTeststoIntegrationTests_0.png"
 date: 2024-06-21 20:26
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-TestinginFlutterFromUnitTeststoIntegrationTests_0.png
 tag: Tech
 originalTitle: "Testing in Flutter: From Unit Tests to Integration Tests"
 link: "https://medium.com/@gautam007/testing-in-flutter-from-unit-tests-to-integration-tests-30a7e6981004"
+isUpdated: true
 ---
+
+
+
 
 ## 플러터 앱 품질 확보를 위한 포괄적 가이드
 

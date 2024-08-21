@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Callkit — Handle actions in the killed state"
 link: "https://medium.com/@Ayush_b58/flutter-callkit-handle-actions-in-the-killed-state-e6f296c603e6"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-09-FlutterCallkitHandleactionsinthekilledstate_0.png" />

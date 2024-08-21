@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "What is a Comparator in Java?"
 link: "https://medium.com/@satishlokhande5674/what-is-a-comparator-in-java-9570dd0b056b"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-07-WhatisaComparatorinJava_0.png" />

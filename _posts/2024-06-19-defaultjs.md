@@ -1,14 +1,18 @@
 ---
-title: "디폴트js"
+title: "디폴트js 사용 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-defaultjs_0.png"
 date: 2024-06-19 00:56
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-defaultjs_0.png
 tag: Tech
 originalTitle: "default.js"
 link: "https://nextjs.org/docs/app/api-reference/file-conventions/default"
+isUpdated: true
 ---
+
+
+
 
 # default.js
 

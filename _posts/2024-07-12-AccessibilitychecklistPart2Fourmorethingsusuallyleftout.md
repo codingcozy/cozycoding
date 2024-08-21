@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Accessibility checklist (Part 2): Four more things usually left out"
 link: "https://medium.com/user-experience-design-1/accessibility-checklist-part-2-four-more-things-usually-left-out-57a10832381f"
+isUpdated: true
 ---
+
+
 
 
 ## 접근성 체크리스트

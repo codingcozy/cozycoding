@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "6 Micro Habits of Highly Effective Managers"
 link: "https://medium.com/code-like-a-girl/6-micro-habits-of-highly-effective-managers-cce3b3f9ba66"
+isUpdated: true
 ---
+
+
+
 
 
 ![매니저를 효과적으로 만드는 요소](/assets/img/2024-07-07-6MicroHabitsofHighlyEffectiveManagers_0.png)

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to implement Shorebird Code Push in Flutter?"
 link: "https://medium.com/flutter-taipei/how-to-implement-shorebird-code-push-in-flutter-e65f88e80447"
+isUpdated: true
 ---
+
+
 
 
 와우! 우리는 온라인 제품을 즉시 업데이트할 수 있어요.

@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Setting Up and Organizing Your Flutter Project with Clean Architecture"
 link: "https://medium.com/@baharudin-yusup/setting-up-and-organizing-your-flutter-project-with-clean-architecture-478f8615003d"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-06-21-SettingUpandOrganizingYourFlutterProjectwithCleanArchitecture_0.png)

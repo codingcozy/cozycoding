@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Clean Code: Error Handling"
 link: "https://medium.com/gitconnected/clean-code-error-handling-629b0fd8ff99"
+isUpdated: true
 ---
+
+
 
 
 ![2024-07-13-CleanCodeErrorHandling_0.png](/assets/img/2024-07-13-CleanCodeErrorHandling_0.png)

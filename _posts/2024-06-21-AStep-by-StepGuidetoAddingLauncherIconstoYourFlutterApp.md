@@ -1,5 +1,5 @@
 ---
-title: "Flutter 앱에 런처 아이콘 추가하는 단계별 가이드"
+title: "Flutter 앱에 런처 아이콘 추가하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-AStep-by-StepGuidetoAddingLauncherIconstoYourFlutterApp_0.png"
 date: 2024-06-21 22:12
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "A Step-by-Step Guide to Adding Launcher Icons to Your Flutter App"
 link: "https://medium.com/@nikhilsomansahu/a-step-by-step-guide-to-adding-launcher-icons-to-your-flutter-app-98b5d7e3bb04"
+isUpdated: true
 ---
+
+
+
 
 
 소개: 모바일 앱 개발 세계에서 시각적으로 매력적이고 인식하기 쉬운 런처 아이콘을 만드는 것은 사용자에게 지속적으로 영향을 줄 수 있는 중요한 요소입니다. 플러터(Flutter)는 구글의 네이티브 컴파일된 애플리케이션을 구축하는 UI 툴킷으로, 앱에 런처 아이콘을 추가하는 간단한 프로세스를 제공합니다.

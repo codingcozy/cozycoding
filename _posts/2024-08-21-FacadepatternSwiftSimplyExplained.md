@@ -1,5 +1,5 @@
 ---
-title: "Swift로 간단히 설명하는 Facade 패턴"
+title: "Swift  Facade 패턴 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-21 18:34
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Facade pattern  Swift  Simply Explained"
 link: "https://medium.com/@algorhythm2411/facade-pattern-ios-simple-expl-9ea3b854104e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245926532
 ---
 
 

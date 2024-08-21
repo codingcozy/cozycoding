@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Arrow Key Scrolling in Flutter Web"
 link: "https://medium.com/@gauravswarankar/arrow-key-scrolling-in-flutter-web-b3196e3d824e"
+isUpdated: true
 ---
+
+
+
 
 
 ![화살표 키 스크롤링](/assets/img/2024-06-21-ArrowKeyScrollinginFlutterWeb_0.png)

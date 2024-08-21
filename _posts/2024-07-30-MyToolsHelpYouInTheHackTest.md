@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "My Tools Help You In The Hack Test"
 link: "https://dev.to/moaz-mohamedx3/my-tools-help-you-in-the-hack-test-3ec7"
+isUpdated: true
 ---
+
+
 
 
 첫 번째 도구는 IP의 포트를 스캔하는 도구입니다. https://github.com/MoazMohamed891/Port_Scan_Network 두 번째 도구는 전화번호 정보를 제공하는 도구입니다. https://github.com/MoazMohamed891/INFO_Number_Phone

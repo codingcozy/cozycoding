@@ -1,5 +1,5 @@
 ---
-title: "슈퍼 빠른 http 서버 만들기 with Rust  htmx 파트 1"
+title: "http 서버를 만드는 가장 빠른 방법 with Rust htmx"
 description: ""
 coverImage: "/assets/img/2024-06-19-SuperfasthttpserverwithRusthtmxpart1_0.png"
 date: 2024-06-19 14:31
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Super fast http server with Rust + htmx (part 1)"
 link: "https://medium.com/gitconnected/super-fast-http-server-with-rust-htmx-part-1-bfcddbd6e8bc"
+isUpdated: true
 ---
+
+
+
 
 
 

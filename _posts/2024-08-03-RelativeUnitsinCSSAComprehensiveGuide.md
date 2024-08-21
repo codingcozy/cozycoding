@@ -1,5 +1,5 @@
 ---
-title: "CSS 상대 단위 완벽 가이드"
+title: "CSS 상대 단위 완벽 가이드 em rem"
 description: ""
 coverImage: "/assets/img/2024-08-03-RelativeUnitsinCSSAComprehensiveGuide_0.png"
 date: 2024-08-03 19:34
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Relative Units in CSS A Comprehensive Guide"
 link: "https://dev.to/mustapha/relative-units-in-css-a-comprehensive-guide-15ai"
+isUpdated: true
+updatedAt: 1724246303325
 ---
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Senior Developer Mindset: Traits, Soft Skills, and Lifestyle"
 link: "https://medium.com/@einat.mahat/senior-developer-mindset-traits-soft-skills-and-lifestyle-47b184c2ec9e"
+isUpdated: true
 ---
+
+
 
 
 # "시니어 개발자"

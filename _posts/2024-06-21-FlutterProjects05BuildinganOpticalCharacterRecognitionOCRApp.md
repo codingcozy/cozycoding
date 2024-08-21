@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Projects #05: Building an Optical Character Recognition (OCR) App"
 link: "https://medium.com/@frojho/flutter-projects-05-building-an-optical-character-recognition-ocr-app-639c165f857d"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-21-FlutterProjects05BuildinganOpticalCharacterRecognitionOCRApp_0.png" />

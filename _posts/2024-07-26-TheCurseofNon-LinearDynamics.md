@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Curse of Non-Linear Dynamics"
 link: "https://medium.com/@mathcube7/the-curse-of-non-linear-dynamics-97bf821cbef9"
+isUpdated: true
 ---
+
+
 
 
 

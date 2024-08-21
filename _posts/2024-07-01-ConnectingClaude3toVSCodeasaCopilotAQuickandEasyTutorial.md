@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Connecting Claude 3 to VSCode as a Copilot: A Quick and Easy Tutorial"
 link: "https://medium.com/towards-aws/connecting-claude-3-to-vscode-as-a-copilot-a-quick-and-easy-tutorial-c011d33f500c"
+isUpdated: true
 ---
+
+
+
 
 
 ![2024-07-01-ConnectingClaude3toVSCodeasaCopilotAQuickandEasyTutorial_0.png](/assets/img/2024-07-01-ConnectingClaude3toVSCodeasaCopilotAQuickandEasyTutorial_0.png)

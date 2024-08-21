@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "5 JavaScript Features Every Web Developer Should Know"
 link: "https://medium.com/gitconnected/5-javascript-features-every-web-developer-should-know-2118f26d7e89"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-19-5JavaScriptFeaturesEveryWebDeveloperShouldKnow_0.png" />

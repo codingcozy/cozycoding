@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "DNS Management Basics for Web Developers"
 link: "https://medium.com/tech-learnings/dns-management-basics-for-web-developers-d07fe205c722"
+isUpdated: true
 ---
+
+
 
 
 대부분의 경우, 웹 개발자들은 DNS 관리의 기본을 이해하는 데 어려움을 겪어 일상적인 작업에서 혼란을 가져올 수 있습니다. 이 게시물에서는 웹 개발자가 DNS 관리 프로세스를 이해하고 일상적인 작업에서 도움을 받을 수 있는 DNS 관리 기본 사항을 논의하고자 합니다. 여기에 게시된 스크린샷과 일부 단계는 Cloudflare DNS 관리자를 기반으로 합니다.

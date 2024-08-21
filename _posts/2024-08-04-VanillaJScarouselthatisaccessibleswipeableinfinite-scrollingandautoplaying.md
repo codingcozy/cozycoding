@@ -1,5 +1,5 @@
 ---
-title: "접근성 좋은 바이닐 자바스크립트 캐러셀 만들기 스와이프 가능, 무한 스크롤, 자동 재생 기능 탑재"
+title: "자바스크립트로 캐러셀 만들기 스와이프, 무한 스크롤, 자동 재생 기능"
 description: ""
 coverImage: "/assets/img/2024-08-04-VanillaJScarouselthatisaccessibleswipeableinfinite-scrollingandautoplaying_0.png"
 date: 2024-08-04 19:58
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Vanilla JS carousel that is accessible, swipeable, infinite-scrolling, and autoplaying"
 link: "https://dev.to/masakudamatsu/vanilla-js-carousel-that-is-accessible-swipeable-infinite-scrolling-and-autoplaying-19kc"
+isUpdated: true
+updatedAt: 1724246202403
 ---
 
 

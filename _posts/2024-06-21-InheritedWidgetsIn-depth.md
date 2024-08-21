@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Inherited Widgets In-depth"
 link: "https://medium.com/@CavinMac/inherited-widgets-in-depth-413794c3b3d9"
+isUpdated: true
 ---
+
+
+
 
 
 ![image](/assets/img/2024-06-21-InheritedWidgetsIn-depth_0.png)

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Most Advanced Libraries for Data Visualization and Analysis on the Web"
 link: "https://medium.com/towards-data-science/the-most-advanced-libraries-for-data-visualization-and-analysis-on-the-web-e823535e0eb1"
+isUpdated: true
 ---
+
+
 
 
 이번 새로운 글에서는 성능, 유연성 및 기능의 풍부함을 신중하게 분석한 뒤 나에 의해 판단된 가장 진보된 강력한 웹 기반 데이터 시각화 및 분석 라이브러리에 대한 결과물을 제시하고자 합니다.

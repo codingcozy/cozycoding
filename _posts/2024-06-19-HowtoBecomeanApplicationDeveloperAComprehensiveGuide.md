@@ -1,5 +1,5 @@
 ---
-title: "애플리케이션 개발자가 되는 방법 포괄적인 안내"
+title: "애플리케이션 개발자가 되는 로드맵"
 description: ""
 coverImage: "/assets/img/2024-06-19-HowtoBecomeanApplicationDeveloperAComprehensiveGuide_0.png"
 date: 2024-06-19 08:12
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to Become an Application Developer: A Comprehensive Guide"
 link: "https://medium.com/@bhupeshsahu2312/how-to-become-an-application-developer-a-comprehensive-guide-22b23ee9798a"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-19-HowtoBecomeanApplicationDeveloperAComprehensiveGuide_0.png" />

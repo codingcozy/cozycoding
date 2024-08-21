@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "An IMPORTANT message to ALL developers"
 link: "https://medium.com/@kritikasharmablog/an-important-message-to-all-developers-e4a0107e54bb"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-13-AnIMPORTANTmessagetoALLdevelopers_0.png" />

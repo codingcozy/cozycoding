@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Streamline Flutter Development with Clean Architecture"
 link: "https://medium.com/simform-engineering/streamline-flutter-development-with-clean-architecture-a850b182cfb9"
+isUpdated: true
 ---
+
+
+
 
 
 ## 모듈화, 유지보수 가능하고 테스트 가능한 Flutter 앱을 만드는 방법을 배워보세요.

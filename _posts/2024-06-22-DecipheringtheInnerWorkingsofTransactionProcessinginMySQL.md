@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Deciphering the Inner Workings of Transaction Processing in MySQL"
 link: "https://medium.com/itnext/deciphering-the-inner-workings-of-transaction-processing-in-mysql-bb2f59c40bff"
+isUpdated: true
 ---
+
+
+
 
 
 MySQL의 트랜잭션 메커니즘에 대해 깊이 있게 탐구해 보세요. 여기서는 트랜잭션 처리의 전반적인 탐구를 통해 효율적이고 안전한 데이터 관리를 이끄는 기본 원칙을 알아봅니다.

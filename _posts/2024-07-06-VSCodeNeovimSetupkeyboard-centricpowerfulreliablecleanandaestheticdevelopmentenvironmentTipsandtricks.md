@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "😎 VSCode + Neovim Setup: keyboard-centric, powerful, reliable, clean, and aesthetic development environment. Tips and tricks"
 link: "https://medium.com/@nikmas_dev/vscode-neovim-setup-keyboard-centric-powerful-reliable-clean-and-aesthetic-development-582d34297985"
+isUpdated: true
 ---
+
+
+
 
 
 여기서는 현재 사용 중인 개발 환경 설정과 그 철학을 공유하려고 해요. 제 최신 방법과 통찰을 계속 업데이트해 나갈 거에요.

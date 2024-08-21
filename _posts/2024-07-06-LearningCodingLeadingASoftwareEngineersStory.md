@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Learning, Coding, Leading: A Software Engineer’s Story"
 link: "https://medium.com/@kalpads/learning-coding-leading-a-software-engineers-story-c3880dccf309"
+isUpdated: true
 ---
+
+
+
 
 
 ## 개인적인 여정

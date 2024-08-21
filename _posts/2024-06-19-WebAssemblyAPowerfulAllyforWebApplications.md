@@ -1,5 +1,5 @@
 ---
-title: "웹 어셈블리 웹 애플리케이션을 위한 강력한 동료"
+title: "웹 애플리케이션 개발에 필요한 웹 어셈블리 "
 description: ""
 coverImage: "/assets/img/2024-06-19-WebAssemblyAPowerfulAllyforWebApplications_0.png"
 date: 2024-06-19 14:50
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "WebAssembly: A Powerful Ally for Web Applications"
 link: "https://medium.com/@nachiket.coder/webassembly-a-powerful-ally-for-web-applications-5c86ad510b80"
+isUpdated: true
 ---
+
+
+
 
 
 웹어셈블리 (WebAssembly 또는 Wasm)는 본질적으로는 low-level 언어가 아니라 다른 고성능 언어들인 C, C++, Rust, 심지어 JVM 언어 등을 웹 브라우저에서 실행하기 위해 설계된 바이트코드 형식입니다. 이는 이러한 언어들이 JavaScript와 원활하게 상호작용할 수 있도록 하는 다리 역할을 합니다.

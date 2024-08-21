@@ -1,14 +1,18 @@
 ---
-title: "함수를 인자로 전달하는 방법  Flutter"
+title: "함수를 인자로 전달하는 방법 Flutter"
 description: ""
 coverImage: "/assets/img/2024-06-22-PassingaFunctionasanArgumentFlutter_0.png"
 date: 2024-06-22 04:06
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-22-PassingaFunctionasanArgumentFlutter_0.png
 tag: Tech
 originalTitle: "Passing a Function as an Argument — Flutter💙"
 link: "https://medium.com/@dnkibere/passing-a-function-as-an-argument-flutter-e011ad2afd86"
+isUpdated: true
 ---
+
+
+
 
 함수를 인수로 전달하는 방법에 대해 궁금했던 적이 있으신가요? 더 나아가, 코드가 깔끔하고 가독성 있게 유지될 수 있도록 함수를 전달해야 하는 상황이 있으신가요?
 

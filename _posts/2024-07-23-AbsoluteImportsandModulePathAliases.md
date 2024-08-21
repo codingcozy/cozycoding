@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Absolute Imports and Module Path Aliases"
 link: "https://nextjs.org/docs/app/building-your-application/configuring/absolute-imports-and-module-aliases"
+isUpdated: true
 ---
+
+
 
 
 # 절대 경로 및 모듈 경로 별칭

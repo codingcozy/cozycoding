@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Why Styled Components Might Be Obsolete in 2024"
 link: "https://medium.com/javascript-in-plain-english/why-styled-components-might-be-obsolete-in-2024-the-rise-of-css-modules-react-styling-a2d7d5f9c5d8"
+isUpdated: true
 ---
+
+
 
 
 프론트엔드 개발의 끊임없이 발전하는 세상에서, Styled Components와 CSS Modules 사용에 대한 논쟁은 여전히 화두가 되고 있어요.

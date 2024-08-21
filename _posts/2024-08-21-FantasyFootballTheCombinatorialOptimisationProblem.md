@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Fantasy Football (The Combinatorial Optimisation Problem)"
 link: "https://medium.com/@antbr/fantasy-football-the-combinatorial-optimisation-problem-efaff9b4b50b"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245915099
 ---
 
 

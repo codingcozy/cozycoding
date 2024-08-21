@@ -1,5 +1,5 @@
 ---
-title: "textarea에 대한 라인 번호를 SVG를 활용해 추가하는 방법"
+title: "textarea의 라인 번호 SVG를 활용해 추가하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-LineNumbersfortextareausingSVG_0.png"
 date: 2024-08-21 18:57
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Line Numbers for textarea using SVG"
 link: "https://dev.to/madsstoumann/line-numbers-for-using-svg-1216"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245748258
 ---
 
 

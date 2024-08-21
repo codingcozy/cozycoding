@@ -1,5 +1,5 @@
 ---
-title: "API 보호 토큰 하이재킹 방지를 위한 가이드 및 JWT 도난 대응법"
+title: "API JWT 하이재킹을 막는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-ProtectingYourAPIfromAppImpersonationTokenHijackingGuideandMitigationofJWTTheft_0.png"
 date: 2024-08-21 18:28
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Protecting Your API from App Impersonation Token Hijacking Guide and Mitigation of JWT Theft"
 link: "https://medium.com/@talsec/protecting-your-api-from-app-impersonation-token-hijacking-guide-and-mitigation-of-jwt-theft-48e744b76327"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245542646
 ---
 
 

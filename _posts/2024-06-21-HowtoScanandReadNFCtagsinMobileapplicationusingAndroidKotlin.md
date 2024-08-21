@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to Scan and Read ***NFC tags*** in Mobile application using Android, Kotlin"
 link: "https://medium.com/@meetjanani47/how-to-scan-and-read-nfc-tags-in-mobile-application-using-android-kotlin-dd31695b9a3e"
+isUpdated: true
 ---
+
+
+
 
 
 

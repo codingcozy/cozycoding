@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Using Generative AI with Flutter"
 link: "https://medium.com/flutter-community/using-generative-ai-with-flutter-20327e22e8aa"
+isUpdated: true
 ---
+
+
 
 
 ## 플러터 앱에 Google의 Gemini SDK 통합하기

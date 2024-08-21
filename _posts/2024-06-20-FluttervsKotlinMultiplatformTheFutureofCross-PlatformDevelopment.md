@@ -1,5 +1,5 @@
 ---
-title: "플러터 vs 코틀린 멀티플랫폼 크로스 플랫폼 개발의 미래"
+title: "플러터 vs 코틀린 멀티플랫폼 크로스 플랫폼 개발하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-20-FluttervsKotlinMultiplatformTheFutureofCross-PlatformDevelopment_0.png"
 date: 2024-06-20 13:50
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter vs Kotlin Multiplatform : The Future of Cross-Platform Development"
 link: "https://medium.com/@shahtushar1692/flutter-vs-kotlin-multiplatform-the-future-of-cross-platform-development-70ef3f90c8f3"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-20-FluttervsKotlinMultiplatformTheFutureofCross-PlatformDevelopment_0.png" />

@@ -1,5 +1,5 @@
 ---
-title: "HTML 태그의 기본 구조"
+title: "HTML 태그의 기본 구조 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-04 19:35
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Estrutura bsica de uma tag HTML"
 link: "https://dev.to/mikedsousa/estrutura-basica-de-uma-tag-html-39ab"
+isUpdated: true
+updatedAt: 1724246248337
 ---
 
 

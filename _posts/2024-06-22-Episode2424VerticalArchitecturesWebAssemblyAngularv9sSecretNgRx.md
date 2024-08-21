@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Episode 24 24: Vertical Architectures, WebAssembly, Angular v9’s Secret, NgRx"
 link: "https://medium.com/ng-news/episode-24-24-vertical-architectures-webassembly-angular-v9s-secret-ngrx-a96636b275b9"
+isUpdated: true
 ---
+
+
+
 
 
 ![Episode2424VerticalArchitecturesWebAssemblyAngularv9sSecretNgRx_0](/assets/img/2024-06-22-Episode2424VerticalArchitecturesWebAssemblyAngularv9sSecretNgRx_0.png)

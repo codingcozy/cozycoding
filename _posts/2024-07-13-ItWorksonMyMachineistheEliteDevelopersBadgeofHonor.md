@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "“It Works on My Machine” is the Elite Developer’s Badge of Honor"
 link: "https://medium.com/@tsecretdeveloper/it-works-on-my-machine-is-the-elite-developers-badge-of-honor-19b73a3c5ae3"
+isUpdated: true
 ---
+
+
 
 
 

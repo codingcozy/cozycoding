@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "After Working Super Hard for 7 Years, We Released the New Kooboo CMS Under the EPL Open Source License Today"
 link: "https://dev.to/kooboo/after-working-super-hard-for-7-years-we-released-the-new-kooboo-cms-under-the-epl-open-source-license-today-4no6"
+isUpdated: true
 ---
+
+
 
 
 Kooboo는 웹사이트, 전자 상거래 및 애플리케이션 개발을 위해 특별히 설계된 전문 도구로, 내장 웹 서버, 메일 서버, 데이터베이스 엔진, 템플릿 엔진, IDE 및 다양한 생산성 도구를 제공합니다. Mac, Linux, Windows 및 클라우드에서 실행됩니다. WordPress, Joomla, Shopify, Magento 및 WIX에 대안이 되는 다재다능한 툴입니다.

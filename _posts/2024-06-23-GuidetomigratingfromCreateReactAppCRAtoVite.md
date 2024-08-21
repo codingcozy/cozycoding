@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Guide to migrating from Create React App (CRA) to Vite"
 link: "https://medium.com/@mun1013/guide-to-migrating-from-create-react-app-cra-to-vite-5516f55aa410"
+isUpdated: true
 ---
+
+
+
 
 
 요즘 회사 내 보안 팀으로부터 웹 애플리케이션에서 발견된 모든 취약점을 가능한 한 빨리 해결하라는 안내를 받았어요.

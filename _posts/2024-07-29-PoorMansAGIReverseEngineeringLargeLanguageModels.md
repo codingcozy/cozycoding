@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Poor Mans AGI Reverse Engineering Large Language Models"
 link: "https://medium.com/@pkr-peasy/reverse-engineering-large-language-models-a-systematic-approach-fc2bf6d4a7e8"
+isUpdated: true
 ---
+
+
 
 
 ![PoorMansAGIReverseEngineeringLargeLanguageModels](/assets/img/2024-07-29-PoorMansAGIReverseEngineeringLargeLanguageModels_0.png)

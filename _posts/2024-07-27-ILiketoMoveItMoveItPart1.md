@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "I Like to Move It, Move It Part 1"
 link: "https://dev.to/nmiller15/i-like-to-move-it-move-it-part-1-3b10"
+isUpdated: true
 ---
+
+
 
 
 ## CSS Display와 Positioning

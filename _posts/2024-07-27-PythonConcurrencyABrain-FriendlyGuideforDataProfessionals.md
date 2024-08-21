@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Python Concurrency  A Brain-Friendly Guide for Data Professionals"
 link: "https://medium.com/towards-data-science/python-concurrency-a-brain-friendly-guide-for-data-professionals-a6215a3e9e26"
+isUpdated: true
 ---
+
+
 
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Static Assets in `public`"
 link: "https://nextjs.org/docs/app/building-your-application/optimizing/static-assets"
+isUpdated: true
 ---
+
+
 
 
 # `public` 폴더에 있는 정적 에셋

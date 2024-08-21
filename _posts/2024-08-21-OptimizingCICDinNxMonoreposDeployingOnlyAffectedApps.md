@@ -1,5 +1,5 @@
 ---
-title: "Nx 모노레포에서 CICD 최적화 영향을 받는 앱만 배포하기"
+title: "Nx 모노레포에서 CICD 최적화 해서 배포하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-OptimizingCICDinNxMonoreposDeployingOnlyAffectedApps_0.png"
 date: 2024-08-21 17:41
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Optimizing CI CD in Nx Monorepos Deploying Only Affected Apps"
 link: "https://medium.com/@yuvrajkakkar1/optimizing-ci-cd-in-nx-monorepos-deploying-only-affected-apps-6073347033f6"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245638066
 ---
 
 

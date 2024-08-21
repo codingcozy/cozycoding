@@ -3,12 +3,16 @@ title: "Flutter에서 Bloc을 사용한 상태 관리 마스터하기 종합 가
 description: ""
 coverImage: "/assets/img/2024-06-21-MasteringStateManagementinFlutterwithBlocAComprehensiveGuide_0.png"
 date: 2024-06-21 22:13
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-MasteringStateManagementinFlutterwithBlocAComprehensiveGuide_0.png
 tag: Tech
 originalTitle: "Mastering State Management in Flutter with Bloc: A Comprehensive Guide"
 link: "https://medium.com/@dihsar/mastering-state-management-in-flutter-with-bloc-a-comprehensive-guide-1d03319ba7df"
+isUpdated: true
 ---
+
+
+
 
 소개
 

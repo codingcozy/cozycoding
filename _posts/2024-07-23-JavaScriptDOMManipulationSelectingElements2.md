@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "JavaScript DOM Manipulation Selecting Elements 2"
 link: "https://medium.com/javascript-in-plain-english/javascript-dom-manipulation-selecting-elements-2-3285860ec8db"
+isUpdated: true
 ---
+
+
 
 
 

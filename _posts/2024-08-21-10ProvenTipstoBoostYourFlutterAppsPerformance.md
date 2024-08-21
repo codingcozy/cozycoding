@@ -1,5 +1,5 @@
 ---
-title: " Flutter 앱 성능 향상을 위한 10가지 검증된 팁"
+title: "Flutter 앱 성능 향상을 위한 10가지 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-10ProvenTipstoBoostYourFlutterAppsPerformance_0.png"
 date: 2024-08-21 18:43
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: " 10 Proven Tips to Boost Your Flutter Apps Performance"
 link: "https://medium.com/@deepak11developer/10-proven-tips-to-boost-your-flutter-apps-performance-9412a6b85008"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246172130
 ---
 
 

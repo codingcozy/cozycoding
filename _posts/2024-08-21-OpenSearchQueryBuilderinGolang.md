@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "OpenSearch Query Builder in Golang"
 link: "https://medium.com/@confusedcyberwarrior/opensearch-query-builder-in-golang-3beaf9e12884"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245646248
 ---
 
 

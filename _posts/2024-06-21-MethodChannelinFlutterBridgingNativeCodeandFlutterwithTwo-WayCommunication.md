@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Method Channel in Flutter: Bridging Native Code and Flutter with Two-Way Communication"
 link: "https://medium.com/@iiharish97ii/method-channel-in-flutter-bridging-native-code-and-flutter-with-two-way-communication-788d1e91c8c1"
+isUpdated: true
 ---
+
+
+
 
 
 플러터의 메소드 채널은 플러터와 플랫폼별 코드 간에 원활한 통신을 제공하는 강력한 메커니즘을 제공합니다. 이 블로그 포스트에서는 플러터에서 메소드 채널을 설정하고 네이티브 MainActivity.kt(Android) 및 AppDelegate.swift(iOS) 코드에서 데이터를 플러터 애플리케이션으로 반환하는 과정을 살펴보겠습니다. 함께 알아보겠습니다!

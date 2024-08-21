@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Every React Concept Explained in 5 Minutes"
 link: "https://dev.to/jitendrachoudhary/every-react-concept-explained-in-5-minutes-39b9"
+isUpdated: true
+updatedAt: 1724246398136
 ---
 
 

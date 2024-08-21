@@ -1,5 +1,5 @@
 ---
-title: "CSS에서 Cascading은 무엇을 의미하는가"
+title: "CSS에서 Cascading 개념 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-WhatExactlyistheCascadinginCSS_0.png"
 date: 2024-08-21 16:55
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "What Exactly is the Cascading in CSS"
 link: "https://medium.com/stackademic/what-exactly-is-the-cascading-in-css-dfdffb801946"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244411692
 ---
 
 

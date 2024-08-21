@@ -1,14 +1,18 @@
 ---
-title: "Flutter 프로젝트에서 Riverpod 20  Generator 사용법"
+title: "Flutter 프로젝트에서 Riverpod 20 Generator 사용법"
 description: ""
 coverImage: "/assets/img/2024-06-21-HowtouseRiverpod20GeneratorinyourFlutterProject_0.png"
 date: 2024-06-21 20:19
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-HowtouseRiverpod20GeneratorinyourFlutterProject_0.png
 tag: Tech
 originalTitle: "How to use Riverpod 2.0 + Generator in your Flutter Project"
 link: "https://medium.com/@31carlton7/how-to-use-riverpod-2-0-generator-in-your-flutter-project-4f7f5faba4b2"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-21-HowtouseRiverpod20GeneratorinyourFlutterProject_0.png" />
 

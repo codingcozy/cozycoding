@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flapjax: Data Visualization on the Web with Plotly and Flask"
 link: "https://medium.com/towards-data-science/flapjax-data-visualization-on-the-web-with-plotly-and-flask-465090fa3fba"
+isUpdated: true
 ---
+
+
+
 
 
 데이터 시각화 앱을 구축하는 가장 좋은 프레임워크는 무엇인가요? Streamlit이나 Dash일까요? 아니면 Jupyter Notebook을 Mercury나 Voilá로 변환하여 바로 웹 앱을 만드는 것일까요?

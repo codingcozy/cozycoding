@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Multi-tenancy, the Laravel Way!"
 link: "https://medium.com/laravel-tips/multi-tenancy-the-laravel-way-95677b34619f"
+isUpdated: true
 ---
+
+
+
 
 
 ## 라라벨에서 멀티 테넌시하는 두 가지 방법.

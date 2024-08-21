@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "My Response to TJ DeVries on AI and “Is it Still Worth it to Learn to Code”"
 link: "https://medium.com/@derekcardwell/my-response-to-tj-devries-on-ai-and-is-it-still-worth-it-to-learn-to-code-09898fcf4333"
+isUpdated: true
 ---
+
+
 
 
 ![MyResponsetoTJDeVriesonAIandIsitStillWorthittoLearntoCode](/assets/img/2024-07-13-MyResponsetoTJDeVriesonAIandIsitStillWorthittoLearntoCode_0.png)

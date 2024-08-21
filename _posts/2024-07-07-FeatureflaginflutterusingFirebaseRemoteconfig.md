@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Feature flag in flutter using Firebase Remote config"
 link: "https://medium.com/@rkishan516/feature-flag-in-flutter-using-firebase-remote-config-d602f65a22da"
+isUpdated: true
 ---
+
+
+
 
 
 파이어베이스는 앱 업데이트 없이 앱의 동작을 변경할 수 있는 클라우드 서비스로 원격 구성을 제공합니다. 기능 플래그는 앱 내의 기능 가용성을 제어하는 방법입니다. 기능 플래그를 사용하면 새로운 기능을 일부 사용자 또는 특정 사용자 그룹에 배포할 수 있습니다. 이는 새로운 기능을 테스트하거나 의견을 수집하거나 기능의 다른 버전을 A/B 테스트하는 데 도움이 될 수 있습니다.

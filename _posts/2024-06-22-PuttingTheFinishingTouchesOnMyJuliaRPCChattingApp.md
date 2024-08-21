@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Putting The Finishing Touches On My Julia RPC Chatting App"
 link: "https://medium.com/chifi-media/putting-the-finishing-touches-on-my-julia-rpc-chatting-app-d677186a7356"
+isUpdated: true
 ---
+
+
+
 
 
 ## JLCHAT.JL

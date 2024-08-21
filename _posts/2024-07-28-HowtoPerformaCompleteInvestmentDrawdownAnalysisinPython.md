@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to Perform a Complete Investment Drawdown Analysis in Python"
 link: "https://medium.com/ai-advances/how-to-perform-a-complete-investment-drawdown-analysis-in-python-75d8fa92670c"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-28-HowtoPerformaCompleteInvestmentDrawdownAnalysisinPython_0.png)

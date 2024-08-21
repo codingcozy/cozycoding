@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "There’s Not Enough Time to Do Coding Right"
 link: "https://medium.com/@tsecretdeveloper/theres-not-enough-time-to-do-coding-right-c19be682229d"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-13-TheresNotEnoughTimetoDoCodingRight_0.png)

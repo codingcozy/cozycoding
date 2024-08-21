@@ -1,5 +1,5 @@
 ---
-title: "2024년에 Kotlin Android 개발자를 위한 최고의 코루틴 인터뷰 질문들"
+title: "Kotlin Android 개발자 기술 면접 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-TopCoroutinesInterviewQuestionsin2024forKotlinAndroidDevelopers_0.png"
 date: 2024-08-21 18:12
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Top Coroutines Interview Questions in 2024 for Kotlin Android Developers"
 link: "https://medium.com/@abhidharmik/top-coroutines-interview-questions-in-2024-for-kotlin-android-developers-951dbf624420"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244614221
 ---
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Setting up Jest with Next.js"
 link: "https://nextjs.org/docs/app/building-your-application/testing/jest"
+isUpdated: true
 ---
+
+
 
 
 # Next.js에서 Jest 설정하기

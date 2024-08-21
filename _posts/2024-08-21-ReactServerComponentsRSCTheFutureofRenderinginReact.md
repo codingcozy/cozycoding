@@ -1,5 +1,5 @@
 ---
-title: "리액트 서버 컴포넌트 (RSC) 리액트 렌더링의 미래 "
+title: "리액트 서버 컴포넌트 (RSC) 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-21 18:56
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "React Server Components (RSC) The Future of Rendering in React "
 link: "https://dev.to/margish288/react-server-components-rsc-the-future-of-rendering-in-react-1hd"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245489175
 ---
 
 

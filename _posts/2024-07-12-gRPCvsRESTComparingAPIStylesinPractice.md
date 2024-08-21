@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "gRPC vs. REST: Comparing API Styles in Practice"
 link: "https://medium.com/better-programming/grpc-vs-rest-comparing-api-styles-in-practice-28d2a7c9a349"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-12-gRPCvsRESTComparingAPIStylesinPractice_0.png" />

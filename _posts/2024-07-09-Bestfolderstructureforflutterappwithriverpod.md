@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Best folder structure for flutter app with riverpod"
 link: "https://medium.com/devstudio/best-folder-structure-for-flutter-app-with-riverpod-ba72ceb780b3"
+isUpdated: true
 ---
+
+
 
 
 큰 규모의 복잡한 앱을 개발 중이라면, 폴더 구조를 고려하는 것이 중요합니다. 그렇지 않으면 조직되지 않은 코드는 오랜 기간에 걸쳐 진행을 방해할 수 있습니다.

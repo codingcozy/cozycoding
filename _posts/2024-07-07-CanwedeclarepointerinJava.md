@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Can we declare pointer in Java?"
 link: "https://medium.com/@satishlokhande5674/can-we-declare-pointer-in-java-a67dfd6ff66f"
+isUpdated: true
 ---
+
+
+
 
 
 ![image](/assets/img/2024-07-07-CanwedeclarepointerinJava_0.png)

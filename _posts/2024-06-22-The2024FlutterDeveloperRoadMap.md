@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "The 2024 Flutter Developer RoadMap"
 link: "https://medium.com/javarevisited/the-2024-flutter-developer-roadmap-ed832b493585"
+isUpdated: true
 ---
+
+
+
 
 
 ## 플러터 개발자가 되기 위한 완벽한 안내서와 리소스 링크

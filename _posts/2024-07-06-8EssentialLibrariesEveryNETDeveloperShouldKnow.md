@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "8 Essential Libraries Every .NET Developer Should Know"
 link: "https://medium.com/scub-lab/8-essential-libraries-every-net-developer-should-know-b9d65b05292f"
+isUpdated: true
 ---
+
+
+
 
 
 ![Image](/assets/img/2024-07-06-8EssentialLibrariesEveryNETDeveloperShouldKnow_0.png)

@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Navigating Git Branches Like a Pro: The Git Branch Command"
 link: "https://medium.com/git-happy/navigating-git-branches-like-a-pro-the-git-branch-command-f190eb7eb7b6"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-23-NavigatingGitBranchesLikeaProTheGitBranchCommand_0.png" />

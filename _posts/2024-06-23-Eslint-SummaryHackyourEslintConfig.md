@@ -1,5 +1,5 @@
 ---
-title: "2024 Eslint 설정을 해킹하는 방법  Eslint-Summary"
+title: "2024 Eslint 설정을 해킹하는 방법 Eslint-Summary"
 description: ""
 coverImage: "/assets/img/2024-06-23-Eslint-SummaryHackyourEslintConfig_0.png"
 date: 2024-06-23 15:03
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "“Eslint-Summary” — Hack your Eslint Config"
 link: "https://medium.com/itnext/eslint-summary-hack-your-eslint-config-396f91ffda34"
+isUpdated: true
 ---
+
+
+
 
 
 

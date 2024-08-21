@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering CSS Grid Layouts Made Easy"
 link: "https://medium.com/@araujogabe1/mastering-css-grid-layouts-made-easy-38166c22c2be"
+isUpdated: true
 ---
+
+
 
 
 ![CSS Grid](/assets/img/2024-07-18-MasteringCSSGridLayoutsMadeEasy_0.png)

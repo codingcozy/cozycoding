@@ -3,12 +3,16 @@ title: "Dart에서 Extension Types으로 할 수 있는 것들"
 description: ""
 coverImage: "/assets/img/2024-06-22-WhatcanIdowithExtensionTypesinDart_0.png"
 date: 2024-06-22 00:40
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-22-WhatcanIdowithExtensionTypesinDart_0.png
 tag: Tech
 originalTitle: "What can I do with “Extension Types” in Dart?"
 link: "https://medium.com/flutter-community/what-can-i-do-with-extension-types-in-dart-5dfa73e4b009"
+isUpdated: true
 ---
+
+
+
 
 Dart 3.3 확장 타입
 

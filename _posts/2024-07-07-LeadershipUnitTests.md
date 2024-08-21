@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Leadership Unit Tests"
 link: "https://medium.com/@matt-schellhas/leadership-unit-tests-8cd89f271181"
+isUpdated: true
 ---
+
+
 
 
 ![2024-07-07-LeadershipUnitTests_0](/assets/img/2024-07-07-LeadershipUnitTests_0.png)

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Rube Goldberg, Cloud Architect"
 link: "https://medium.com/itnext/rube-goldberg-cloud-architect-a5bbb357b54d"
+isUpdated: true
 ---
+
+
 
 
 ![RubeGoldbergCloudArchitect_0](/assets/img/2024-07-13-RubeGoldbergCloudArchitect_0.png)

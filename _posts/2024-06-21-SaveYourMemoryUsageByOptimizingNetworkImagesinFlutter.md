@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Save Your Memory Usage By Optimizing Network Images in Flutter"
 link: "https://medium.com/make-android/save-your-memory-usage-by-optimizing-network-image-in-flutter-cbc9f8af47cd"
+isUpdated: true
 ---
+
+
+
 
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Death of a Freelance Programmer"
 link: "https://medium.com/gitconnected/the-death-of-a-freelance-programmer-79246f8e4c6f"
+isUpdated: true
 ---
+
+
 
 
 수요 # (더 나은 급여 + 일과 균형)

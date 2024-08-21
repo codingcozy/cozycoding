@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "What is the Java 8 stream API?"
 link: "https://medium.com/@satishlokhande5674/what-is-the-java-8-stream-api-9b61ab142618"
+isUpdated: true
 ---
+
+
+
 
 
 

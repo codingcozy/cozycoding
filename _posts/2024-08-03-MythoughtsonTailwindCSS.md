@@ -1,5 +1,5 @@
 ---
-title: "Tailwind CSS에 대한 나의 생각들"
+title: "2024년에 Tailwind CSS는 쓸만한가"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 18:23
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "My thoughts on Tailwind CSS"
 link: "https://medium.com/@kartamyshev.k/my-thoughts-on-tailwind-css-7ccd74184894"
+isUpdated: true
+updatedAt: 1724246344144
 ---
 
 

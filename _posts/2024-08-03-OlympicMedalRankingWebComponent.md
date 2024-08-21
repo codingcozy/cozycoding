@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Olympic Medal Ranking Web Component"
 link: "https://dev.to/dannyengelman/olympic-medal-ranking-web-component-2m57"
+isUpdated: true
+updatedAt: 1724246323347
 ---
 
 

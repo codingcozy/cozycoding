@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The green bubble — How Apple is profiting from bad UI"
 link: "https://medium.com/geekculture/the-green-bubble-how-apple-is-profiting-from-bad-ui-cccacc6de308"
+isUpdated: true
 ---
+
+
 
 
 UI 요소의 색상이 사회적 격차와 판매 도구로 변하는 방법

@@ -3,12 +3,16 @@ title: "Flutter TextField 레벨업 디자인과 기능 팁 모음"
 description: ""
 coverImage: "/assets/img/2024-06-21-ElevateYourFlutterTextFieldGameDesignandFunctionalityTips_0.png"
 date: 2024-06-21 23:16
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-ElevateYourFlutterTextFieldGameDesignandFunctionalityTips_0.png
 tag: Tech
 originalTitle: "Elevate Your Flutter TextField Game: Design and Functionality Tips"
 link: "https://medium.com/@AryanBeast/elevate-your-flutter-textfield-game-design-and-functionality-tips-75bb69f52ccd"
+isUpdated: true
 ---
+
+
+
 
 ![image](/assets/img/2024-06-21-ElevateYourFlutterTextFieldGameDesignandFunctionalityTips_0.png)
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "An algorithm for high-performance engineering teams"
 link: "https://medium.com/atomic-engineer/an-algorithm-for-high-performance-engineering-teams-3be015341e5e"
+isUpdated: true
 ---
+
+
 
 
 위대한 팀은 위대하게 시작되는 것이 아니라 집중된 노력을 통해 위대해지는 것이다.

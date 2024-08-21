@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Entropy — Why Code Rots And Technical Debt Grows"
 link: "https://medium.com/itnext/entropy-in-software-development-77ed9110ef28"
+isUpdated: true
 ---
+
+
 
 
 ![EntropyWhyCodeRotsAndTechnicalDebtGrows](/assets/img/2024-07-09-EntropyWhyCodeRotsAndTechnicalDebtGrows_0.png)

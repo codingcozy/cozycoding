@@ -1,5 +1,5 @@
 ---
-title: "HTML 초보자를 위한 가이드 팝오버, 프로그레스, 다이얼로그 사용 방법 18"
+title: "HTML 초보자를 위한 가이드 팝오버, 프로그레스, 다이얼로그 사용 방법"
 description: ""
 coverImage: "/assets/img/2024-08-03-HTMLforBeginnersPopoverProgressDialog18_0.png"
 date: 2024-08-03 19:45
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "HTML for Beginners Popover, Progress, Dialog 18"
 link: "https://medium.com/dev-genius/html-for-beginners-popover-progress-dialog-18-32c61876d3d9"
+isUpdated: true
+updatedAt: 1724246379673
 ---
 
 

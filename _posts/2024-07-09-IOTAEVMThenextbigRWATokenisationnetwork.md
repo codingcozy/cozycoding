@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "IOTA EVM: The next big RWA Tokenisation network?"
 link: "https://medium.com/tat-telegraph/iota-evm-the-next-big-rwa-tokenisation-network-1de9dc1bd9dd"
+isUpdated: true
 ---
+
+
 
 
 ![IOTA Image](/assets/img/2024-07-09-IOTAEVMThenextbigRWATokenisationnetwork_0.png)

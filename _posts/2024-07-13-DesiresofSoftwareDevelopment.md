@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Desires of Software Development"
 link: "https://medium.com/@thehosk/desires-of-software-development-37a1279856e8"
+isUpdated: true
 ---
+
+
 
 
 ![Desires of Software Development](/assets/img/2024-07-13-DesiresofSoftwareDevelopment_0.png)

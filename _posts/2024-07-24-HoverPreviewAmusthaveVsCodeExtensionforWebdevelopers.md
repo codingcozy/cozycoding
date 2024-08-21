@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Hover Preview A must have VsCode Extension for Webdevelopers "
 link: "https://dev.to/paul_freeman/hover-preview-a-must-have-vscode-extension-for-webdevelopers-30h4"
+isUpdated: true
 ---
+
+
 
 
 우리 모두가 그렇게 되어본 적이 있습니다. 다른 사람의 코드를 이렇게 보고 처음 봤을 때 무서워하기도 했죠. 

@@ -3,12 +3,16 @@ title: "플러터에서 Firebase Cloud Messaging API HTTP V1를 사용하는 방
 description: ""
 coverImage: "/assets/img/2024-06-20-HowtouseFirebaseCloudMessagingAPIHTTPV1inFlutter_0.png"
 date: 2024-06-20 13:52
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-20-HowtouseFirebaseCloudMessagingAPIHTTPV1inFlutter_0.png
 tag: Tech
 originalTitle: "How to use Firebase Cloud Messaging API (HTTP V1) in Flutter"
 link: "https://medium.com/@anna.araslanova.social/how-to-use-firebase-cloud-messaging-api-http-v1-in-flutter-3f23b49d3a51"
+isUpdated: true
 ---
+
+
+
 
 만약 해당 이야기가 유용하다고 생각되면 왼쪽에 50개의 박수를 주세요.
 

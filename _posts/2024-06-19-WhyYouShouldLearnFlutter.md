@@ -1,5 +1,5 @@
 ---
-title: "플러터를 배워야 하는 이유"
+title: "2024년에는 플러터를 배워야 하는 이유"
 description: ""
 coverImage: "/assets/img/2024-06-19-WhyYouShouldLearnFlutter_0.png"
 date: 2024-06-19 08:05
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Why You Should Learn Flutter"
 link: "https://medium.com/@impure/why-you-should-learn-flutter-bc4c62c9e63e"
+isUpdated: true
 ---
+
+
+
 
 
 그 '플러터가 죽고 있는가?' 글을 또 읽었어요. 거의 우스워요. 왜 그렇게 많은 사람들이 이에 대해 포스팅하는지 이해가 안 가네요.

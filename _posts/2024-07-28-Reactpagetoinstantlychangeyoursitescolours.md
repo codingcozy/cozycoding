@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "React page to instantly change your sites colours"
 link: "https://dev.to/elsyng/internal-page-to-instantly-change-your-sites-colours-p2a"
+isUpdated: true
 ---
+
+
 
 
 ## 목표

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Setting up Cypress with Next.js"
 link: "https://nextjs.org/docs/app/building-your-application/testing/cypress"
+isUpdated: true
 ---
+
+
 
 
 # 넥스트.자스와 함께 사이프레스 설정하기

@@ -3,12 +3,16 @@ title: "Flutter 프라이빗 패키지 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterCreatePrivatePackages_0.png"
 date: 2024-06-21 20:13
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutterCreatePrivatePackages_0.png
 tag: Tech
 originalTitle: "[Flutter] Create Private Packages"
 link: "https://medium.com/@fz3hra/flutter-create-private-packages-a9eb2504e60e"
+isUpdated: true
 ---
+
+
+
 
 ![Flutter Create Private Packages](/assets/img/2024-06-21-FlutterCreatePrivatePackages_0.png)
 

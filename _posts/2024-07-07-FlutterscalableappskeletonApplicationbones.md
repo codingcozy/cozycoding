@@ -3,12 +3,16 @@ title: "Flutter 확장 가능한 앱 뼈대 만들기 어플리케이션 기본 
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-07 13:13
-ogImage:
+ogImage: 
   url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Flutter scalable app skeleton. Application bones."
 link: "https://medium.com/@orexjeka9/flutter-scalable-app-skeleton-application-bones-49514326deac"
+isUpdated: true
 ---
+
+
+
 
 플러터 3.22.1, Dart 3.4.1, Mac OS, VS Code.
 

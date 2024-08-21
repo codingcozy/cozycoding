@@ -1,5 +1,5 @@
 ---
-title: "코틀린 멀티 플랫폼 모바일이 플러터를 대체하고 있을까요"
+title: "플러터보다 유용한 코틀린 멀티 플랫폼 모바일"
 description: ""
 coverImage: "/assets/img/2024-06-19-IsKotlinMultiplatformMobileReplacingFlutter_0.png"
 date: 2024-06-19 00:39
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Is Kotlin Multiplatform Mobile Replacing Flutter?"
 link: "https://medium.com/@rajdeepsinhgohil/is-kotlin-multiplatform-mobile-replacing-flutter-244b6b0f2645"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-19-IsKotlinMultiplatformMobileReplacingFlutter_0.png" />

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "15 Puzzle slider game in HTML and CSS"
 link: "https://dev.to/alohci/15-puzzle-slider-game-in-html-and-css-5g2i"
+isUpdated: true
 ---
+
+
 
 
 퍼즐로 넘어가세요

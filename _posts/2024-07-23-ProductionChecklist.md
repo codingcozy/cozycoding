@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Production Checklist"
 link: "https://nextjs.org/docs/app/building-your-application/deploying/production-checklist"
+isUpdated: true
 ---
+
+
 
 
 # 제작 체크리스트

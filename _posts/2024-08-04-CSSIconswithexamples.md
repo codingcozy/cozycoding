@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "CSS Icons with examples"
 link: "https://dev.to/wasifali/css-icons-with-examples-5cjm"
+isUpdated: true
+updatedAt: 1724246250032
 ---
 
 

@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to Determine if a Mobile App is Written in Flutter"
 link: "https://medium.com/@vitalib/how-to-determine-if-a-mobile-app-is-written-in-flutter-aad911b18c79"
+isUpdated: true
 ---
+
+
+
 
 
 안녕하세요, Flutter 팬 여러분들! 오늘은 모바일 앱이 Flutter로 작성되었는지 확인하는 방법에 대해 이야기해보겠습니다. 이 지식은 경쟁 조사를 위해 개발자와 매니저들에게 유용하며, 자신이 좋아하는 앱의 내부를 더 알고 싶어하는 기술 애호가들에게도 도움이 될 수 있습니다. 그래서, 더 이상 말뿐인 소리는 그만하고 시작해봅시다.

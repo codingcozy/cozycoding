@@ -3,12 +3,16 @@ title: "외부 패키지 없이 Flutter에서 Google Autocomplete Places API 통
 description: ""
 coverImage: "/assets/img/2024-06-21-IntegratingGoogleAutocompletePlacesAPIinFlutterWithoutExternalPackagesAComprehensiveGuide_0.png"
 date: 2024-06-21 20:41
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-IntegratingGoogleAutocompletePlacesAPIinFlutterWithoutExternalPackagesAComprehensiveGuide_0.png
 tag: Tech
 originalTitle: "Integrating Google Autocomplete Places API in Flutter Without External Packages: A Comprehensive Guide"
 link: "https://medium.com/@axiftaj/integrating-google-autocomplete-places-api-in-flutter-without-external-packages-a-comprehensive-a86f37aa8b90"
+isUpdated: true
 ---
+
+
+
 
 ![image](/assets/img/2024-06-21-IntegratingGoogleAutocompletePlacesAPIinFlutterWithoutExternalPackagesAComprehensiveGuide_0.png)
 

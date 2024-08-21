@@ -1,5 +1,5 @@
 ---
-title: "React 19의 새로운 기능 최신 기능 심층 탐구"
+title: "React 19의 새로운 기능 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-04 19:39
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Whats New in React 19 A Deep Dive into the Latest Features"
 link: "https://dev.to/vyan/whats-new-in-react-19-a-deep-dive-into-the-latest-features-3gp2"
+isUpdated: true
+updatedAt: 1724246182592
 ---
 
 

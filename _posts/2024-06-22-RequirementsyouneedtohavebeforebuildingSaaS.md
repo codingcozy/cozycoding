@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Requirements you need to have before building SaaS"
 link: "https://medium.com/cub3d/requirements-you-need-to-have-before-building-saas-266ec4a9b324"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-22-RequirementsyouneedtohavebeforebuildingSaaS_0.png" />

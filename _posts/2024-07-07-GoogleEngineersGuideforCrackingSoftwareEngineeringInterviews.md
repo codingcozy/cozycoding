@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Google Engineer’s Guide for Cracking Software Engineering Interviews"
 link: "https://medium.com/@shivam-bunge/google-engineers-guide-for-cracking-software-engineering-interviews-e4c3d1f745ff"
+isUpdated: true
 ---
+
+
+
 
 
 # SOLID 원칙:

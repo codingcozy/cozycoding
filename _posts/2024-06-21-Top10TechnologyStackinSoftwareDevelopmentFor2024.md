@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Top 10 Technology Stack in Software Development For 2024"
 link: "https://medium.com/@shubhijain/top-10-technology-stack-in-software-development-for-2024-6e0478e12f56"
+isUpdated: true
 ---
+
+
+
 
 
 # Tech-Stacks에 대해

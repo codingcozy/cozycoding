@@ -1,5 +1,5 @@
 ---
-title: "Progressive Web Applications PWA로 첫 오프라인 웹 앱 만드는 방법 "
+title: "Progressive Web Applications PWA로 첫 오프라인 웹 앱 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-22-BuildYourFirstOfflineWebAppftProgressiveWebApplications_0.png"
 date: 2024-06-22 00:15
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Build Your First Offline Web App ft. Progressive Web Applications 🌟"
 link: "https://medium.com/javascript-in-plain-english/build-your-first-offline-web-app-ft-progressive-web-applications-fa9298f70d4b"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-06-22-BuildYourFirstOfflineWebAppftProgressiveWebApplications_0.png)

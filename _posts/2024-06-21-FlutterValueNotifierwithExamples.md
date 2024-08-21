@@ -3,12 +3,16 @@ title: "예제와 함께 배우는 Flutter ValueNotifier 활용 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterValueNotifierwithExamples_0.png"
 date: 2024-06-21 21:57
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutterValueNotifierwithExamples_0.png
 tag: Tech
 originalTitle: "Flutter ValueNotifier with Examples"
 link: "https://medium.com/@thekavak/flutter-valuenotifier-with-examples-66b3933d7036"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-21-FlutterValueNotifierwithExamples_0.png" />
 

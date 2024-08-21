@@ -1,5 +1,5 @@
 ---
-title: "풀스택 개발자가 반드시 가져야할 필수 스킬들 완벽한 가이드"
+title: "풀스택 개발자가 반드시 알아둬야할 개념들"
 description: ""
 coverImage: "/assets/img/2024-08-21-WhatAreTheEssentialSkillsForAFullStackDeveloper_0.png"
 date: 2024-08-21 16:59
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "What Are The Essential Skills For A Full Stack Developer"
 link: "https://medium.com/@solayman.1024/what-are-the-essential-skills-for-a-full-stack-developer-ccf5159d7814"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244457810
 ---
 
 

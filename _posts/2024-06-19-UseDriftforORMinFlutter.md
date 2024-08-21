@@ -3,12 +3,16 @@ title: "플러터에서 ORM으로 Drift 사용하기"
 description: ""
 coverImage: "/assets/img/2024-06-19-UseDriftforORMinFlutter_0.png"
 date: 2024-06-19 14:28
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-UseDriftforORMinFlutter_0.png
 tag: Tech
 originalTitle: "Use Drift for ORM in Flutter"
 link: "https://medium.com/@winsonet/use-drift-for-orm-in-flutter-a144be7fae80"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-19-UseDriftforORMinFlutter_0.png" />
 

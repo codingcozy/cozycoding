@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Best English Resources Website Post in  Spanish"
 link: "https://dev.to/gerozayas/best-english-resources-website-post-in-spanish-35ji"
+isUpdated: true
 ---
+
+
 
 
 안녕하세요, 개발자 여러분! ⭐ 이곳에 제 개인 프로젝트 하나를 소개합니다:

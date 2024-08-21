@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How LLM and Semantic Search Enhance the Experience of Finding Music"
 link: "https://medium.com/@lamslide/music-discovery-using-semantic-retrieval-experimenting-with-different-chunk-sizes-for-song-data-a0f8fd4d7f44"
+isUpdated: true
 ---
+
+
 
 
 ## 음악 데이터에서 의미 검색과 주관 분석의 시범

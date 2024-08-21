@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Future of Web Styling Classless and Class-Light CSS"
 link: "https://medium.com/gitconnected/the-future-of-web-styling-classless-and-class-light-css-0bcd3fadab8f"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-22-TheFutureofWebStylingClasslessandClass-LightCSS_0.png" />

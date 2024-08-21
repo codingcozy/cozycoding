@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Making an interactive analogue clock with Vue3"
 link: "https://medium.com/@nikolai.davydov96/making-a-fully-interactive-clock-with-vue3-d7ab1a492a94"
+isUpdated: true
+updatedAt: 1724246245986
 ---
 
 

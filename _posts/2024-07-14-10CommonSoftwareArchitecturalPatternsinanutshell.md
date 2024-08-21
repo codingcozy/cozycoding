@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "10 Common Software Architectural Patterns in a nutshell"
 link: "https://medium.com/towards-data-science/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013"
+isUpdated: true
 ---
+
+
 
 
 **대기업 규모 시스템이 어떻게 설계되는지 궁금했던 적이 있나요? 주요 소프트웨어 개발이 시작되기 전에, 우리는 원하는 기능과 품질 속성을 제공해 줄 적합한 아키텍처를 선택해야 합니다. 따라서, 우리는 디자인에 적용하기 전에 다양한 아키텍처를 이해해야 합니다.**

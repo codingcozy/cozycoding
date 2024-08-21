@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Exploring MVVM: From Origins to Best Practices in .NET Development"
 link: "https://medium.com/@fabiosalomao/exploring-mvvm-from-origins-to-best-practices-in-net-development-dac1549ed396"
+isUpdated: true
 ---
+
+
 
 
 ![Exploring MVVM](/assets/img/2024-07-10-ExploringMVVMFromOriginstoBestPracticesinNETDevelopment_0.png)

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Why (and How) I Learned Web Development as a Data Scientist"
 link: "https://medium.com/towards-data-science/why-and-how-i-learned-web-development-as-a-data-scientist-ece60064675c"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-13-WhyandHowILearnedWebDevelopmentasaDataScientist_0.png" />

@@ -1,5 +1,5 @@
 ---
-title: "Windows에 Flutter 및 Dart 설치하는 단계별 가이드"
+title: "Windows에 Flutter 및 Dart 설치하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-Step-by-StepGuidetoInstallingFlutterandDartonWindows_0.png"
 date: 2024-06-19 14:19
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Step-by-Step Guide to Installing Flutter and Dart on Windows"
 link: "https://medium.com/@blup-tool/step-by-step-guide-to-installing-flutter-and-dart-on-windows-b30a631e7583"
+isUpdated: true
 ---
+
+
+
 
 
 ![Step by Step Guide to Installing Flutter and Dart on Windows](/assets/img/2024-06-19-Step-by-StepGuidetoInstallingFlutterandDartonWindows_0.png)

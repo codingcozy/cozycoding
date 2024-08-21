@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to Make Tables Fit on Small Screens  Spoiler You Probably Cant and Maybe You Shouldnt"
 link: "https://medium.com/@litsababalis/how-to-make-tables-fit-on-small-screens-spoiler-you-probably-cant-and-maybe-you-shouldn-t-9582111cdb1d"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-19-HowtoMakeTablesFitonSmallScreensSpoilerYouProbablyCantandMaybeYouShouldnt_0.png" />

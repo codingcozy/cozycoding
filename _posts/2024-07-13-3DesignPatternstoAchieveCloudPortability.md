@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "3 Design Patterns to Achieve Cloud Portability"
 link: "https://medium.com/@deshpandetanmay/3-design-patterns-to-achieve-cloud-portability-3cac789489b5"
+isUpdated: true
 ---
+
+
 
 
 ![Image](/assets/img/2024-07-13-3DesignPatternstoAchieveCloudPortability_0.png)

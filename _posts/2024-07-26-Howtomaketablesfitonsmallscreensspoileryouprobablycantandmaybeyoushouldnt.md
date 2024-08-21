@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to make tables fit on small screens spoiler you probably cant and maybe you shouldnt"
 link: "https://medium.com/user-experience-design-1/how-to-make-tables-fit-on-small-screens-spoiler-you-probably-cant-and-maybe-you-shouldn-t-9582111cdb1d"
+isUpdated: true
 ---
+
+
 
 
 ![표 이미지](/assets/img/2024-07-26-Howtomaketablesfitonsmallscreensspoileryouprobablycantandmaybeyoushouldnt_0.png)

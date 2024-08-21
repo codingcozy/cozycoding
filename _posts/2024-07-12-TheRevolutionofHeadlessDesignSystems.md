@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Revolution of Headless Design Systems"
 link: "https://medium.com/ux-planet/revolutionizing-front-end-development-1426de24b4c3"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-12-TheRevolutionofHeadlessDesignSystems_0.png" />

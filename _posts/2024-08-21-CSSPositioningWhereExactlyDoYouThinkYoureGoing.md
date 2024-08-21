@@ -1,5 +1,5 @@
 ---
-title: "CSS Positioning 정확히 어디로 가고 싶으신가요"
+title: "CSS Positioning 완벽 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-CSSPositioningWhereExactlyDoYouThinkYoureGoing_0.png"
 date: 2024-08-21 19:01
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "CSS Positioning Where Exactly Do You Think Youre Going"
 link: "https://dev.to/gdebojyoti/css-positioning-where-exactly-do-you-think-youre-going-2ec6"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246033336
 ---
 
 

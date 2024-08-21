@@ -3,12 +3,16 @@ title: "Flutter 앱에 디자인 시스템 적용하는 방법 단계별 가이�
 description: ""
 coverImage: "/assets/img/2024-06-22-HowtoimplementyourdesignsysteminaFlutterapp12_0.png"
 date: 2024-06-22 05:11
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-22-HowtoimplementyourdesignsysteminaFlutterapp12_0.png
 tag: Tech
 originalTitle: "How to implement your design system in a Flutter app (1 2)"
 link: "https://medium.com/@mregnauld/how-to-implement-your-design-system-in-a-flutter-app-1-2-d2e21b5fcffd"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-22-HowtoimplementyourdesignsysteminaFlutterapp12_0.png" />
 

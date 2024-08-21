@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Stop using import in style files"
 link: "https://medium.com/javascript-in-plain-english/stop-using-import-in-style-files-8a4b5950bb3f"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-28-Stopusingimportinstylefiles_0.png)

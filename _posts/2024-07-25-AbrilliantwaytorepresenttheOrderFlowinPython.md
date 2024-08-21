@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "A brilliant way to represent the Order Flow in Python"
 link: "https://medium.com/@lu.battistoni/a-brilliant-way-to-represent-the-order-flow-in-python-fb96318e1070"
+isUpdated: true
 ---
+
+
 
 
 ## 소개

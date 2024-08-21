@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Configuring"
 link: "https://nextjs.org/docs/app/building-your-application/configuring"
+isUpdated: true
 ---
+
+
 
 
 # 설정하기

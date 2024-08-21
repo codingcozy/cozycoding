@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter : what state management to use and when to use them?"
 link: "https://medium.com/@cloderaldo/flutter-what-state-management-to-use-and-when-to-use-them-3421b4efb4ba"
+isUpdated: true
 ---
+
+
 
 
 플러터(Flutter)에서 상태 관리는 애플리케이션을 구축하는 중요한 측면입니다. 올바른 상태 관리 솔루션을 선택하는 것은 애플리케이션의 복잡성과 요구 사항에 달려 있습니다. 다음은 플러터(Flutter)에서 인기 있는 상태 관리 솔루션과 그 사용 방법입니다:

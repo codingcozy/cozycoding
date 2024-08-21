@@ -3,12 +3,15 @@ title: "플러터 개발자 실력 향상을 위한 Injectable 패키지 사용 
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-07 22:22
-ogImage:
+ogImage: 
   url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Improve Flutter Developer Skills “Injectable Package”"
 link: "https://medium.com/@ms3byoussef/improve-flutter-developer-skills-injectable-package-89fca602862e"
+isUpdated: true
 ---
+
+
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*vPsRYWOqdWjuY8Fa5NLd3w.gif" />
 

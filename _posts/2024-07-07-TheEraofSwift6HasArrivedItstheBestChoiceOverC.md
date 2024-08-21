@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Era of Swift 6 Has Arrived! It’s the Best Choice Over C++"
 link: "https://medium.com/itnext/the-era-of-swift-6-has-arrived-its-the-best-choice-over-c-4963ac8246be"
+isUpdated: true
 ---
+
+
 
 
 ![The Era of Swift 6 Has Arrived: It's the Best Choice Over C++](/assets/img/2024-07-07-TheEraofSwift6HasArrivedItstheBestChoiceOverC_0.png)

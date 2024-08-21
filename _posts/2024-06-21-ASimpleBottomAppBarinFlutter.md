@@ -1,14 +1,18 @@
 ---
-title: "Flutter에서 간단한 BottomAppBar 만들기"
+title: "Flutter에서 간단한 BottomAppBar 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-ASimpleBottomAppBarinFlutter_0.png"
 date: 2024-06-21 22:49
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-ASimpleBottomAppBarinFlutter_0.png
 tag: Tech
 originalTitle: "A Simple BottomAppBar in Flutter"
 link: "https://medium.com/@kymoraa/a-simple-bottomappbar-in-flutter-4556b2365baf"
+isUpdated: true
 ---
+
+
+
 
 현재 작업 중인 프로젝트에서 — 곧 공유할 예정이에요, BottomNavigationBar를 포함해야 했어요. 하지만 단순한 하단 네비게이션 바가 아니라, 약간은 멋지고 세련된 모습으로 구현하고 싶었어요.
 

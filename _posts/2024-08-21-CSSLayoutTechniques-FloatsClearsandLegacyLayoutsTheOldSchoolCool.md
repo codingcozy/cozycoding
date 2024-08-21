@@ -1,5 +1,5 @@
 ---
-title: "CSS 레이아웃 기법 - 플롯, 클리어 및 레거시 레이아웃 올드 스쿨의 멋"
+title: "CSS 레이아웃 기법 - float, clear 및 레거시 레이아웃 배치 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-CSSLayoutTechniques-FloatsClearsandLegacyLayoutsTheOldSchoolCool_0.png"
 date: 2024-08-21 18:59
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "CSS Layout Techniques - Floats, Clears, and Legacy Layouts The Old School Cool"
 link: "https://dev.to/gdebojyoti/css-layout-techniques-floats-clears-and-legacy-layouts-the-old-school-cool-2apj"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246047608
 ---
 
 

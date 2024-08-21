@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Most beautiful Full Screen Modal CSS  React Component"
 link: "https://medium.com/javascript-quantum/most-beautiful-full-screen-modal-css-react-component-e739349fea32"
+isUpdated: true
 ---
+
+
 
 
 좋아요, 저는 학습용 백과사전👉 Quantum Compass를 개발 중이에요. 제가 매일의 개발 일지와 진행 상황을 공유하고 있어요. 나의 코딩과 데이터를 매일 발전시키겠다는 약속을 하고 싶어요. #dailyChallenge

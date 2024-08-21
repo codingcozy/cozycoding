@@ -1,5 +1,5 @@
 ---
-title: "자바스크립트에서 require와 import 이해하기 전문적인 가이드"
+title: "자바스크립트에서 require와 import 사용 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-UnderstandingrequireandimportinJavaScriptAComprehensiveGuide_0.png"
 date: 2024-08-21 17:22
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding require and import in JavaScript A Comprehensive Guide"
 link: "https://medium.com/@naveenyaduvanshi007/understanding-require-and-import-in-javascript-a-comprehensive-guide-413765bc5e44"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244577641
 ---
 
 

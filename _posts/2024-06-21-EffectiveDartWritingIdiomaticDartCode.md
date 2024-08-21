@@ -1,14 +1,18 @@
 ---
-title: "효과적인 Dart 2024년 최신 다트 관용구 작성하기"
+title: "효과적인 Dart 2024년 최신 다트 관용구 작성하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-EffectiveDartWritingIdiomaticDartCode_0.png"
 date: 2024-06-21 20:32
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-EffectiveDartWritingIdiomaticDartCode_0.png
 tag: Tech
 originalTitle: "Effective Dart: Writing Idiomatic Dart Code"
 link: "https://medium.com/@gautam007/effective-dart-writing-idiomatic-dart-code-5a062ce3e62f"
+isUpdated: true
 ---
+
+
+
 
 # 깨끗하고 효율적이며 관용적인 다트 코드 작성하는 방법
 

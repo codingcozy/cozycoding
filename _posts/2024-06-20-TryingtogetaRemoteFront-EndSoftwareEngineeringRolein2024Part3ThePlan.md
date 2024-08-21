@@ -1,5 +1,5 @@
 ---
-title: "2024년 원격 프론트엔드 소프트웨어 엔지니어링 역할을 얻으려는 중  파트 3 계획"
+title: "2024년 프론트엔드 소프트웨어 엔지니어링이 되는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-20-TryingtogetaRemoteFront-EndSoftwareEngineeringRolein2024Part3ThePlan_0.png"
 date: 2024-06-20 13:55
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Trying to get a Remote Front-End Software Engineering Role in 2024 — Part 3: The Plan"
 link: "https://medium.com/@maxwellbenton/trying-to-get-a-remote-front-end-software-engineering-role-in-2024-part-3-the-plan-2700d24b4fb5"
+isUpdated: true
 ---
+
+
+
 
 
 ![image](/assets/img/2024-06-20-TryingtogetaRemoteFront-EndSoftwareEngineeringRolein2024Part3ThePlan_0.png)

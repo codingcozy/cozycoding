@@ -3,12 +3,16 @@ title: "플러터에서 히어로 애니메이션 마스터하기 종합 가이�
 description: ""
 coverImage: "/assets/img/2024-06-21-MasteringHeroAnimationsinFlutterAComprehensiveGuide_0.png"
 date: 2024-06-21 21:13
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-MasteringHeroAnimationsinFlutterAComprehensiveGuide_0.png
 tag: Tech
 originalTitle: "Mastering Hero Animations in Flutter: A Comprehensive Guide"
 link: "https://medium.com/@blup-tool/mastering-hero-animations-in-flutter-a-comprehensive-guide-ecb3e2b3f8e5"
+isUpdated: true
 ---
+
+
+
 
 ![image](https://miro.medium.com/v2/resize:fit:1400/1*hfZq5kMkFSZtlSRsReQYdQ.gif)
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Chaining Pandas Operations Strengths and Limitations"
 link: "https://medium.com/towards-data-science/chaining-pandas-operations-strengths-and-limitations-3ac02bbaf482"
+isUpdated: true
 ---
+
+
 
 
 ## 파이썬 프로그래밍

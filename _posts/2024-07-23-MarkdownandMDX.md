@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Markdown and MDX"
 link: "https://nextjs.org/docs/app/building-your-application/configuring/mdx"
+isUpdated: true
 ---
+
+
 
 
 # 마크다운과 MDX

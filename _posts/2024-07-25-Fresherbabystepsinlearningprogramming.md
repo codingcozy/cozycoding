@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Fresher baby steps in learning programming "
 link: "https://dev.to/akhila_rani_kukunuri/fresher-baby-steps-in-learning-programming--38jj"
+isUpdated: true
 ---
+
+
 
 
 여러분 안녕하세요...

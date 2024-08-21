@@ -1,5 +1,5 @@
 ---
-title: "인텔리제이 IDEA를 위한 실용적인 IdeaVim 설정"
+title: "인텔리제이 IDEA를 위한 실용적인 IdeaVim 설정 방법 "
 description: ""
 coverImage: "/assets/img/2024-08-21-APracticalIdeaVimSetupforIntelliJIDEA_0.png"
 date: 2024-08-21 18:18
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "A Practical IdeaVim Setup for IntelliJ IDEA"
 link: "https://medium.com/@dbilici/a-practical-ideavim-setup-for-intellij-idea-cf74222e7b45"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246141368
 ---
 
 

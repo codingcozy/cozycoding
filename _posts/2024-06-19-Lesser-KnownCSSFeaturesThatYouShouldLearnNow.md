@@ -1,5 +1,5 @@
 ---
-title: "지금 익히면 좋은 잘 알려지지 않은 CSS 기능들"
+title: "잘 알려지지 않은 좋은 CSS 기능들"
 description: ""
 coverImage: "/assets/img/2024-06-19-Lesser-KnownCSSFeaturesThatYouShouldLearnNow_0.png"
 date: 2024-06-19 00:20
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Lesser-Known CSS Features That You Should Learn Now"
 link: "https://medium.com/gitconnected/lesser-known-css-features-that-you-should-learn-now-bebc4154e817"
+isUpdated: true
 ---
+
+
+
 
 
 

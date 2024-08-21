@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Cross-Platform Development with Flutter"
 link: "https://medium.com/@techifysolution/cross-platform-development-with-flutter-48c9e65dccaa"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-19-Cross-PlatformDevelopmentwithFlutter_0.png" />

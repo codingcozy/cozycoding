@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Hot Take: Your Data Engineering Career Should Start with a Spreadsheet"
 link: "https://medium.com/data-engineer-things/hot-take-your-data-engineering-career-should-start-with-a-spreadsheet-28e74da822c1"
+isUpdated: true
 ---
+
+
 
 
 ![image](/assets/img/2024-07-14-HotTakeYourDataEngineeringCareerShouldStartwithaSpreadsheet_0.png)

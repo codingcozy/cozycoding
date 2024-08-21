@@ -3,12 +3,16 @@ title: "플러터 위젯 플러터 앱에 카메라 기능 구현하기"
 description: ""
 coverImage: "/assets/img/2024-06-20-FlutterWidgetImplementingCameraFeatureinyourFlutterApp_0.png"
 date: 2024-06-20 13:43
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-20-FlutterWidgetImplementingCameraFeatureinyourFlutterApp_0.png
 tag: Tech
 originalTitle: "Flutter Widget: Implementing Camera Feature in your Flutter App"
 link: "https://medium.com/@olasoji.od/flutter-widget-implementing-camera-feature-in-your-flutter-app-b083ebd74058"
+isUpdated: true
 ---
+
+
+
 
 안녕하세요 여러분, 어떻게 지내세요? 잠깐 사라졌다가 다시 돌아왔습니다. 지금은 플러터 애플리케이션에 카메라를 구현하는 방법에 대해 설명해 드릴게요.
 

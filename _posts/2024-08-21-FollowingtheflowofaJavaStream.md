@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Following the flow of a Java Stream"
 link: "https://medium.com/@donraab/following-the-flow-of-a-java-stream-0bb617e3074f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245913804
 ---
 
 

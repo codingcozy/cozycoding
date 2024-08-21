@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Bundle Analyzer"
 link: "https://nextjs.org/docs/app/building-your-application/optimizing/bundle-analyzer"
+isUpdated: true
 ---
+
+
 
 
 # 번들 분석기

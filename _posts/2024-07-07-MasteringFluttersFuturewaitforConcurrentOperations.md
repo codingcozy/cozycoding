@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Flutter’s Future.wait for Concurrent Operations"
 link: "https://medium.com/@gimhantharuke856/mastering-flutters-future-wait-for-concurrent-operations-a561ad4367fc"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-07-MasteringFluttersFuturewaitforConcurrentOperations_0.png" />

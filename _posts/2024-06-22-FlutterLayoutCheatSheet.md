@@ -3,12 +3,16 @@ title: "Flutter 레이아웃 치트 시트 완벽 가이드"
 description: ""
 coverImage: "/assets/img/2024-06-22-FlutterLayoutCheatSheet_0.png"
 date: 2024-06-22 15:45
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-22-FlutterLayoutCheatSheet_0.png
 tag: Tech
 originalTitle: "Flutter Layout Cheat Sheet"
 link: "https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e"
+isUpdated: true
 ---
+
+
+
 
 플러터를 위한 간단한 레이아웃 샘플이 필요하신가요?
 제가 마련한 플러터 레이아웃 코드 조각을 소개합니다. 시각적 예시를 풍부하고 간결하게 제시할 거에요.

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Class Declarations in Dart: final, sealed, abstract, interface, mixin, and More"
 link: "https://medium.com/@gautam007/mastering-class-declarations-in-dart-final-sealed-abstract-interface-mixin-and-more-059f555d718e"
+isUpdated: true
 ---
+
+
 
 
 ## 다트에서 final, sealed, abstract, interface, mixin 등의 키워드를 사용하여 견고하고 유지보수 가능한 코드를 작성하는 방법을 배워보세요.

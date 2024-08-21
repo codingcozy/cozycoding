@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Continuous Performance Improvement of HTTP API"
 link: "https://medium.com/better-programming/continuous-performance-improvement-of-http-api-86290433aa54"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-12-ContinuousPerformanceImprovementofHTTPAPI_0.png" />

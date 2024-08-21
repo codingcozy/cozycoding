@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Repaying (Technical) Debt"
 link: "https://medium.com/@dylancodes/repaying-technical-debt-f71d55eb03b1"
+isUpdated: true
 ---
+
+
 
 
 ![RepayingTechnicalDebt_0](/assets/img/2024-07-10-RepayingTechnicalDebt_0.png)

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Youtube’s new video watching UX and why it does not work"
 link: "https://medium.com/@nikhilsachdeva57/youtubes-new-video-watching-ux-and-why-it-does-not-work-c1e65017aa4e"
+isUpdated: true
 ---
+
+
 
 
 유튜브가 최근 웹에서의 영상 시청 경험을 변경했습니다. 이것은 작은 변화처럼 보일 수 있지만, 유튜브와 같은 높은 빈도의 상호 작용 제품에게는 많은 의미를 갖을 수 있습니다.

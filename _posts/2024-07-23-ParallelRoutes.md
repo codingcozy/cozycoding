@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Parallel Routes"
 link: "https://nextjs.org/docs/app/building-your-application/routing/parallel-routes"
+isUpdated: true
 ---
+
+
 
 
 # 병렬 경로

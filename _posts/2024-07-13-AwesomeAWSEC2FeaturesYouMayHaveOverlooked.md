@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Awesome AWS EC2 Features You May Have Overlooked"
 link: "https://medium.com/better-programming/awesome-aws-ec2-features-you-may-have-overlooked-7bb8d8c55af3"
+isUpdated: true
 ---
+
+
 
 
 

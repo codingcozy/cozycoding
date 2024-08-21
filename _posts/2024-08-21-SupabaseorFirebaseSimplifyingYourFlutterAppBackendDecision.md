@@ -1,5 +1,5 @@
 ---
-title: "Supabase vs Firebase 플러터 앱 백엔드 결정 간단히하기"
+title: "플러터 앱 백엔드 Supabase vs Firebase 비교 정리 "
 description: ""
 coverImage: "/assets/img/2024-08-21-SupabaseorFirebaseSimplifyingYourFlutterAppBackendDecision_0.png"
 date: 2024-08-21 18:42
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Supabase or Firebase Simplifying Your Flutter App Backend Decision"
 link: "https://medium.com/@sharjeel-482/supabase-or-firebase-simplifying-your-flutter-app-backend-decision-abbf20a86c26"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245330814
 ---
 
 

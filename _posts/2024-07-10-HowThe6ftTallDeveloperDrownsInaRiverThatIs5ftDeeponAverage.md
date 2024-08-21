@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How The 6ft Tall Developer Drowns In a River That Is 5ft Deep on Average"
 link: "https://medium.com/@thehosk/how-the-6ft-tall-developer-drowns-in-a-river-that-is-5ft-deep-on-average-354b925d5463"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-10-HowThe6ftTallDeveloperDrownsInaRiverThatIs5ftDeeponAverage_0.png)

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How To Disagree the Right Way"
 link: "https://medium.com/code-like-a-girl/how-to-disagree-the-right-way-961f881e94fe"
+isUpdated: true
 ---
+
+
 
 
 ![HowToDisagreetheRightWay_0.png](/assets/img/2024-07-14-HowToDisagreetheRightWay_0.png)

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Use Git like a senior engineer"
 link: "https://medium.com/gitconnected/use-git-like-a-senior-engineer-ef6d741c898e"
+isUpdated: true
 ---
+
+
 
 
 저는 팀과 프로젝트를 넘나드는 동안 Git의 이러한 기능들을 연구해왔어요. 몇 가지 작업 흐름(예: squash 하는 것)에 대한 의견을 개발 중이지만, 핵심 도구는 강력하고 유연하며(스크립트로 작성할 수도 있어요!).

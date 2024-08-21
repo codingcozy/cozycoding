@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Create a Responsive and Automatic Image Slider in HTML A Step-by-Step Guide"
 link: "https://medium.com/code-like-a-girl/create-a-responsive-and-automatic-image-slider-in-html-a-step-by-step-guide-56b8313533d3"
+isUpdated: true
 ---
+
+
 
 
 

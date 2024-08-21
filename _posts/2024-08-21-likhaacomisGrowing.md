@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "likhaa.com is Growing"
 link: "https://medium.com/@neetishop/likhaa-com-is-growing-4bcf8d718bff"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245479352
 ---
 
 

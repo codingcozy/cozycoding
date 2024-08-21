@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "3 Unusually Painful Mistakes on My Side Project Journey to 100K Users"
 link: "https://medium.com/@mariusbongarts/3-unusually-painful-mistakes-on-my-side-project-journey-to-100k-users-e9259f553019"
+isUpdated: true
 ---
+
+
+
 
 
 아래는 마크다운 형식으로 수정한 내용입니다.

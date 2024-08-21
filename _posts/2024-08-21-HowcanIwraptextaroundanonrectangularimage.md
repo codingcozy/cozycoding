@@ -1,5 +1,5 @@
 ---
-title: "비직사각형 이미지 주변으로 텍스트를 감싸는 방법."
+title: "직사각형 이미지 주변으로 텍스트를 감싸는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-21 16:58
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How can I wrap text around a non rectangular image"
 link: "https://medium.com/@fixitblog/solved-how-can-i-wrap-text-around-a-non-rectangular-image-d7f64254d1f5"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245825425
 ---
 
 

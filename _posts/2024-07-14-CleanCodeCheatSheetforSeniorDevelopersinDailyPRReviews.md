@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Clean Code Cheat Sheet for Senior Developers in Daily PR Reviews"
 link: "https://medium.com/@azeynalli1990/clean-code-cheat-sheet-for-senior-developers-in-daily-pr-reviews-6b77ee413469"
+isUpdated: true
 ---
+
+
 
 
 ![img](/assets/img/2024-07-14-CleanCodeCheatSheetforSeniorDevelopersinDailyPRReviews_0.png)

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "10 CSS Tricks That Saved Me Plenty of Work and Time"
 link: "https://medium.com/@arnoldgunter/10-css-tricks-that-saved-me-plenty-of-work-and-time-3698e69d7bac"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-30-10CSSTricksThatSavedMePlentyofWorkandTime_0.png)

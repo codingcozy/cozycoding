@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "CSS Modules and Global Styles"
 link: "https://nextjs.org/docs/app/building-your-application/styling/css-modules"
+isUpdated: true
 ---
+
+
 
 
 # CSS 모듈 및 글로벌 스타일

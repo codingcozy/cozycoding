@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Creating a Scroll Progress Indicator with CSS Custom Properties"
 link: "https://medium.com/@rahajason/creating-a-scroll-progress-indicator-with-css-custom-properties-aa1d31964741"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-25-CreatingaScrollProgressIndicatorwithCSSCustomProperties_0.png" />

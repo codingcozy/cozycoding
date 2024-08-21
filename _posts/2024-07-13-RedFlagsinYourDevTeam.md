@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Red Flags🚩in Your Dev Team"
 link: "https://medium.com/@tsecretdeveloper/red-flags-in-your-dev-team-198692a541e0"
+isUpdated: true
 ---
+
+
 
 
 ![Red Flags in Your Dev Team](/assets/img/2024-07-13-RedFlagsinYourDevTeam_0.png)

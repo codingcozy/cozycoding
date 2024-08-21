@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Top Flutter Widgets for Business App Development in 2024"
 link: "https://medium.com/@marketing_codenomad/top-flutter-widgets-for-business-app-development-in-2024-808df5b52716"
+isUpdated: true
 ---
+
+
 
 
 ## 비즈니스 앱 개발을 위한 플러터 위젯

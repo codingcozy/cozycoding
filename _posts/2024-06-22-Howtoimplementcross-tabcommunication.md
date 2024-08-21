@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to implement cross-tab communication"
 link: "https://medium.com/@Nacabacu/how-to-implement-cross-tab-communication-3fa94021733b"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-22-Howtoimplementcross-tabcommunication_0.png" />

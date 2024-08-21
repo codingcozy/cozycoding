@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mejorando Sigma"
 link: "https://dev.to/baltasarq/mejorando-sigma-58mc"
+isUpdated: true
 ---
+
+
 
 
 이전에 제출한 내용에서 Sigma 학사 관리 시스템의 문제점을 불평했습니다. 적어도 제가 알고 있는 부분, 즉 성적 입력 부분에 대해요.

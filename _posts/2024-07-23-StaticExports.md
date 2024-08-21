@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Static Exports"
 link: "https://nextjs.org/docs/app/building-your-application/deploying/static-exports"
+isUpdated: true
 ---
+
+
 
 
 # 정적 익스포트

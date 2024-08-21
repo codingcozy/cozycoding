@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Why You Should Give a Damn About Software Design"
 link: "https://medium.com/gitconnected/why-you-should-give-a-damn-about-software-design-2a6ddbf3c242"
+isUpdated: true
 ---
+
+
 
 
 

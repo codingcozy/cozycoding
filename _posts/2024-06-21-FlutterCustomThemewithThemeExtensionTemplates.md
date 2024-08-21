@@ -1,14 +1,18 @@
 ---
-title: "ThemeExtension으로 Flutter 맞춤 테마 만들기  템플릿 제공"
+title: "ThemeExtension으로 Flutter 맞춤 테마 만들기 템플릿 제공"
 description: ""
 coverImage: "/assets/img/2024-06-21-FlutterCustomThemewithThemeExtensionTemplates_0.png"
 date: 2024-06-21 20:46
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-FlutterCustomThemewithThemeExtensionTemplates_0.png
 tag: Tech
 originalTitle: "Flutter Custom Theme with ThemeExtension + Templates"
 link: "https://medium.com/@alexandersnotes/flutter-custom-theme-with-themeextension-792034106abc"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-21-FlutterCustomThemewithThemeExtensionTemplates_0.png" />
 

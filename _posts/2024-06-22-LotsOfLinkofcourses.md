@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Lots Of Link of courses"
 link: "https://medium.com/@akashjha9041/lots-of-link-of-courses-bfe145d11d32"
+isUpdated: true
 ---
+
+
+
 
 
 https://mega.nz/folder/Q9E3ha4Q#nvW42NukmfqYboQQhqEGVQ

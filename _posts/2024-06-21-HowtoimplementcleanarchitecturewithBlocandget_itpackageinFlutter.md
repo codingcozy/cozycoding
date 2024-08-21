@@ -3,12 +3,16 @@ title: "Flutter에서 Bloc과 get_it 패키지를 사용하여 클린 아키텍�
 description: ""
 coverImage: "/assets/img/2024-06-21-HowtoimplementcleanarchitecturewithBlocandget_itpackageinFlutter_0.png"
 date: 2024-06-21 21:16
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-HowtoimplementcleanarchitecturewithBlocandget_itpackageinFlutter_0.png
 tag: Tech
 originalTitle: "How to implement clean architecture with Bloc and get_it package in Flutter"
 link: "https://medium.com/@jhonmunozromero/how-to-implement-clean-architecture-with-bloc-and-get-it-package-in-flutter-9874f038f6f2"
+isUpdated: true
 ---
+
+
+
 
 이 기사에서는 get_it 패키지를 서비스 로케이터로, Bloc를 상태 관리로 사용하여 클린 아키텍처를 구현하는 방법을 가르쳐 드리겠습니다. 이를 통해 책임을 분리하고, 앱이 점점 커지고 복잡해짐에 따라 새로운 기능을 더 잘 유지하고 코드를 이해하기 쉽게 유지할 수 있습니다.
 

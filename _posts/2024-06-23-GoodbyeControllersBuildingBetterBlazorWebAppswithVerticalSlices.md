@@ -3,12 +3,16 @@ title: "컨트롤러는 이제 그만 Vertical Slice로 Blazor 웹 앱 더 잘 �
 description: ""
 coverImage: "/assets/img/2024-06-23-GoodbyeControllersBuildingBetterBlazorWebAppswithVerticalSlices_0.png"
 date: 2024-06-23 15:11
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-23-GoodbyeControllersBuildingBetterBlazorWebAppswithVerticalSlices_0.png
 tag: Tech
 originalTitle: "Goodbye Controllers: Building Better Blazor Web Apps with Vertical Slices"
 link: "https://medium.com/gitconnected/goodbye-controllers-building-better-blazor-web-apps-with-vertical-slices-3a8b9b413bac"
+isUpdated: true
 ---
+
+
+
 
 ![이미지](/assets/img/2024-06-23-GoodbyeControllersBuildingBetterBlazorWebAppswithVerticalSlices_0.png)
 

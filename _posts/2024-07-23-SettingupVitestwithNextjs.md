@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Setting up Vitest with Next.js"
 link: "https://nextjs.org/docs/app/building-your-application/testing/vitest"
+isUpdated: true
 ---
+
+
 
 
 # Next.js에서 Vitest 설정하기

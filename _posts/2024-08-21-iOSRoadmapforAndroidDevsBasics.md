@@ -1,5 +1,5 @@
 ---
-title: "안드로이드 개발자를 위한 iOS 로드맵 기초부터"
+title: "안드로이드 개발자를 위한 iOS 로드맵(2024년)"
 description: ""
 coverImage: "/assets/img/2024-08-21-iOSRoadmapforAndroidDevsBasics_0.png"
 date: 2024-08-21 18:25
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "iOS Roadmap for Android Devs Basics"
 link: "https://medium.com/@rohitky/ios-roadmap-for-android-devs-basics-b7bc385e3bec"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724244395486
 ---
 
 

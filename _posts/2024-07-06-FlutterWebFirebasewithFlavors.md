@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Web: Firebase with Flavors."
 link: "https://medium.com/@m1nori/flutter-web-firebase-with-flavors-8b90055946d1"
+isUpdated: true
 ---
+
+
+
 
 
 안녕하세요! 이 글은 플러터 웹 앱에서 맛을 관리하는 방법에 대해 다룹니다.

@@ -1,5 +1,5 @@
 ---
-title: "플러터에서 앱 아이콘 변경하기 단계별 안내"
+title: "플러터에서 앱 아이콘 변경하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-19-ChangingAppIconinFlutterAStep-by-StepGuide_0.png"
 date: 2024-06-19 08:16
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Changing App Icon in Flutter: A Step-by-Step Guide"
 link: "https://medium.com/@hpatilabhi10/changing-app-icon-in-flutter-a-step-by-step-guide-e2ba52c91e96"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-19-ChangingAppIconinFlutterAStep-by-StepGuide_0.png" />

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "My Journey: From High School to Now"
 link: "https://medium.com/@rendyspratama/my-journey-from-high-school-to-now-1f249907a9cb"
+isUpdated: true
 ---
+
+
 
 
 Introduction

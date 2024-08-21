@@ -1,5 +1,5 @@
 ---
-title: "바쁜 개발자를 위한 Angular 신호 깊이 파헤치기"
+title: "Angular signal에 대해 알아보기"
 description: ""
 coverImage: "/assets/img/2024-08-21-SignalsinAngulardeepdiveforbusydevelopers_0.png"
 date: 2024-08-21 17:35
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Signals in Angular deep dive for busy developers"
 link: "https://medium.com/@maxkoretskyi/signals-in-angular-deep-dive-for-busy-developers-627264eb4c2a"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245380774
 ---
 
 

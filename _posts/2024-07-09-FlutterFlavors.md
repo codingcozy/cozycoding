@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Flavors"
 link: "https://medium.com/go-with-flutter/flutter-flavors-d81e1b3259c5"
+isUpdated: true
 ---
+
+
 
 
 

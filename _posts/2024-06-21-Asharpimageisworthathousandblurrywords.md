@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "A sharp image is worth a thousand blurry words"
 link: "https://medium.com/@smrutisagarpattanaik1997/a-sharp-image-is-worth-a-thousand-blurry-words-a36253abf293"
+isUpdated: true
 ---
+
+
+
 
 
 우리는 본능적으로 시각적인 생물입니다. MIT 연구에 따르면 인간 두뇌는 이미지를 13~33밀리초 안에 처리하는데, 이는 텍스트 보다 60,000배 빠르다고 합니다. 따라서 사용자 경험을 만드는 데 이미지를 광범위하게 사용하는 것이 중요합니다. 웹 사용자 경험을 위해 선명하고 선명한 이미지를 전달하는 뒤에 숨겨진 비밀을 발견하기 위해 이 기사를 살펴보겠습니다.

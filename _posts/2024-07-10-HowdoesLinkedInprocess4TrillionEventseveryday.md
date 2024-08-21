@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How does LinkedIn process 4 Trillion Events every day?"
 link: "https://medium.com/thedeephub/how-does-linkedin-process-4-trillion-events-every-day-d4500df3527c"
+isUpdated: true
 ---
+
+
 
 
 ## LinkedIn이 실시간 처리를 위해 Apache Beam을 어떻게 활용하는지에 대한 주요 통찰

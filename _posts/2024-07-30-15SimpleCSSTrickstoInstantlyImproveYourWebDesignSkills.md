@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "15 Simple CSS Tricks to Instantly Improve Your Web Design Skills"
 link: "https://medium.com/@learntocodetoday/15-simple-css-tricks-to-instantly-improve-your-web-design-skills-e06a10001f86"
+isUpdated: true
 ---
+
+
 
 
 

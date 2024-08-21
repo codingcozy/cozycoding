@@ -1,5 +1,5 @@
 ---
-title: "SwiftUI에서의 라우팅과 네비게이션 - 올바른 방법"
+title: "SwiftUI에서의 라우팅과 네비게이션 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-RoutingNavigationinSwiftUItherightway_0.png"
 date: 2024-08-21 18:27
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Routing , Navigation in SwiftUI  the right way"
 link: "https://medium.com/@blorenzop/routing-navigation-in-swiftui-f1f8ff818937"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245395157
 ---
 
 

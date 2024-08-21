@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Optimizing Front-End Performance Techniques and Best Practices"
 link: "https://medium.com/@kasata/optimizing-front-end-performance-techniques-and-best-practices-2e56b8137200"
+isUpdated: true
 ---
+
+
 
 
 현재의 빠르게 변화하는 디지털 세계에서는 프론트엔드 성능을 최적화하여 사용자 경험을 향상시키고 더 빠른 로드 시간을 보장하는 것이 중요해졌습니다. 최적화되지 않은 웹사이트는 이탈률이 높아지고 전환율이 낮아질 수 있습니다. 본 문서에서는 프론트엔드 성능을 향상시키고 원활한 사용자 경험을 제공하기 위한 다양한 기술과 모범 사례에 대해 다루고 있습니다.

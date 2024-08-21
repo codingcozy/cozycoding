@@ -1,5 +1,5 @@
 ---
-title: "루비온레일 애플리케이션을 Docker로 만들어 AWS ECR에 배포하는 과정 Github Actions 활용하기"
+title: "루비온레일을 Docker로 만들어  Github Actions 활용해 AWS ECR에 배포하기"
 description: ""
 coverImage: "/assets/img/2024-08-21-MypersonalexperienceDockerizingaRubyonRailsApplicationDeploytoAWSECRusingGithubActions_0.png"
 date: 2024-08-21 18:04
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "My personal experience Dockerizing a Ruby on Rails Application Deploy to AWS ECR using Github Actions"
 link: "https://medium.com/@igeadetokunbo/my-personal-experience-dockerizing-a-ruby-on-rails-application-deploy-to-aws-ecr-using-github-55927034362e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245667579
 ---
 
 

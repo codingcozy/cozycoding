@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "5 Growth Product Metrics that Every Product Growth Engineer Needs to Know"
 link: "https://medium.com/gitconnected/5-growth-product-metrics-that-every-product-growth-engineer-needs-to-know-9f2e41748df4"
+isUpdated: true
 ---
+
+
 
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Single Page Apps vs Traditional Websites: Which Should You Choose?"
 link: "https://medium.com/@simply_stef/single-page-apps-vs-traditional-websites-which-should-you-choose-11fc4f9bd815"
+isUpdated: true
 ---
+
+
 
 
 웹 개발 세계에서는 Single Page Applications (SPA)와 전통적인 다중 페이지 웹 사이트를 사용하는 것에 대한 대화가 항상 있습니다. 제가 시작한 지 얼마 되지 않아서 두 가지 접근 방법 모두가 내 강의 프레임워크에서 다뤄졌지만, 각각을 언제 사용해야 하는지 그리고 실제로 중요한지에 대해서 궁금함을 남겼습니다. 게다가 우리가 주로 React를 사용했기 때문에 SPA 프레임워크에 대해 혼란스러워했습니다. 장단점과 주요 프레임워크에 대해 자세히 알아본 뒤, 이것이 내가 발견한 것입니다.

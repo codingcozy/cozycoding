@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Versioned Data Management System Design"
 link: "https://medium.com/gitconnected/versioned-data-management-system-design-6e27598eb023"
+isUpdated: true
 ---
+
+
 
 
 ![2024-07-13-VersionedDataManagementSystemDesign_0.png](/assets/img/2024-07-13-VersionedDataManagementSystemDesign_0.png)

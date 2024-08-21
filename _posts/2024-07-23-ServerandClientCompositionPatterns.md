@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Server and Client Composition Patterns"
 link: "https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns"
+isUpdated: true
 ---
+
+
 
 
 # 서버 및 클라이언트 구성 패턴

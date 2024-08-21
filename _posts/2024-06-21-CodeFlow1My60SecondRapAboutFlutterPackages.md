@@ -1,5 +1,5 @@
 ---
-title: "코드 플로우 - 60초 랩으로 배우는 Flutter 패키지 "
+title: "쉽게 배우는 Flutter 패키지"
 description: ""
 coverImage: "/assets/img/2024-06-21-CodeFlow1My60SecondRapAboutFlutterPackages_0.png"
 date: 2024-06-21 23:46
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Code Flow 1 — My 60 Second Rap About Flutter Packages 👨🏾‍💻🎤"
 link: "https://medium.com/@treyhope/code-flow-1-flutter-packages-ecf6b1754b5c"
+isUpdated: true
 ---
+
+
+
 
 
 ## "만약 내가 모든 것을 했다고 말했다면, 난 허풍을 떨었던 거야. 왜냐하면 난 바퀴를 다시 발명하지 않고 그냥 패키지를 가져오는 거야."

@@ -1,5 +1,5 @@
 ---
-title: "HTML, CSS, JavaScript로 날씨 앱 만들기 Step-by-Step 가이드"
+title: "HTML, CSS, JavaScript로 날씨 앱 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-BuildAWeatherAppinHTMLCSSandJavaScript_0.png"
 date: 2024-08-21 18:47
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: " Build A Weather App in HTML CSS and JavaScript"
 link: "https://dev.to/codingnepal/build-a-weather-app-in-html-css-and-javascript-5e9e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246063284
 ---
 
 

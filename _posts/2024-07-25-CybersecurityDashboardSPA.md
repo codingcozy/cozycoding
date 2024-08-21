@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Cybersecurity Dashboard SPA"
 link: "https://medium.com/aardvark-infinity/cybersecurity-dashboard-spa-97c4ae797654"
+isUpdated: true
 ---
+
+
 
 
 테이블 태그를 Markdown 형식으로 변경해보았어요.

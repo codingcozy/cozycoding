@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Submit 2 or More forms in one button click"
 link: "https://dev.to/armanrahman/submit-2-or-more-forms-in-one-button-click-30aj"
+isUpdated: true
+updatedAt: 1724246283839
 ---
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Forms without an accessible name are not exposed as ARIA landmarks"
 link: "https://dev.to/stefanjudis/forms-without-an-accessible-name-are-not-exposed-as-aria-landmarks-3132"
+isUpdated: true
 ---
+
+
 
 
 좋은 웹 시민이 되려면 의미론적이고 접근성이 있는 HTML을 사용해야 합니다. "주요 위치" 요소들은 a 요소들이며, 내비게이션은 nav 요소에 속해 있어야 합니다. 버튼은... 그러니까... 버튼이고, 폼 컨트롤은 폼 태그로 감싸야 합니다.

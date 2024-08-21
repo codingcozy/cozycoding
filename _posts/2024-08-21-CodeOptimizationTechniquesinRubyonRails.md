@@ -1,5 +1,5 @@
 ---
-title: "루비 온 레일스의 코드 최적화 기술 "
+title: "루비 온 레일스에서 코드 최적화 하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-CodeOptimizationTechniquesinRubyonRails_0.png"
 date: 2024-08-21 18:02
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Code Optimization Techniques in Ruby on Rails "
 link: "https://medium.com/@rajputlakhveer/code-optimization-techniques-in-ruby-on-rails-084d4692dceb"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246001843
 ---
 
 

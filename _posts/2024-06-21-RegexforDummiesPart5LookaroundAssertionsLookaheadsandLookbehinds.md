@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Regex for Dummies. Part 5: Lookaround Assertions — Lookaheads and Lookbehinds"
 link: "https://medium.com/@NALSengineering/regex-for-dummies-lookaround-assertions-lookaheads-and-lookbehinds-408c94eacaf7"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-21-RegexforDummiesPart5LookaroundAssertionsLookaheadsandLookbehinds_0.png" />

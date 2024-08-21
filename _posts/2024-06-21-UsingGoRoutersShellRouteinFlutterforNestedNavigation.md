@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Using GoRouter’s ShellRoute in Flutter for Nested Navigation"
 link: "https://medium.com/@ahm4d.bilal/using-gorouters-shellroute-in-flutter-for-nested-navigation-777a9a20642f"
+isUpdated: true
 ---
+
+
+
 
 
 안녕하세요 개발자 여러분!

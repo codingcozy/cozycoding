@@ -3,12 +3,16 @@ title: "Flutter 프로젝트의 pubspecyaml에서 assets 추가하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-pubspecyamlflutterassets_0.png"
 date: 2024-06-21 23:22
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-pubspecyamlflutterassets_0.png
 tag: Tech
 originalTitle: "pubspec.yaml flutter assets"
 link: "https://medium.com/@upendercheruku757/pubspec-yaml-flutter-assets-4d021bc3ff94"
+isUpdated: true
 ---
+
+
+
 
 네, 저는 플러터(Flutter) 프로젝트용 `pubspec.yaml` 파일이 어떻게 구조화되어야 하는지 예시를 제공할 수 있어요. 여기서는 이미지, 폰트 및 기타 파일과 같은 에셋을 정의하는 데 초점을 맞추겠어요. 이 파일은 플러터 프로젝트에서 의존성 및 에셋을 관리하는 데 중요합니다.
 

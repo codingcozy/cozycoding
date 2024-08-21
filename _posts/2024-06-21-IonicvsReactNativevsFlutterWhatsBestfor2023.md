@@ -1,5 +1,5 @@
 ---
-title: "Ionic vs React Native vs Flutter 2023년 최고의 선택은"
+title: "Ionic vs React Native vs Flutter 비교 정리"
 description: ""
 coverImage: "/assets/img/2024-06-21-IonicvsReactNativevsFlutterWhatsBestfor2023_0.png"
 date: 2024-06-21 22:53
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Ionic vs. React Native vs. Flutter: What’s Best for 2023?"
 link: "https://medium.com/@nautilustechlabs/ionic-vs-react-native-vs-flutter-whats-best-for-2023-a8ae061d5542"
+isUpdated: true
 ---
+
+
+
 
 
 

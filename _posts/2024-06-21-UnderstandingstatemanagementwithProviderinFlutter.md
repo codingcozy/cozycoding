@@ -3,12 +3,16 @@ title: "Flutter에서 Provider로 상태 관리 이해하기"
 description: ""
 coverImage: "/assets/img/2024-06-21-UnderstandingstatemanagementwithProviderinFlutter_0.png"
 date: 2024-06-21 23:43
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-UnderstandingstatemanagementwithProviderinFlutter_0.png
 tag: Tech
 originalTitle: "Understanding state management with Provider in Flutter"
 link: "https://medium.com/@nureddineraslan/understanding-state-management-with-provider-in-flut-e74e0b9e49d9"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-21-UnderstandingstatemanagementwithProviderinFlutter_0.png" />
 

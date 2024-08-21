@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How I Helped My Wife Make Better Decisions as a European Judge with an AI Python Script"
 link: "https://medium.com/@danielbuilescu/how-i-helped-my-wife-make-better-decisions-as-a-european-judge-with-an-ai-python-script-fff37afb6cc0"
+isUpdated: true
 ---
+
+
 
 
 ![AI 모델](/assets/img/2024-07-28-HowIHelpedMyWifeMakeBetterDecisionsasaEuropeanJudgewithanAIPythonScript_0.png)

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Constant Dilemma of Legacy Code and How to Deal with It"
 link: "https://medium.com/gitconnected/the-constant-dilemma-of-legacy-code-and-how-to-deal-with-it-db37807e0c0d"
+isUpdated: true
 ---
+
+
 
 
 ![image](/assets/img/2024-07-13-TheConstantDilemmaofLegacyCodeandHowtoDealwithIt_0.png)

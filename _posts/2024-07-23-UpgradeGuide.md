@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Upgrade Guide"
 link: "https://nextjs.org/docs/app/building-your-application/upgrading"
+isUpdated: true
 ---
+
+
 
 
 # 업그레이드 안내

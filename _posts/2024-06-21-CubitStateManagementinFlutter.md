@@ -3,12 +3,16 @@ title: "플러터에서 Cubit 상태 관리 사용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-CubitStateManagementinFlutter_0.png"
 date: 2024-06-21 23:02
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-CubitStateManagementinFlutter_0.png
 tag: Tech
 originalTitle: "Cubit State Management in Flutter"
 link: "https://medium.com/@muhammadnaqeeb/cubit-state-management-in-flutter-cb3d357fd0f0"
+isUpdated: true
 ---
+
+
+
 
 ![Cubit State Management in Flutter](/assets/img/2024-06-21-CubitStateManagementinFlutter_0.png)
 

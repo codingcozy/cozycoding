@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "“How to Flutter”: running functions after widget initialization."
 link: "https://medium.com/@wartelski/how-to-flutter-running-functions-after-widget-initialization-7d7b4150b147"
+isUpdated: true
 ---
+
+
+
 
 
 이 글에서는 WidgetsBinding.instance.addPostFrameCallback 메서드를 자세히 검토하고 싶습니다.

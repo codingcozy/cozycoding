@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter vs. React Native: Which Should You Learn in 2024?"
 link: "https://medium.com/@blup-tool/flutter-vs-react-native-which-should-you-learn-in-2024-44d710ee19fd"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-06-21-FluttervsReactNativeWhichShouldYouLearnin2024_0.png)

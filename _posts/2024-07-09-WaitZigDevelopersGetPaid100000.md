@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Wait. Zig Developers Get Paid $100,000?"
 link: "https://medium.com/@tsecretdeveloper/wait-zig-developers-get-paid-100-000-0c5e8eb62cbd"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-09-WaitZigDevelopersGetPaid100000_0.png)

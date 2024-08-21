@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Bootstrap Fundamentals  Navbar 9"
 link: "https://medium.com/@tomas-svojanovsky/bootstrap-fundamentals-navbar-9-54187ff0f604"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-21-BootstrapFundamentalsNavbar9_0.png" />

@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to fix Execution failed for task ‘:app:checkDebugDuplicateClasses’."
 link: "https://medium.com/@Code-blast/how-to-fix-execution-failed-for-task-app-checkdebugduplicateclasses-fe0f420b0386"
+isUpdated: true
 ---
+
+
+
 
 
 ```js

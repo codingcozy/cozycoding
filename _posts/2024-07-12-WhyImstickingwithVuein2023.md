@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Why I’m sticking with Vue in 2023"
 link: "https://medium.com/@lindblomdev/why-im-sticking-with-vue-in-2023-d67bce7bc2f4"
+isUpdated: true
 ---
+
+
 
 
 아래는 마크다운 형식으로 표로 변환한 내용입니다.

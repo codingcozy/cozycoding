@@ -3,12 +3,16 @@ title: "카메라 앱을 위한 최신 기술 Flutter, CameraX, MediaPipe 완벽
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-07-06 10:45
-ogImage:
+ogImage: 
   url: /assets/no-image.jpg
 tag: Tech
 originalTitle: "Flutter, CameraX, and MediaPipe"
 link: "https://medium.com/gitconnected/flutter-camerax-and-mediapipe-13c33ca95f8d"
+isUpdated: true
 ---
+
+
+
 
 앱을 만들어보고 싶군요! 실시간으로, 예를 들어 개를 분류하는 앱을 만들고 싶다고 하셨군요. 실시간이라 함은 개가 카메라 화면에 들어오자마자 그 종이 표시되어야 하며, 버튼을 누르거나 할 필요 없이 바로 보여져야 한다는 뜻이죠. 이를 위해 어떤 소프트웨어와 도구를 사용할 것인가요?
 

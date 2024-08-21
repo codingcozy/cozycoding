@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Curious Case Of QA In A Serverless Team"
 link: "https://medium.com/gitconnected/the-curious-case-of-qa-in-a-serverless-team-c49570ec0cf0"
+isUpdated: true
 ---
+
+
 
 
 ![Image](/assets/img/2024-07-13-TheCuriousCaseOfQAInAServerlessTeam_0.png)

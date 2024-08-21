@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "6 Best Websites for Every Developer’s Bookmark Bar"
 link: "https://medium.com/@pinjarirehan/6-best-websites-for-every-developers-bookmark-bar-7d43a8dcc701"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-06-23-6BestWebsitesforEveryDevelopersBookmarkBar_0.png)

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Is Vercel the new Heroku?"
 link: "https://medium.com/@PurpleGreenLemon/is-vercel-the-new-heroku-9c5deced261c"
+isUpdated: true
 ---
+
+
 
 
 

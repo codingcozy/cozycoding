@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "HTMX Giving HTML Superpowers "
 link: "https://dev.to/jxnata/htmx-giving-html-superpowers-13pl"
+isUpdated: true
 ---
+
+
 
 
 ## HTMX는 무엇인가요? 🤔

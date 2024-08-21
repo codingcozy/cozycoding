@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Handling Heavy Tasks Smoothly in Flutter- Isolates (With Liveliness check as an example)"
 link: "https://medium.com/@ahadusefefe/handling-heavy-tasks-smoothly-in-flutter-isolates-with-liveliness-check-as-an-example-66e09fb83947"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-07-07-HandlingHeavyTasksSmoothlyinFlutter-IsolatesWithLivelinesscheckasanexample_0.png" />

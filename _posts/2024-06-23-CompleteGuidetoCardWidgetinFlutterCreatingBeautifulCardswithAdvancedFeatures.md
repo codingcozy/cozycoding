@@ -3,12 +3,16 @@ title: "Flutter 카드 위젯 완벽 가이드 고급 기능을 활용한 아름
 description: ""
 coverImage: "/assets/img/2024-06-23-CompleteGuidetoCardWidgetinFlutterCreatingBeautifulCardswithAdvancedFeatures_0.png"
 date: 2024-06-23 14:54
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-23-CompleteGuidetoCardWidgetinFlutterCreatingBeautifulCardswithAdvancedFeatures_0.png
 tag: Tech
 originalTitle: "Complete Guide to Card Widget in Flutter: Creating Beautiful Cards with Advanced Features"
 link: "https://medium.com/@hamidrezadeveloper/complete-guide-to-card-widget-in-flutter-creating-beautiful-cards-with-advanced-features-982fc1ac32ba"
+isUpdated: true
 ---
+
+
+
 
 ![Card Widget](/assets/img/2024-06-23-CompleteGuidetoCardWidgetinFlutterCreatingBeautifulCardswithAdvancedFeatures_0.png)
 

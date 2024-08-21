@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding Concurrency in Flutter"
 link: "https://medium.com/@rishad2002/concurrency-is-crucial-in-mobile-app-development-because-it-allows-an-app-to-perform-multiple-tasks-398faeb56f9d"
+isUpdated: true
 ---
+
+
+
 
 
 ## /assets/img/2024-07-06-UnderstandingConcurrencyinFlutter_0.png

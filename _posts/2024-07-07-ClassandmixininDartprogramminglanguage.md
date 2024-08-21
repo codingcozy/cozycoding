@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Class and mixin in Dart programming language"
 link: "https://medium.com/@programmingpassion/class-and-mixin-in-dart-programming-language-fb55d4f8b048"
+isUpdated: true
 ---
+
+
+
 
 
 다트 프로그래밍 언어는 가장 정교한 클래스 시스템을 가지고 있습니다. 따라서 다트에서 클래스를 사용하는 방법에 대한 다양한 기능을 제공합니다.

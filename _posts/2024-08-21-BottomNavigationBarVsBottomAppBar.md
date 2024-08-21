@@ -1,5 +1,5 @@
 ---
-title: "BottomNavigationBar 대 BottomAppBar 어떤 것을 사용해야 할까요"
+title: "BottomNavigationBar 대 BottomAppBar 비교 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-BottomNavigationBarVsBottomAppBar_0.png"
 date: 2024-08-21 18:40
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "BottomNavigationBar Vs BottomAppBar"
 link: "https://medium.com/@MarvelApps_/bottomnavigationbar-vs-bottomappbar-6daf76183cc9"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724246067439
 ---
 
 

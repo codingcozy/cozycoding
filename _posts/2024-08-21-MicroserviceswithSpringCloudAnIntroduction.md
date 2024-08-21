@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Microservices with Spring Cloud An Introduction"
 link: "https://medium.com/@igventurelli/microservices-with-spring-cloud-an-introduction-7e2016211730"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245704971
 ---
 
 

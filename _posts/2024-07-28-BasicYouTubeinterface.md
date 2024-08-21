@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Basic YouTube interface"
 link: "https://dev.to/anandsach_backspace/basic-youtube-interface-33j2"
+isUpdated: true
 ---
+
+
 
 
 마크다운 형식으로 테이블 태그를 변경해 보았어요.

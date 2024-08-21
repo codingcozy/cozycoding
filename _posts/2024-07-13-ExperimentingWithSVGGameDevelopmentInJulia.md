@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Experimenting With SVG Game Development In Julia"
 link: "https://medium.com/chifi-media/experimenting-with-svg-game-development-in-julia-77a5fdf4b8d7"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-13-ExperimentingWithSVGGameDevelopmentInJulia_0.png)

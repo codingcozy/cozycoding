@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "New York Times Has Changed Wordle. I Can Prove It"
 link: "https://medium.com/@scottbatson/new-york-times-has-changed-wordle-i-can-prove-it-7129ef39ce70"
+isUpdated: true
 ---
+
+
+
 
 
 

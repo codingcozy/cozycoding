@@ -1,5 +1,5 @@
 ---
-title: "웹 성능을 향상시키기 위한 DNS 조회 최소화 방법"
+title: "웹 성능을 향상시키기 위한 DNS 조회 최소화하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-MinimizeDNSLookupsforFasterWebPerformance_0.png"
 date: 2024-08-21 18:21
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Minimize DNS Lookups for Faster Web Performance"
 link: "https://medium.com/@learncsdesigns/minimize-dns-lookups-for-faster-web-performance-b0527ea53c54"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245701722
 ---
 
 

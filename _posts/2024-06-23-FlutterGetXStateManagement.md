@@ -3,12 +3,16 @@ title: "Flutter GetX 상태 관리 쉽게 이해하기"
 description: ""
 coverImage: "/assets/img/2024-06-23-FlutterGetXStateManagement_0.png"
 date: 2024-06-23 14:58
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-23-FlutterGetXStateManagement_0.png
 tag: Tech
 originalTitle: "Flutter GetX State Management"
 link: "https://medium.com/@anugrahdwi1005/flutter-getx-state-management-9c7731b46628"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-23-FlutterGetXStateManagement_0.png" />
 

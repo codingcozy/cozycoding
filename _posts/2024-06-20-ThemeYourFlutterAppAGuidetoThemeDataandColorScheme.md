@@ -1,14 +1,18 @@
 ---
-title: "Flutter 앱을 테마화해보세요 ThemeData와 ColorScheme에 대한 안내"
+title: "Flutter 앱을 테마화해보세요 ThemeData와 ColorScheme 정리"
 description: ""
 coverImage: "/assets/img/2024-06-20-ThemeYourFlutterAppAGuidetoThemeDataandColorScheme_0.png"
 date: 2024-06-20 13:49
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-20-ThemeYourFlutterAppAGuidetoThemeDataandColorScheme_0.png
 tag: Tech
 originalTitle: "Theme Your Flutter App: A Guide to ThemeData and ColorScheme"
 link: "https://medium.com/@nikhithsunil/theme-your-flutter-app-a-guide-to-themedata-and-colorscheme-d8bca920a6b5"
+isUpdated: true
 ---
+
+
+
 
 다음을 먼저 말씀드리기 전에 알아두어야 할 점이 있어요. 많은 기사들이 이 주제에 대해 매체와 다른 소스에서 제공되고 있기 때문에, 이 기사의 필요성이 무엇인지 궁금해졌죠?
 

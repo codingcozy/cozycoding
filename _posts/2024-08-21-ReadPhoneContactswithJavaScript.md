@@ -1,5 +1,5 @@
 ---
-title: "자바스크립트로 폰 연락처 읽어오는 방법"
+title: "자바스크립트로 핸드폰 연락처 읽어오는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-ReadPhoneContactswithJavaScript_0.png"
 date: 2024-08-21 18:48
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Read Phone Contacts with JavaScript"
 link: "https://dev.to/alvaromontoro/read-phone-contacts-with-javascript-1j2"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245421002
 ---
 
 

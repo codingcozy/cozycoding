@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "How to Customize the Shape of an ElevatedButton in Flutter"
 link: "https://medium.com/@irawnewton/how-to-customize-the-shape-of-an-elevatedbutton-in-flutter-78f34c60fc68"
+isUpdated: true
 ---
+
+
+
 
 
 ![이미지](/assets/img/2024-06-21-HowtoCustomizetheShapeofanElevatedButtoninFlutter_0.png)

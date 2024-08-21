@@ -1,14 +1,18 @@
 ---
-title: "Dio 패키지로 Flutter에서 HTTP 요청 마스터하기 완벽 가이드"
+title: "Dio 패키지로 Flutter에서 HTTP 요청 마스터하기 가이드"
 description: ""
 coverImage: "/assets/img/2024-06-21-MasteringHTTPRequestsinFlutterwithDioPackage_0.png"
 date: 2024-06-21 22:09
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-MasteringHTTPRequestsinFlutterwithDioPackage_0.png
 tag: Tech
 originalTitle: "Mastering HTTP Requests in Flutter with Dio Package"
 link: "https://medium.com/@azizndao/mastering-http-requests-in-flutter-with-dio-package-975b75002911"
+isUpdated: true
 ---
+
+
+
 
 <img src="/assets/img/2024-06-21-MasteringHTTPRequestsinFlutterwithDioPackage_0.png" />
 

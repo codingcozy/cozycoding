@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "CSS Functions That Help You Design Modern Frontends"
 link: "https://medium.com/gitconnected/css-functions-that-help-you-design-modern-frontends-5ba7f4eaf018"
+isUpdated: true
 ---
+
+
 
 
 ![2024-07-22-CSSFunctionsThatHelpYouDesignModernFrontends_0](/assets/img/2024-07-22-CSSFunctionsThatHelpYouDesignModernFrontends_0.png)

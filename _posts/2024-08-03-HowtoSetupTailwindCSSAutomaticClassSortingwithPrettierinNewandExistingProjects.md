@@ -1,5 +1,5 @@
 ---
-title: "새 프로젝트와 기존 프로젝트에서 Tailwind CSS 자동 클래스 정렬을 설정하는 방법 Prettier 사용"
+title: "Tailwind CSS 자동 클래스 정렬을 설정하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-03 19:32
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Setup Tailwind CSS Automatic Class Sorting with Prettier in New and Existing Projects"
 link: "https://dev.to/iamsheye/how-to-setup-tailwind-css-automatic-class-sorting-with-prettier-in-new-and-existing-projects-2ob8"
+isUpdated: true
+updatedAt: 1724246368153
 ---
 
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter: How to Build Draggable Bottom Sheet like Google Maps"
 link: "https://medium.com/@tsung-wei_hsu/flutter-how-to-build-draggable-bottom-sheet-like-google-maps-1165f5b07366"
+isUpdated: true
 ---
+
+
 
 
 <img src="/assets/img/2024-07-09-FlutterHowtoBuildDraggableBottomSheetlikeGoogleMaps_0.png" />

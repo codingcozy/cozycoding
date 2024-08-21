@@ -1,14 +1,18 @@
 ---
-title: "플러터 Go 라우터 필수 가이드"
+title: "플러터 Go 라우터 내용 정리"
 description: ""
 coverImage: "/assets/img/2024-06-19-FlutterGoRouterTheCrucialGuide_0.png"
 date: 2024-06-19 08:13
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-19-FlutterGoRouterTheCrucialGuide_0.png
 tag: Tech
 originalTitle: "Flutter Go Router : The Crucial Guide"
 link: "https://medium.com/@vimehraa29/flutter-go-router-the-crucial-guide-41dc615045bb"
+isUpdated: true
 ---
+
+
+
 
 ![FlutterGoRouter](/assets/img/2024-06-19-FlutterGoRouterTheCrucialGuide_0.png)
 

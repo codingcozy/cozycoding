@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering CSS3 15 Advanced Tips with Code Examples"
 link: "https://medium.com/@thattechyguy/mastering-css3-15-advanced-tips-with-code-examples-308aa05b3376"
+isUpdated: true
 ---
+
+
 
 
 CSS3가 웹 디자인을 혁신하여 반응형, 동적이며 시각적으로 매력적인 웹사이트를 만들 수 있게 되었습니다. 여러분이 스킬을 향상시키거나 CSS3 전문가가 되길 원한다면, 코드 예제를 포함한 이 15가지 고급 팁이 현대 CSS의 복잡성을 안내해줄 것입니다.

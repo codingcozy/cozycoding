@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "The Countdown To Chaos"
 link: "https://medium.com/codex/the-countdown-to-chaos-d03387aae1bc"
+isUpdated: true
 ---
+
+
 
 
 이상한 소프트웨어 공학 상관 관계가 있다는 것을 주목했나요?

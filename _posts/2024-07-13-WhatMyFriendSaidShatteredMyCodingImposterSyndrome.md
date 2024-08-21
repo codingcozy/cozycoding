@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "What My Friend Said Shattered My Coding Imposter Syndrome"
 link: "https://medium.com/new-writers-welcome/what-my-friend-said-shattered-my-coding-imposter-syndrome-c908b9c3f271"
+isUpdated: true
 ---
+
+
 
 
 ![Click here to view the image!](/assets/img/2024-07-13-WhatMyFriendSaidShatteredMyCodingImposterSyndrome_0.png)

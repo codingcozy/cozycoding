@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Web services Server-side vs Client-side content"
 link: "https://medium.com/@mnghamaty/web-services-server-side-vs-client-side-content-73fde9008f0c"
+isUpdated: true
 ---
+
+
 
 
 

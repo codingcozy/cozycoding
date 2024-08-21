@@ -1,5 +1,5 @@
 ---
-title: "CSS 블렌드 모드로 멋진 시각 효과를 만드는 실용 가이드"
+title: "CSS 블렌드 모드로 멋진 효과를 만드는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-04 19:55
@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "A Practical Guide to Creating Stunning Visual Effects with CSS Blend-Modes"
 link: "https://dev.to/drprime01/a-practical-guide-to-creating-stunning-visual-effects-with-css-blend-modes-1pk6"
+isUpdated: true
+updatedAt: 1724246265782
 ---
 
 

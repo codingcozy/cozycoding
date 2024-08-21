@@ -1,5 +1,5 @@
 ---
-title: "처음부터 시작하는 플러터 아키텍처 구축 두 번째 이야기"
+title: "플러터 아키텍처 설계 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-HowtoCreateaFlutterArchitecturefromScratchTheSecondPart_0.png"
 date: 2024-08-21 18:35
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Create a Flutter Architecture from Scratch The Second Part"
 link: "https://medium.com/@denis-lomov/how-to-create-a-flutter-architecture-from-scratch-the-second-part-bcefa967046e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245787914
 ---
 
 

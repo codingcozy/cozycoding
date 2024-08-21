@@ -1,5 +1,5 @@
 ---
-title: "Spring Boot를 사용하여 코드를 더 깔끔하게 만드는 사용자 정의 어노테이션 생성 방법"
+title: "사용자 정의 어노테이션으로 Spring Boot에서 코드를 더 깔끔하게 만드는  방법"
 description: ""
 coverImage: "/assets/img/2024-08-21-HowtoCreateCustomAnnotationsinSpringBootforCleanerCode_0.png"
 date: 2024-08-21 17:45
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Create Custom Annotations in Spring Boot for Cleaner Code"
 link: "https://medium.com/@mahesh.babu11/how-to-create-custom-annotations-in-spring-boot-for-cleaner-code-5067f969d5ba"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245809773
 ---
 
 

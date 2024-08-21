@@ -8,6 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Add ESLint To A React Project"
 link: "https://dev.to/jenesh/add-eslint-to-a-react-project-1m32"
+isUpdated: true
+updatedAt: 1724246258807
 ---
 
 

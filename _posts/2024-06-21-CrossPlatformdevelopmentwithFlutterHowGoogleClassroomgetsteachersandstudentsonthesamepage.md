@@ -1,14 +1,18 @@
 ---
-title: "구글 클래스룸으로 교사와 학생을 하나로 Flutter를 사용한 크로스 플랫폼 개발 방법"
+title: "Flutter를 사용한 크로스 플랫폼 개발 방법"
 description: ""
 coverImage: "/assets/img/2024-06-21-CrossPlatformdevelopmentwithFlutterHowGoogleClassroomgetsteachersandstudentsonthesamepage_0.png"
 date: 2024-06-21 23:54
-ogImage:
+ogImage: 
   url: /assets/img/2024-06-21-CrossPlatformdevelopmentwithFlutterHowGoogleClassroomgetsteachersandstudentsonthesamepage_0.png
 tag: Tech
 originalTitle: "Cross Platform development with Flutter — How Google Classroom gets teachers and students on the same page"
 link: "https://medium.com/flutter/cross-platform-development-with-flutter-how-google-classroom-gets-teachers-and-students-on-the-597d4f3b450c"
+isUpdated: true
 ---
+
+
+
 
 Google의 Classroom 앱은 원래 2014년에 시작되어 전 세계의 1억 5천만 교육자와 학생들이 수업 내에서 숙제, 성적 및 커뮤니케이션을 조직화하는 데 사용됩니다. Android 및 iOS에서 사용할 수 있으며, 개발은 처음 시작된 해부터 이어져 왔으며, 이동 플랫폼의 변화 시대를 겪었습니다. 그 다양한 변화를 관리하는 것은 어려운 일이었습니다.
 

@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Route Handlers"
 link: "https://nextjs.org/docs/app/building-your-application/routing/route-handlers"
+isUpdated: true
 ---
+
+
 
 
 # 라우트 핸들러

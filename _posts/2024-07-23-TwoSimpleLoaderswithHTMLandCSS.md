@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Two Simple Loaders with HTML and CSS"
 link: "https://medium.com/gitconnected/two-simple-loaders-with-html-and-css-49d25b932a25"
+isUpdated: true
 ---
+
+
 
 
 로더는 웹 애플리케이션의 중요한 부분으로, 로딩하거나 처리하는 동안 사용자에게 피드백을 제공합니다.

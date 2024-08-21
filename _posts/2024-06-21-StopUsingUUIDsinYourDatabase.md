@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Stop Using UUIDs in Your Database"
 link: "https://medium.com/gitconnected/stop-using-uuids-in-your-database-aae9d5d47549"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-21-StopUsingUUIDsinYourDatabase_0.png" />

@@ -1,5 +1,5 @@
 ---
-title: "2024년에 생산성을 높이는 17가지 킬러 도구와 웹 앱 "
+title: "2024년에 생산성을 높이는 17가지 도구"
 description: ""
 coverImage: "/assets/img/2024-06-19-17KillerToolsWebAppstoBoostYourProductivityin2024_0.png"
 date: 2024-06-19 08:29
@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "17 Killer Tools , Web Apps to Boost Your Productivity in 2024 🚀⚡"
 link: "https://medium.com/@madzadev/17-killer-tools-web-apps-to-boost-your-productivity-in-2024-147ece7dc1bc"
+isUpdated: true
 ---
+
+
+
 
 
 <img src="/assets/img/2024-06-19-17KillerToolsWebAppstoBoostYourProductivityin2024_0.png" />

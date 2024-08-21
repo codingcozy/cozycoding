@@ -8,7 +8,11 @@ ogImage:
 tag: Tech
 originalTitle: "Photoshop is now on the web!"
 link: "https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a"
+isUpdated: true
 ---
+
+
+
 
 
 WebAssembly + Emscripten, Web Components + Lit, Service Workers + Workbox 및 새로운 Web API를 통해 가능해졌어요. Chrome과 Adobe가 함께 협력하여 이를 즐기고 있어요.

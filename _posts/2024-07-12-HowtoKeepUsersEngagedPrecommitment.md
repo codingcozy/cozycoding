@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "How to Keep Users Engaged: Precommitment"
 link: "https://medium.com/choice-hacking/how-to-keep-users-engaged-precommitment-5b43e19199b3"
+isUpdated: true
 ---
+
+
 
 
 ![이미지](/assets/img/2024-07-12-HowtoKeepUsersEngagedPrecommitment_0.png)

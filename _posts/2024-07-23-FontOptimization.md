@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Font Optimization"
 link: "https://nextjs.org/docs/app/building-your-application/optimizing/fonts"
+isUpdated: true
 ---
+
+
 
 
 # 폰트 최적화

@@ -1,5 +1,5 @@
 ---
-title: "인공지능 개발자가 반드시 알아야 할 Python 디자인 패턴 Top 5"
+title: "인공지능 개발자가 반드시 알아야 할 Python 디자인 패턴 5가지"
 description: ""
 coverImage: "/assets/img/2024-08-21-PythonDesignPatternsEveryAIDeveloperShouldKnow_0.png"
 date: 2024-08-21 17:01
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Python Design Patterns Every AI Developer Should Know"
 link: "https://medium.com/@shankar.arunp/python-design-patterns-every-ai-developer-should-know-dc445b688791"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245512091
 ---
 
 

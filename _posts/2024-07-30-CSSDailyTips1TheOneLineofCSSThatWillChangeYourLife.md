@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "CSS Daily Tips 1 The One Line of CSS That Will Change Your Life"
 link: "https://medium.com/dev-genius/css-daily-tips-1-the-one-line-of-css-that-will-change-your-life-405847bc3434"
+isUpdated: true
 ---
+
+
 
 
 ![CSS Daily Tips](/assets/img/2024-07-30-CSSDailyTips1TheOneLineofCSSThatWillChangeYourLife_0.png)

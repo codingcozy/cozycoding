@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "A Practical Guide to Prepare for the CSS Exam"
 link: "https://medium.com/@aatikarehmanbwn/a-practical-guide-to-prepare-for-the-css-exam-4455a526f268"
+isUpdated: true
 ---
+
+
 
 
 CSS (중앙 고등 공무원 서비스) 시험 준비는 어려운 과제일 수 있지만 올바른 방법으로 접근하면 관리가 가능하고 보람을 느낄 수 있습니다. 개인 경험과 실용적인 팁에 기반을 둔 단계별 안내서를 준비했습니다:

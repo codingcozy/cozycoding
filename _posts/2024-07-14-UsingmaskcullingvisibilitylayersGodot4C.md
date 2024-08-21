@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Using mask culling , visibility layers (Godot 4 C#)"
 link: "https://medium.com/codex/using-mask-culling-visibility-layers-godot-4-c-7d3b8b0415d5"
+isUpdated: true
 ---
+
+
 
 
 게임 엔진에서 물체 렌더링은 핵심 시스템 중 하나입니다. 그런데 여러 해 동안, 게임 엔진 제작자들은 이 기본 기능을 다양한 옵션으로 강화하여 사용자가 자신들의 게임 렌더링을 더욱 효과적으로 제어할 수 있도록 했습니다.

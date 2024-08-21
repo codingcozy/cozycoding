@@ -1,5 +1,5 @@
 ---
-title: "SharedFlow vs. StateFlow 최선의 방법과 실제 예시들"
+title: "SharedFlow vs. StateFlow 비교 정리"
 description: ""
 coverImage: "/assets/img/2024-08-21-SharedFlowvsStateFlowBestPracticesandReal-worldexamples_0.png"
 date: 2024-08-21 18:10
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "SharedFlow vs. StateFlow Best Practices and Real-world examples"
 link: "https://medium.com/@mortitech/sharedflow-vs-stateflow-a-comprehensive-guide-to-kotlin-flows-503576b4de31"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724245465739
 ---
 
 

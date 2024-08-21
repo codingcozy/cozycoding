@@ -8,7 +8,10 @@ ogImage:
 tag: Tech
 originalTitle: "Easy to Follow Web Design Tips I Learned From The Best"
 link: "https://medium.com/codex/easy-to-follow-web-design-tips-i-learned-from-the-best-fb6f66a8318f"
+isUpdated: true
 ---
+
+
 
 
 
