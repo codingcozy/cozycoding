@@ -1,0 +1,423 @@
+---
+title: "UI 개발자가 꼭 알아야 할 15가지 CSS 한 줄 코드 팁"
+description: ""
+coverImage: "/assets/no-image.jpg"
+date: 2024-08-26 19:53
+ogImage: 
+  url: /assets/no-image.jpg
+tag: Tech
+originalTitle: "15 Clever CSS One-Liners Every UI Developer Should Know"
+link: "https://dev.to/nnnirajn/15-clever-css-one-liners-every-ui-developer-should-know-50g7"
+isUpdated: false
+---
+
+
+소개: 간결한 CSS의 힘
+
+UI 개발자로서, 항상 코드를 간소화하고 효율적이고 매력적인 디자인을 만들기 위한 방법을 찾고 있을 것입니다. CSS(Cascading Style Sheets)는 여러분의 아카데미에서의 기본적인 도구이며, 이를 숙달함으로써 여러분의 생산성과 작업 품질을 크게 향상시킬 수 있습니다. 이 블로그 글에서는 15가지 독특한 CSS 원라이너를 탐구해보겠습니다. 이것들은 여러분이 웹 페이지를 스타일링하는 방식에 혁명을 일으킬 수 있습니다.
+
+이 간결한 CSS 요령들은 시간을 절약할 뿐만 아니라 CSS의 다재다능성과 힘을 나타내기도 합니다. 여러분이 경력있는 전문가이건 UI 개발을 시작한 지 얼마 안 된 초심자이건, 이 원라이너들은 여러분의 기술 세트에 가치를 더하고 코드를 덜 사용하여 보다 완성도 높은 반응형 디자인을 만들 수 있도록 도와줄 것입니다.
+
+이 CSS 보석들을 살펴보고 여러분의 개발 프로세스를 어떻게 변화시킬 수 있는지 살펴봅시다!
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+#### 1. 완벽한 가운데 정렬 기술
+
+웹 디자인에서 가장 흔한 문제 중 하나는 요소를 수평 및 수직으로 가운데 정렬하는 것입니다. 여기에 손쉽게 이를 달성하는 CSS 한 줄 코드가 있습니다:
+
+```js
+.center {
+  display: grid; place-items: center;
+}
+```
+
+이 간단하면서도 강력한 CSS 트릭은 CSS Grid를 사용하여 부모 컨테이너 내에서 모든 자식 요소를 가운데 정렬합니다. display: grid 속성은 그리드 컨테이너를 생성하고, place-items: center는 그리드 항목(이 경우 자식 요소)을 가로 및 세로로 가운데 정렬합니다.
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+이 방법은 컨테이너 내의 단일 요소와 여러 요소 모두에 적용할 수 있습니다. 다양한 시나리오에 대한 복잡한 가운데 정렬 코드 작성을 줄여주는 다재다능한 솔루션입니다.
+
+#### 2. 간편한 반응형 텍스트 크기 조정
+
+반응형 타이포그래피를 만드는 것은 도전일 수 있지만, 이 CSS 원라이너를 사용하면 매우 쉬워집니다:
+
+```js
+body {
+  font-size: calc(1rem + 0.5vw);
+}
+```
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+calc() 함수를 재미있게 활용한 이 방법은 기본 글꼴 크기(1rem)와 뷰포트 너비에 따라 바뀌는 값(0.5vw)을 결합합니다. 뷰포트 너비가 바뀔 때마다 글꼴 크기가 자동으로 조절되어, 다양한 화면 크기에서도 텍스트가 가독성 있게 유지됩니다.
+
+이 방식의 장점은 그 간단함과 유연성에 있습니다. 계산식의 값을 수정하여 기본 크기와 변화 비율을 손쉽게 조절할 수 있습니다.
+
+#### 3. 커스텀 스크롤바 스타일링
+
+스크롤바를 사용자 정의하는 것은 웹사이트 디자인에 독특한 감성을 불어넣을 수 있습니다. 이 원 라이너를 사용하면 웹킷 기반 브라우저에서 스크롤바를 스타일링할 수 있습니다:
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+```css
+::-webkit-scrollbar { width: 10px; background: #f1f1f1; border-radius: 10px; }
+```
+
+이 CSS 트릭은 웹킷 브라우저(Chrome 및 Safari와 같은)에서 스크롤 막대 의사 요소를 대상으로합니다. 디자인 선호도에 맞게 너비, 배경색 및 테두리 반경을 조절할 수 있습니다. 이 방법은 모든 브라우저에서 작동하지 않겠지만, 지원하는 경우에는 좋은 향상 기능입니다.
+
+#### 4. 텍스트 자르기 효과 생성하기
+
+동적 콘텐츠를 다룰 때 종종 특정 길이를 초과하는 텍스트를 자르는 작업이 필요합니다. 이 CSS 한 줄로 오버플로우되는 텍스트에 생략 부호 효과(ellipsis)를 생성합니다:
+
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+```js
+.truncate {
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+```
+
+이러한 속성 조합은 텍스트가 한 줄에 유지되도록하고(white-space: nowrap), 오버플로우를 숨기며(overflow: hidden), 잘린 텍스트 끝에 (...)(text-overflow: ellipsis)을 추가합니다.
+
+#### 5. 전체 페이지에 대해 스무스 스크롤링 적용
+
+스무스 스크롤링을 구현하면 웹 사이트의 사용자 경험을 크게 향상시킬 수 있습니다. 여기에 전체 페이지에 스무스 스크롤링을 활성화하는 간단한 CSS 한 줄 코드가 있습니다:
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+```js
+html {
+  scroll-behavior: smooth;
+}
+```
+
+이 속성은 사용자가 페이지 내의 앵커 링크를 클릭할 때 브라우저가 갑작스럽게 이동하는 대신 대상 섹션으로 부드럽게 스크롤되도록 보장합니다. 사소한 변경이지만 귀하의 사이트의 인지 품질을 크게 향상시킬 수 있습니다.
+
+#### 6. 반응형 정사각형 생성
+
+반응형 레이아웃에서 아스펙트 비율을 유지하는 완벽한 정사각형 요소를 만드는 것은 까다로울 수 있습니다. 여기에는 이를 달성하기 위한 재미있는 CSS 속임수가 있습니다:
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+```css
+.square {
+  width: 50%; aspect-ratio: 1;
+}
+```
+
+`aspect-ratio` 속성을 사용하면 요소의 높이가 항상 너비와 일치하여 완벽한 정사각형을 만듭니다. 필요에 따라 너비 퍼센트를 조정할 수 있으며, 요소는 다른 화면 크기에서도 정사각형 모양을 유지합니다.
+
+#### 7. 사용자 정의 텍스트 선택 스타일링
+
+선택한 텍스트의 모양을 사용자 정의하여 웹사이트에 독특한 감성을 더할 수 있습니다. 다음은 이를 위한 CSS 한 줄로 구현한 코드입니다:
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+```js
+::selection { background: #ffb7b7; color: #000000; }
+```
+
+이 CSS 트릭을 사용하면 웹 사이트 전체에서 선택된 텍스트의 배경색과 텍스트색을 변경할 수 있습니다. 색상을 조정하여 사이트의 색 구성과 일치시켜 일관된 브랜드 경험을 만들 수 있습니다.
+
+#### 8. 쉬운 다크 모드 전환
+
+웹 사이트에 다크 모드를 구현하면 특히 밤에 브라우징하는 사용자들에게 사용자 경험을 향상시킬 수 있습니다. 다음은 간단한 CSS 변수 기반 방법입니다:
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+body {
+  --text-color: #333; --bg-color: #fff;
+}
+@media (prefers-color-scheme: dark) {
+  body { --text-color: #fff; --bg-color: #333; }
+}
+
+
+이 CSS 트릭은 CSS 변수를 사용하여 색상을 정의하고 사용자의 색상 설정 기호를 감지하는 미디어 쿼리를 사용합니다. 이후 CSS 전체에서 이러한 변수를 사용하여 밝은 모드와 어두운 모드 사이를 쉽게 전환할 수 있습니다.
+
+#### 9. 후투리 유리 효과 만들기
+
+유리효 효과 또는 글라스모피즘은 UI 디자인에서 점점 더 인기를 얻고 있습니다. 여기 Frosted Glass Effect를 만드는 CSS 원라이너가 있습니다:
+
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+```js
+.frosted-glass {
+  backdrop-filter: blur(10px); background-color: rgba(255, 255, 255, 0.5);
+}
+```
+
+이 backdrop-filter 및 반투명 배경색의 조합은 아름다운 유리 효과를 만듭니다. 흐림 정도와 배경 불투명도를 조절하여 원하는 외관을 얻을 수 있습니다.
+
+#### 10. 완벽한 둥근 모서리
+
+크기가 다른 요소에 완벽한 둥근 모서리를 만드는 것은 어려울 수 있습니다. 항상 완벽하게 둥근 모서리를 가진 요소를 보장하는 CSS 트릭이 있습니다:
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+```js
+.round {
+  border-radius: 9999px;
+}
+```
+
+`border-radius` 값을 극단적으로 크게 설정하여 요소의 크기에 관계없이 모서리가 항상 최대한 둥글게 보이도록 할 수 있습니다. 이는 버튼, 배지 또는 일관되게 둥근 모서리가 필요한 모든 요소에 특히 유용합니다.
+
+#### 11. 쉬운 CSS 그리드 레이아웃
+
+CSS 그리드를 사용하여 복잡한 레이아웃을 만드는 것이 복잡하지 않을 수 있습니다. 다음은 응답형 그리드를 설정하는 한 줄입니다:
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+```css
+.grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+```
+
+이 CSS 트릭은 열이 사용 가능한 공간에 맞게 자동으로 조정되는 그리드를 만듭니다. minmax() 함수를 사용하여 열이 최소 200px 너비가 되지만 사용 가능한 공간을 채울 수 있습니다. 이렇게하면 최소한의 코드로 반응형 레이아웃이 생성됩니다.
+
+#### 12. Fluid Typography
+
+서로 다른 화면 크기에 매끄럽게 확장되는 타이포그래피를 만드는 CSS 원라이너.
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+```css
+h1 {
+  font-size: clamp(2rem, 5vw, 5rem);
+}
+```
+
+clamp() 함수를 사용하면 텍스트의 최소 크기 (2rem), 우선 크기 (5vw) 및 최대 크기 (5rem)를 설정할 수 있습니다. 이를 통해 텍스트의 가독성과 시각적 매력이 모든 기기 크기에서 유지되도록 보장할 수 있습니다.
+
+#### 13. CSS로 삼각형 만들기
+
+가끔 UI 요소에 삼각형과 같은 간단한 모양을 만들어야 할 때가 있습니다. 다음은 삼각형을 만들기 위한 CSS 한 줄입니다:  
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+```js
+.triangle {
+  width: 0; height: 0; border-left: 50px solid transparent; border-right: 50px solid transparent; border-bottom: 100px solid #333;
+}
+```
+
+이 CSS 트릭은 선 속성을 사용하여 삼각형 모양을 만듭니다. 선의 너비와 색상을 조절하여 다른 방향으로 향하는 삼각형을 만들 수 있습니다.
+
+#### 14. 전체 화면 레이아웃
+
+일부 요소가 뷰포트의 가장자리까지 확장되는 전체 화면 레이아웃을 만드는 것은 이 CSS로 가능합니다:
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+```js
+.full-bleed { width: 100vw; margin-left: calc(50% - 50vw); }
+```
+
+이 CSS 트릭은 부모 컨테이너의 너비에 관계없이 요소를 뷰포트의 전체 너비로 확장하기 위해 필요한 음수 마진을 계산합니다. 이는 제한된 레이아웃 내에서 몰입형 배경 섹션이나 전체 너비 이미지를 만드는 데 특히 유용합니다.
+
+#### 15. 애니메이션 그라디언트 배경
+
+애니메이션 그라디언트 배경을 추가하면 디자인에 생명을 불어넣을 수 있습니다. 다음은 이 효과를 만들기 위한 CSS 원 라이너입니다:
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+```js
+.animated-gradient {
+  background: linear-gradient(270deg, #ff7e5f, #feb47b); background-size: 400% 400%; animation: gradient 15s ease infinite;
+}
+@keyframes gradient { 0% {background-position: 0% 50} 50% {background-position: 100% 50} 100% {background-position: 0% 50} }
+
+이 CSS 트릭은 색상 사이를 부드럽게 애니메이션하는 그라데이션 배경을 생성합니다. 원하는 디자인에 맞게 색상, 애니메이션 지속 시간 및 이징 함수를 조절할 수 있습니다.
+```
+
+## 결론: CSS 게임 업그레이드하기
+
+이 15가지 CSS 한 줄 코드는 효율적이고 반응형이며 시각적으로 매력적인 디자인을 만드는 CSS의 힘과 유연성을 보여줍니다. 이러한 트릭을 워크플로에 통합하여 다음과 같은 이점을 누릴 수 있습니다:
+
+- 코드를 간소화하여 유지 관리하기 쉽고 가독성을 높입니다.
+- 우아하고 간결한 해결책으로 일반적인 디자인 문제를 해결합니다.
+- 원활한 애니메이션과 반응형 레이아웃으로 사용자 경험을 향상시킵니다.
+- 노력을 최소화하고 더 깔끔하고 전문적으로 보이는 인터페이스를 만듭니다.
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+CSS 마스터하는 핵심은 이런 요령을 알기만 하는 게 아니라 이를 언제 어떻게 적용해야 하는지를 이해하는 것입니다. 이러한 기술을 프로젝트에 통합하면 CSS의 기능에 대한 새로운 이해를 개발하게 되며 UI 개발에 대한 접근 방식을 변화시킬 수 있습니다.
+
+계속해서 실험을 해 보고 호기심을 유지하며 CSS로 가능한 것의 한계를 넘어가는 데 두려움을 갖지 마세요. 더 많이 연습하고 탐험할수록 멋진 효율적인 웹 디자인을 만드는 데 능숙해질 것입니다.
+
+이 인용구는 CSS 한 줄 기법의 본질을 완벽하게 담아냅니다. 때로는 가장 강력한 해결책이 가장 단순한 것일 수도 있음을 입증합니다.
+
+UI 개발자로서 여정을 계속하는 동안 이러한 CSS 요령을 도구 상자에 갖춰두되 새로운 기술을 배우고 최신 CSS 기능과 모범 사례를 따르는 것에도 열려 있으세요. 웹 개발 분야는 끊임없이 진화하고 있으며 급진적이고 효율적이며 아름다운 사용자 인터페이스를 계속 만들 수 있도록 최신 정보에 따라 있어야 합니다.
+
+<!-- cozy-coder - 수평 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4877378276818686"
+     data-ad-slot="1107185301"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+행복한 코딩하세요! 당신의 CSS가 항상 선명하고 깔끔하며 똑똑하길 바래요!
