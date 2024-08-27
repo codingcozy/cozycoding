@@ -1,5 +1,5 @@
 ---
-title: "프론트엔드 개발 초보자를 위한 시작하기 전에 알아야 할 것들"
+title: "프론트엔드 초보 개발자들이 취업하기 전에 알아야할 사실들"
 description: ""
 coverImage: "/assets/img/2024-08-26-ABeginnersGuidetoFront-EndDevelopmentWhatYouNeedtoKnowtoGetStarted_0.png"
 date: 2024-08-26 17:41
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "A Beginners Guide to Front-End Development What You Need to Know to Get Started"
 link: "https://medium.com/@akashsingh35786/a-beginners-guide-to-front-end-development-what-you-need-to-know-to-get-started-77e439b87ab4"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744108673
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "HTML에서 ARIA 속성 포괄적 가이드 "
+title: "HTML에서 ARIA 속성으로 웹사이트 접근성 향상시키는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-ARIAattributesinHTMLAcomprehensiveguide_0.png"
 date: 2024-08-26 19:57
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "ARIA attributes in HTML A comprehensive guide "
 link: "https://dev.to/disane/aria-attributes-in-html-a-comprehensive-guide-577e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744068575
 ---
 
 
@@ -20,16 +21,7 @@ ARIA는 "Accessible Rich Internet Applications"의 약자입니다. 장애를 �
 
 이러한 속성은 HTML 요소의 의미론적 의미를 확장하고 보조 기술에 의해 해석되는 데 필요한 추가 정보를 제공합니다. 예를 들어, 요소의 역할을 정의하거나 상태와 속성을 지정하거나 요소 간의 관계를 설정하는 데 사용할 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### ARIA 속성은 왜 중요할까요? 🚀
 
@@ -39,16 +31,7 @@ ARIA 속성이 없다면, 모달 대화상자, 슬라이더 또는 동적 콘텐
 
 이는 단순히 답답한 것뿐만 아니라 중요한 온라인 제공물에서 거의 제외되는 것이기도 합니다. ARIA 속성은 보조 기술을 의존하는 사용자로서 웹사이트의 전체 기능을 경험할 수 있도록 확실하게 하는데 중요합니다. 개발자들이 복잡한 사용자 인터페이스를 설계할 수 있도록 해서 각자의 능력에 관계없이 모든 사람에게 접근 가능하고 이해하기 쉬운 환경을 제공합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ARIA 속성은 특히 보조 기술을 활용하여 웹을 이용하는 사람들을 대상으로 합니다. 이에는 웹 사이트의 정보를 읽어 주는 스크린 리더를 사용하는 사용자와 특수한 입력 장치를 사용하는 운동 장애가 있는 사람들이 포함됩니다.
 
@@ -56,16 +39,7 @@ ARIA 속성을 사용하면 이러한 사용자들이 복잡한 웹 응용 프�
 
 ## 왜 소프트웨어가 포용적이어야 할까요? 🌍
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 포괄적인 소프트웨어는 윤리적으로 바람직할 뿐만 아니라 상업적 이점도 있습니다. 가능한 한 많은 사람들이 사용할 수 있도록 소프트웨어를 설계함으로써, 광범위한 사용자층을 대상으로 접근할 수 있으며, 많은 국가에서의 법적 요구사항을 준수할 수 있습니다.
 
@@ -75,16 +49,7 @@ ARIA 속성을 사용하면 이러한 사용자들이 복잡한 웹 응용 프�
 
 ## 기본 ARIA 역할 및 속성 📜
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ARIA에는 Roles, Properties 및 States 세 가지 주요 카테고리로 나눌 수 있는 다양한 특성이 제공됩니다.
 
@@ -97,16 +62,7 @@ Roles는 페이지의 요소가 나타내는 것이나 하는 기능을 정의�
 - role="dialog": 사용자의 주의를 필요로 하는 모달 대화상자를 정의합니다.
 - role="alert": 보조 기술에서 즉시 알려지는 경고나 중요 메시지로 요소를 표시합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### ARIA 속성들 🏷️
 
@@ -118,16 +74,7 @@ Roles는 페이지의 요소가 나타내는 것이나 하는 기능을 정의�
 
 ### ARIA 상태들 🔄
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 인터랙티브 요소의 현재 상태를 나타내는 상태(State)는 다음과 같습니다. 예시는 다음과 같습니다:
 
@@ -139,16 +86,7 @@ Roles는 페이지의 요소가 나타내는 것이나 하는 기능을 정의�
 
 ARIA 어트리뷰트를 사용하는 실제 예시를 살펴보며 더 잘 이해해 봅시다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 사용자 정의 버튼
 
@@ -162,16 +100,7 @@ ARIA 어트리뷰트를 사용하는 실제 예시를 살펴보며 더 잘 이�
 
 이 예제에서 role="button" 속성은 div 요소에 버튼 역할을 할당합니다. aria-pressed 속성은 버튼이 현재 눌려 있는지 여부를 나타내며, tabindex="0"은 요소를 키보드로 초점을 맞출 수 있도록 합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 아코디언 메뉴
 
@@ -201,16 +130,7 @@ ARIA 어트리뷰트를 사용하는 실제 예시를 살펴보며 더 잘 이�
 
 여기에 각 버튼 요소는 연관된 섹션이 열렸는지 닫혔는지를 나타내기 위해 aria-expanded 속성을 사용합니다. aria-controls 속성은 버튼과 콘텐츠 영역 간의 관계를 나타내며, role="region"은 콘텐츠를 사용자의 관심 영역으로 식별합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 모달 대화상자
 
@@ -226,16 +146,7 @@ ARIA 어트리뷰트를 사용하는 실제 예시를 살펴보며 더 잘 이�
 
 이 예시에서 role="dialog"는 요소를 모달 대화상자로 식별합니다. aria-labelledby 속성은 대화상자를 제목과 연결하고, aria-describedby는 대화상자 콘텐츠의 설명을 참조합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## ARIA 속성을 사용할 때 흔히 범하는 실수 🚨
 
@@ -245,16 +156,7 @@ ARIA 어트리뷰트를 사용하는 실제 예시를 살펴보며 더 잘 이�
 
 ARIA는 필요할 때에만 사용해야 합니다. HTML 요소가 이미 의미론적으로 의미 있는 경우(예: 버튼, 내비게이션, 헤더 등)에는 ARIA를 사용하지 않아야 합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 상태 동기화 부족
 
@@ -264,16 +166,7 @@ ARIA는 필요할 때에만 사용해야 합니다. HTML 요소가 이미 의미
 
 모든 요소에는 역할 할당이 필요하지 않습니다. 예를 들어, 버튼 요소에는 추가적인 role="button" 할당이 필요하지 않습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## ARIA 사용에 대한 최상의 실천 방안 🌟
 
@@ -283,16 +176,7 @@ ARIA 속성을 최대한 활용하고 접근성을 극대화하기 위해 몇 �
 
 기본으로 제공되는 접근성 기능을 활용할 수 있는데 ARIA가 제공하지 못할 수도 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 정기적으로 접근성 테스트를 수행하세요
 
@@ -302,16 +186,7 @@ ARIA 속성을 최대한 활용하고 접근성을 극대화하기 위해 몇 �
 
 코드에서 ARIA 속성을 사용하는 경우, 해당 속성이 왜 사용되고 어떻게 사용되는지 문서화하여 다른 개발자가 코드를 더 잘 이해할 수 있도록 해주세요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## ARIA를 사용해서는 안 되는 경우 (예시와 함께) 🚫
 
@@ -321,16 +196,7 @@ ARIA 속성은 강력하지만, 이미 내재된 의미와 접근성 속성을 �
 
 ## ARIA 자가 테스트 방법 🔍
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ARIA 속성을 테스트하는 것은 웹 애플리케이션이 완전히 접근 가능하다는 것을 보장하는 중요한 단계입니다. ARIA 속성을 테스트하기 위한 다양한 방법이 있습니다.
 
@@ -340,16 +206,7 @@ ARIA 속성을 테스트하는 것은 웹 애플리케이션이 완전히 접근
 
 ## 접근성을 중요시하는 회사들 🌟
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 일부 회사들은 모든 사람이 이용할 수 있는 진정으로 포괄적인 디지털 경험을 만들기 위해 노력하고 있습니다. 한 가지 뛰어난 예는 Microsoft입니다. 이 회사는 접근성에 강한 헌신을 지니고 있으며 장애를 가진 사람들을 지원하는 도구와 기술을 지속적으로 개발하고 있습니다. "AI for Accessibility" 프로그램과 같은 이니셔티브를 통해 Microsoft는 장애를 가진 사람들의 삶을 개선하기 위한 혁신을 촉진하고 있습니다. Microsoft의 운영 체제 및 오피스 응용 프로그램은 시각, 청각 또는 기동 장애를 가진 사람들이 생산적으로 작업할 수 있도록 포괄적인 접근성 기능을 제공합니다.
 
@@ -359,16 +216,7 @@ ARIA 속성을 테스트하는 것은 웹 애플리케이션이 완전히 접근
 
 ![이미지](/assets/img/2024-08-26-ARIAattributesinHTMLAcomprehensiveguide_2.png)
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 Google은 접근성을 우선시하는 회사 중 하나입니다. Google 어시스턴트와 같이 장애를 가진 사람들을 위해 최적화된 제품을 개발하고 Android 및 Chrome에 접근성 도구를 포함시킴으로써, Google은 포용이 그 제품 철학의 중요한 구성 요소라는 것을 보여줍니다.
 
@@ -378,16 +226,7 @@ Google은 접근성을 우선시하는 회사 중 하나입니다. Google 어시
 
 ## 결론 🎯
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ARIA 속성은 웹 애플리케이션의 접근성을 향상시키는 강력한 도구입니다. 이를 통해 개발자들은 상호작용적이고 동적인 콘텐츠를 보조 기술을 사용하는 사용자를 포함해 모든 사용자에게 접근 가능하게 할 수 있습니다. ARIA 속성을 신중하게 구현함으로써 웹을 더 포용 가능한 공간으로 만들 수 있습니다.
 

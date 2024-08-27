@@ -1,5 +1,5 @@
 ---
-title: "간단한 검색 보강 생성 (RAG) 파이프라인 구축하기"
+title: "간단한 검색 보강 생성 (RAG) 파이프라인 만들기"
 description: ""
 coverImage: "/assets/img/2024-08-26-BuildingaSimpleRetrievalAugmentedGenerationRAGPipeline_0.png"
 date: 2024-08-26 18:01
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Building a Simple Retrieval Augmented Generation (RAG) Pipeline"
 link: "https://medium.com/@shriyansnaik/building-a-simple-retrieval-augmented-generation-rag-pipeline-e4d554ce596d"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743677332
 ---
 
 

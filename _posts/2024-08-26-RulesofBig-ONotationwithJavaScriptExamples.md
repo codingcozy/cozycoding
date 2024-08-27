@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Rules of Big-O Notation with JavaScript Examples"
 link: "https://medium.com/@Abdullah-Umer/rules-of-big-o-notation-with-javascript-examples-060a3fd31b42"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742682418
 ---
 
 

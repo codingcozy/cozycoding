@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Getting to know npm  the nodejs package manager"
 link: "https://medium.com/@wide4head/getting-to-know-npm-the-nodejs-package-manager-d0ee477f7571"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743567388
 ---
 
 

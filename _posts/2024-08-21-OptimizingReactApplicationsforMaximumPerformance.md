@@ -21,16 +21,7 @@ updatedAt: 1724245631506
 
 이제 React의 최적화 기술 몇 가지를 살펴보겠습니다. 이 기술은 코드를 작성하는 동안에 적용할 수 있습니다. 이는 다른 방법 대신 이 방법을 선택하는 문제입니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 그럼, 시작해 봅시다.
 
@@ -40,16 +31,7 @@ updatedAt: 1724245631506
 
 React Window와 React Virtualized는 목록을 가상화하는 데 인기 있는 라이브러리입니다. 이들은 뷰포트에서 보이는 항목만 렌더링하여 언제나 렌더링되는 DOM 노드의 수를 크게 줄입니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 React Window를 사용한 예제입니다:
 
@@ -76,16 +58,7 @@ React Window를 사용한 예제입니다:
 
 useMemo는 계산 결과를 기억하는 React 훅입니다. 따라서 의존성이 변경되지 않는 한 계산을 다시 처리하지 않습니다. 이것은 비용이 많이 드는 함수나 계산이 각 렌더링에서 다시 실행되면 안 되는 경우 성능을 최적화하는 데 유용할 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 useMemo 함수의 구문은 다음과 같습니다:
@@ -97,16 +70,7 @@ const memoizedValue = useMemo(() => computeExpensiveValue(a, b), [a, b]);
 - 값을 반환하는 함수(왜냐하면 그 값이 기억되어야 하기 때문입니다).
 - 기억된 값이 다시 계산되어야 하는 시기를 결정하는 의존성 배열입니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이런 방식으로 useMemo를 사용할 수 있습니다:
 
@@ -144,16 +108,7 @@ const ParentComponent = () => {
 
 일반적인 설정에서는 응용프로그램의 모든 구성 요소가 하나의 파일로 번들링됩니다. 코드 분할은 응용프로그램을 작은 청크로 분해하는 최적화 기술입니다. 더 작은 구성 요소를 로드하고 필요하지 않은 다른 구성 요소를 피함으로써 응용프로그램의 로드 시간을 줄이며 최적화합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 코드 분할(Code Splitting)의 예시입니다:
 
@@ -182,16 +137,7 @@ const ParentComponent = () => {
 
 React.Lazy는 컴포넌트 로딩을 최적화하는 데 중요한 메서드입니다. 이를 사용하면 컴포넌트를 지연 로딩할 수 있습니다. 즉, 해당 컴포넌트는 필요할 때만 로드됩니다. 이를 사용하면 애플리케이션을 작은 컴포넌트로 분할하고 필요할 때에만 로드할 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 React.lazy()는 컴포넌트를 동적으로 가져오는 데 사용됩니다. 해당 컴포넌트가 필요할 때 비동기적으로 로드되며 그 전까지는 대체 UI(로딩 스피너와 같은)가 표시될 수 있습니다.
 
@@ -216,16 +162,7 @@ React.lazy()는 컴포넌트를 동적으로 가져오는 데 사용됩니다. �
 
 # 스로틀링과 디바운싱
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 리액트에 특정한 것이 아니라 함수를 호출할 때 발생하는 일반적인 프로그래밍 기법입니다. 쓰로틀링은 함수가 실행되는 빈도를 정의하는 기술입니다. 함수를 쓰로틀링하면 이벤트가 몇 번 발생했는지와 무관하게 지정된 시간 간격 내에 한 번만 실행됩니다. 예를 들어, 버튼 클릭에 쓰로틀링을 추가하여 버튼이 너무 자주 호출되지 않도록 합니다.
 
@@ -265,16 +202,7 @@ React.lazy()는 컴포넌트를 동적으로 가져오는 데 사용됩니다. �
 
 디바운싱은 함수가 호출된 후 일정 시간이 지난 후에 실행되어야 함을 보장하는 데 사용됩니다. 이벤트가 반복적으로 발생할 때, 디바운스 함수는 이벤트가 지정된 지연 기간 동안 더 이상 발생하지 않은 후에만 실행됩니다. 예를 들어, 사용자가 검색 입력란에 타이핑하는 동안 일부 밀리초를 기다려 함수를 호출하여 사용자가 타이핑을 완료할 수 있도록 합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 디바운싱의 예:
 
@@ -322,16 +250,7 @@ React.lazy()는 컴포넌트를 동적으로 가져오는 데 사용됩니다. �
 
 저와 연결하여 테크, 혁신 및 더 나아간 모든 것에 대해 최신 정보를 받아보세요! 🚀
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - Twitter
 - LinkedIn
@@ -342,15 +261,6 @@ React.lazy()는 컴포넌트를 동적으로 가져오는 데 사용됩니다. �
 
 리액트 애플리케이션을 최적화하는 것은 중요합니다. 특히 애플리케이션이 복잡해지고 규모가 커질수록 더 중요합니다. 리스트 가상화, useMemo를 사용한 메모이제이션, 코드 분할, 레이지 로딩, 스로틀링, 디바운싱과 같은 기법을 활용하면 리액트 애플리케이션의 성능을 크게 향상시킬 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 방법이 React 애플리케이션의 성능을 최적화하는 데 도움이 될 것을 기대합니다. 기사를 읽어주셔서 감사합니다!

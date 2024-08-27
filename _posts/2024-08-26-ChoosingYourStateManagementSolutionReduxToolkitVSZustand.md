@@ -1,5 +1,5 @@
 ---
-title: "상태 관리 솔루션 선택하기 Redux Toolkit 대 Zustand"
+title: "Redux Toolkit vs Zustand, 상태 관리 라이브러리 선택 기준"
 description: ""
 coverImage: "/assets/img/2024-08-26-ChoosingYourStateManagementSolutionReduxToolkitVSZustand_0.png"
 date: 2024-08-26 18:26
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Choosing Your State Management Solution  Redux Toolkit VS. Zustand"
 link: "https://medium.com/@nourinedridi309/choosing-your-state-management-solution-redux-toolkit-vs-zustand-1e587d5c630d"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743635722
 ---
 
 

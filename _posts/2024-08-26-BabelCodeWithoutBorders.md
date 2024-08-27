@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Babel Code Without Borders"
 link: "https://medium.com/towardsdev/babel-code-without-borders-22806a84d061"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743985266
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "현대 자바 Java 8부터 Java 21까지 깊이 있는 안내"
+title: "현대 자바 Java 8부터 Java 21까지 변천사 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-ModernJavaAnIn-DepthGuidefromJava8toJava21_0.png"
 date: 2024-08-26 18:45
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Modern Java An In-Depth Guide from Java 8 to Java 21"
 link: "https://medium.com/@akineralkan/modern-java-an-in-depth-guide-from-version-8-to-21-by-akiner-alkan-f89b50e13c72"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742757107
 ---
 
 

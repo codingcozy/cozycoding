@@ -1,5 +1,5 @@
 ---
-title: "Angular 시그널로 object inputs이 여전히 위험하다 - 왜 그럴까요"
+title: "Angular 시그널로 object inputs이 여전히 별로인 이유"
 description: ""
 coverImage: "/assets/img/2024-08-26-ObjectinputsarestilldangerousevenwithAngularsignals_0.png"
 date: 2024-08-26 18:32
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Object inputs are still dangerous, even with Angular signals"
 link: "https://medium.com/itnext/object-inputs-are-still-dangerous-even-with-angular-signals-9103a25d5e45"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742709927
 ---
 
 

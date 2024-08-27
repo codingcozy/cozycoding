@@ -1,5 +1,5 @@
 ---
-title: ".NET에서의 가드 절차 코드 가독성과 안정성을 높이는 방법"
+title: ".NET에서의 가드 절차 코드 가독성을 높히는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-GuardClausesinNET_0.png"
 date: 2024-08-26 19:28
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Guard Clauses in .NET"
 link: "https://medium.com/codenx/guard-clauses-in-net-d6b70dc0c46c"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743557524
 ---
 
 

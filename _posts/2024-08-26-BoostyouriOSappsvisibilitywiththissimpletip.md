@@ -1,5 +1,5 @@
 ---
-title: "iOS 앱 홍보를 위한 간단한 팁으로 앱의 가시성 향상하기"
+title: "간단한 팁으로 iOS 앱 가시성 향상하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-BoostyouriOSappsvisibilitywiththissimpletip_0.png"
 date: 2024-08-26 19:35
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Boost your iOS apps visibility with this simple tip"
 link: "https://medium.com/@Sergey.Zhuravel/boost-your-ios-apps-visibility-with-this-simple-tip-7832e3898c2b"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743946336
 ---
 
 

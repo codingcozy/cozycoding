@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "100 Days of Coding Days 1120"
 link: "https://medium.com/@hamimc232/100-days-of-coding-days-11-20-2b08304333d9"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744169626
 ---
 
 

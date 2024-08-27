@@ -1,5 +1,5 @@
 ---
-title: "8년간의 모바일 앱 개발 네이티브 안드로이드부터 플러터로의 여정"
+title: "네이티브 안드로이드 대신 플러터를 사용해야하는 이유"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 19:43
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "8 Years in Mobile App Development My Journey from Native Android to Flutter"
 link: "https://medium.com/@ragulsarma/8-years-in-mobile-app-development-my-journey-from-native-android-to-flutter-c8c86b695450"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744123803
 ---
 
 

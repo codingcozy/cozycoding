@@ -1,5 +1,5 @@
 ---
-title: "스위프트에서 커스텀 연산자 이해하기"
+title: "swift에서 커스텀 연산자 사용하기"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 19:29
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding Custom Operators in Swift."
 link: "https://medium.com/@harshaag99/understanding-custom-operators-in-swift-e4ce3f1f9c39"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742488153
 ---
 
 

@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Reinforcement Learning for Physical Dynamical Systems An Alternative Approach"
 link: "https://medium.com/towards-data-science/rl-for-physical-dynamical-systems-an-alternative-approach-8e2269dc1e79"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742684877
 ---
 
 

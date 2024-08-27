@@ -1,5 +1,5 @@
 ---
-title: "HTML과 CSS만을 사용하여 자동 스크롤하는 캐러셀 애니메이션 구현하기"
+title: "HTML, CSS로 자동 스크롤되는 캐러셀 애니메이션 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-AnimateanAuto-ScrollingCarouselwithOnlyHTMLandCSS_0.png"
 date: 2024-08-26 17:22
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Animate an Auto-Scrolling Carousel with Only HTML and CSS"
 link: "https://medium.com/itnext/animate-an-auto-scrolling-carousel-with-only-html-and-css-8300c8c72841"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744008874
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "iOS 개발 100일의 여정  33일째 Core Data와 함께 데이터 모델링하기"
+title: "Core Data와 함께 데이터 모델링하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-100DaysofiOSDevelopmentJourneyDay033_0.png"
 date: 2024-08-26 19:30
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "100 Days of iOS Development Journey  Day 033"
 link: "https://medium.com/@ryccoatika/100-days-of-ios-development-journey-day-033-1c4ccdc4c30b"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744167935
 ---
 
 

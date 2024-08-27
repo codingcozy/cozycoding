@@ -21,16 +21,7 @@ updatedAt: 1724245421002
 
 API 및 장치에 따라 사용 가능한 속성을 제한할 수 있습니다. 개발자가 선택할 수 있는 다섯 가지 표준 속성이 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - 이름
 - 전화번호
@@ -44,16 +35,7 @@ API 및 장치에 따라 사용 가능한 속성을 제한할 수 있습니다. 
 
 전화에 저장된 연락처 정보에는 신중히 다루어야 할 민감한 정보가 포함될 수 있습니다. 따라서 고려해야 할 개인 정보 보호 및 보안 사항이 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - Contact Picker API 코드는 최상위 레벨의 브라우징 컨텍스트에서 실행되어야 합니다. 이는 광고나 서드파티 플러그인과 같은 외부 코드가 사용자의 전화의 연락처 목록을 읽는 것을 방지합니다.
 - Contact Picker API 코드는 사용자 제스처 이후에만 실행될 수 있습니다. 따라서 개발자들은 프로세스를 완전히 자동화할 수 없습니다. 사용자가 연락처를 읽도록 유도하기 위해 사용자가 반응해야 합니다.
@@ -65,16 +47,7 @@ Contact Picker API를 사용하는 웹 사이트를 처음 사용할 때, 다음
 
 ## API와 코드
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 Contact Picker API는 두 가지 메소드만을 정의합니다:
 
@@ -85,16 +58,7 @@ Contact Picker API는 두 가지 메소드만을 정의합니다:
 
 getProperties()를 무시하고 모든 속성을 직접 요청하는 것이 유혹적일 수 있습니다. 하지만 주의해야 할 점은, 요청한 속성 중 하나라도 사용할 수 없는 경우 select() 메소드에서 예외가 발생할 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 예시
 
@@ -106,16 +70,7 @@ Contact Picker API의 데모가 작동 중입니다. (여기에서 온라인 실
 <button onclick="getContactData()">연락처 데이터 표시</button>
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 getContactData() 함수에 주요 코드가 포함될 것입니다. 그 전에, Contact Picker API가 사용할 수 없는 경우 버튼을 표시하는 것이 어떤 의미일까요? API를 사용할 수 없는 경우 버튼을 숨겨봅시다. 더 좋은 방법은 기본적으로 버튼을 숨기고(API를 사용할 수 있는 경우만) 필요할 때만 표시하는 것입니다.
 
@@ -154,16 +109,7 @@ async function getContactData() {
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 버튼이 이 기능을 트리거하고, 브라우저가 권한을 허용한 경우(이전 섹션의 스크린샷 참조), 연락처 모달이 나타납니다. 모달에는 URL에 있는 데이터를 읽는 방법, 반환할 데이터 및 선택할 연락처 목록과 함께 중요한 정보가 표시됩니다.
 
@@ -183,16 +129,7 @@ async function getContactData() {
 ]
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 데이터에 아이콘이 포함되어 있다면 이미지를 나타내는 blob입니다. 주소가 포함되어 있다면 거리, 도시, 국가, 우편번호 등과 같은 더 복잡한 객체가 됩니다. 규격서에서 반환된 값들을 확인할 수 있습니다.
 
@@ -202,16 +139,7 @@ async function getContactData() {
 
 하나 이상의 연락처를 선택하는 것이 가능합니다. 그렇게 하려면 navigator.contacts.select() 메서드에 이 옵션을 나타내는 두 번째 매개변수를 전달해야 합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 const props = ["tel", "address", "icon", "name", "email"];
@@ -248,16 +176,7 @@ async function getContactData() {
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 웹 사이트에서 실행 중인 데모를 확인할 수 있어요. 걱정 마세요. 연락처 정보를 화면에 표시하는 것 외에는 아무 것도 안 해요. 그런데, 제가 믿음직하지 않다고 생각한다면 코드를 먼저 확인해 보세요.
 
@@ -267,16 +186,7 @@ async function getContactData() {
 
 나라별로 변화하고 있는 법적 요구 사항에 대해 자세히 설명하지는 않겠지만, 민감한 데이터를 다룰 때 몇 가지 기본 가이드라인이 있어요:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - 다른 사람들의 프라이버시를 존중해주세요. 원치 않는 정보를 공유하게 강요하지 마세요.
 - 데이터를 주의 깊게 다루고 안전하게 처리해주세요. 당신이 처리하는 데이터가 자신의 것이라면 편안할지 생각해봐주세요.
@@ -289,16 +199,7 @@ async function getContactData() {
 
 만약 JavaScript에 관한 이 글을 즐기셨고 JS로 웹 API와 다른 것들을 테스트하고 싶다면, 이 다른 글도 확인해보세요:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 
 ![image](/assets/img/2024-08-21-ReadPhoneContactswithJavaScript_0.png)

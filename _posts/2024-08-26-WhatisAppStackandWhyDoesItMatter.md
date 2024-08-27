@@ -1,5 +1,5 @@
 ---
-title: "앱 스택 왜 중요하며 어떻게 선택해야 할까"
+title: "앱 스택의 중요성 및 선택 기준"
 description: ""
 coverImage: "/assets/img/2024-08-26-WhatisAppStackandWhyDoesItMatter_0.png"
 date: 2024-08-26 18:42
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "What is App Stack, and Why Does It Matter"
 link: "https://medium.com/@jessyrayder001/what-is-app-stack-and-why-does-it-matter-2fec387da90f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742435058
 ---
 
 

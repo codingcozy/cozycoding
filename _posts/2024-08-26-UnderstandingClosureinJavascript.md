@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding Closure in Javascript"
 link: "https://medium.com/@singhpooja0704/closure-in-javascript-3c5d4404bfc4"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742504646
 ---
 
 

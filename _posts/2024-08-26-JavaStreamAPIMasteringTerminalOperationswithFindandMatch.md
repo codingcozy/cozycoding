@@ -1,5 +1,5 @@
 ---
-title: "Java Stream API Find와 Match로 마스터하는 터미널 연산"
+title: "Java Stream API Find와 Match로 터미널 연산 하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-JavaStreamAPIMasteringTerminalOperationswithFindandMatch_0.png"
 date: 2024-08-26 18:51
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Java Stream API Mastering Terminal Operations with Find and Match"
 link: "https://medium.com/gitconnected/java-stream-api-mastering-terminal-operations-with-find-and-match-1c178ae33c89"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743420065
 ---
 
 

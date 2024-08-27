@@ -1,5 +1,5 @@
 ---
-title: "CSS와 JavaScript를 사용하여 다크 모드로 웹사이트 전환하는 방법"
+title: "CSS와 JavaScript를 사용하여 다크 모드 웹사이트 만드는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 20:07
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Switch Your Website to Dark Mode Using CSS and JavaScript"
 link: "https://dev.to/msarabi/how-to-switch-your-website-to-dark-mode-using-css-and-javascript-670"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743473247
 ---
 
 
@@ -21,16 +22,7 @@ isUpdated: false
 - 눈 노이 증소: 특히 어두운 환경에서는 밝은 빛을 화면에서 방출하는 양을 줄이기 때문에, 눈에 덜 스트레스를 주는 경우가 많습니다.
 - OLED 화면에서 배터리 수명 개선: OLED(유기 발광 다이오드) 화면에서는 다크 모드로 사용할 때 검은 색 픽셀이 사실상 꺼져 있어서 밝은 색상을 표시할 때 보다 적은 전력을 소비하여 배터리 수명을 연장할 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 튜토리얼에서는 CSS와 JavaScript를 사용하여 웹 사이트를 다크 모드로 전환하는 방법을 다룰 것입니다. 우리는 간단한 밝은 테마의 웹 페이지 템플릿으로 시작하여 사용자가 부드럽게 라이트 및 다크 테마 간에 전환할 수 있는 토글 가능한 라이트/다크 모드를 가진 웹 사이트로 변형할 것입니다.
 
@@ -40,16 +32,7 @@ isUpdated: false
 
 ## 다크 모드 스타일 구현
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 색상 선택하기
 
@@ -59,16 +42,7 @@ isUpdated: false
 
 그런 다음 CSS 변수를 사용하여 해당 변수로 본문에 다크 및 라이트 클래스를 만듭니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 body.dark {
@@ -98,16 +72,7 @@ CSS 변수에 대해 'Using CSS custom properties'에서 자세히 읽을 수 �
 
 var() CSS 함수를 사용하여 CSS 변수의 값을 삽입합니다. 이 방법으로 하면 색상을 동적으로 변경하고 문서 전체에 걸쳐 변경 사항을 반영하는 하나의 변수를 업데이트할 수 있습니다. 수동으로 각 요소를 변경하는 대신 변경 사항이 전체 문서에 자동으로 적용됩니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 다음은 nav 요소와 그 자식 요소의 예시입니다.
 
@@ -136,31 +101,13 @@ a {
 
 이제 body의 클래스를 dark 또는 light로 변경하여 테마를 전환할 수 있습니다. 먼저, 헤더에 버튼을 추가하고 해당 클릭 이벤트에 changeTheme() 함수를 설정하세요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 여기 웹 사이트 테마를 변경할 수 있는 버튼이 있습니다. 
 
 마크다운 형식으로 테이블 태그를 변경해보겠습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 아래의 코드 펜에서 해당 튜토리얼의 코드를 확인할 수 있어요
 
@@ -190,16 +137,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 어두운 테마에서 table 태그를 Markdown 형식으로 변경하면 브라우저가 스타일을 변경해야 하는 일부 요소의 처리를 보장할 수 있습니다.
 
@@ -213,15 +151,6 @@ body.dark {
 
 결론적으로, 웹 사이트에 어두운 모드를 추가하면 눈의 스트레스를 줄이고 OLED 스크린에서 배터리 수명을 연장하여 사용자 경험을 향상시킬 수 있습니다. 본 안내를 따라 CSS와 JavaScript를 사용하여 쉽게 라이트/다크 모드 토글을 설정할 수 있습니다. 당신의 디자인에 맞게 어두운 모드를 사용자 정의하세요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 아래 댓글란에 구현 내용을 공유하거나 질문을 하세요.

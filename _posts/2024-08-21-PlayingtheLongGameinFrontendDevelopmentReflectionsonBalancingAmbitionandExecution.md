@@ -21,16 +21,7 @@ updatedAt: 1724245552768
 
 ## 두 프로젝트, 하나의 여정
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이번 달은 나에겐 흥미로운 이정표인데요: 내가 이끌었던 두 가지 주요 프로젝트가 완료되었습니다. 이 기사의 초안 동기는 이 업적을 디지턀로 축하하는 것이었어요. 그래서 이 기사는 이 두 프로젝트 뒤에 숨은 이야기에 초점을 맞추었습니다.
 
@@ -40,16 +31,7 @@ updatedAt: 1724245552768
 
 3년 전에 Kaltura는 이미 상당한 일일 사용자 트래픽을 다루고 있던 React 기반 애플리케이션을 보유한 회사를 인수했죠. 그리고 그것을 리드하여 프론트엔드 개발을 하게 된 것이죠.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 저희의 즉각적인 목표는 명확했습니다: 안정성 향상, 성능 향상, 그리고 팀의 기술을 높이는 것이었습니다. 그러나 장기적인 비전은 야심찼습니다: 최신 기술을 기반으로 한 현대적이고 견고한 응용 프로그램으로 레거시 시스템을 완전히 대체하는 것이었습니다. 전형적인 MVP(Minimum Viable Product) 방식과 달리, 우리는 점진적인 반복을 할 여유가 없었습니다. 새로운 응용 프로그램은 신속하게 완전하게 기능하도록 제작되어야 했습니다.
 
@@ -59,16 +41,7 @@ updatedAt: 1724245552768
 
 ![이미지](/assets/img/2024-08-21-PlayingtheLongGameinFrontendDevelopmentReflectionsonBalancingAmbitionandExecution_0.png)
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 그래프를 보면, 며칠 전 팀인 스타스, 토르니케, 안나, 그리고 토비가 새 어플리케이션 코드베이스에서 획득한 어플리케이션의 3000개 파일을 삭제하면서 이 전환 작업을 완료했다는 주요한 성과를 이뤘습니다.
 
@@ -78,16 +51,7 @@ updatedAt: 1724245552768
 
 두 번째 프로젝트는 아직 초기 단계이지만, 실시간 경험을 제공하는 방식에 대한 주요한 변화를 대표합니다. 이 프로젝트 아이디어는 COVID-19 팬데믹의 도전기간 동안에 생겨났습니다. 세계가 온라인으로 전환됨에 따라, 우리 회사는 고객이 실제 대면 행사와 동등한 매력적인 가상 이벤트를 개최할 수 있도록 적응하고 고객에게 도움을 줘야 한다는 필요성을 인지했습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 2020년에는 이러한 온라인 협업을 위해 특별히 새로운 인프라를 구축하여 대응했습니다. 이를 통해 우리 제품에는 일반적으로 현장 행사에서만 볼 수 있던 기능들이 포함되었습니다 - 스폰서 부스, 병렬 트랙, 네트워킹 라운지, 실시간 반응, 인터랙티브 퀴즈, 조절된 이벤트 등 다양한 기능이 포함되었습니다.
 
@@ -97,16 +61,7 @@ updatedAt: 1724245552768
 
 이 두 프로젝트가 앞으로 몇 년 동안 우리 회사의 제품과 성장에 어떤 영향을 미칠지 진심으로 기대됩니다. 이번 여정에서 얻은 교훈과 채택한 전략에 대해 궁금하다면, 저의 후속 기사를 확인해 주세요.そEn 함께 이번 여정에서 얻은 주요 요점들을 살펴보겠습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 그 다음에 또 만나요,
 에란

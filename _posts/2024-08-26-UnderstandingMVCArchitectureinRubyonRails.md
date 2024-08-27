@@ -1,5 +1,5 @@
 ---
-title: "루비 온 레일즈에서 MVC 아키텍처의 이해"
+title: "루비 온 레일즈에서 MVC 아키텍처 설계하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-UnderstandingMVCArchitectureinRubyonRails_0.png"
 date: 2024-08-26 19:12
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding MVC Architecture in Ruby on Rails"
 link: "https://medium.com/@jayant_ror/understanding-mvc-architecture-in-ruby-on-rails-72b9aa9a98eb"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742467355
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Salesforce에서 커스텀 CSS를 활용한 반응형 디자인 마스터하기"
+title: "Salesforce에서 커스텀 CSS를 활용한 반응형 디자인 하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 17:47
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Responsive Design with Custom CSS in Salesforce"
 link: "https://medium.com/@rathoredeep2020/mastering-responsive-design-with-custom-css-in-salesforce-46f71af62cb6"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742777411
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "알고 있었더라도 유용했을 10가지 HTML 태그"
+title: "개발자들이 잘 모르는 10가지 HTML 태그"
 description: ""
 coverImage: "/assets/img/2024-08-26-HTMLTagsYouNeverKnewYouNeeded_0.png"
 date: 2024-08-26 17:39
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "HTML Tags You Never Knew You Needed"
 link: "https://medium.com/@jiadalfahmid/html-tags-you-never-knew-you-needed-30c06c0ba935"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743546838
 ---
 
 

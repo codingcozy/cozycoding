@@ -1,5 +1,5 @@
 ---
-title: "Angular 18 새로운 기능과 향상된 기능 탐색"
+title: "Angular 18에 추가된 새로운 기능 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 18:35
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Angular 18 Exploring the New Features and Enhancements"
 link: "https://medium.com/@drissi.dalanda8/angular-18-exploring-the-new-features-and-enhancements-e2c04640acf0"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744030425
 ---
 
 

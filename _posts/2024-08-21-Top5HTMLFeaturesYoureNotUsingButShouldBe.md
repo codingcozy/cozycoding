@@ -19,16 +19,7 @@ HTML은 웹 페이지의 기능과 효율성을 크게 향상시킬 수 있는 �
 
 ![Top5HTMLFeaturesYoureNotUsingButShouldBe](/assets/img/2024-08-21-Top5HTMLFeaturesYoureNotUsingButShouldBe_0.png)
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 1. 대화 요소
 
@@ -45,16 +36,7 @@ HTML은 웹 페이지의 기능과 효율성을 크게 향상시킬 수 있는 �
 <button onclick="document.getElementById('myDialog').showModal()">대화상자 열기</button>
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 위 요소를 사용하면 모달의 열고 닫음을 쉽게 제어할 수 있으며, 접근성이 뛰어나며 스타일링도 쉽습니다.
 
@@ -64,16 +46,7 @@ HTML은 웹 페이지의 기능과 효율성을 크게 향상시킬 수 있는 �
 
 여기 예시입니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 
 ![Responsive Image](small.jpg)
@@ -85,16 +58,7 @@ HTML은 웹 페이지의 기능과 효율성을 크게 향상시킬 수 있는 �
 이 요소는 계산 결과 또는 사용자 상호 작용의 결과를 표시하는 데 사용됩니다. 사용자 입력에 기반한 실시간 피드백을 표시하고 싶은 양식에서 특히 유용합니다.
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 여기 예시가 있어요:
 
@@ -110,16 +74,7 @@ HTML은 웹 페이지의 기능과 효율성을 크게 향상시킬 수 있는 �
 
 ## 4. Data Element
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 해당 요소는 기계가 읽을 수 있는 값을 사람이 읽을 수 있는 값을 연결합니다. 제품 ID를 표시 이름에 연결하는 등 콘텐츠에 의미를 부여하는 데 유용합니다.
 
@@ -131,16 +86,7 @@ HTML은 웹 페이지의 기능과 효율성을 크게 향상시킬 수 있는 �
 
 검색 엔진과 웹 크롤러는 이 추가 정보를 사용하여 콘텐츠를 더 잘 이해할 수 있으며, 이는 SEO 성능을 향상시킬 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 5. 세부 정보 요소와 요약 요소
 
@@ -155,16 +101,7 @@ HTML은 웹 페이지의 기능과 효율성을 크게 향상시킬 수 있는 �
 </details>
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이러한 요소들은 한 번에 표시되는 정보량을 줄이고 페이지를 깨끗하고 가독성 좋게 유지하여 더 나은 사용자 경험을 제공하므로 구현이 쉽습니다.
 
@@ -174,16 +111,7 @@ HTML은 크게 발전했으며, 이러한 기능들은 얼마나 강력하고 �
 
 오늘은 여기까지입니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 그리고 여기서 초심자들을 돕기 위해 내가 좋아하는 웹 개발 리소스를 소개할게!
 
@@ -193,15 +121,6 @@ HTML은 크게 발전했으며, 이러한 기능들은 얼마나 강력하고 �
 
 내 GitHub 프로젝트에 별을 주세요 ⭐️
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 29512번 감사합니다! 🤗

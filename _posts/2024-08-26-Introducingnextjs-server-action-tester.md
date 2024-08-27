@@ -1,5 +1,5 @@
 ---
-title: "Next.js 서버 액션 테스터로 소개합니다."
+title: "Next.js 서버 액션 사용 방법 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 17:32
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Introducing nextjs-server-action-tester"
 link: "https://medium.com/@bijish.ob/introducing-nextjs-server-action-tester-6ab4e4123c5f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743437488
 ---
 
 

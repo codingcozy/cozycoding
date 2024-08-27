@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Challenge 30days30projects"
 link: "https://medium.com/@unscriptedlife/challenge-30days30projects-910016d80091"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743636751
 ---
 
 

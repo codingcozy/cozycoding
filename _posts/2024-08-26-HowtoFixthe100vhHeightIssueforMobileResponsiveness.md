@@ -1,5 +1,5 @@
 ---
-title: "모바일 반응성을 위한 100vh 높이 문제 해결 방법"
+title: "반응형 웹사이트를 위한 100vh 높이 문제 해결 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-HowtoFixthe100vhHeightIssueforMobileResponsiveness_0.png"
 date: 2024-08-26 17:09
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Fix the 100vh Height Issue for Mobile Responsiveness"
 link: "https://medium.com/@tilankamihingu2018/solving-the-100vh-height-issue-in-mobile-responsiveness-a-practical-guide-2b74a678fb0f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743504556
 ---
 
 

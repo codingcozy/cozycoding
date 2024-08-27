@@ -21,16 +21,7 @@ updatedAt: 1724246033336
 
 정적 포지셔닝은 TV의 기본 설정과 비슷합니다. 특별한 것은 없고, 기본적이고 직관적입니다. 기본적으로 모든 요소는 정적으로 포지셔닝되어 있으며, 이는 문서에서 예상대로 흘러가는 것을 의미합니다 - 하나씩 차례대로요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 div {
@@ -44,16 +35,7 @@ div {
 
 상대 위치 지정은 항상 약간 어색하지만 매력적인 친구처럼 작동합니다. 이것은 페이지의 나머지 부분을 방해하지 않고 요소를 일반적인 위치를 기준으로 상대적으로 이동할 수 있게 해줍니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```css
 .relative-box {
@@ -69,16 +51,7 @@ div {
 
 절대 위치 지정은 집단을 따르지 않고 모험을 즐기는 친구와 같습니다. 가장 가까운 "static이 아닌" 조상(즉, position: relative, absolute, fixed 또는 sticky가 지정된 조상)을 기준으로 요소를 원하는 곳에 위치시킬 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 <div class="parent">
@@ -102,16 +75,7 @@ div {
 
 ## 4. 고정 위치 지정: 고집하는 정적
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 고친 위치 지정은 움직이지 않는 좋아하는 의자를 가지고 있는 것과 같아요. 이것을 사용하면 요소를 뷰포트에 상대적으로 위치시켜 스크롤이 얼마나 많이 이동하든 항상 같은 위치에 두게 할 수 있어요.
 
@@ -127,16 +91,7 @@ position: fixed;를 사용하면 .floating-action-button은 뷰포트의 하단�
 
 ## 5. 스티키 위치 지정: 두 마리 토끼를 모두 잡는 법
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 스티키 위치 설정은 항상 조명 속에서 부분적으로 나가 있는 친구가 있는 것과 같습니다. 이것은 상대적 위치와 고정 위치 사이의 혼합체로 생각할 수 있습니다. 위치 값이 sticky로 설정된 요소는 특정 지점을 스크롤할 때 해당 컨테이너 내에서 해당 위치에 고정되지만, 그렇지 않은 경우에는 상대적으로 위치된 요소처럼 동작합니다.
 
@@ -151,16 +106,7 @@ position: fixed;를 사용하면 .floating-action-button은 뷰포트의 하단�
 
 ## Z-Index: The Overachiever
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 아, z-index! 여기서 약간 경쟁적인 요소가 생깁니다. 요소가 겹치면 z-index가 어떤 것이 맨 위에 있을지를 결정합니다. 웹 요소에 대한 고교 인기 경쟁과 비슷하죠.
 
@@ -180,16 +126,7 @@ position: fixed;를 사용하면 .floating-action-button은 뷰포트의 하단�
 
 ## 요약
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 CSS 위치 지정은 퍼즐처럼 느껴질 수 있지만, 한 번 감을 잡으면 정확하고 멋진 요소를 배치할 수 있을 거예요. 각 위치 유형에는 웹 디자인에서 특별한 역할이 있어요. 시도해보세요. 그러면 웹 페이지가 완벽하게 보이게 만들 수 있는 방법을 알 수 있을 거예요.
 

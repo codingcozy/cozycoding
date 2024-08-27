@@ -1,5 +1,5 @@
 ---
-title: "구체적인 CSS 속성과 기능을 자세히 알아보세요."
+title: "CSS 속성과 기능에 대해서 자세히 알고 있어야하는 이유"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 20:08
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "CSS In Details"
 link: "https://dev.to/ashutoshsarangi/css-in-details-3hfk"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743648941
 ---
 
 
@@ -25,16 +26,7 @@ HTML 요소 유형
 
 주로
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - 블록 수준
 - 인라인
@@ -48,16 +40,7 @@ CSS 선택자:
 
 CSS 상속
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 부모체인에 직접 속성을 설정하지 않은 경우에는 상속이 발생합니다. 이 속성에 해당하는 값을 찾을 때까지 부모 체인이 횡단됩니다.
 
@@ -88,16 +71,7 @@ color: red;
 </style>
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 case 3
 
@@ -120,29 +94,11 @@ CSS Specificity에 대해 어떻게 설명할까요?
 - 브라우저가 어떤 CSS 선언을 적용해야 하는지 결정하는 알고리즘입니다.
 - 각 선택자는 계산된 가중치를 가지고, 가장 구체적인 가중치가 적용됩니다. ID 선택자: 1 - 0 - 0, 클래스 선택자: 0 - 1 - 0, 타입 선택자: 0 - 0 - 1.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 테이블 태그를 Markdown 형식으로 변경하세요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 <html>
@@ -192,16 +148,7 @@ font-size: 2rem; // 16px * 2 = 32px
 
 %:- % 계산
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 
 ```html
@@ -234,16 +181,7 @@ font-size: 120%; // 1.2 * 19.2 = 23.04px
 </ul>
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 2. 자식 결합자 (직계 자손) (div.text ` p)
 
@@ -262,16 +200,7 @@ font-size: 120%; // 1.2 * 19.2 = 23.04px
 
 Note:-
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - h1과 p 모두 동일한 부모 안에 있어야 하며, p는 h1 태그 바로 뒤에 위치해야 함
 
@@ -282,16 +211,7 @@ Note:-
 - 이들은 인접 형제와 같이 즉시 형제가 되어서는 안 됩니다. 그러나 형제가 있어야 합니다.
 - 동일한 부모를 가져야 함
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 블록 요소 수정자 아키텍처(BEM)
 
@@ -305,16 +225,7 @@ Note:-
 - ATOMIC
 - BEM
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 블록
 
@@ -329,16 +240,7 @@ Note:-
 - 목록 항목
 - 헤더 제목
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 수정자
 
@@ -357,16 +259,7 @@ Note:-
 </form>
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 박스 모델:- (작업 중)
 

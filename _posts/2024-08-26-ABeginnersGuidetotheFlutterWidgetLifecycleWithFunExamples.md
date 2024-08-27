@@ -1,5 +1,5 @@
 ---
-title: "플러터 위젯 라이프사이클 초보자를 위한 완전 가이드 (재미있는 예제와 함께)"
+title: "플러터 위젯 라이프사이클 정리(코드 있음)"
 description: ""
 coverImage: "/assets/img/2024-08-26-ABeginnersGuidetotheFlutterWidgetLifecycleWithFunExamples_0.png"
 date: 2024-08-26 19:51
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "A Beginners Guide to the Flutter Widget Lifecycle (With Fun Examples)"
 link: "https://medium.com/@sharma-deepak/a-beginners-guide-to-the-flutter-widget-lifecycle-with-fun-examples-abc1938cea85"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744091289
 ---
 
 

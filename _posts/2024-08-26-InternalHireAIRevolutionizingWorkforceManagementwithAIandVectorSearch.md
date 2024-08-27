@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Internal Hire AI Revolutionizing Workforce Management with AI and Vector Search"
 link: "https://medium.com/@tahakotwal54/internal-hire-ai-revolutionizing-workforce-management-with-ai-and-vector-search-1c173a3479a3"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743438865
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "React Router Hooks 마스터하기 포괄적인 안내"
+title: "React Router Hooks 함수들 정리 및 예시"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 20:01
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering React Router Hooks A Comprehensive Guide"
 link: "https://dev.to/vyan/mastering-react-router-hooks-a-comprehensive-guide-4hm"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742787019
 ---
 
 
@@ -33,16 +34,7 @@ function MyComponent() {
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 훅은 사용자 조작이나 일부 작업을 완료한 후에 발생하는 탐색에 특히 유용합니다.
 
@@ -59,16 +51,7 @@ function CurrentPath() {
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 hook은 현재 URL에 따라 결정되는 기능을 구현하는 데 매우 중요합니다.
 
@@ -88,16 +71,7 @@ function UserProfile() {
 // <Route path="/users/:username" element={<UserProfile />} />
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 훅은 동적 경로를 생성하고 URL 기반 데이터에 액세스하는 데 중요합니다.
 
@@ -120,16 +94,7 @@ const ParentComponent = () => {
 };
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 훅은 `Outlet` 컴포넌트와 비교하여 중첩 경로를 처리하는 더 유연한 접근 방식을 제공합니다.
 
@@ -170,16 +135,7 @@ const App = () => {
 };
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 방식은 복잡한 라우팅이 필요한 애플리케이션이나 동적으로 생성된 경로에 특히 유용할 수 있습니다.
 
@@ -189,15 +145,6 @@ React Router 훅은 React 애플리케이션에서 네비게이션을 효과적�
 
 더 복잡한 애플리케이션을 개발함에 따라 이러한 훅을 숙달하는 것이 점점 더 가치 있어질 것입니다. 이 훅을 활용하면 간단한 네비게이션에서 복잡한 중첩 경로까지 다양한 라우팅 시나리오를 처리할 수 있으면서도 코드를 깔끔하고 선언적으로 유지할 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 훅을 효과적으로 활용하는 핵심은 애플리케이션의 네비게이션 요구 사항을 이해하고 각 시나리오에 적합한 훅을 선택하는 것입니다. 즐거운 라우팅하세요!

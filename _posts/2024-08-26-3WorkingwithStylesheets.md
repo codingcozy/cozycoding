@@ -1,5 +1,5 @@
 ---
-title: "스타일시트 작업 방법"
+title: "웹사이트 CSS 스타일시트 작업 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-3WorkingwithStylesheets_0.png"
 date: 2024-08-26 17:45
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "3. Working with Stylesheets"
 link: "https://medium.com/@foghorn111/3-working-with-stylesheets-a0613c389f41"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744138373
 ---
 
 

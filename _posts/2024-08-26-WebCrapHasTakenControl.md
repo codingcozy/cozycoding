@@ -1,5 +1,5 @@
 ---
-title: "웹 쓰레기가 우리를 통제하고 있어요 2024년 최신 웹 개발 트렌드"
+title: "2024년 최신 웹 개발 트렌드 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-WebCrapHasTakenControl_0.png"
 date: 2024-08-26 18:23
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Web Crap Has Taken Control"
 link: "https://medium.com/@fulalas/web-crap-has-taken-control-71c459df6e62"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742451864
 ---
 
 

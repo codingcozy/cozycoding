@@ -1,5 +1,5 @@
 ---
-title: "현대 웹 아키텍처를 재정립하는 마이크로 프론트엔드의 역할"
+title: "현대 웹 아키텍처를 재정립하는 마이크로 프론트엔드 개념 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-HowMicro-FrontendsarereshapingModernWebArchitecture_0.png"
 date: 2024-08-26 18:16
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How Micro-Frontends are reshaping Modern Web Architecture"
 link: "https://medium.com/@lucamezzalira/how-micro-frontends-are-reshaping-modern-web-architecture-0259ce7dfb7f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743537640
 ---
 
 

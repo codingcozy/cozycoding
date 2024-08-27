@@ -1,5 +1,5 @@
 ---
-title: "비용 절감이 비싼 이유 9달러 시급 소프트웨어 엔지니어가 Boeing에 수억 달러를 들게 한 이유"
+title: "9달러 시급 소프트웨어 엔지니어가 Boeing에 수억 달러를 들게 한 이유"
 description: ""
 coverImage: "/assets/img/2024-08-26-WhyCuttingCostsisExpensiveHow9HourSoftwareEngineersCostBoeingBillions_0.png"
 date: 2024-08-26 18:18
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Why Cutting Costs is Expensive How 9 Hour Software Engineers Cost Boeing Billions"
 link: "https://medium.com/javascript-scene/why-cutting-costs-is-expensive-how-9-hour-software-engineers-cost-boeing-billions-b76dbe571957"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742395436
 ---
 
 

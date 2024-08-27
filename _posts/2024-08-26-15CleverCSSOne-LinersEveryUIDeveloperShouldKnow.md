@@ -1,5 +1,5 @@
 ---
-title: "UI 개발자가 꼭 알아야 할 15가지 CSS 한 줄 코드 팁"
+title: "UI 개발자가 꼭 알아야 할 CSS 한 줄 코드 15가지 팁 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 19:53
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "15 Clever CSS One-Liners Every UI Developer Should Know"
 link: "https://dev.to/nnnirajn/15-clever-css-one-liners-every-ui-developer-should-know-50g7"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744163235
 ---
 
 
@@ -20,16 +21,7 @@ UI 개발자로서, 항상 코드를 간소화하고 효율적이고 매력적�
 
 이 CSS 보석들을 살펴보고 여러분의 개발 프로세스를 어떻게 변화시킬 수 있는지 살펴봅시다!
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 #### 1. 완벽한 가운데 정렬 기술
 
@@ -43,16 +35,7 @@ UI 개발자로서, 항상 코드를 간소화하고 효율적이고 매력적�
 
 이 간단하면서도 강력한 CSS 트릭은 CSS Grid를 사용하여 부모 컨테이너 내에서 모든 자식 요소를 가운데 정렬합니다. display: grid 속성은 그리드 컨테이너를 생성하고, place-items: center는 그리드 항목(이 경우 자식 요소)을 가로 및 세로로 가운데 정렬합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 방법은 컨테이너 내의 단일 요소와 여러 요소 모두에 적용할 수 있습니다. 다양한 시나리오에 대한 복잡한 가운데 정렬 코드 작성을 줄여주는 다재다능한 솔루션입니다.
 
@@ -66,16 +49,7 @@ body {
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 calc() 함수를 재미있게 활용한 이 방법은 기본 글꼴 크기(1rem)와 뷰포트 너비에 따라 바뀌는 값(0.5vw)을 결합합니다. 뷰포트 너비가 바뀔 때마다 글꼴 크기가 자동으로 조절되어, 다양한 화면 크기에서도 텍스트가 가독성 있게 유지됩니다.
 
@@ -85,16 +59,7 @@ calc() 함수를 재미있게 활용한 이 방법은 기본 글꼴 크기(1rem)
 
 스크롤바를 사용자 정의하는 것은 웹사이트 디자인에 독특한 감성을 불어넣을 수 있습니다. 이 원 라이너를 사용하면 웹킷 기반 브라우저에서 스크롤바를 스타일링할 수 있습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 
 ```css
@@ -108,16 +73,7 @@ calc() 함수를 재미있게 활용한 이 방법은 기본 글꼴 크기(1rem)
 동적 콘텐츠를 다룰 때 종종 특정 길이를 초과하는 텍스트를 자르는 작업이 필요합니다. 이 CSS 한 줄로 오버플로우되는 텍스트에 생략 부호 효과(ellipsis)를 생성합니다:
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 .truncate {
@@ -131,16 +87,7 @@ calc() 함수를 재미있게 활용한 이 방법은 기본 글꼴 크기(1rem)
 
 스무스 스크롤링을 구현하면 웹 사이트의 사용자 경험을 크게 향상시킬 수 있습니다. 여기에 전체 페이지에 스무스 스크롤링을 활성화하는 간단한 CSS 한 줄 코드가 있습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 html {
@@ -154,16 +101,7 @@ html {
 
 반응형 레이아웃에서 아스펙트 비율을 유지하는 완벽한 정사각형 요소를 만드는 것은 까다로울 수 있습니다. 여기에는 이를 달성하기 위한 재미있는 CSS 속임수가 있습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```css
 .square {
@@ -177,16 +115,7 @@ html {
 
 선택한 텍스트의 모양을 사용자 정의하여 웹사이트에 독특한 감성을 더할 수 있습니다. 다음은 이를 위한 CSS 한 줄로 구현한 코드입니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 ::selection { background: #ffb7b7; color: #000000; }
@@ -198,16 +127,7 @@ html {
 
 웹 사이트에 다크 모드를 구현하면 특히 밤에 브라우징하는 사용자들에게 사용자 경험을 향상시킬 수 있습니다. 다음은 간단한 CSS 변수 기반 방법입니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 
 body {
@@ -225,16 +145,7 @@ body {
 유리효 효과 또는 글라스모피즘은 UI 디자인에서 점점 더 인기를 얻고 있습니다. 여기 Frosted Glass Effect를 만드는 CSS 원라이너가 있습니다:
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 .frosted-glass {
@@ -248,16 +159,7 @@ body {
 
 크기가 다른 요소에 완벽한 둥근 모서리를 만드는 것은 어려울 수 있습니다. 항상 완벽하게 둥근 모서리를 가진 요소를 보장하는 CSS 트릭이 있습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 .round {
@@ -271,16 +173,7 @@ body {
 
 CSS 그리드를 사용하여 복잡한 레이아웃을 만드는 것이 복잡하지 않을 수 있습니다. 다음은 응답형 그리드를 설정하는 한 줄입니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```css
 .grid {
@@ -294,16 +187,7 @@ CSS 그리드를 사용하여 복잡한 레이아웃을 만드는 것이 복잡�
 
 서로 다른 화면 크기에 매끄럽게 확장되는 타이포그래피를 만드는 CSS 원라이너.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```css
 h1 {
@@ -317,16 +201,7 @@ clamp() 함수를 사용하면 텍스트의 최소 크기 (2rem), 우선 크기 
 
 가끔 UI 요소에 삼각형과 같은 간단한 모양을 만들어야 할 때가 있습니다. 다음은 삼각형을 만들기 위한 CSS 한 줄입니다:  
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 .triangle {
@@ -340,16 +215,7 @@ clamp() 함수를 사용하면 텍스트의 최소 크기 (2rem), 우선 크기 
 
 일부 요소가 뷰포트의 가장자리까지 확장되는 전체 화면 레이아웃을 만드는 것은 이 CSS로 가능합니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 .full-bleed { width: 100vw; margin-left: calc(50% - 50vw); }
@@ -361,16 +227,7 @@ clamp() 함수를 사용하면 텍스트의 최소 크기 (2rem), 우선 크기 
 
 애니메이션 그라디언트 배경을 추가하면 디자인에 생명을 불어넣을 수 있습니다. 다음은 이 효과를 만들기 위한 CSS 원 라이너입니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 .animated-gradient {
@@ -390,16 +247,7 @@ clamp() 함수를 사용하면 텍스트의 최소 크기 (2rem), 우선 크기 
 - 원활한 애니메이션과 반응형 레이아웃으로 사용자 경험을 향상시킵니다.
 - 노력을 최소화하고 더 깔끔하고 전문적으로 보이는 인터페이스를 만듭니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 CSS 마스터하는 핵심은 이런 요령을 알기만 하는 게 아니라 이를 언제 어떻게 적용해야 하는지를 이해하는 것입니다. 이러한 기술을 프로젝트에 통합하면 CSS의 기능에 대한 새로운 이해를 개발하게 되며 UI 개발에 대한 접근 방식을 변화시킬 수 있습니다.
 
@@ -409,15 +257,6 @@ CSS 마스터하는 핵심은 이런 요령을 알기만 하는 게 아니라 �
 
 UI 개발자로서 여정을 계속하는 동안 이러한 CSS 요령을 도구 상자에 갖춰두되 새로운 기술을 배우고 최신 CSS 기능과 모범 사례를 따르는 것에도 열려 있으세요. 웹 개발 분야는 끊임없이 진화하고 있으며 급진적이고 효율적이며 아름다운 사용자 인터페이스를 계속 만들 수 있도록 최신 정보에 따라 있어야 합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 행복한 코딩하세요! 당신의 CSS가 항상 선명하고 깔끔하며 똑똑하길 바래요!

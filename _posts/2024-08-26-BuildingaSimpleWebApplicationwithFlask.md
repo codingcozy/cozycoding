@@ -1,5 +1,5 @@
 ---
-title: "Flask를 사용한 간단한 웹 애플리케이션 구축하기"
+title: "Flask를 사용한 간단한 웹 애플리케이션 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-BuildingaSimpleWebApplicationwithFlask_0.png"
 date: 2024-08-26 17:07
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Building a Simple Web Application with Flask"
 link: "https://medium.com/@adityapandeyadp/building-a-simple-web-application-with-flask-56c293d04a68"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743673748
 ---
 
 

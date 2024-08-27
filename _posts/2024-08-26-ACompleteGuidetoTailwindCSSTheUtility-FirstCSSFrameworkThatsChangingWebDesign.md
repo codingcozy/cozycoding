@@ -1,5 +1,5 @@
 ---
-title: "웹 디자인을 변경하는 유틸리티-퍼스트 CSS 프레임워크, Tailwind CSS 전체 가이드"
+title: "유틸리티-퍼스트 CSS 프레임워크, Tailwind CSS 사용 방법 가이드"
 description: ""
 coverImage: "/assets/img/2024-08-26-ACompleteGuidetoTailwindCSSTheUtility-FirstCSSFrameworkThatsChangingWebDesign_0.png"
 date: 2024-08-26 17:18
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "A Complete Guide to Tailwind CSS The Utility-First CSS Framework Thats Changing Web Design"
 link: "https://medium.com/@vansh.khandelwal06/a-complete-guide-to-tailwind-css-the-utility-first-css-framework-thats-changing-web-design-0189d58940a1"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744081729
 ---
 
 

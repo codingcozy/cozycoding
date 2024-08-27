@@ -1,5 +1,5 @@
 ---
-title: "ValueAnimator를 통해 안드로이드 UI를 생동감 있게 만드는 방법"
+title: "ValueAnimator를 통해 안드로이드 UI를 부드럽게 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-HowValueAnimatorBringsAndroidsUItoLife_0.png"
 date: 2024-08-26 19:16
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How ValueAnimator Brings Androids UI to Life"
 link: "https://medium.com/@aghajari/how-valueanimator-makes-androids-ui-dance-01c325d79e42"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743532658
 ---
 
 

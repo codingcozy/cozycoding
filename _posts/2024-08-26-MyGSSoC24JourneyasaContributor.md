@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "My GSSoC24 Journey as a Contributor"
 link: "https://medium.com/@btech2021.ankitmaurya1/my-gssoc24-journey-as-a-contributor-1de07274d492"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742745953
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "플러터 vs 리액트 네이티브 성능 벤치마크로 확인하는 최신 비교 결과 "
+title: "플러터 vs 리액트 네이티브 성능 벤치마크 비교 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 19:48
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Flutter Vs React Native  Performance Benchmarks you cant miss  "
 link: "https://medium.com/@nateshmbhat/flutter-vs-react-native-performance-benchmarks-you-cant-miss-%EF%B8%8F-2e31905df9b4"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743600413
 ---
 
 

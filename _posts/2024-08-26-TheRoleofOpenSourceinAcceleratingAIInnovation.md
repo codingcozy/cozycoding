@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "The Role of Open Source in Accelerating AI Innovation"
 link: "https://medium.com/@swapnil.javanjal/the-role-of-open-source-in-accelerating-ai-innovation-bf85811e1828"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742580169
 ---
 
 

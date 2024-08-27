@@ -22,16 +22,7 @@ updatedAt: 1724245790209
 
 하지만 이러한 제한사항을 피하는 방법이 있는데, 그것은 MS Forms의 우리만의 버전을 만드는 것이에요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 우리는 HTML 양식을 만들겠습니다(Javascript는 필요 없지만 원한다면 추가할 수 있습니다) 그리고 이후 Power Automate를 사용하여 해당 양식을 전송/처리할 것입니다.
 다음과 같은 단계를 진행해야 합니다:
@@ -48,16 +39,7 @@ updatedAt: 1724245790209
 - 응답은 처리할 때 한 번만 처리되도록 참조가 포함됩니다
 - 간단한 인증이 포함되어 있습니다
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 그리고 흐름은 다음과 같을 겁니다:
 
@@ -69,16 +51,7 @@ updatedAt: 1724245790209
 
 ## 1. 양식 설정
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 JavaScript를 사용하지 않고 가능한 한 간단하게 유지하기 위해 HTML `form` 태그를 사용할 것입니다. 이 태그를 사용하면 태그 내의 모든 입력을 보낼 수 있습니다:
 
@@ -113,16 +86,7 @@ JavaScript를 사용하지 않고 가능한 한 간단하게 유지하기 위해
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 파일 업로드가 필요하지 않다면 당신이 필요한 것에 대해 좋은 것입니다. 그러나 파일을 업로드하려면 응답 유형을 application/x-www-form-urlencoded에서 multipart/form-data로 변경해야합니다. 이는 흐름 처리에 복잡성을 추가합니다.
 
@@ -144,16 +108,7 @@ JavaScript를 사용하지 않고 가능한 한 간단하게 유지하기 위해
 
 <img src="/assets/img/2024-08-21-HowtoCreateYourOwnFormwithPowerAutomate_1.png" />
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 위의 텍스트를 친근한 톤으로 한국어로 번역해 드리겠습니다.
 
@@ -165,16 +120,7 @@ JavaScript를 사용하지 않고 가능한 한 간단하게 유지하기 위해
 
 ## 2. 양식 보내기
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 답변자에게 양식을 받기 위해 이메일을 보낼 것입니다. 안타깝게도 모든 브라우저가 이메일에 양식을 직접 포함하는 것을 지원하지는 않습니다. 그래서 양식이 있는 웹 페이지에 링크를 보내줄 것입니다.
 
@@ -182,16 +128,7 @@ JavaScript를 사용하지 않고 가능한 한 간단하게 유지하기 위해
 
 고유 참조값은 우리가 전달하는 매개변수입니다. 이렇게 하면 이 매개변수를 사용하여 응답을 업데이트할 올바른 행을 찾을 수 있습니다. URL 매개변수는 `?param=value&param2=value` 형식을 따릅니다. 양식의 URL에 이미 매개변수가 있는 경우, `&param=value`를 URL에 추가합니다. 그런 다음 대체 표현식(replace expression)을 수행할 수 있습니다. (아래 예제의 경우 param은 ref입니다):
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 replace(triggerBody()['text'],'{paramRef}',string(outputs('Get_item')?['body/ID']))
@@ -203,16 +140,7 @@ replace(triggerBody()['text'],'{paramRef}',string(outputs('Get_item')?['body/ID'
 
 폼 링크를 전송했지만 실제로 양식을 어떻게 만들고 양식의 URL을 어디서 얻을까요?
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 제가 가장 좋아하는 트리거 중 하나인 `HTTP 요청이 수신되었을 때`를 사용하여 폼을 만들어보려고 합니다. 이를 통해 Power Automate가 기본적인 API처럼 작동하여 매개변수를 수신하고 응답을 보낼 수 있습니다. 재미있는 점은 HTML을 반환할 수 있으며, 브라우저에서 해당 URL을 사용하면 웹페이지처럼 HTML을 불러옵니다.
 
@@ -224,16 +152,7 @@ replace(triggerBody()['text'],'{paramRef}',string(outputs('Get_item')?['body/ID'
 ![이미지](/assets/img/2024-08-21-HowtoCreateYourOwnFormwithPowerAutomate_5.png)
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 폼 응답 표현식
 
@@ -281,16 +200,7 @@ replace(
     </form>
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 예시로 말씀드리면 이 데이터는 'paremRef'를 1로, 'ref'를 #429로 대체할 것입니다.
 
@@ -348,16 +258,7 @@ replace(
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 인코딩되어 있어서 모든 값을 출력할 때 base64ToString으로 변환해야 합니다.
 
@@ -371,16 +272,7 @@ replace(
 3 - 배달 날짜
 4 - 파일
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 다음 흐름을 따를 거에요:
 
@@ -390,16 +282,7 @@ replace(
 
 ![이미지3](/assets/img/2024-08-21-HowtoCreateYourOwnFormwithPowerAutomate_8.png)
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 동봉된 파일은 이미 올바르게 인코딩되어 있으므로 base64로 변환할 필요가 없습니다.
 
@@ -411,16 +294,7 @@ triggerBody()?['$multipart'][4]?['body']
 
 포스트 본문에 대한 스키마가 없다는 것을 확인할 수 있습니다. 이는 이상한 버그 때문에 발생한 것입니다. 어떤 이유에서인지 트리거가 스키마를 제거해야만 시작이 실패한다는 것이죠. 그래서 저는 플로우를 생성하기 위해 스키마를 사용(모든 매개변수를 쉽게 선택할 수 있도록 함)하고, 게시하기 전에는 제거합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 인증
 인증은 트리거 조건입니다. 올바른 키 값이 없으면 플로우가 실행되지 않도록 지정하여 API가 스팸으로 사용되지 않도록 보장합니다.
@@ -433,16 +307,7 @@ triggerBody()?['$multipart'][4]?['body']
 
 그게 다에요. 우리는 동적으로 사전 입력된 형식을 가지고 있고, 외부 응답자로부터 파일을 업로드하며, 디자인에 제한이 없습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 
 ![image](https://res.cloudinary.com/practicaldev/image/fetch/s--sPj7JS0N--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://i.imgur.com/tOpA9Yu.gif)

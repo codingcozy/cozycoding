@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "SwiftUI  MapKit Lets Look Around"
 link: "https://medium.com/gitconnected/swiftui-mapkit-lets-look-around-69c4a20ad3e1"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742614108
 ---
 
 

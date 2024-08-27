@@ -21,16 +21,7 @@ updatedAt: 1724244570767
 
 자세한 내용을 살펴보기 전에, 상자 모델이 무엇인지 다시 한 번 되짚어보는 것이 좋습니다. 페이지의 모든 요소는 상자입니다 (예, 심지어 모양이 실제로 상자 모양이 아닌 것도 상자입니다). 상자는 다른 상자 내부에 있을 수도 있고, 다른 상자를 포함할 수도 있고, 다른 상자와 나란히 있을 수도 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 상자 모델은 다음과 같이 적용되며 다음으로 구성됩니다:
 
@@ -43,16 +34,7 @@ updatedAt: 1724244570767
 
 ## 인라인 요소와 블록 요소 간의 주요 차이점
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 박스 모델이 인라인 요소와 블록 요소에 어떻게 영향을 미치는지의 주요 차이를 이해하는 것이 중요합니다:
 
@@ -65,16 +47,7 @@ updatedAt: 1724244570767
 
 ## 박스 크기 지정: content-box 대비 border-box
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 `box-sizing` 속성은 요소의 너비와 높이를 계산하는 방식을 제어하며 레이아웃에 큰 영향을 줄 수 있습니다.
 
@@ -85,16 +58,7 @@ updatedAt: 1724244570767
 - 너비와 높이: 너비는 콘텐츠에만 의해 결정됩니다. 여기에 패딩, 테두리, 여백이 추가됩니다.
 - 레이아웃 영향: 인라인 요소는 텍스트 흐름을 중단시키지 않기 때문에 요소의 너비는 콘텐츠의 폭만큼입니다. 수직 패딩과 테두리는 시각적으로 표시되지만 주변 줄의 높이에 영향을 주지 않습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 2. content-box with Block Elements
 
@@ -105,16 +69,7 @@ updatedAt: 1724244570767
 
 ### 3. border-box with Inline Elements
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 인라인 요소에 box-sizing: border-box가 적용되면:
 
@@ -125,16 +80,7 @@ updatedAt: 1724244570767
 
 블록 요소에 box-sizing: border-box가 적용되면:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - 너비와 높이: 지정된 너비와 높이는 내용물, 패딩 및 테두리를 포함합니다. 이는 요소의 총 크기가 지정된 차원과 일관되게 유지되므로 패딩이나 테두리를 얼마나 추가하던지 상관없이 동일한 크기로 유지됩니다.
 - 레이아웃 영향: 블록 요소의 크기는 패딩과 테두리가 지정된 너비 내에 포함되기 때문에 더 예측 가능합니다. 이는 요소를 옆으로 정렬할 때 레이아웃 디자인을 더 쉽게 관리할 수 있게 합니다.

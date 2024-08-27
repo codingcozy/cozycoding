@@ -1,5 +1,5 @@
 ---
-title: "라즈베리 파이 5에서 Piper TTS를 활용한 텍스트 음성 변환 간편 안내"
+title: "라즈베리 파이 5에서 Piper TTS를 활용한 텍스트 음성 변환 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-EasyGuidetoText-to-SpeechonRaspberryPi5UsingPiperTTS_0.png"
 date: 2024-08-26 17:29
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Easy Guide to Text-to-Speech on Raspberry Pi 5 Using Piper TTS"
 link: "https://medium.com/@vadikus/easy-guide-to-text-to-speech-on-raspberry-pi-5-using-piper-tts-cc5ed537a7f6"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743605615
 ---
 
 

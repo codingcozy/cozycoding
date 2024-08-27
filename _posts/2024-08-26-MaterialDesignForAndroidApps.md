@@ -1,5 +1,5 @@
 ---
-title: "안드로이드 앱을 위한 Material Design의 장점과 활용법"
+title: "안드로이드 앱을 위한 Material Design의 장점과 활용법 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 19:41
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Material Design For Android Apps"
 link: "https://medium.com/@deborahking1258/material-design-for-android-apps-1da73ae912d2"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742762977
 ---
 
 

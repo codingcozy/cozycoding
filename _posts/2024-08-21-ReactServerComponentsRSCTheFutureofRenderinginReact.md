@@ -21,16 +21,7 @@ updatedAt: 1724245489175
 
 이런 상황을 상상해보세요: 여러분의 리액트 컴포넌트는 록 밴드처럼 비교될 수 있어요. 리드 싱어(클라이언트 측 컴포넌트)는 관객과 상호 작용하면서 무대 앞에 서 있고, 드러머와 베이스 기타 연주자(서버 측 컴포넌트)는 모두를 뒷받침하고 있어요. 그들 없이는 전체 공연이 붕괴될 거예요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 
 ![Server Component](https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpecokrjeygiloc6wlhvn.gif)
@@ -42,16 +33,7 @@ React Server Components (RSC)는 배경 음악을 이끌어내는 주역들이�
 RSC는 서버와 클라이언트 사이의 팀워크에 관한 것이에요.
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 서버 측: 상호 작용이 필요하지 않은 구성 요소(예: 데이터 가져오기 또는 정적 콘텐츠 렌더링)는 서버에서 처리됩니다. 마치 미리 포장된 식사를 받는 것과 같아요. 모든 것이 사용 준비되어 있어 브라우저가 처음부터 요리를 할 필요가 없어요.
 
@@ -61,16 +43,7 @@ RSC는 서버와 클라이언트 사이의 팀워크에 관한 것이에요.
 
 ## 왜 관심을 가져야 할까요? 🚀
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - 친구야, 솔직하게 얘기하자면: 우리 모두가 앱이 빠르고 효율적이며 부드러워야 한다고 생각해. 여기서 RSC가 새로운 절친이 되는 이유가 있어:
 - 꽈당 빠른 로딩 시간: 서버가 주요 작업을 처리해주면 당신의 앱은 고양이가 레이저 포인터를 찾는 것보다 더 빨리 로딩돼.
@@ -84,16 +57,7 @@ React Server Components는 아직 준비 중이지만 빨리 오픈될 예정이
 
 ## 예시: 블로그 만들기! 📝
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 블로그를 만들고 있다고 상상해봐요. 뒷 부분, 즉 포스트를 가져오고 표시하는 부분은 서버에서 처리할 수 있어요. 한편, 사용자들이 상호작용하는 댓글 섹션은 클라이언트에서 처리돼요.
 
@@ -128,16 +92,7 @@ export default function CommentSection({ postId }) {
 
 이 시나리오에서 BlogPost는 서버에서 렌더링되기 때문에 사용자가 도착하는 즉시 콘텐츠가 준비돼요. 한편, 댓글 섹션은 사용자들이 지연 없이 채팅을 시작할 수 있게 클라이언트에서 대화형으로 렌더링돼요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 미래가 올 것이고, 그것은 빠릅니다 🌟
 React Server Components가 게임을 바꾸려고 합니다. 우리 앱을 더 빠르고 가볍고 똑똑하게 만들어 줄 겁니다. 아직 실험단계인 RSC이지만, React 개발의 미래가 여기에 있음은 분명합니다. 그러니 앱을 다음 수준으로 끌어올릴 준비를 해보세요!

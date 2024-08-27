@@ -1,5 +1,5 @@
 ---
-title: "안드로이드 브로드캐스트 리시버 설명 간단한 구현 방법 안내"
+title: "안드로이드 브로드캐스트 리시버 개념 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-AndroidBroadcastReceiversExplainedEasyStepstoImplement_0.png"
 date: 2024-08-26 19:22
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Android Broadcast Receivers Explained Easy Steps to Implement"
 link: "https://medium.com/@nileshg994/android-broadcast-receivers-explained-easy-steps-to-implement-6c7ee360bb06"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744036089
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "비밀번호 생성기 웹사이트 만들기 HTML, CSS, JavaScript로 만드는 방법"
+title: "HTML, CSS, JavaScript로 비밀번호 생성 웹사이트 만드는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 19:56
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Build a Password Generator Website"
 link: "https://dev.to/abhishekgurjar/build-a-password-generator-website-1o9g"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743826749
 ---
 
 
@@ -20,16 +21,7 @@ isUpdated: false
 
 패스워드 생성기는 사용자가 다양한 구성으로 패스워드를 생성할 수 있는 웹 기반 응용 프로그램입니다. 패스워드 길이를 조정하고 소문자, 대문자, 숫자 및 기호와 같은 특정 문자 유형을 포함 또는 제외할 수 있습니다. 이 프로젝트는 JavaScript를 사용하여 동적 패스워드 생성기를 구축하는 방법을 소개하며, HTML과 CSS로 구축된 깔끔하고 사용자 친화적인 인터페이스가 함께 제공됩니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 특징
 
@@ -43,16 +35,7 @@ isUpdated: false
 - CSS: 현대적이고 반응형 디자인을 보장하기 위해 인터페이스를 스타일링합니다.
 - JavaScript: 사용자 상호작용 및 비밀번호 복사를 포함한 비밀번호 생성 로직을 처리합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 프로젝트 구조
 
@@ -69,16 +52,7 @@ Password-Generator/
 - style.css: 매력적이고 반응형 디자인을 만들기 위한 CSS 스타일을 포함합니다.
 - script.js: 비밀번호 생성 기능과 사용자 상호작용을 관리합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 설치
 
@@ -97,16 +71,7 @@ cd Password-Generator
 
 ## 사용법
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - 웹 브라우저에서 웹 사이트를 열어주세요.
 - 슬라이더를 사용하여 비밀번호 길이를 조절해주세요.
@@ -120,16 +85,7 @@ cd Password-Generator
 
 index.html 파일은 비밀번호 생성기의 구조를 정의하며, 입력 필드, 컨트롤 및 디스플레이 영역을 포함합니다. 다음은 일부 코드 조각입니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 <!DOCTYPE html>
@@ -302,16 +258,7 @@ body {
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### JavaScript
 
@@ -382,16 +329,7 @@ copyIcon.addEventListener("click", () => {
 
 ## 실시간 데모
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 암호 생성기 프로젝트의 데모를 확인해보세요.
 
@@ -401,16 +339,7 @@ copyIcon.addEventListener("click", () => {
 
 ## 크레딧
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 프로젝트는 제 JavaScript 기술을 향상시키고 실용적인 웹 도구를 만들기 위한 여정의 일환으로 개발되었습니다.
 

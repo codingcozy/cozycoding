@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "The Journey Behind Simplifying Customer Onboarding at Glovo"
 link: "https://medium.com/@marianavelezg/the-journey-behind-simplifying-customer-onboarding-at-glovo-881daa7f5c77"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742582108
 ---
 
 

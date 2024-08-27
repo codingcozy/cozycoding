@@ -1,5 +1,5 @@
 ---
-title: "자바스크립트 알림창 완전 이해하기 초보자를 위한 가이드"
+title: "자바스크립트 얼럿 사용방법 정리 "
 description: ""
 coverImage: "/assets/img/2024-08-26-UnderstandingJavaScriptAlertsABeginnersGuide_0.png"
 date: 2024-08-26 17:14
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding JavaScript Alerts A Beginners Guide"
 link: "https://medium.com/stackademic/understanding-javascript-alerts-a-beginners-guide-ab84a67e07f5"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742478606
 ---
 
 

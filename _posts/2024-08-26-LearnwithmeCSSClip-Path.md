@@ -1,5 +1,5 @@
 ---
-title: "함께 배우는 CSS Clip-Path"
+title: "CSS Clip-Path 사용 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-LearnwithmeCSSClip-Path_0.png"
 date: 2024-08-26 17:48
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Learn with me CSS Clip-Path"
 link: "https://medium.com/@ls.megha812/learn-with-me-css-clip-path-679bb60f027b"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742820190
 ---
 
 

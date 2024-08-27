@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Split a Secret"
 link: "https://medium.com/@rohitg5249/how-to-split-a-secret-d92c0a57b62e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743491864
 ---
 
 

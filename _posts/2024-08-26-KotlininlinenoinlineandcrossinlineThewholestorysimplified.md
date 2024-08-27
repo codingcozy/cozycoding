@@ -1,5 +1,5 @@
 ---
-title: "Kotlin inline, noinline, crossinline 개념 쉽게 이해하기"
+title: "Kotlin inline, noinline, crossinline 개념 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-KotlininlinenoinlineandcrossinlineThewholestorysimplified_0.png"
 date: 2024-08-26 19:19
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Kotlin inline, noinline and crossinline. The whole story simplified"
 link: "https://medium.com/@shivanshgoel007/kotlin-inline-noinline-and-crossinline-the-whole-story-simplified-80a9ea802e09"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743409920
 ---
 
 

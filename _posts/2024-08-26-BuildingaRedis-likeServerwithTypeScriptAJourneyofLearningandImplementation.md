@@ -1,5 +1,5 @@
 ---
-title: "TypeScript로 Redis와 유사한 서버 구축하기 학습과 구현의 여정"
+title: "TypeScript로 Redis와 유사한 서버 구축 만드는 과정 정리"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 18:14
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Building a Redis-like Server with TypeScript A Journey of Learning and Implementation"
 link: "https://medium.com/@vivekchiragshah2004/building-a-redis-like-server-with-typescript-a-journey-of-learning-and-implementation-457fb289c288"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743691382
 ---
 
 

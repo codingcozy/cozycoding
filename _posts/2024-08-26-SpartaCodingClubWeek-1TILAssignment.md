@@ -1,5 +1,5 @@
 ---
-title: "스파르타 코딩 클럽 1주차 배운 것들과 과제 소개 "
+title: "스파르타 코딩 클럽 1주차 회고 과제 소개"
 description: ""
 coverImage: "/assets/img/2024-08-26-SpartaCodingClubWeek-1TILAssignment_0.png"
 date: 2024-08-26 17:40
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Sparta Coding Club Week-1 TIL , Assignment "
 link: "https://medium.com/@sumitchakrabortyin/sparta-coding-club-week-1-til-assignment-595ba16640fe"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742649017
 ---
 
 

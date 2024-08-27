@@ -1,5 +1,5 @@
 ---
-title: "시스템 디자인 복습 시리즈 (1)"
+title: "시스템 디자인 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-SystemDesignRevisionSeries1_0.png"
 date: 2024-08-26 18:51
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "System Design Revision Series (1)"
 link: "https://medium.com/@rishabhsoti16/system-design-revision-series-1-f1496291fc69"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742612253
 ---
 
 

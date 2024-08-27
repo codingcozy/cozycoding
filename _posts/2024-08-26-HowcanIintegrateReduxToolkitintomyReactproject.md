@@ -1,5 +1,5 @@
 ---
-title: "리액트 프로젝트에 Redux Toolkit을 통합하는 방법을 알려드릴게요."
+title: "리액트 프로젝트에 Redux Toolkit을 설정하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-HowcanIintegrateReduxToolkitintomyReactproject_0.png"
 date: 2024-08-26 18:29
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How can I integrate Redux Toolkit into my React project"
 link: "https://medium.com/@rashmipatil24/redux-toolkit-in-react-project-10624b2ee8ad"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743522156
 ---
 
 

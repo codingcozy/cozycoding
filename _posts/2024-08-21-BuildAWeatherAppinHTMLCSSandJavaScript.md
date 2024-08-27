@@ -21,16 +21,7 @@ updatedAt: 1724246063284
 
 이 안내서를 마치면 코딩 기술을 향상시킬 뿐만 아니라 구체적으로 사용하고 소개할 수 있는 실용적인 도구를 제공하는 완전히 기능적인 날씨 앱이 준비될 것입니다. 이것을 포트폴리오에 추가하거나 새로운 기술을 실험하더라도, 이 프로젝트는 당신의 웹 개발 여정에서 가치 있는 한 걸음입니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## HTML 및 JavaScript를 사용한 날씨 앱 비디오 튜토리얼
 
@@ -40,16 +31,7 @@ updatedAt: 1724246063284
 
 HTML, CSS 및 JavaScript를 사용하여 기능적인 날씨 앱을 구축하려면 다음 간단한 단계별 지침을 따르십시오:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - 마음에 드는 이름의 폴더를 만드세요. 예: weather-app.
 - 그 안에 index.html, style.css 및 script.js와 같은 필수 파일을 만드세요.
@@ -111,16 +93,7 @@ index.html 파일에는 날씨 앱 레이아웃을 구성하는 필수 HTML 마�
 
 style.css 파일에는 날씨 앱을 스타일링하고 반응형 및 시각적으로 매력적인 디자인을 제공하는 CSS 코드를 추가하세요. 다양한 색상, 폰트 및 배경을 사용하여 인터페이스를 사용자 친화적이고 매력적으로 만들어보세요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 
 /* 구글 폰트(몽세라트) 가져오기 */
@@ -163,16 +136,7 @@ body {
 // 주의: 날씨 앱은 날씨 API와 연결하기 전까지 작동하지 않습니다. WeatherAPI에서 무료 API 키를 등록하고 해당 키를 script.js 파일의 API_KEY 변수에 추가하세요. 이 키는 실시간 및 시간별 예보를 가져 올 수 있도록 앱에 권한을 부여합니다. 이 키는 다음과 같은 형식입니다: 5f2b6b5a24044bcdbbc103609241008.
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 API 키를 코드에 추가하면 날씨 앱을 사용할 준비가 끝났어요. 브라우저에서 index.html 파일을 열고 도시 이름을 입력하거나 위치를 사용하여 날씨를 확인할 수 있어요.
 
@@ -182,16 +146,7 @@ API 키를 코드에 추가하면 날씨 앱을 사용할 준비가 끝났어요
 
 기술을 더 향상시키기 위해 환율 변환기, 이미지 검색 엔진, Gemini 챗봇 등 다른 관련 JavaScript 프로젝트를 살펴볼 수 있어요. 이러한 프로젝트마다 HTML 및 CSS에 대한 이해를 향상시키고 더 나은 스타일링 기술과 API 통합에 대한 실무 경험을 얻을 수 있어요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 만약 날씨 앱을 개발하면서 문제가 발생하면, "다운로드" 버튼을 클릭하여 이 프로젝트의 소스 코드 파일을 다운로드할 수 있어요.
 

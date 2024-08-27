@@ -1,5 +1,5 @@
 ---
-title: "display none에서 display block으로 전환하는 애니메이션效果를 만드는 방법"
+title: "display none에서 display block으로 전환하는 애니메이션을 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-Animatetransitionfromdisplaynonetodisplayblock_0.png"
 date: 2024-08-26 17:24
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Animate transition from display none to display block"
 link: "https://medium.com/@centrodph/animate-transition-from-display-none-to-display-block-e71f0927ddea"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743991323
 ---
 
 

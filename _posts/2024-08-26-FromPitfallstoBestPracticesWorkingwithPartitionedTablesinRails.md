@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "From Pitfalls to Best Practices Working with Partitioned Tables in Rails."
 link: "https://medium.com/@drachevskii/avoid-issues-with-partitioned-table-in-rails-39a4fe337cca"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743575728
 ---
 
 

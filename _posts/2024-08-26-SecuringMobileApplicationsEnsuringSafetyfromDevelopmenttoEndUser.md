@@ -1,5 +1,5 @@
 ---
-title: "모바일 애플리케이션 보안 개발부터 최종 사용자까지 안전 보장"
+title: "실 서비스 모바일 애플리케이션 보안을 위해 필요한 것들"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 19:49
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Securing Mobile Applications Ensuring Safety from Development to End User"
 link: "https://medium.com/@radheshyamsingh_83359/securing-mobile-applications-ensuring-safety-from-development-to-end-user-c2cc58c1f9d3"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742671166
 ---
 
 

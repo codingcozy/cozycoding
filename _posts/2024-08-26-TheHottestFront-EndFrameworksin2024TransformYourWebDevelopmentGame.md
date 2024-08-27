@@ -1,5 +1,5 @@
 ---
-title: "2024년 최신 프론트엔드 프레임워크 웹 개발 실력 업그레이드"
+title: "웹 개발 실력을 올리기 위한 프론트엔드 프레임워크 "
 description: ""
 coverImage: "/assets/img/2024-08-26-TheHottestFront-EndFrameworksin2024TransformYourWebDevelopmentGame_0.png"
 date: 2024-08-26 18:33
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "The Hottest Front-End Frameworks in 2024 Transform Your Web Development Game"
 link: "https://medium.com/@sumerakhatoon5/the-hottest-front-end-frameworks-in-2024-transform-your-web-development-game-53d604ba7b79"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742606424
 ---
 
 

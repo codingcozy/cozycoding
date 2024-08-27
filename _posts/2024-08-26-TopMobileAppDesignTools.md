@@ -1,5 +1,5 @@
 ---
-title: "모바일 앱 디자인을 위한 최고의 도구들 - 2024 최신 버전 및 기능 목록"
+title: "2024 최신 모바일 앱 디자인을 위한 최고의 도구 모음 정리 "
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 19:40
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Top Mobile App Design Tools"
 link: "https://medium.com/@deborahking1258/top-mobile-app-design-tools-a666636866df"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742529444
 ---
 
 

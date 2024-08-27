@@ -21,16 +21,7 @@ HTML 작업 시, 인라인 요소와 블록 요소의 차이를 이해하는 것
 
 인라인 요소는 새로운 줄에서 시작하지 않고 필요한 만큼의 너비만 차지하는 HTML 요소입니다. 일반적으로 블록 요소 내에서 작은 콘텐츠 부분을 서식 지정하는 데 사용되며 텍스트의 흐름을 방해하지 않습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 일반적으로 사용되는 인라인 요소:
 
@@ -56,16 +47,7 @@ HTML 작업 시, 인라인 요소와 블록 요소의 차이를 이해하는 것
 </html>
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 출력:
 
@@ -77,16 +59,7 @@ HTML 작업 시, 인라인 요소와 블록 요소의 차이를 이해하는 것
 
 반면에 블록 요소는 새 줄에서 시작하고 사용 가능한 전체 너비를 차지하는 HTML 요소입니다. 이러한 요소는 문단, 제목 및 구획과 같은 더 큰 콘텐츠 영역을 만드는 데 사용됩니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 일반 블록 요소:
 
@@ -119,16 +92,7 @@ HTML 작업 시, 인라인 요소와 블록 요소의 차이를 이해하는 것
 </html>
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - 페이지 맨 위에 별도의 블록으로 주요 제목이 나타납니다.
 - 제목 아래의 문단도 위와 아래의 콘텐츠와 구분되어 별도의 블록으로 나타납니다.
@@ -149,16 +113,7 @@ HTML 작업 시, 인라인 요소와 블록 요소의 차이를 이해하는 것
   - 인라인 요소: 너비, 높이, 여백 및 안쪽 여백 속성은 일반적으로 인라인 요소에 영향을 주지 않습니다. 그러나 색상, 글꼴 크기, 텍스트 장식과 같은 스타일을 적용할 수 있습니다.
   - 블록 요소: 너비, 높이, 여백 및 안쪽 여백과 같은 스타일을 적용할 수 있어 레이아웃 및 디자인을 포괄적으로 제어할 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 예시: 인라인 및 블록 요소 혼용
 
@@ -193,16 +148,7 @@ HTML 작업 시, 인라인 요소와 블록 요소의 차이를 이해하는 것
 - div 요소는 블록으로 나타나며, 가용 너비의 70%를 차지하며 연한 파란색 배경이 적용됩니다.
 - span 요소는 div 내에서 인라인으로 표시되며, 빨간색으로 강조된 텍스트로 문단 흐름을 방해하지 않습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 결론
 

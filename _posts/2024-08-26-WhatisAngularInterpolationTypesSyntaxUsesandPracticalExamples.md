@@ -1,5 +1,5 @@
 ---
-title: "앵귤러 보간법 종류, 문법, 활용 및 실제 예제"
+title: "앵귤러 보간법 종류, 문법, 활용 및 예시 코드"
 description: ""
 coverImage: "/assets/img/2024-08-26-WhatisAngularInterpolationTypesSyntaxUsesandPracticalExamples_0.png"
 date: 2024-08-26 18:31
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "What is Angular Interpolation Types, Syntax, Uses, and Practical Examples."
 link: "https://medium.com/@amarjeetcs79/what-is-interpolation-in-angular-c7cad99d55aa"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742443949
 ---
 
 

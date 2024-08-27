@@ -1,5 +1,5 @@
 ---
-title: "React에서 forwardRef API를 사용하는 방법 현실적인 예제로 살펴보는 포괄적인 가이드"
+title: "React에서 forwardRef API를 사용하는 방법(코드 있음)"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 18:28
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to use forwardRef API in React A Comprehensive Guide with Real-Life Examples"
 link: "https://medium.com/zestgeek/how-to-use-forwardref-api-in-react-a-comprehensive-guide-with-real-life-examples-6a3f33fe7ebd"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743461707
 ---
 
 

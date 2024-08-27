@@ -1,5 +1,5 @@
 ---
-title: "DSA 두 개의 크리스털 공 문제 "
+title: "DSA 두 개의 크리스털 공 문제"
 description: ""
 coverImage: "/assets/img/2024-08-26-TheTwoCrystalBallsProblemDSA_0.png"
 date: 2024-08-26 18:13
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "The Two Crystal Balls Problem  DSA"
 link: "https://medium.com/@leachtucker/the-two-crystal-balls-problem-dsa-80028a374073"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742563830
 ---
 
 

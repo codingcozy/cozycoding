@@ -1,5 +1,5 @@
 ---
-title: "자바스크립트 의존성 주입이 망가졌다 wroud di가 고친 방법"
+title: "자바스크립트 의존성 주입 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-JavaScriptDependencyInjectionisBrokenHeresHowwrouddiisFixingIt_0.png"
 date: 2024-08-26 17:33
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "JavaScript Dependency Injection is Broken Heres How wroud di is Fixing It"
 link: "https://medium.com/@wroud/javascript-dependency-injection-is-broken-heres-how-wroud-di-is-fixing-it-929d3dbd1bb7"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743424961
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "동전 뒤집기 웹사이트 만들기 ReactJS와 CSS를 활용하여 함께 코딩해보세요"
+title: "ReactJS로 동전 뒤집기 웹사이트 만드는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 19:58
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Build a Flip Coin Website"
 link: "https://dev.to/abhishekgurjar/build-a-flip-coin-website-4e9n"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743920839
 ---
 
 
@@ -20,16 +21,7 @@ isUpdated: false
 
 Flip Coin은 동전 던지기를 시뮬레이션하는 웹 기반 애플리케이션입니다. 사용자들은 버튼을 클릭하여 동전을 던질 수 있으며, 결과는 화면에 표시됩니다. 이 프로젝트는 기본적인 웹 개발 기술을 보여주며, 프론트엔드 스킬을 연습할 수 있는 실용적인 방법을 제공합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 기능
 
@@ -43,16 +35,7 @@ Flip Coin은 동전 던지기를 시뮬레이션하는 웹 기반 애플리케�
 - CSS: 애플리케이션을 스타일링하고 시각적으로 매력적인 경험을 위해 애니메이션을 추가합니다.
 - JavaScript: 동전 던지기 로직을 구현하고 사용자 상호작용을 처리합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 프로젝트 구조
 
@@ -69,16 +52,7 @@ Flip-Coin/
 - style.css: 깔끔하고 상호작용적인 디자인을 위한 CSS 스타일이 포함되어 있습니다.
 - script.js: 동전 던지기 로직 및 사용자 상호작용을 관리합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 설치
 
@@ -93,16 +67,7 @@ Flip Coin 애플리케이션을 사용하려면 웹 브라우저에서 index.htm
 
 ## 사용법
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - 웹 브라우저에서 웹 사이트를 열어주세요.
 - 동전을 뒤집기 위해 "Flip Coin" 버튼을 클릭해주세요.
@@ -114,16 +79,7 @@ Flip Coin 애플리케이션을 사용하려면 웹 브라우저에서 index.htm
 
 index.html 파일은 Flip Coin 애플리케이션의 구조를 정의합니다. 버튼과 결과를 표시하는 영역이 포함되어 있습니다. 아래는 일부 코드입니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 <!DOCTYPE html>
@@ -324,16 +280,7 @@ button {
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 자바스크립트
 
@@ -391,16 +338,7 @@ resetBtn.addEventListener("click", () => {
 
 ## 실시간 데모
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 플립 코인 프로젝트의 라이브 데모를 확인할 수 있어요.
 
@@ -410,16 +348,7 @@ resetBtn.addEventListener("click", () => {
 
 ## 제작자
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 프로젝트는 실용적이고 인터랙티브한 웹 어플리케이션을 개발함으로써 내 프론트엔드 개발 스킬을 향상시키는 지속적인 여정의 일환으로 개발되었습니다.
 

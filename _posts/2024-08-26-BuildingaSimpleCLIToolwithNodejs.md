@@ -1,5 +1,5 @@
 ---
-title: "Node.js로 간단한 CLI 도구 만들기 초보자를 위한 가이드"
+title: "Node.js로 간단한 CLI 도구 만드는 방법(코드 있음)"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 18:38
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Building a Simple CLI Tool with Node.js"
 link: "https://medium.com/@tarundhiman1309/building-a-simple-cli-tool-with-node-js-6e9783e3647e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743684338
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "초보자를 위한 NestJS로 구현하는 셰넌겐 여행 일정"
+title: "NestJS로 구현하는 여행 일정 웹사이트 만들기"
 description: ""
 coverImage: "/assets/img/2024-08-26-ASchengenItineraryforaNoviceNestJSBeginner_0.png"
 date: 2024-08-26 17:35
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "A Schengen Itinerary for a Novice NestJS Beginner"
 link: "https://medium.com/@muhammedaslamc/a-schengen-itinerary-for-nestjs-e22351a38b29"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744056319
 ---
 
 

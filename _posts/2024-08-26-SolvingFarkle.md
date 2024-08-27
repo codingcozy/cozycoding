@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Solving Farkle"
 link: "https://medium.com/@mikeperrotta/solving-farkle-c5f96130e230"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742650547
 ---
 
 

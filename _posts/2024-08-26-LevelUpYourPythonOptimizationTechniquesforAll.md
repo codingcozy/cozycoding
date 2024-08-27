@@ -1,5 +1,5 @@
 ---
-title: "파이썬 레벨 업, 모두를 위한 최적화 기술"
+title: "파이썬 초보가 반드시 봐야하는 개념 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-LevelUpYourPythonOptimizationTechniquesforAll_0.png"
 date: 2024-08-26 17:27
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Level Up Your Python, Optimization Techniques for All"
 link: "https://medium.com/@nilupulmanodya/level-up-your-python-optimization-techniques-for-all-07ea1e3f471e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742813747
 ---
 
 

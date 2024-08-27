@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "The Trouble Plugin in Neovim"
 link: "https://medium.com/@adam-drake-frontend-developer/the-trouble-plugin-in-neovim-70978a360b63"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742565847
 ---
 
 

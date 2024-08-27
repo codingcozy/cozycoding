@@ -1,5 +1,5 @@
 ---
-title: "앵귤러에서 폼 다루기 빠른 안내"
+title: "앵귤러에서 폼 다루는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-FormsinAngularAQuickGuide_0.png"
 date: 2024-08-26 18:34
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Forms in Angular A Quick Guide"
 link: "https://medium.com/@anushkamahajan901/forms-in-angular-a-quick-guide-b448d3af6a9f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743584030
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "더 이상 변명하지 말고, DevTools로 당신의 Flutter 앱을 날려요"
+title: "Flutter 앱 개발자라면 DevTools를 반드시 사용해야하는 이유"
 description: ""
 coverImage: "/assets/img/2024-08-26-NoMoreExcusesMakeYourFlutterAppFlywithDevTools_0.png"
 date: 2024-08-26 19:37
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "No More Excuses Make Your Flutter App Fly with DevTools"
 link: "https://medium.com/@abdul-rahman-17/no-more-excuses-make-your-flutter-app-fly-with-devtools-173e0d1e8ad2"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742723209
 ---
 
 

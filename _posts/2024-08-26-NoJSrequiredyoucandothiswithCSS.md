@@ -1,5 +1,5 @@
 ---
-title: "CSS만으로도 가능합니다"
+title: "CSS의 발전으로 할 수 있는 많은 것들"
 description: ""
 coverImage: "/assets/img/2024-08-26-NoJSrequiredyoucandothiswithCSS_0.png"
 date: 2024-08-26 17:16
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "No JS required  you can do this with CSS"
 link: "https://medium.com/@bogdanfromkyiv/no-js-required-you-can-do-this-with-css-e4635e40502c"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742739464
 ---
 
 

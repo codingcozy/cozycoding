@@ -1,5 +1,5 @@
 ---
-title: "esbuild로 빠른 React 빌드 언락하기 완전한 설정 가이드"
+title: "esbuild로 빠른 React 빌드 언락하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-UnlockLightning-FastReactBuildswithesbuildACompleteSetupGuide_0.png"
 date: 2024-08-26 18:27
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Unlock Lightning-Fast React Builds with esbuild A Complete Setup Guide"
 link: "https://medium.com/@adityagarg2198/unlock-lightning-fast-react-builds-with-esbuild-a-complete-setup-guide-32f4432af4c8"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742457242
 ---
 
 

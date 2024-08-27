@@ -1,5 +1,5 @@
 ---
-title: "리액트에서 동시성 이해하기 더 부드럽고 더 반응적인 UI를 위한 안내"
+title: "더 부드러운 웹 사이트를 위한 리액트에서 동시성 이해하기 "
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 20:05
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Understanding Concurrency in React A Guide to Smoother and More Responsive UIs"
 link: "https://dev.to/rinonten/understanding-concurrency-in-react-a-guide-to-smoother-and-more-responsive-uis-1p70"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742502401
 ---
 
 
@@ -20,16 +21,7 @@ React에서 동시성의 간단한 정의는 React가 동시에 여러 일을 �
 
 동시성 뒤에 숨겨진 주요 아이디어들을 살펴보겠습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 1. 동시 렌더링:
 동시 렌더링을 통해 React는 동시에 여러 업데이트를 처리할 수 있습니다. 사용자가 버튼을 클릭하거나 탭 간을 전환하는 등 더 중요한 작업이 발생했을 때, React는 하나의 업데이트를 일시 중지하거나 중단하여 더 중요한 작업에 집중할 수 있습니다. 예를 들어, 사용자가 실수로 한 탭을 클릭한 후 빠르게 다른 탭으로 전환한다면, React는 첫 번째 탭이 로딩을 마치기를 기다리지 않습니다. 대신 최신 탭으로 전환하여 앱이 빠르고 응답성이 유지됩니다. React 팀이 제공한 예제를 확인해보세요.
@@ -60,16 +52,7 @@ function MyForm() {
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 예제에서 setName과 setEmail은 함께 batched되어 React가 두 번이 아닌 한 번만 다시 렌더링됩니다.
 
@@ -129,16 +112,7 @@ export default DataFetcher;
 
 데이터를 가져오는 과정에서 여러 상태 업데이트가 발생합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - fetch를 시작하기 전에 setLoading(true)를 호출하세요.
 - 이전 오류를 지우기 위해 setError(null)를 호출하세요.
@@ -155,16 +129,7 @@ export default DataFetcher;
 a. 페이지 이동:
 페이지 간 이동 시 React는 이동을 전환으로 표시할 수 있습니다. 이는 React가 새 페이지를 로드하고 준비하는 동안 현재 페이지를 계속 표시할 수 있음을 의미합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 import { useTransition, useState } from 'react';
@@ -230,16 +195,7 @@ function ItemList() {
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 여기에서는 필터 입력란에 텍스트를 입력하면 React가 필터링 프로세스를 전환으로 표시합니다. 목록은 백그라운드에서 업데이트되며 UI는 반응성을 유지합니다.
 
@@ -268,16 +224,7 @@ function Loading() {
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 예시에서는 앨범 컴포넌트에서 아티스트 세부 정보를 가져오는 척을 합니다. 데이터를 가져오기 위한 프로미스를 해결하는 동안, UI에는 로딩 텍스트가 표시됩니다. 이것은 사용자들이 아티스트의 세부 정보가 로드될 때까지 검은 페이지/UI를 보지 못하게 하는 것을 의미합니다.
 
@@ -288,15 +235,6 @@ React의 동시성은 앱이 더 복잡해지더라도 앱이 반응적이고 �
 
 여기까지입니다! 항상 읽어주셔서 감사합니다. React에서의 동시성에 대해 더 많이 배우셨기를 바랍니다. 이번 포스트를 너무 길어지지 않도록 아직 다루지 않은 기능들이 더 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 당신의 의견과 피드백은 저에게 소중합니다! 만약 제안 사항, 수정 사항 또는 개선 사항이 있으시면 자유롭게 공유해 주세요.

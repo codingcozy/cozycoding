@@ -1,5 +1,5 @@
 ---
-title: "테스트모니얼 슬라이더 웹사이트 만들기 HTML, CSS, JavaScript Tutorial"
+title: "HTML, CSS, JavaScript로 슬라이더 웹사이트 만드는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 20:13
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Build a Testimonials Slider Website"
 link: "https://dev.to/abhishekgurjar/build-a-testimonials-slider-website-3d61"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743710487
 ---
 
 
@@ -20,16 +21,7 @@ isUpdated: false
 
 Testimonials Slider는 사용자가 다음 및 이전 버튼을 사용하여 다양한 추천사를 탐색할 수 있는 웹 기반 응용 프로그램입니다. 이 프로젝트는 인터랙티브한 사용자 인터페이스를 만드는 방법, JavaScript로 상태를 관리하는 방법, 그리고 부드러운 전환을 통해 사용자 경험을 향상하는 방법을 보여줍니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 기능
 
@@ -43,16 +35,7 @@ Testimonials Slider는 사용자가 다음 및 이전 버튼을 사용하여 다
 - CSS: 깨끗하고 반응형 디자인을 보장하기 위해 사용자 인터페이스를 스타일링합니다.
 - JavaScript: 추천 사례 탐색 및 사용자 상호작용을 관리합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 프로젝트 구조
 
@@ -69,16 +52,7 @@ Testimonials-Slider/
 - style.css: 애플리케이션의 모습과 반응성을 향상시키는 CSS 스타일이 포함되어 있습니다.
 - script.js: Testimonial 네비게이션 로직 및 사용자 상호작용을 관리합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 설치
 
@@ -94,16 +68,7 @@ cd Testimonials-Slider
 
 ## 사용법
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - 웹 브라우저에서 웹 사이트를 열어 주세요.
 - 다양한 추천 사례를 확인하려면 "다음" 또는 "이전" 버튼을 클릭하여 탐색해주세요.
@@ -115,16 +80,7 @@ cd Testimonials-Slider
 
 index.html 파일은 추천 사례 슬라이더의 기본 구조를 제공합니다. 여기에는 추천 사례 내용과 탐색 버튼이 포함되어 있습니다. 다음은 코드 예시입니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 <!DOCTYPE html>
@@ -203,16 +159,7 @@ body {
 /* 추가 스타일 */
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 자바스크립트
 
@@ -245,29 +192,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ## 실시간 데모
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 위의 표를 마크다운 형식으로 바꿔주시면 됩니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 프로젝트는 웹 개발 학습 여정의 일환으로 개발되었습니다. 인터랙티브한 사용자 인터페이스를 만드는 데 중점을 두었습니다.
 

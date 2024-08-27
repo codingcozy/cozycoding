@@ -1,5 +1,5 @@
 ---
-title: "Kotlin 2.0.20 Compose 컴파일러의 주요 업데이트"
+title: "Kotlin 2.0.20 Compose 컴파일러의 주요 업데이트 내용 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-Kotlin2020KeyUpdatestotheComposeCompiler_0.png"
 date: 2024-08-26 19:18
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Kotlin 2.0.20 Key Updates to the Compose Compiler"
 link: "https://medium.com/@camp888/kotlin-2-0-20-release-interesting-things-about-compose-compiler-update-bb8a64d1cb9a"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743413296
 ---
 
 

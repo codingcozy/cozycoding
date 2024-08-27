@@ -1,5 +1,5 @@
 ---
-title: "CSS Flexbox 쉽게 배우는 방법"
+title: "CSS Flexbox를 가장 쉽게 배우는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-LearnCSSFlexboxtheeasyway_0.png"
 date: 2024-08-26 17:54
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Learn CSS Flexbox, the easy way"
 link: "https://medium.com/gitconnected/learn-css-flexbox-the-easy-way-27bd01922040"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742826273
 ---
 
 

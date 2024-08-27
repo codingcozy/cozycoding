@@ -1,5 +1,5 @@
 ---
-title: "타입스크립트 vs 자바스크립트 끝나지 않는 논쟁"
+title: "타입스크립트 vs 자바스크립트 2024년엔 어떤 것을 써야할까"
 description: ""
 coverImage: "/assets/img/2024-08-26-TypeScriptorJavaScriptAneverendingdebate_0.png"
 date: 2024-08-26 17:31
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "TypeScript or JavaScript A never ending debate"
 link: "https://medium.com/@zhibeck/typescript-vs-javascript-for-frontend-development-a-never-ending-debate-f8f3cff4b233"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742512875
 ---
 
 

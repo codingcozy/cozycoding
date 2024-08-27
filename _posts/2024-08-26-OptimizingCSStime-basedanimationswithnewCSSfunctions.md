@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Optimizing CSS time-based animations with new CSS functions"
 link: "https://dev.to/logrocket/optimizing-css-time-based-animations-with-new-css-functions-4a2i"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742697825
 ---
 
 
@@ -20,16 +21,7 @@ isUpdated: false
 
 새로운 CSS 함수를 활용한 CSS의 시간 기반 애니메이션에 대한 이 글을 최대한 활용하기 위해서는 CSS 애니메이션 및 전환에 대한 좋은 이해가 있어야 합니다. @keyframes를 사용하여 애니메이션을 만들고 그 시간을 제어하는 방법을 알아야 합니다. 또한 DOM 요소를 조작하고 사용자 이벤트에 응답하는 능력에 초점을 맞춘 자바스크립트의 기본적인 이해가 필요합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 마지막으로, calc()와 같은 새로운 CSS 함수에 대한 이해, 그리고 mod(), sin()과 cos()를 포함한 삼각함수, 그리고 round()과 같은 새로운 기능들을 탐험할 준비가 되어 있다면 훌륭한 기초가 될 것입니다.
 
@@ -39,16 +31,7 @@ isUpdated: false
 
 ## CSS 시간 기반 애니메이션이란?
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 시간 기반 애니메이션은 새로운 것이 아닙니다 - 이들은 10년 이상 되어왔습니다. 어떤 것은 복잡하여 사용하기 어렵지만, 다른 것들은 그렇지 않습니다. 수학적 계산이 주된 역할을 하는 CSS 파일들을 아십니까? 시간 기반 애니메이션은 그 중 일부입니다.
 
@@ -58,16 +41,7 @@ isUpdated: false
 
 시간 기반 애니메이션은 CSS 변수와 몇 가지 수학적 함수의 결합으로 발생합니다. 이 통합을 통해 개발자는 시간이 흐름에 따라 변화하는 애니메이션을 만들 수 있으며, 키프레임 애니메이션만 꿈꿀 수 있는 보다 유연한 애니메이션 결과를 얻을 수 있습니다. 이제 핵심 개념과 작동 방식을 자세히 살펴보겠습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 시간 기반 애니메이션 분해
 
@@ -77,16 +51,7 @@ isUpdated: false
 
 초기 상태는 애니메이션이 시작하기 전 요소의 초기 속성을 정의합니다. 이는 지정된 위치, 크기, 색상, 불투명도 등이 될 수 있습니다. 아래에 예시가 있습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 .box {
@@ -101,16 +66,7 @@ isUpdated: false
 
 애니메이션의 속성에는 애니메이션 지속 시간, 타이밍 함수, 지연, 반복 횟수, 방향 및 채우기 모드가 있습니다. 애니메이션은 이러한 속성 중 일부 또는 모두를 가질 수 있습니다. 호버 선택기가 있는 예제 트리거는 아래에 표시되어 있습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 .box:hover {
@@ -124,16 +80,7 @@ isUpdated: false
 
 이전에 설명한대로, 이들은 타임라인 상의 여러 지점에 걸쳐 애니메이션의 중간 상태입니다. 각 키프레임은 특정 시점의 요소 속성을 지정하여 초기 및 최종 상태 사이의 점진적인 전환을 허용합니다. 보간점의 예시 구현은 CSS keyframes 속성입니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 @keyframes fadeIn {
@@ -154,16 +101,7 @@ isUpdated: false
 
 시간을 기반으로 한 애니메이션은 웹 애플리케이션에서 점점 더 중요해지고 있습니다. 이는 더 나은 사용자 경험을 제공하는 데 도움이 됩니다. 이러한 애니메이션의 사용은 섬세한 마이크로 상호작용에서부터 중요한 사이트 전환까지 다양하며, 웹 앱에 더 동적인 느낌을 제공합니다. 아래는 이러한 애니메이션의 일반적인 사용 사례입니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 마이크로 상호작용
 
@@ -173,16 +111,7 @@ isUpdated: false
 
 ### 전환
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 웹 애플리케이션에서 상태나 페이지 변경을 나타내기 위해 사이트 전환 효과는 페이딩, 슬라이딩 또는 요소 크기 조정과 같은 효과를 사용하여 유동적인 사용자 경험을 만들어냅니다. 시간 기반 애니메이션을 활용하여 이러한 전환 효과를 구현할 수 있습니다. 전환 효과를 주로 사용하는 예시로는 네비게이션 및 측면 메뉴 전환, 패럴랙스 애니메이션, 모달 창의 열기 및 닫기 등이 있습니다.
 
@@ -192,16 +121,7 @@ isUpdated: false
 
 ## 새로운 CSS 함수 탐색
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 새로운 수학적인 CSS 함수 mod(), round(), 그리고 삼각함수 sin(), cos(), tan()에 대해 자세히 설명해보면서 알아봅시다.
 
@@ -211,31 +131,13 @@ JavaScript의 모듈로 연산자 % 와 마찬가지로, 이 함수는 두 피�
 
 이 작업은 나머지가 2인 모듈러스를 남길 것이며, 10은 나눗수 4로만 두 번 나눌 수 있기 때문에 나머지로 값 2를 남깁니다. 비슷하게, CSS Mod 함수는 대신 다음 구문으로 동일한 기능을 수행할 것입니다: mod(10, 4).
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 피제수(dividend)와 제수(divisor)를 가지는 mod() 함수는 두 개의 쉼표로 구분된 두 세트의 매개변수를 주로 허용합니다. 이러한 피연산자는 유효하게만 하기 위해 동일한 차원이어야 하며, 매개변수로 다양한 값을 사용할 수 있어 응용 범위가 향상됩니다. mod()로 전달된 피연산자는 숫자, 백분율 또는 차원이 될 수 있습니다.
 
 또한 mod()는 피연산자의 단위(예: px, rem, vh, deg)를 수용하고 나눗셈 또는 제수로 수학 계산을 처리할 수도 있습니다. 이 CSS 함수의 사용 예시를 보여주는 몇 가지 예제는 아래에 있습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 /* 사용자 단위 없는 <숫자> 사용 */
@@ -262,16 +164,7 @@ rotate: mod(10turn, 8turn/2); /* 결과는 2turn */
 
 아래에는 MDN에서 설명된 mod()의 모든 가능성에 대한 일반적인 구문을 찾을 수 있습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 <mod()> = 
@@ -304,16 +197,7 @@ rotate: mod(10turn, 8turn/2); /* 결과는 2turn */
 
 CSS round() 함수 값은 지정된 반올림 전략에 기반합니다. 여기서 전략은 값의 반올림 패턴인 반올림 상향 또는 내림, 제로에 반올림, 숫자의 가장 가까운 발생 지점에 반올림 등을 의미합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### round() 함수의 매개변수 및 구문
 
@@ -325,16 +209,7 @@ round(<rounding-strategy>, valueToRound, roundingInterval)
 
 이곳에서 CSS `round()` 함수를 작은 부분으로 쪼개어 각 키워드의 역할 및 가능한 값에 대한 하이라이트를 설명합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 반올림 전략
 
@@ -347,16 +222,7 @@ round(<rounding-strategy>, valueToRound, roundingInterval)
 
 ### valueToRound
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 함수를 사용하여 반올림하려는 값이며 `number`, `dimension`, `percentage`또는 mod() 함수에서 사용한 것처럼 수학 표현식일 수 있습니다.
 
@@ -366,16 +232,7 @@ round(<rounding-strategy>, valueToRound, roundingInterval)
 
 아래는 CSS round() 함수 사용 예시입니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 <!DOCTYPE html>
@@ -461,16 +318,7 @@ round(<rounding-strategy>, valueToRound, roundingInterval)
 
 위 구문에서 rounding-strategy는 의도된 반올림 패턴이며, calc-sum은 피연산자를 나타냅니다. 이 공식은 rounding-strategy와 calc-sum에 입력할 수 있는 가능한 항목을 보여줍니다. 마지막으로, 가능한 calc-keywords인 e, pi, infinity, -infinity, NaN을 개요로 보여줍니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 삼각 함수
 
@@ -480,16 +328,7 @@ CSS 삼각 함수는 수학에서와 같은 작업을 수행합니다. sin() 함
 
 아래에 이러한 함수의 예시 응용이 표시되어 있습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 scale: sin(45deg); /* 결과는 0.7071067811865475 */
@@ -503,16 +342,7 @@ height: calc(50px * tan(30deg)); /* 결과는 28.86751345948129px */
 
 Sin()은 하나의 매개변수만을 취하며, 숫자 또는 각도이거나 이 둘 중 하나로 해결되는 수학식을 취합니다. Sin()의 구문은 다음과 같습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 sin(angle)
@@ -547,16 +377,7 @@ sin()의 형식은 아래와 같이 표시됩니다:
 
 위 문법은 calc-sum 및 calc-keyword의 가능한 값들을 보여줍니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 #### cos() 함수의 매개변수와 구문
 
@@ -568,16 +389,7 @@ cos() 함수의 매개변수는 숫자, 각도 또는 하나의 계산이 포함
 cos(각도)
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 모든 가능성의 cos()의 형식 구문은 아래와 같습니다:
 
@@ -610,16 +422,7 @@ cos(각도)
 
 #### tan()의 매개변수 및 구문
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 tan() 함수는 숫자, 각도 또는 다른 삼각함수와 유사한 방식으로 변환해야 하는 단일 계산을 취할 수도 있습니다. tan()의 구문은 다음과 같습니다:
 
@@ -654,16 +457,7 @@ tan(각도)
   NaN        
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 구문은 calc-sum, 피연산자 및 calc 키워드의 모든 가능한 값들을 보여줍니다.
 
@@ -673,16 +467,7 @@ tan(각도)
 
 ### CSS 함수를 사용하여 애니메이션 생성하기
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 음악 비트 바 애니메이션을 CSS 함수를 사용하여 만들어 보겠습니다. 이 애니메이션은 여러 막대를 애니메이션화하여 CSS 함수로 생성된 값으로 높이와 배경색 속성을 변경하는 데 중점을 둡니다.
 
@@ -694,16 +479,7 @@ tan(각도)
 - 그 다음, 각 막대에 높이 전환을 적용합니다. 이는 변수에서 얻은 값에 따라 다릅니다.
 - 마지막으로 HTML 요소 구조가 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uVfE0NdB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://blog.logrocket.com/wp-content/uploads/2024/07/Music-beat-bar-animation-css.gif%3Fw%3D800" />
 
@@ -809,16 +585,7 @@ tan(각도)
     // 이하 생략
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```html
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3jymcR7n--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://blog.logrocket.com/wp-content/uploads/2024/07/Music-beat-bar-keyframes.gif%3Fw%3D600" />
@@ -956,16 +723,7 @@ tan(각도)
 </html>
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9B10SJZp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://blog.logrocket.com/wp-content/uploads/2024/07/Music-beat-bar-javascript.gif%3Fw%3D600" />
 
@@ -975,16 +733,7 @@ tan(각도)
 
 위에서 볼 수 있듯이 CSS를 애니메이션에 사용할 때 다른 구현 방법과 비교했을 때 간결성, 코드 재사용성, 제어 및 성능 면에서 우수하다는 것을 알 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 결론
 
@@ -994,16 +743,7 @@ tan(각도)
 
 이는 결과적으로 사용자 경험을 향상시켜줍니다. 계속해서 이러한 함수들을 탐구하고, 코딩을 계속해보세요!!
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 프론트엔드가 사용자의 CPU를 소비하고 있나요?
 
@@ -1013,15 +753,6 @@ tan(각도)
 
 LogRocket은 웹 앱, 모바일 앱 또는 웹사이트에서 발생하는 모든 일들을 기록하는 웹 및 모바일 앱용 DVR과 같습니다. 문제가 발생한 이유를 추측하는 대신, 핵심 프론트엔드 성능 지표를 집계하고 보고하며, 사용자 세션을 애플리케이션 상태와 함께 다시 재생하고, 네트워크 요청을 기록하며, 모든 오류를 자동으로 노출합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 웹 및 모바일 앱의 디버깅을 현대화하세요 - 무료 모니터링을 시작하세요.

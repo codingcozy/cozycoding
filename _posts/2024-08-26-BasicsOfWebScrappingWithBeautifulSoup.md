@@ -1,5 +1,5 @@
 ---
-title: "아름답게 웹 스크래핑하기 BeautifulSoup과 함께"
+title: "가장 쉬운 웹 크롤링 방법, BeautifulSoup 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-BasicsOfWebScrappingWithBeautifulSoup_0.png"
 date: 2024-08-26 17:57
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Basics Of Web Scrapping With BeautifulSoup"
 link: "https://medium.com/@officialashharps/basics-of-web-scrapping-with-beautifulsoup-67e9ad6796c2"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743983735
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "이번 주의 React 소식 197 Waku, Effect, TanStack, Framer Motion, use() 등의 최신 기술 소식을 알려줘"
+title: "React 새로운 기능  Waku, Effect, TanStack, Framer Motion, use() 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-ThisWeekInReact197WakuEffectTanStackFramerMotionusePreactValtioAstroThreejsNitrogen_0.png"
 date: 2024-08-26 20:03
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "This Week In React 197  Waku, Effect, TanStack, Framer Motion, use(), Preact, Valtio, Astro, Three.js, Nitrogen..."
 link: "https://dev.to/sebastienlorber/this-week-in-react-197-waku-effect-tanstack-framer-motion-use-preact-valtio-astro-threejs-nitrogen-3efl"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742560977
 ---
 
 
@@ -20,16 +21,7 @@ Theodo Apps(이전 BAM)의 Cyril과 Matthieu입니다👋, Seb 대신 React와 R
 
 파트너 컨퍼런스 React Advanced London (🇬🇧 런던 - 10월 25일 & 28일)도 확인해보세요. 우리는 선진 React 토크의 아이디어를 정말 좋아하고, 지금까지 라인업이 실망시키지 않았습니다!👌
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 💡 매주 이메일을 받으려면 공식 뉴스레터를 구독해보세요!
 
@@ -39,16 +31,7 @@ Theodo Apps(이전 BAM)의 Cyril과 Matthieu입니다👋, Seb 대신 React와 R
 
 ![이미지](/assets/img/2024-08-26-ThisWeekInReact197WakuEffectTanStackFramerMotionusePreactValtioAstroThreejsNitrogen_1.png)
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 React PR 리뷰가 컴포넌트 혼돈으로 변하고 있나요?
 
@@ -60,16 +43,7 @@ CodeRabbit은 다음을 지원합니다:
 - Component Structure Review: 구체적인 컴포넌트 구조 요약을 활용하여 더 나은 구성을 위한 제안을 받아보세요.
 - Actionable Code Review Comments: 1-클릭 커밋 제안으로 PR에서 코드 수정을 수행하세요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 CodeRabbit은 모든 오픈 소스 저장소에 무료로 제공됩니다. 오늘 바로 시작해보세요!
 
@@ -79,16 +53,7 @@ CodeRabbit은 모든 오픈 소스 저장소에 무료로 제공됩니다. 오�
 
 Waku v0.21 - React Server Actions에 대한 완벽한 지원
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 리액트 서버 컴포넌트는 새로운 "리액트 프레임워크"의 새로운 파도를 일으켰어요. 조타이 (jotai, valtio의 창조자인 Daishi Kato가 만든 '와쿠(Waku)'도 그 중 하나에요. 이것은 Next.js 외부에서 서버 컴포넌트를 지원하는 최초의 프레임워크 중 하나였어요.
 
@@ -98,16 +63,7 @@ Waku v0.21 - React Server Actions에 대한 완벽한 지원
 
 리액트부터 이펙트까지
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 마이클 아르 날디(Michael Arnaldi)는 Effect의 창시자로, Effect와 React에서 사용하는 모델이 어떻게 유사한지 설명했습니다. Effect는 강력한 툴킷이지만 시작하기가 다소 어렵다는데, 마치 새로운 언어처럼요. 이미 익숙한 것들과 유사점을 찾아내는 것이 도움이 될 것입니다.
 
@@ -136,16 +92,7 @@ Effect에서 React와 마찬가지로 작성하는 대부분의 코드는 "청�
 
 ## 💸 스폰서
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 
 ![이미지](/assets/img/2024-08-26-ThisWeekInReact197WakuEffectTanStackFramerMotionusePreactValtioAstroThreejsNitrogen_4.png)
@@ -157,16 +104,7 @@ Storybook, Playwright 및 Cypress에 대한 시각적 테스트
 별도의 테스트 케이스나 구성이 필요하지 않습니다. Chromatic은 기존의 Storybook, Playwright 또는 Cypress 설정에 연결하여 응용 프로그램 UI의 시각적 테스트를 활성화합니다. 모든 테스트는 Chromatic의 초고속 캡처 클라우드 인프라에서 지원되며 별도 비용 없이 병렬로 실행됩니다.
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 설정은 딱 2분이면 끝나요. 그리고 저희 기본 요금제에는 매월 5,000개의 무료 스냅샷이 포함돼 있어요. 오늘 바로 시작해보세요 »
 
@@ -176,16 +114,7 @@ React Native 0.75
 
 이번 주에는 React Native 0.75가 릴리스되었는데, 핵심 팀은 생산 준비가 완료된 앱을 구축하기 위해 Expo와 같은 React Native 프레임워크를 사용하는 것을 강력히 권장했어요. 이러한 변화를 반영해, 핵심 React Native 패키지에서 /template 폴더가 제거되었고, 2024년 말까지 react-native init 명령어가 폐기될 예정이지만 둘 다 @react-native-community 패키지 내에서는 여전히 사용할 수 있어요. 이번 업데이트를 통해 성능이 향상되는 것뿐만 아니라 자동 연결 빌드 단계 중에 향상된 성능을 보여주고, 새 구조가 활성화되면 gap, columnGap, rowGap 및 translation 속성에 백분율 사용이 가능한 Yoga 3.1이 추가되었어요. 이러한 개선 사항을 통해 새 구조를 도입하는 것이 최신 기능 및 안정성 향상에 필수적임을 알 수 있어요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 🔀 기타
 
@@ -206,16 +135,7 @@ React Native 0.75
 
 ## 🤭 재미
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 
 ![2024-08-26-ThisWeekInReact197WakuEffectTanStackFramerMotionusePreactValtioAstroThreejsNitrogen_5.png](/assets/img/2024-08-26-ThisWeekInReact197WakuEffectTanStackFramerMotionusePreactValtioAstroThreejsNitrogen_5.png)

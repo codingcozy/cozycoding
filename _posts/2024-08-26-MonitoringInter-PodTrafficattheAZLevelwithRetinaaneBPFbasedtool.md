@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Monitoring Inter-Pod Traffic at the AZ Level with Retina (an eBPF based tool)"
 link: "https://medium.com/@j.aslanov94/monitoring-inter-pod-traffic-at-the-az-level-with-ebpf-based-tool-retina-7a79818e305b"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742750535
 ---
 
 

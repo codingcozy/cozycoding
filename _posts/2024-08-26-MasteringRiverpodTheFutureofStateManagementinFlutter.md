@@ -1,5 +1,5 @@
 ---
-title: "리버포드 마스터하기 플러터에서의 상태 관리의 미래"
+title: "플러터에서 상태 관리하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 19:38
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Riverpod The Future of State Management in Flutter"
 link: "https://medium.com/@sharjeel-482/mastering-riverpod-the-future-of-state-management-in-flutter-c2aebb3382d8"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742772940
 ---
 
 

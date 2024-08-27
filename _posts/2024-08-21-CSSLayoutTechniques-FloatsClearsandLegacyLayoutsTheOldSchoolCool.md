@@ -21,16 +21,7 @@ updatedAt: 1724246047608
 
 ## Floats: 최초의 레이아웃 요술사
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 CSS 세계의 반항아로서 float를 상상해보세요. 항상 줄 밖으로 벗어나 조금의 혼란을 일으키죠. float는 원래 이미지 주변에 텍스트를 감싸기 위해 설계되었지만, 뛰어난 개발자들은 곧 그것을 레이아웃을 만들기 위해 사용할 수 있다는 것을 깨달았어요.
 
@@ -45,16 +36,7 @@ img {
 
 ## Clears: 평화를 지키는 자들
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 플롯이 조금 방심스러웠을 수도 있지만, 클리어는 그들의 평화 수호자였다. 클리어 속성은 플롯이 만들 수 있는 혼돈을 해결하기 위해 개입하는 중재자와 같다. 만약 플롯을 사용하고 있는데 요소들이 서로 겹치거나 예상과 다르게 동작한다면, 클리어가 도움이 될 수 있어.
 
@@ -70,16 +52,7 @@ img {
 
 ## 과거의 레이아웃 기술: 레트로 부활
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 플렉스박스와 그리드가 주목을 받기 전 CSS에는 몇 가지 더 트릭이 있었어요. 여기 몇 가지 클래식 레이아웃 기술이 있습니다:
 
@@ -95,16 +68,7 @@ img {
 
 - 테이블 레이아웃: 네, 테이블은 표 데이터만을 위한 것이 아니에요! display: table;, display: table-row;, display: table-cell;을 사용하여 그리드 형식의 레이아웃을 만들 수 있어요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 .container {
@@ -124,16 +88,7 @@ img {
 
 그래서, 현대 웹 디자인 세계에서는 여전히 플롯과 클리어가 자리를 차지하고 있을까요? 절대로요! Flexbox와 Grid가 현재 레이아웃을 만드는 데 주로 사용되는 도구이지만, 플롯과 클리어는 간단한 레이아웃이나 레거시 코드와 작업할 때와 같이 특정 시나리오에서 여전히 유용할 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 예를 들어 텍스트 래핑이 필요할 때나 몇 가지 요소를 간단하게 정렬하고 싶을 때에는 floats를 사용할 수 있습니다. 그러나 복잡하고 반응형 레이아웃을 만들고 싶다면, Flexbox와 Grid가 여러분의 가장 친한 친구가 될 것입니다.
 

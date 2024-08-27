@@ -1,5 +1,5 @@
 ---
-title: "플러터 3.24의 새로운 기능 및 업데이트"
+title: "플러터 3.24 버전에 새롭게 추가된 기능 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-WhatsnewinFlutter324_0.png"
 date: 2024-08-26 19:45
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Whats new in Flutter 3.24"
 link: "https://medium.com/flutter/whats-new-in-flutter-3-24-6c040f87d1e4"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742410397
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "플라스크(Flask)를 이용한 메뉴 프로젝트의 프로젝트 문서"
+title: "플라스크(Flask)를 이용한 메뉴 프로젝트 만드는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 17:05
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Project Documentation For menu project using flask"
 link: "https://medium.com/@bhaibhupesh10/project-documentation-flask-google-search-application-7fa0adfc0053"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742694297
 ---
 
 

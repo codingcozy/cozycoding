@@ -21,16 +21,7 @@ updatedAt: 1724245714404
 
 정의: 클래스 또는 구성 요소는 변경할 이유가 하나여야 하며, 즉 단일 책임에 집중해야 합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 리액트에서: 각 컴포넌트는 특정 기능을 처리해야 합니다. 이렇게 하면 컴포넌트를 더 재사용 가능하고 디버그 또는 업데이트하기 쉬워집니다.
 
@@ -56,16 +47,7 @@ const AuthManager = () => (
 
 이 예시에서 UserProfile은 사용자 프로필을 표시하는 것에만 관여하며, AuthManager는 인증 프로세스를 처리합니다. 이러한 책임을 분리함으로써 SRP를 따르며, 각 컴포넌트를 관리하고 테스트하기 쉽게 만듭니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 2. 오픈/폐쇄 원칙 (OCP)
 
@@ -75,16 +57,7 @@ React에서: 기능을 수정하지 않고도 새로운 기능으로 확장할 �
 
 ### 예시:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 // Button.js
@@ -107,16 +80,7 @@ const IconButton = ({ icon, label, onClick }) => (
 정의: 수퍼 클래스의 객체는 하위 클래스의 객체로 대체될 수 있어야 하며 프로그램의 정확성에 영향을 미치지 않아야 합니다.
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 리액트에서: 컴포넌트를 생성할 때 파생된 컴포넌트가 애플리케이션을 망가뜨리지 않고 부모 컴포넌트를 매끄럽게 대체할 수 있도록 해야 합니다.
 
@@ -143,16 +107,7 @@ const SecondaryButton = ({ label, onClick, ...props }) => (
 
 PrimaryButton과 SecondaryButton은 Button 컴포넌트를 확장하여 특정 스타일을 추가하지만 여전히 Button 컴포넌트와 상호 교체하여 사용할 수 있습니다. LSP를 준수함으로써 이러한 컴포넌트는 대체될 때 애플리케이션이 지속적으로 일관되고 버그가 없음을 보장합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 4. Interface Segregation Principle (ISP)
 
@@ -162,16 +117,7 @@ PrimaryButton과 SecondaryButton은 Button 컴포넌트를 확장하여 특정 �
 
 ### 예시:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 // TextInput.js
@@ -219,16 +165,7 @@ const UserForm = ({ user, setUser }) => {
 정의: 고수준 모듈은 저수준 모듈에 의존해서는 안되며 둘 다 추상화에 의존해야 합니다.
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 리액트에서는 훅스(hooks)와 컨텍스트(context)를 사용하여 의존성과 상태를 관리하고, 컴포넌트가 특정 구현에 강하게 결합되지 않도록 합니다.
 
@@ -252,16 +189,7 @@ class AuthService {
 export default AuthService;
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 #### 단계 2: 특정 인증 서비스 구현
 
@@ -311,16 +239,7 @@ export default AuthOService;
 
 #### 단계 3: Auth Context 및 Provider 생성
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 // AuthContext.js
@@ -381,16 +300,7 @@ export default Login;
 #### 단계 5: 앱에 프로바이더 통합하기
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 // App.js
@@ -417,16 +327,7 @@ export default App;
 - 테스트 용이성: 추상화의 사용으로 테스트에서 서비스를 가로채기 쉬워져 컴포넌트를 격리해서 테스트할 수 있습니다.
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 결론
 

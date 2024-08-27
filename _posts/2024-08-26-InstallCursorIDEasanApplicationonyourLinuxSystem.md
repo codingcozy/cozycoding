@@ -1,5 +1,5 @@
 ---
-title: "리눅스 시스템에 어플리케이션으로 Cursor IDE 설치하기"
+title: "리눅스 시스템에 어플리케이션으로 Cursor IDE 설치하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-InstallCursorIDEasanApplicationonyourLinuxSystem_0.png"
 date: 2024-08-26 19:25
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Install Cursor IDE as an Application on your Linux System"
 link: "https://medium.com/@zohebabai/install-cursor-ai-as-an-application-on-a-linux-system-b859e7d28f5f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743442369
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "HTML에서 도수 기호를 작성하는 방법"
+title: "HTML에서 온도 도수 표기하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-HowtowriteadegreesymbolinHTML_0.png"
 date: 2024-08-26 17:01
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to write a degree symbol in HTML "
 link: "https://medium.com/@frontendinterviewquestions/how-to-write-a-degree-symbol-in-html-61406f387455"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743454967
 ---
 
 

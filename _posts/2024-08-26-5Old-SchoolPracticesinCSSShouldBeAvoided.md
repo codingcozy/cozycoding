@@ -1,5 +1,5 @@
 ---
-title: "CSS에서 피해야 할 5가지 올드스쿨 방식"
+title: "CSS에서 피해야 할 5가지 안좋은 방식"
 description: ""
 coverImage: "/assets/img/2024-08-26-5Old-SchoolPracticesinCSSShouldBeAvoided_0.png"
 date: 2024-08-26 17:20
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "5 Old-School Practices in CSS Should Be Avoided"
 link: "https://medium.com/@bogdanfromkyiv/5-old-school-practices-in-css-should-be-avoided-0122f89d7b92"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744133680
 ---
 
 

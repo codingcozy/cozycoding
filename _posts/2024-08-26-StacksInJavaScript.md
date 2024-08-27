@@ -1,5 +1,5 @@
 ---
-title: "자바스크립트에서 사용되는 스택 자료구조와 메서드들"
+title: "자바스크립트에서 사용되는 스택 자료구조와 메서드들 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-StacksInJavaScript_0.png"
 date: 2024-08-26 18:19
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Stacks In JavaScript"
 link: "https://medium.com/@talha_nuh/stacks-in-javascript-d0c2658af32b"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742637723
 ---
 
 

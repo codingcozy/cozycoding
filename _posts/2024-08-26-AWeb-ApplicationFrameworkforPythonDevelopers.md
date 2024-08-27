@@ -1,5 +1,5 @@
 ---
-title: "파이썬 개발자를 위한 웹 애플리케이션 프레임워크 Django, Flask 등"
+title: "파이썬 개발자를 위한 웹 애플리케이션 프레임워크 Django, Flask 등 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-AWeb-ApplicationFrameworkforPythonDevelopers_0.png"
 date: 2024-08-26 17:25
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "A Web-Application Framework for Python Developers"
 link: "https://medium.com/datadriveninvestor/a-web-application-framework-for-python-developers-0e8d5ad3be7a"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744046200
 ---
 
 

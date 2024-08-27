@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Build your own LinkTree (Taplink) with Python and GitHub Pages"
 link: "https://dev.to/king_triton/build-your-own-linktree-taplink-with-python-and-github-pages-3lnk"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743657664
 ---
 
 
@@ -20,16 +21,7 @@ isUpdated: false
 
 ### 단계 1: 프로젝트 파일 구조 준비하기
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 먼저 프로젝트를 위한 파일 구조를 만들어봅시다. GitHub Pages에 쉽게 유지보수하고 배포할 수 있도록 구성해보겠습니다.
 
@@ -51,16 +43,7 @@ isUpdated: false
 - generate_site.py: config.yml에서 가져온 데이터를 기반으로 사이트를 생성하는 파이썬 스크립트입니다.
 - /themes: 사이트를 위한 테마가 들어있는 폴더입니다. 여기서는 HTML 템플릿, 스타일, 스크립트 및 이미지가 포함된 사용자 정의 테마가 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 단계 2: 구성 파일(config.yml) 구성하기
 
@@ -97,16 +80,7 @@ theme: "custom"
 - links: 사이트에 표시될 링크 목록입니다. 각 항목에는 이름과 URL이 포함됩니다.
 - theme: 사용할 사이트 테마입니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 단계 3: 사이트를 생성하는 Python 스크립트 개발하기 (generate_site.py)
 
@@ -150,16 +124,7 @@ print("사이트가 성공적으로 생성되었습니다.")
 - HTML 파일 생성: 스크립트는 구성 데이터를 사용하여 index.html을 생성하고 docs 폴더에 저장합니다.
 - 에셋 복사: 모든 에셋(CSS, 이미지, 스크립트)은 docs/assets 폴더로 복사됩니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 단계 4: 테마 및 에셋 생성
 
@@ -169,16 +134,7 @@ print("사이트가 성공적으로 생성되었습니다.")
 
 이 파일은 구성 파일에서 변수를 사용하여 사이트에 대한 메인 HTML 템플릿입니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 <!DOCTYPE html>
@@ -396,16 +352,7 @@ footer {
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 #### themes/custom/assets/js/script.js
 
@@ -420,16 +367,7 @@ document.querySelector(".year").innerText = yearDate;
 
 #### themes/custom/assets/img/picture.jpg
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 아바타로 사용된 사진이에요.
 
@@ -441,16 +379,7 @@ document.querySelector(".year").innerText = yearDate;
 python generate_site.py
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 사이트는 docs 폴더에 생성될 것입니다.
 
@@ -464,16 +393,7 @@ python generate_site.py
 - 페이지 섹션에서 마스터 브랜치와 /docs 폴더를 소스로 선택합니다.
 - 변경 사항을 저장하고 GitHub Pages가 사이트를 배포할 때까지 기다립니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이제 당신의 사이트는 https://`username`.github.io/`repository-name`/ 에서 이용 가능합니다.
 

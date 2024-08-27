@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "From Legacy to Modern Transforming a Java Multiplayer Game in a Brownfields Project"
 link: "https://medium.com/@katlegobarayi07/from-legacy-to-modern-transforming-a-java-multiplayer-game-in-a-brownfields-project-d00ac00bed0e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743579575
 ---
 
 

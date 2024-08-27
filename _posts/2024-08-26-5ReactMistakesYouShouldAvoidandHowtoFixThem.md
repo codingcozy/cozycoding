@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "5 React Mistakes You Should Avoid (and How to Fix Them)"
 link: "https://dev.to/vyan/5-react-mistakes-you-should-avoid-and-how-to-fix-them-339m"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744125800
 ---
 
 
@@ -22,16 +23,7 @@ isUpdated: false
 {myList.map((item, index) => <div key={index}>{item}</div>)}
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 리스트에서 색인을 키로 사용하면 성능 문제와 버그가 발생할 수 있으니 주의해야 해요, 특히 리스트가 변할 수 있는 경우 더욱 그렇습니다.
 
@@ -43,16 +35,7 @@ isUpdated: false
 
 데이터에서 고유 식별자인 id 필드와 같은 값을 key prop으로 사용해야 합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 2. State 과도한 사용
 
@@ -68,16 +51,7 @@ function MyComponent() {
 
 변화가 없는 상태도 모두 상태에 넣으면 불필요한 다시 렌더링과 복잡성을 야기할 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 올바른 방법:
 
@@ -91,16 +65,7 @@ function MyComponent({ value }) {
 
 ### 3. useEffect를 올바르게 활용하지 않은 경우
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 잘못된 부분:
 
@@ -114,16 +79,7 @@ useEffect에 종속성을 지정하지 않으면 예상치 못한 동작이나 �
 
 올바른 방법:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 useEffect(() => {
@@ -137,16 +93,7 @@ useEffect(() => {
 
 실수:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```jsx
 <Grandparent>
@@ -172,16 +119,7 @@ function Child() {
 }
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 컨텍스트 API 또는 상태 관리 라이브러리를 사용하여 프롭 드릴링을 피하세요.
 
@@ -201,16 +139,7 @@ function UserProfile({ user }) {
 }
 ```  
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 단일하고 유연한 구조로 구성 요소를 생성하는 대신에 재사용 가능한 요소를 만들어보세요.
 
@@ -230,16 +159,7 @@ function UserProfile({ children }) {
 
 유연성을 위해 구성 요소를 자식 또는 렌더 프롭으로 받을 수 있도록 디자인하세요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 5가지 React 코딩 실수를 이해하고 피함으로써 더 효율적이고 유지보수가 쉬우며 확장 가능한 React 애플리케이션을 작성할 수 있습니다. React 기술을 발전시키는 동안 이러한 교훈을 기억하고, 필요할 때 언제든지 이 블로그 글을 다시 확인하도록 해보세요.
 

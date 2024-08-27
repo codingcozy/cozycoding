@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Get acquainted with Ruby On Rails"
 link: "https://medium.com/@zain169/get-acquainted-with-ruby-on-rails-417c4494e45f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743570116
 ---
 
 

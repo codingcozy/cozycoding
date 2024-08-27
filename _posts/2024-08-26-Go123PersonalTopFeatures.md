@@ -1,5 +1,5 @@
 ---
-title: "Go 1.23 개인적으로 추천하는 탑 기능들"
+title: "Go 1.23 에 추가된 새로운 기능들 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-Go123PersonalTopFeatures_0.png"
 date: 2024-08-26 19:27
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Go 1.23 Personal Top Features"
 link: "https://medium.com/@dmytro.misik/go-1-23-personal-top-features-9eac82c5466b"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743564206
 ---
 
 

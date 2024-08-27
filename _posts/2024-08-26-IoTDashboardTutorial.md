@@ -1,5 +1,5 @@
 ---
-title: "IoT 대시보드 만들기 step by step 튜토리얼"
+title: "IoT 대시보드 만들기 튜토리얼"
 description: ""
 coverImage: "/assets/img/2024-08-26-IoTDashboardTutorial_0.png"
 date: 2024-08-26 18:09
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "IoT Dashboard  Tutorial"
 link: "https://medium.com/@adityanashikkar94/iot-dashboard-tutorial-b278754ea8d7"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743431589
 ---
 
 

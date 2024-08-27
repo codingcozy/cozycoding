@@ -1,5 +1,5 @@
 ---
-title: "서버란 무엇인가 초보자를 위한 간단한 서버 만들기"
+title: "초보 웹 개발자를 위한 간단한 서버 만들기"
 description: ""
 coverImage: "/assets/img/2024-08-26-WhatisaserverLetsmakeatinyserverfromscratch_0.png"
 date: 2024-08-26 18:37
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "What is a server Lets make a tiny server from scratch"
 link: "https://medium.com/mossy-code/what-is-a-server-lets-make-a-tiny-server-from-scratch-d037cb68b5de"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742420515
 ---
 
 

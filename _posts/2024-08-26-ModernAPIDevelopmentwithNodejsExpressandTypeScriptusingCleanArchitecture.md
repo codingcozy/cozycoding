@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Modern API Development with Node.js, Express, and TypeScript using Clean Architecture"
 link: "https://medium.com/@baguilar6174/modern-api-development-with-node-js-express-and-typescript-using-clean-architecture-0868607b76de"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742759257
 ---
 
 

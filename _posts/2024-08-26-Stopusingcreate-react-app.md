@@ -1,5 +1,5 @@
 ---
-title: "create-react-app 사용 중지하기 CRA 대안 및 이유"
+title: "이제는 create-react-app 대신 이것을 쓰세요 제발"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-08-26 20:02
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Stop using create-react-app"
 link: "https://dev.to/eslachance/stop-using-create-react-app-7in"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742632422
 ---
 
 
@@ -23,16 +24,7 @@ isUpdated: false
 - CRA는 현대적인 대안들에 비해 느립니다.
 - webpack은 현대적인 대안들에 비해 매우 느립니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 문제의 해결책은 무엇인가요? 한 마디로 말하면: Vite.
 
@@ -42,16 +34,7 @@ isUpdated: false
 
 8 가지 취약점 (2개 중간, 6개 높음)
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 Facebook/React 팀은 현재 의도적으로 어떤 종속성도 수정할 계획이 없습니다. 실제로 create-react-app이 더 이상 업데이트되지 않고 다른 도구를 권장하고 있음을 명확히 알 수 있습니다.
 
@@ -61,16 +44,7 @@ react-scripts는 CRA가 개발 서버를 실행하거나 npm run build로 빌드
 
 ### Webpack
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 저는 webpack을 비난하려는 것은 아니지만, 한 가지 말씀드리겠습니다: webpack은 Vite에 비해 느리다고 생각해요. 대체 제품인 Vite만큼 설정 가능하지 않습니다. 플러그인 생태계가 풍부해 보이더라도 이미 Vite이 제공하는 것에 그림자를 드리고 있다고 생각해요.
 
@@ -80,16 +54,7 @@ Vite(프랑스어로 "빠른"이란 뜻인 vit과 veet 사이로 발음합니다
 
 Vite은 설정할 수 있을 뿐만 아니라 빠르고 대부분의 프런트엔드 프레임워크를 지원합니다. 즉, React, Svelte, Solid, Vue, Lit, Quik, 그리고 Angular용 Vite 프로젝트를 생성할 수 있습니다. 더불어 tailwind, sass 등 빌더 종속성을 가진 vanillajs 애플리케이션도 만들 수 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 개인적인 일화를 하나 해볼까요? 이전 직장에서 Vite에 대해 처음 알게 되었을 때, react-scripts를 사용하는 프로젝트를 Vite로 전환하는 데 반이나를 할애했어요. 이 프로젝트는 상당히 거대했기 때문에 반나절이 걸렸죠. 저는 주니어 개발자였고, 이것에 대해 많이 모르고 있었거든요. 그래도 그게 가치 있을 거라고 믿었고 맞았어요! 파일을 저장하고 브라우저에서 핫 리로드를 기다리는 시간이 6분에서 1초 미만으로 급격히 줄었답니다. 네, 맞아요, "분"과 "초" 사이에 오타가 없어요. 초기 빌드 시간도 여전히 상당히 거대한 애플리케이션이지만 약 20초로 줄었어요.
 
@@ -99,16 +64,7 @@ Vite은 설정할 수 있을 뿐만 아니라 빠르고 대부분의 프런트�
 
 ## 어떻게 변환하는지
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 그래서 당신은 아마 코드에서 할 변경 사항이 많을지 궁금해 할 것 같아요, 그죠? 음... 사실은 그렇지 않아요. 사실 많은 변경 사항은 앱의 설정 및 루트 수준에서 발생해요.
 
@@ -125,16 +81,7 @@ CRA 앱을 Vite로 변환하는 것은 다음과 같아요:
 
 마지막 3단계가 당신의 대부분의 작업이 진행될 곳이에요. 기존 애플리케이션의 복잡성에 따라 올바른 플러그인과 구성을 찾는 데는 시간이 걸릴 수도 있고, 만날 수 있는 오류에 대해 조정하는 데 시간이 걸릴 수도 있어요. 그러나 최종적으로 다시 한 번 말씀드리지만 노력이 절대적으로 가치 있을 거에요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 도움이 필요하다면 어떻게 해야 할까요?
 
@@ -144,16 +91,7 @@ CRA 앱을 Vite로 변환하는 것은 다음과 같아요:
 
 ## 음모론적인 이론
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 드라마, 음모 이론, 그리고 불만에 관심이 없다면 여기서 멈추세요. 저는 토끼 굴 속으로 깊이 파고들 것이고, 여러분은 따라오라는 강요는 전혀 없어요 - Vite은 이미 멋지니까요, 이것이 여러분의 답이기 때문에 나머지에 대한 관심을 잃어도 괜찮아요 ;)
 
@@ -162,16 +100,7 @@ CRA 앱을 Vite로 변환하는 것은 다음과 같아요:
 내가 생각하는 것은 Vite과 Parcel을 언급하는 거에 의심스러운 '막대한 숨겨진 벽' 대신, 페이지 상단의 문단에 있었어야 했어. 
 페이지는 create-react-app이 폐기되었음을 언급하고 (CRA에 대해 언급이 전혀 없다!) 프론트엔드 전용 프로젝트에 대한 직접 제안으로 Vite 사용을 알아야 했어야 했지.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 하지만 문서에서 하는 일은 "Production-grade React framework"를 사용하라고 제안하며, 주요 및 처음으로 NextJS를 소개하는 것입니다.
 
@@ -182,16 +111,7 @@ CRA 앱을 Vite로 변환하는 것은 다음과 같아요:
 - "React 팀은 현재 Vercel과 주로 협력하여 'React Server Components'와 같은 bleeding-edge React 기능을 '연구, 개발, 통합, 테스트'하고 있습니다. React 문서 웹사이트는 NextJS로 구축되어 있습니다."
 - "Vercel은 React 코어 팀 멤버를 더 적극적으로 고용하고 후원하고 있습니다."
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이제... 이것은 사실을 근거로 하지 않기 때문에 소금 조금 넣고 들으면 좋겠어요. (내가 직접 이에 대한 소스를 심각하게 찾지 못했기 때문에 이것이 사실을 단언하는 것이 아니라 음모론이라고 하는 것이죠). 하지만 Vercel이 React 팀에 얼마나 많은 돈을 투입했는지, 그 팀이 얼마나 많은 멤버를 빼앗아 갔는지, 그리고 React 문서와 팀 자체에 그것이 어떻게 영향을 미쳤는지에 대해 고민하게 만들어요. 직접적으로든, "내 동료가 여기서 일하다가 이제 Vercel에서 일하고 있는데 그들이 Next를 대단하다고 자꾸 말해"와 같은 접근으로든요.
 

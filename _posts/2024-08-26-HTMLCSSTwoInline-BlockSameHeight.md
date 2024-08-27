@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "HTML CSS Two Inline-Block Same Height"
 link: "https://medium.com/gitconnected/html-css-two-inline-block-same-height-59dee2e50e2f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743549748
 ---
 
 

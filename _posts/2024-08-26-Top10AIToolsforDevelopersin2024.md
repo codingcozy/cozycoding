@@ -1,5 +1,5 @@
 ---
-title: "2024년을 위한 개발자를 위한 AI 툴 TOP 10"
+title: "2024년 실제 회사에서 사용중인 개발자를 위한 AI 툴 10가지"
 description: ""
 coverImage: "/assets/img/2024-08-26-Top10AIToolsforDevelopersin2024_0.png"
 date: 2024-08-26 19:21
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Top 10 AI Tools for Developers in 2024"
 link: "https://medium.com/@banrossyn/top-10-ai-tools-for-developers-in-2024-4657b74d6b58"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742543231
 ---
 
 

@@ -22,16 +22,7 @@ updatedAt: 1724245748258
 
 그중에 마음에 드는 방법은 없었어요! 첫 번째 방법은 선명하지 않았고, 이미 제 `텍스트영역`에 적용된 스타일과도 일치하지 않았어요.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 두 번째 방법은 순서가 지정된 목록을 유지하기 위해 많은 자바스크립트가 필요했어요: 동적으로 `li` 요소를 추가/제거하고, 스크롤 이벤트를 동기화하고 등등 많은 작업을 해야 했죠.
 
@@ -41,16 +32,7 @@ CSS 사용자 지정 속성으로 저장된 동적으로 생성된 SVG이에요.
 
 ![image](/assets/img/2024-08-21-LineNumbersfortextareausingSVG_0.png)
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 시작해보죠.
 
@@ -62,16 +44,7 @@ CSS 사용자 지정 속성으로 저장된 동적으로 생성된 SVG이에요.
 lineNumbers(element, numLines = 50, inline = false)
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 `textarea` 요소를 사용할 element이며, numLines는 렌더링할 라인 수이고, inline은 생성된 이미지를 element에 저장할지 (true) 또는 document.body에 저장할지를 나타냅니다.
 
@@ -83,16 +56,7 @@ const prefix = '--linenum-';
 
 계속 진행하기 전에, 기존 속성을 재사용할지 확인합니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 if (!inline) {
@@ -121,16 +85,7 @@ const translateY = (fontSize * lineHeight).toFixed(2);
 
 또한 속성에 대한 무작위 ID가 필요합니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 // 이제 SVG를 렌더링하는 시간입니다:
@@ -154,16 +109,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg">
 이해를 돕기 위해 한 번 살펴보겠습니다: 
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 `style` 섹션에서는 이전에 `textarea`에서 추출한 스타일을 설정합니다. `text` 요소에 대해 y 및 dy 속성 대신 CSS를 사용하여 텍스트 요소를 번역하는 --n-속성을 사용합니다.
 
@@ -173,16 +119,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg">
 
 생성된 SVG를 url() 속성으로 사용하려면 인코딩이 필요합니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 const encodedURI = `url("data:image/svg+xml,${encodeURIComponent(svg)}")`;
@@ -198,16 +135,7 @@ element.style.backgroundImage = `var(${id})`;
 
 그게 다입니다!
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 별로 나쁘지 않고 610바이트만 차지하고 있어요. 압축해서 최소화했답니다!
 
@@ -217,16 +145,7 @@ element.style.backgroundImage = `var(${id})`;
 
 아래는 인라인 속성 로직을 사용하지 않은 단순화된 Codepen이에요:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 장단점
 
@@ -236,16 +155,7 @@ element.style.backgroundImage = `var(${id})`;
 
 ### 장점
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 #### DOM 조작 감소
 
@@ -255,16 +165,7 @@ element.style.backgroundImage = `var(${id})`;
 
 줄 번호는 배경 이미지의 일부이므로 텍스트 내용과 함께 자동으로 스크롤되어 수동 동기화 논리가 필요 없습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 #### 요소 간 재사용성
 
@@ -274,16 +175,7 @@ CSS 사용자 정의 속성에 생성된 SVG를 저장함으로써 여러 요소
 
 SVG의 벡터 특성으로 인해 줄 번호는 어떤 확대 수준에서도 선명하고 명확하게 유지됩니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 단점
 
@@ -293,16 +185,7 @@ SVG의 벡터 특성으로 인해 줄 번호는 어떤 확대 수준에서도 �
 
 #### 사용자 정의 복잡성
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 개별 줄 번호와 상호 작용하는 스타일링은 순서대로 나열된 목록에서 간단합니다. 그에 반해 SVG 접근 방식은 특정 줄 번호에 대한 사용자 정의나 상호 작용을 추가하기 어렵게 만듭니다.
 
@@ -312,15 +195,6 @@ SVG 및 CSS 사용자 정의 속성은 모든 브라우저에서 일관되게 �
 
 #### 동적 콘텐츠 처리
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 정렬된 목록은 더 유연하게 동적 콘텐츠 업데이트를 다루는 데 사용될 수 있습니다. 행을 추가하거나 제거하는 경우 SVG 방식은 전체 배경 이미지를 재생산하고 다시 적용해야 할 수도 있습니다.

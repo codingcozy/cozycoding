@@ -1,5 +1,5 @@
 ---
-title: "CSS를 이용한 Overflow Scroll Gradient 마스터하기"
+title: "CSS를 이용한 Overflow Scroll Gradient 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-MasteringOverflowScrollGradientwithCSS_0.png"
 date: 2024-08-26 17:44
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Mastering Overflow Scroll Gradient with CSS"
 link: "https://medium.com/@labexio/mastering-overflow-scroll-gradient-with-css-e588ee35050d"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742795244
 ---
 
 

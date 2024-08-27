@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Create a Chrome Extension"
 link: "https://medium.com/@theriyasharma24/create-a-chrome-extension-1a77c4fc16e7"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743611065
 ---
 
 

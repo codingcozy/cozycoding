@@ -21,16 +21,7 @@ updatedAt: 1724245363120
 
 ## 데코레이터 및 애드온 메커니즘
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이제 들어가기 전에, Storybook 기능을 확장하는 데 도움이 되는 두 가지 Storybook 메커니즘을 살펴보겠습니다.
 
@@ -50,16 +41,7 @@ export const withBackground = (Story) => (
 );
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 여기서는 이야기를 div로 감싸줄 수 있습니다. padding: 20px 및 backgroundColor: #f0f0f0으로 설정하면 Storybook에서 이 decorator로 감싼 구성요소의 표시에 영향을 줍니다.
 
@@ -79,16 +61,7 @@ export default {
 
 버튼 구성요소에이 decorator를 적용하려면 이전에 정의한 withBackground decorator를 해당 이야기 설명의 decorators 속성에 전달하면 됩니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 그 결과로, Storybook에서 우리의 Button을 렌더링할 때 컴포넌트에는 padding과 배경이 있게 됩니다.
 
@@ -110,16 +83,7 @@ const previewConfig = {
 export default previewConfig;
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 
 요렇게 해 보세요: `.storybook/preview.js` 파일을 열고 Storybook 구성에서 데코레이터 속성에 withBackground 데코레이터 함수를 추가하십시오. 그런 다음 모든 컴포넌트가 자동으로 이 데코레이터로 둘러싸여 패딩 및 배경이 추가됩니다.
@@ -132,16 +96,7 @@ Storybook의 애드온은 컴포넌트와 함께 작업하는 데 추가 기능�
 
 Redux를 예시로 사용하여 스토리 주변의 상태 관리를 설정하는 방법을 살펴보겠습니다. 데코레이터 메커니즘을 통해 이를 구현할 수 있습니다. 이를 한 단계씩 따라가 보겠습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ### 단계 1: 간단한 리듀서 정의
 
@@ -160,16 +115,7 @@ const reducer = (state = {}, action) => {
 
 ### 단계 2: 스토리를 Redux 컨텍스트로 감싸는 데코레이터 생성
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 그 다음으로, 우리의 이야기를 컨텍스트로 래핑하고 컴포넌트의 상태를 초기화할 데코레이터를 만들어봅시다:
 
@@ -199,16 +145,7 @@ export const withReduxState = (initialState) => (Story) => {
 - 그런 다음 store.dispatch와 INITIALIZE_STATE 액션을 사용하여 초기 데이터로 스토어를 초기화합니다.
 - 마지막으로 우리는 Redux Provider로 컴포넌트(Story)를 래핑하여 스토어를 프롭으로 전달하여 컴포넌트가 Redux 상태에 액세스할 수 있도록 합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 스텝 3: 스토리 컴포넌트에 데코레이터 적용하기
 
@@ -229,16 +166,7 @@ export default {
 
 이 예제는 배경 데코레이터와 비슷하지만 한 가지 주요 차이가 있습니다. withReduxState는 초기 상태(initialState)를 가진 데코레이터를 반환하는 함수입니다. 이 접근 방식은 특히 동일한 컴포넌트에 대해 다른 상태에서 여러 스토리를 만들고 싶을 때 유용합니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 예제에서는 데코레이터를 사용하여 Redux 상태 관리자를 Storybook에 통합하는 방법을 시연했습니다. 비슷한 접근 방식을 다른 상태 관리자와 성공적으로 결합할 수 있다고 확신합니다. 이를 통해 여러 시나리오에서 컴포넌트의 상태를 쉽게 관리할 수 있습니다.
 
@@ -249,16 +177,7 @@ export default {
 프로젝트에 플러그인 설정하기
 먼저, Storybook 구성에서 플러그인을 활성화해봅시다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 // .storybook/main.ts
@@ -275,16 +194,7 @@ export default {
 
 이제 UserProfiles.stories.js 파일로 넘어가서 컴포넌트에 대한 가상 라우팅을 설정해 봅시다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 import { withRouter, reactRouterParameters } from 'storybook-addon-remix-react-router';
@@ -310,16 +220,7 @@ parameters는 애드온에 전달되는 속성이 포함된 객체이며, 각 �
 
 reactRouter 설정을 더 자세히 살펴보겠습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
   //...
@@ -343,16 +244,7 @@ reactRouterParameters('...')을 사용하여 구성을 만들고 다음과 같�
 특정 구성 요소 및 개별 스토리에 대한 가상 라우터 설정 방법을 알아보았습니다. 그러나 모든 스토리에 대해 전역 가상 라우터를 설정하고 싶다면 어떻게 해야 할까요? 이 또한 가능합니다 — .storybook/preview.js 파일로 이동하여 비슷하게 구성하시면 됩니다.
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 // .storybook/preview.js
@@ -371,16 +263,7 @@ export default {
 ![이미지](/assets/img/2024-08-21-StorybookStoriesforSmartComponents_0.png)
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 스토리북 애드온 리믹스 리액트 라우터 플러그인은 스토리북 인터페이스에 탭을 추가하여 컴포넌트의 현재 경로와 네비게이션 이벤트를 확인할 수 있습니다.
 
@@ -390,16 +273,7 @@ export default {
 
 이 섹션에서는 컴포넌트 이야기에서 요청을 가로채고 원하는 데이터로 응답하는 방법을 살펴보겠습니다. 이를 위해 msw-storybook-addon을 사용할 것입니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 설정
 처음으로 해야 할 일은 다음 몤련 명령어를 실행하는 것입니다:
@@ -424,16 +298,7 @@ const preview = {
 export default preview
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 초기화 함수는 서비스 워커를 설정하고 시작하며, mswLoader는 서비스 워커가 준비되기를 기다리는 로더로서 요청 핸들러를 적용한 후에 대화할 것입니다.
 
@@ -463,16 +328,7 @@ export const SuccessBehavior = {
 이전에 언급했듯이, 각 애드온에는 해당 설정이 전달되는 매개변수가 있습니다. msw-storybook-addon의 경우 이 매개변수는 parameters.msw입니다. 이 매개변수 안에는 요청을 가로채는 요청 핸들러인 handlers를 지정해야 합니다.
 우리의 예제에서는 /user URL로의 GET 요청을 가로채고 JSON 형식으로 응답을 반환합니다. 비슷하게, 다른 유형의 요청을 처리하거나 POST를 다뤄서 HTTP 상태만 반환하거나 몇 초간의 응답 지연을 시뮬레이트할 수도 있습니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이 섹션에서는 msw-storybook-addon을 사용하여 스토리북에서 스토리에 대한 요청 가로채기를 설정하는 방법을 상세히 살펴보았습니다. 이 애드온을 사용하면 API와의 컴포넌트 상호작용에 대한 현실적인 시나리오를 만들 수 있어 테스트 및 개발 프로세스를 더 효율적으로 만들 수 있습니다. 다양한 유형의 HTTP 요청에 대한 요청 핸들러를 구성하고, 서버 응답을 시뮬레이션하며, 응답 지연도 모델링할 수 있습니다. 이는 다양한 조건 하에서 컴포넌트 동작을 테스트하는 데 특히 유용합니다. 이 애드온에 대한 자세한 정보 및 전체 문서는 다음을 참조할 수 있습니다: msw-storybook-addon.
 
@@ -482,16 +338,7 @@ export const SuccessBehavior = {
 
 첫 번째로 해야 할 일은 스토리북 인터페이스에서 사용할 새로운 언어 스위처를 정의하는 것입니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 export const preview = {
@@ -521,16 +368,7 @@ export const preview = {
 <img src="/assets/img/2024-08-21-StorybookStoriesforSmartComponents_1.png" />
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 이제 Storybook 인터페이스에서 스위처를 설정했으니, 컴포넌트가 언어 변경에 대응하는 방법을 알아봅시다. 이를 위해 데코레이터 메커니즘을 사용할 것입니다:
 
@@ -550,16 +388,7 @@ const langDecorator = (Story, context) => {
 
 이 섹션에서는 Storybook 인터페이스에 다국어 컴포넌트를 지원하는 기능을 추가하여 확장하는 방법을 상세히 살펴보았습니다. 이 접근 방식은 Storybook 인터페이스에서 직접 언어를 전환하여 여러 언어를 테스트하고 표시하는 것을 쉽게 만듭니다. 이런 설정은 프로젝트가 여러 언어를 지원하는 경우 개발 및 테스트 프로세스를 더 편리하고 유연하게 만들어줍니다.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 보너스: 스토리북에서의 모듈 연합 지원
 
@@ -585,16 +414,7 @@ export default {
 모듈 연합 지원을 위한 애드온을 연결하는 것은 정말 간단합니다. moduleFederationConfig는 웹팩 구성에서 사용하는 구성과 동일해야 합니다. 모듈 연합에 대해 더 자세히 알아보려면 이곳에서 확인할 수 있습니다: 웹팩 모듈 연합.
 문서와 플러그인 자체는 다음 주소에서 찾을 수 있습니다: @module-federation/storybook-addon.
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ## 결론
 

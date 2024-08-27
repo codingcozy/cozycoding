@@ -1,5 +1,5 @@
 ---
-title: "AWS EC2에서 Ansible을 사용하여 Jenkins를 배포하는 간단한 단계들"
+title: "AWS EC2에서 Ansible을 사용하여 Jenkins를 배포하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-SimplestepsindeployingJenkinsonAWSEC2usingAnsible_0.png"
 date: 2024-08-26 18:59
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Simple steps in deploying Jenkins on AWS EC2 using Ansible"
 link: "https://medium.com/@vinuthan2/simple-steps-in-deploying-jenkins-on-aws-ec2-using-ansible-ab9f598e6d67"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742657409
 ---
 
 

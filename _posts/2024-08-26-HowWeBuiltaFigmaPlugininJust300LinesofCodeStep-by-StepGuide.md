@@ -1,5 +1,5 @@
 ---
-title: "300줄의 코드로 Figma 플러그인을 만든 방법 (단계별 안내)"
+title: "300줄의 코드로 Figma 플러그인을 만들기"
 description: ""
 coverImage: "/assets/img/2024-08-26-HowWeBuiltaFigmaPlugininJust300LinesofCodeStep-by-StepGuide_0.png"
 date: 2024-08-26 17:11
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How We Built a Figma Plugin in Just 300 Lines of Code (Step-by-Step Guide)"
 link: "https://medium.com/@techwithgeeky/how-we-built-a-figma-plugin-in-just-300-lines-of-code-step-by-step-guide-043cc2fdd3fa"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743525904
 ---
 
 

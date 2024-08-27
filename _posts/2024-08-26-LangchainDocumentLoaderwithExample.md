@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Langchain Document Loader with Example"
 link: "https://medium.com/@patnaik.sankar/langchain-document-loader-with-example-5c831f8095da"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742829217
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Node.js를 활용한 기능 풍부한 앱 구축 방법"
+title: "2024년도에 Node.js로 웹사이트를 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-BuildFeatureRichNodeJSApps_0.png"
 date: 2024-08-26 18:41
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Build Feature Rich Node.JS Apps"
 link: "https://medium.com/@semiosissoftware/build-feature-rich-node-js-apps-5667a4d85ac9"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743931436
 ---
 
 

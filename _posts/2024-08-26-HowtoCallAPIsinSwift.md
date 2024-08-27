@@ -1,5 +1,5 @@
 ---
-title: "스위프트로 API 호출하는 방법 초보자용 가이드"
+title: "스위프트로 API 호출하는 간단한 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-HowtoCallAPIsinSwift_0.png"
 date: 2024-08-26 19:31
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Call APIs in Swift"
 link: "https://medium.com/@sachinsiwal/how-to-call-apis-in-swift-1885fa48402d"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743515134
 ---
 
 

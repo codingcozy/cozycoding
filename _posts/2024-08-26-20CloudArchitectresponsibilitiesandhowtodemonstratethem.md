@@ -1,5 +1,5 @@
 ---
-title: "클라우드 아키텍트가 맡는 20가지 책임 - 그리고 그들을 증명하는 방법"
+title: "클라우드 아키텍쳐 설계방법 20가지"
 description: ""
 coverImage: "/assets/img/2024-08-26-20CloudArchitectresponsibilitiesandhowtodemonstratethem_0.png"
 date: 2024-08-26 18:55
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "20 Cloud Architect responsibilities  and how to demonstrate them"
 link: "https://medium.com/aws-tip/20-cloud-architect-responsibilities-and-how-to-demonstrate-them-bf6f093e4de5"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744150179
 ---
 
 

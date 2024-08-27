@@ -1,5 +1,5 @@
 ---
-title: "학교 버스 추적 시스템 아키텍처 설계와 기능"
+title: "학교 버스 추적 시스템 아키텍처 및 기능 설계 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-SchoolBusTrackerSystemArchitecture_0.png"
 date: 2024-08-26 19:03
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "School Bus Tracker System Architecture"
 link: "https://medium.com/@joudwawad/school-bus-tracker-system-architecture-6dd3307e3860"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742680551
 ---
 
 

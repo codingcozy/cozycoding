@@ -1,5 +1,5 @@
 ---
-title: "Flexbox와 함께 즐기는 밤 CSS 레이아웃의 비밀공간"
+title: "Flexbox로 CSS 레이아웃을 쉽게 배치하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-AnightwithFlexbox_0.png"
 date: 2024-08-26 17:56
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "A night with Flexbox.."
 link: "https://medium.com/@akshyapatill/a-night-with-flexbox-a96d660b5c6c"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724744023457
 ---
 
 

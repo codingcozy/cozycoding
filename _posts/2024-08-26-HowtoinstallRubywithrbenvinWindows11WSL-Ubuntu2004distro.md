@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to install Ruby with rbenv in Windows 11 WSL-Ubuntu 20.04 distro"
 link: "https://medium.com/@satriajanaka09/how-to-install-ruby-with-rbenv-in-windows-11-wsl-ubuntu-20-04-distro-3a38c389cf89"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743465123
 ---
 
 

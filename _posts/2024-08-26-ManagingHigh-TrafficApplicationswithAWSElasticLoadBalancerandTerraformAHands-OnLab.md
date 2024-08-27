@@ -1,5 +1,5 @@
 ---
-title: "AWS Elastic Load Balancer와 Terraform를 활용한 고트래픽 애플리케이션 관리 실전 랩"
+title: "AWS Elastic Load Balancer와 Terraform를 활용한 고트래픽 애플리케이션 관리 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-ManagingHigh-TrafficApplicationswithAWSElasticLoadBalancerandTerraformAHands-OnLab_0.png"
 date: 2024-08-26 19:01
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Managing High-Traffic Applications with AWS Elastic Load Balancer and Terraform A Hands-On Lab"
 link: "https://medium.com/@meriemterki/managing-high-traffic-applications-with-aws-elastic-load-balancer-and-terraform-a-hands-on-lab-b2f5d1f7ef81"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742799956
 ---
 
 

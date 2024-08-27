@@ -1,5 +1,5 @@
 ---
-title: "CSS로 만든 태양계"
+title: "html, CSS 로 태양계 시뮬레이션 만들기"
 description: ""
 coverImage: "/assets/img/2024-08-26-TheSolarSysteminCSS_0.png"
 date: 2024-08-26 20:06
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "The Solar System in CSS"
 link: "https://dev.to/madsstoumann/the-solar-system-in-css-51bo"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742579528
 ---
 
 
@@ -32,16 +33,7 @@ isUpdated: false
 </ol>
 ```
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 행성은 순서대로 나열되어 있기 때문에 순서가 있는 목록을 사용합니다.
 
@@ -59,16 +51,7 @@ ol {
 
 이제 행성 궤도에는 "그리드 스택"을 사용할 것입니다. 절대 위치와 많은 변환 대신, 그리드 항목을 모두 스택할 수 있습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 li {
@@ -83,16 +66,7 @@ li {
 
 멋지죠! 이제 가상 요소 ::after를 사용하여 행성들을 추가해봅시다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 
 ```js
@@ -153,16 +127,7 @@ ChatGPT에게 각 행성을 위한 멋진 방사형 그라데이션을 생성해
 이제 우리는:
 
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 <img src="/assets/img/2024-08-26-TheSolarSysteminCSS_1.png" />
 
@@ -178,16 +143,7 @@ li::after {
 
 offset-path를 주목하세요. 이것이 궤적 애니메이션을 간단하게 만드는 열쇠입니다. `li`의 모양을 따라 행성을 이동시키기 위해 해야 할 일은 다음과 같습니다:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 ```js
 @keyframes rotate {
@@ -203,16 +159,7 @@ offset-path를 주목하세요. 이것이 궤적 애니메이션을 간단하게
 
 몇 가지 규칙만으로 순수 CSS로 간단한 2D 버전 태양계를 만들었어요. 더 깊이 들어가고 싶다면 이렇게 해도 돼요:
 
-<!-- cozy-coder - 수평 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4877378276818686"
-     data-ad-slot="1107185301"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<div class="content-ad"></div>
 
 - 실제 거리와 크기를 사용하고 calc()를 사용해주세요.
 - `ul`에 `transform: rotateX(angle)`를 추가하여 의사 3D로 변형해보세요:

@@ -1,5 +1,5 @@
 ---
-title: "Rails 앱에서 서비스 객체를 구축하고 활용하는 방법"
+title: "Rails 앱에서 서비스 객체 만들어 활용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-BuildingandUsingServiceObjectInRailsApp_0.png"
 date: 2024-08-26 19:09
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Building and Using Service Object In Rails App"
 link: "https://medium.com/@Iggy01/building-and-using-service-object-in-rails-app-f922df8b0153"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724743667259
 ---
 
 

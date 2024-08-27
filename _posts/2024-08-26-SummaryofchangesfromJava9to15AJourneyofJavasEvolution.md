@@ -1,5 +1,5 @@
 ---
-title: "자바 9부터 15까지의 변화 요약 자바 진화의 여정"
+title: "자바 9부터 15까지의 변화 요약 자바 발전 과정 정리"
 description: ""
 coverImage: "/assets/img/2024-08-26-SummaryofchangesfromJava9to15AJourneyofJavasEvolution_0.png"
 date: 2024-08-26 18:49
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Summary of changes from Java 9 to 15 A Journey of Javas Evolution"
 link: "https://medium.com/@alankarrocks/summary-of-changes-from-java-8-to-15-a-journey-of-javas-evolution-de1e03ba2ace"
-isUpdated: false
+isUpdated: true
+updatedAt: 1724742621815
 ---
 
 
