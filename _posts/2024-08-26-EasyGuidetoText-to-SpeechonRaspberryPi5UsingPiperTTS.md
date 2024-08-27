@@ -1,5 +1,5 @@
 ---
-title: "라즈베리 파이 5에서 Piper TTS를 활용한 텍스트 음성 변환 방법"
+title: "라즈베리 파이 5에서 Piper TTS를 활용한 텍스트 음성 변환 방법"
 description: ""
 coverImage: "/assets/img/2024-08-26-EasyGuidetoText-to-SpeechonRaspberryPi5UsingPiperTTS_0.png"
 date: 2024-08-26 17:29
