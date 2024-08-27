@@ -1,5 +1,5 @@
 ---
-title: "Angular 시그널로 object inputs이 여전히 별로인 이유"
+title: "Angular 시그널로 object inputs이 여전히 별로인 이유"
 description: ""
 coverImage: "/assets/img/2024-08-26-ObjectinputsarestilldangerousevenwithAngularsignals_0.png"
 date: 2024-08-26 18:32
