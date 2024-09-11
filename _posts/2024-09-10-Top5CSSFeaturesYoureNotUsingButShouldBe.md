@@ -1,5 +1,5 @@
 ---
-title: "사용해야 할 5가지 CSS 기능 왜 쓰지 않고 있는지와 함께"
+title: "개발자 대부분 사용하지 않지만 반드시 사용해야하는 5가지 CSS 기능 "
 description: ""
 coverImage: "/assets/img/2024-09-10-Top5CSSFeaturesYoureNotUsingButShouldBe_0.png"
 date: 2024-09-10 17:50
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Top 5 CSS Features Youre Not Using (But Should Be)"
 link: "https://medium.com/gitconnected/top-5-css-features-youre-not-using-but-should-be-990dcdca9171"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726041459751
 ---
 
 

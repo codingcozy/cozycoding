@@ -1,5 +1,5 @@
 ---
-title: "가장 많이 받은 17개의 핵심 Redux 인터뷰 질문과 답변"
+title: "기술면접에서 Redux 관련 질문과 답변 17가지"
 description: ""
 coverImage: "/assets/img/2024-09-10-Top17MostCrucialReduxInterviewQuestionsthatIwasaskedthemost_0.png"
 date: 2024-09-10 18:33
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Top 17 Most Crucial Redux Interview Questions that I was asked the most"
 link: "https://medium.com/@code-geass/top-17-most-crucial-redux-interview-questions-that-i-was-asked-the-most-bbe29989ba37"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726041483867
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "타입스크립트 면접 준비하며 자주 묻히는 이슈에 도전해보세요"
+title: "신입 프론트엔드 면접에서 물어본 타입스크립트 관련 질문 정리"
 description: ""
 coverImage: "/assets/img/2024-09-10-ThinkYouKnowTypeScriptTackleTheseCommonInterviewQuestions_0.png"
 date: 2024-09-10 18:44
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Think You Know TypeScript Tackle These Common Interview Questions"
 link: "https://medium.com/frontend-canteen/think-you-know-typescript-tackle-these-common-interview-questions-4a811d50bb2a"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726041501907
 ---
 
 
