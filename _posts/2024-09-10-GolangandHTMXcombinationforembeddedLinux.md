@@ -1,5 +1,5 @@
 ---
-title: "Golang과 HTMX를 결합한 임베디드 리눅스용 도구 개발 방법"
+title: "Golang과 HTMX를 결합한 임베디드 리눅스용 도구 개발하는 방법 "
 description: ""
 coverImage: "/assets/img/2024-09-10-GolangandHTMXcombinationforembeddedLinux_0.png"
 date: 2024-09-10 17:44
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Golang and HTMX combination for embedded Linux"
 link: "https://medium.com/itnext/golang-and-htmx-combination-for-embedded-linux-8169887104e5"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022807446
 ---
 
 

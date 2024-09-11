@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Boosting Performance Mastering 2D Median Filtering with Running Histograms"
 link: "https://medium.com/towards-artificial-intelligence/running-histogram-an-efficient-2d-median-filter-implementation-2f9a612d5ac3"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022691131
 ---
 
 

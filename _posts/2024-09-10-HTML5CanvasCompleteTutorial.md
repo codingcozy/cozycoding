@@ -1,5 +1,5 @@
 ---
-title: "HTML5 Canvas 완벽 가이드 모든 것을 다루는 튜토리얼"
+title: "HTML5 Canvas 기본 기능들 정리"
 description: ""
 coverImage: "/assets/img/2024-09-10-HTML5CanvasCompleteTutorial_0.png"
 date: 2024-09-10 17:42
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "HTML5 Canvas Complete Tutorial"
 link: "https://medium.com/stackademic/html5-canvas-complete-tutorial-e145177533b4"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022821168
 ---
 
 

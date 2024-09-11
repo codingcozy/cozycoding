@@ -1,5 +1,5 @@
 ---
-title: "2024년, HTML, CSS, JavaScript 완벽하게 다듬는 15가지 도구"
+title: "2024년, HTML, CSS, JavaScript를 잘 활용하는 방법"
 description: ""
 coverImage: "/assets/img/2024-09-10-15ToolsforPerfectingYourHTMLCSSandJavaScriptin2024_0.png"
 date: 2024-09-10 17:38
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "15 Tools for Perfecting Your HTML, CSS, and JavaScript in 2024"
 link: "https://medium.com/@asierr/15-tools-for-perfecting-your-html-css-and-javascript-in-2024-073c0179e303"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022581377
 ---
 
 

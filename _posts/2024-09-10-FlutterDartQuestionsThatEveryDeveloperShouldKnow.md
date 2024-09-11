@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "FlutterDart Questions That Every Developer Should Know."
 link: "https://medium.com/stackademic/flutter-dart-questions-that-every-developer-should-know-364fe905dff4"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022767664
 ---
 
 

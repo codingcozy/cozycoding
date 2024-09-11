@@ -1,5 +1,5 @@
 ---
-title: "Angular에서 데이터 캐싱하는 방법과 장단점"
+title: "Angular에서 데이터 캐싱하는 방법 정리"
 description: ""
 coverImage: "/assets/img/2024-09-10-CachingDatainAngular_0.png"
 date: 2024-09-10 18:37
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Caching Data in Angular"
 link: "https://medium.com/@pawan-kumawat/caching-data-in-angular-ffc80dca39b5"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022706758
 ---
 
 

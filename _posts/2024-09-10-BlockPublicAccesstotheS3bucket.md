@@ -1,5 +1,5 @@
 ---
-title: "S3 버킷에 대한 공개 액세스 차단하는 방법"
+title: "S3 버킷 공개 액세스 차단하는 방법"
 description: ""
 coverImage: "/assets/img/2024-09-10-BlockPublicAccesstotheS3bucket_0.png"
 date: 2024-09-10 19:07
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Block Public Access to the S3 bucket"
 link: "https://medium.com/itnext/block-public-access-to-the-s3-bucket-77dc4e97e2d7"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022687795
 ---
 
 

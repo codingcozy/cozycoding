@@ -1,5 +1,5 @@
 ---
-title: "내가 항상 원했던 Flutter 패키지를 만들었지만, 시간 낭비인 이유"
+title: "Flutter 패키지 직접 만드는 것이 시간 낭비인 이유"
 description: ""
 coverImage: "/assets/img/2024-09-10-ICreatedtheFlutterPackageIAlwaysWantedbutItsaWasteofTime_0.png"
 date: 2024-09-10 19:53
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "I Created the Flutter Package I Always Wanted, but Its a Waste of Time"
 link: "https://medium.com/codex/i-created-the-flutter-package-i-always-wanted-but-its-a-waste-of-time-19e509def1f6"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022884894
 ---
 
 

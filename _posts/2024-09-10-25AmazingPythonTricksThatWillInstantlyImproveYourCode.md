@@ -1,5 +1,5 @@
 ---
-title: "코드 향상을 위한 놀라운 25가지 파이썬 트릭"
+title: "파이썬 초보라면 알아둬야할 25가지  트릭"
 description: ""
 coverImage: "/assets/img/2024-09-10-25AmazingPythonTricksThatWillInstantlyImproveYourCode_0.png"
 date: 2024-09-10 18:06
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "25 Amazing Python Tricks That Will Instantly Improve Your Code"
 link: "https://medium.com/pythoneers/25-amazing-python-tricks-that-will-instantly-improve-your-code-8bfefbd62f2f"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022592322
 ---
 
 

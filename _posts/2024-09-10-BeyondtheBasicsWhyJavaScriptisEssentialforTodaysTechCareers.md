@@ -1,5 +1,5 @@
 ---
-title: "기술 산업의 필수, JavaScript의 궁금한 세계"
+title: "초보 개발자라면 알아둬야할 JavaScript 궁금증들"
 description: ""
 coverImage: "/assets/img/2024-09-10-BeyondtheBasicsWhyJavaScriptisEssentialforTodaysTechCareers_0.png"
 date: 2024-09-10 17:59
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Beyond the Basics Why JavaScript is Essential for Todays Tech Careers"
 link: "https://medium.com/@mayurkoshti12/beyond-the-basics-why-javascript-is-essential-for-todays-tech-careers-c5f173872fd2"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022682461
 ---
 
 

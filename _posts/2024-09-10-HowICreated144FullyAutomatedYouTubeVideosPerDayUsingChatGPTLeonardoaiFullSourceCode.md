@@ -1,5 +1,5 @@
 ---
-title: " ChatGPT, Leonardo.ai 활용하여 하루 144개의 완전 자동화된 YouTube 비디오 만드는 방법 (전체 소스 코드 공개)"
+title: "ChatGPT, Leonardo.ai 활용하여 하루 144개의 완전 자동화된 YouTube 비디오 만드는 방법 (전체 소스 코드 공개)"
 description: ""
 coverImage: "/assets/img/2024-09-10-HowICreated144FullyAutomatedYouTubeVideosPerDayUsingChatGPTLeonardoaiFullSourceCode_0.png"
 date: 2024-09-10 19:25
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: " How I Created 144 Fully Automated YouTube Videos Per Day Using ChatGPT , Leonardo.ai  (Full Source Code)"
 link: "https://medium.com/@zerocodingstartup/how-i-created-144-fully-automated-youtube-videos-per-day-using-chatgpt-leonardo-ai-475deb4ab63e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022836294
 ---
 
 

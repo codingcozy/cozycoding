@@ -1,5 +1,5 @@
 ---
-title: "안드로이드 TV 개발과 안드로이드 모바일 개발 주요 차이 및 선택 요소"
+title: "안드로이드 모바일, TV 개발 방법"
 description: ""
 coverImage: "/assets/img/2024-09-10-AndroidTVvsAndroidMobileDevelopment_0.png"
 date: 2024-09-10 19:49
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Android TV vs. Android Mobile Development"
 link: "https://medium.com/@halilozel1903/android-tv-vs-android-mobile-development-de3ffd187d69"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022662016
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "11개 성장 중인 GitHub 프로젝트 향후 주목해야 할 오픈 소스들"
+title: "2024년 주목받는 GitHub 프로젝트 오픈 소스 11개"
 description: ""
 coverImage: "/assets/img/2024-09-10-11GrowingGitHubProjects_0.png"
 date: 2024-09-10 19:12
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "11 Growing GitHub Projects"
 link: "https://medium.com/sourcescribes/11-growing-github-projects-8ae3a7e29ebd"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022526791
 ---
 
 

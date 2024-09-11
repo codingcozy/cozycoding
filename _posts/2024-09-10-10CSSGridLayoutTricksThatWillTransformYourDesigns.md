@@ -1,5 +1,5 @@
 ---
-title: "디자인을 변화시킬 10가지 CSS Grid 레이아웃 트릭"
+title: "세련된 웹사이트를 만들어줄 CSS Grid 레이아웃 트릭"
 description: ""
 coverImage: "/assets/img/2024-09-10-10CSSGridLayoutTricksThatWillTransformYourDesigns_0.png"
 date: 2024-09-10 17:47
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "10 CSS Grid Layout Tricks That Will Transform Your Designs"
 link: "https://medium.com/@asierr/10-css-grid-layout-tricks-that-will-transform-your-designs-a5a77b99a435"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022493515
 ---
 
 

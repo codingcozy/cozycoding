@@ -1,5 +1,5 @@
 ---
-title: "Node.js 백엔드 프레임워크 탐구 Express.js 대체제와 MongoDB 통합"
+title: "Node.js Express.js 대체제와 MongoDB 통합하기"
 description: ""
 coverImage: "/assets/img/2024-09-10-ExploringNodejsBackendFrameworksAlternativetoExpressjswithMongoDBIntegration_0.png"
 date: 2024-09-10 18:40
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Exploring Node.js Backend Frameworks Alternative to Express.js with MongoDB Integration"
 link: "https://medium.com/@mshuecodev/exploring-node-js-backend-frameworks-alternative-to-express-js-with-mongodb-integration-15506aee8b79"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022764370
 ---
 
 

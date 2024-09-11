@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Choosing a Programming Language for a Project"
 link: "https://medium.com/javascript-in-plain-english/choosing-a-programming-language-for-a-project-2b2764723c19"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022710790
 ---
 
 

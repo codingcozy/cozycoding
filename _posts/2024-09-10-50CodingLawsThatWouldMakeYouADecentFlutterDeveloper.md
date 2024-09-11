@@ -1,5 +1,5 @@
 ---
-title: "플러터 개발자로 거듭나게 해줄 50가지 코딩 법칙"
+title: "플러터 개발자라면 반드시 지켜야할 50가지 규칙"
 description: ""
 coverImage: "/assets/img/2024-09-10-50CodingLawsThatWouldMakeYouADecentFlutterDeveloper_0.png"
 date: 2024-09-10 19:54
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "50 Coding Laws That Would Make You A Decent Flutter Developer"
 link: "https://medium.com/flutter-minds/50-coding-laws-that-would-make-you-a-decent-flutter-developer-7cea7e209c88"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022602187
 ---
 
 

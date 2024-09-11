@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "From Prescription to Voice A Python Solution to Help Service Elderly and Visually Impaired Patients"
 link: "https://medium.com/ai-advances/from-prescription-to-voice-a-python-solution-to-help-service-elderly-and-visually-impaired-5bb6b108b00d"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022776853
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "NestJS에서의 CQRS 패턴 개념 및 활용법"
+title: "NestJS에서의 CQRS 패턴 개념 정리"
 description: ""
 coverImage: "/assets/img/2024-09-10-CQRSPatterninNestJSAnoverview_0.png"
 date: 2024-09-10 18:42
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "CQRS Pattern in NestJS An overview"
 link: "https://medium.com/javascript-in-plain-english/cqrs-pattern-in-nestjs-an-overview-c3bc09a4192c"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022695116
 ---
 
 

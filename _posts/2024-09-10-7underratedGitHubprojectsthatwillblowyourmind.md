@@ -1,5 +1,5 @@
 ---
-title: "의미있는 GitHub 프로젝트 소개 인정받지 못한 7가지 프로젝트 "
+title: "인정받지 못한 GitHub 프로젝트 7가지 소개"
 description: ""
 coverImage: "/assets/img/2024-09-10-7underratedGitHubprojectsthatwillblowyourmind_0.png"
 date: 2024-09-10 18:20
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "7 underrated GitHub projects that will blow your mind "
 link: "https://medium.com/javascript-in-plain-english/7-open-source-projects-for-enhancing-your-portfolio-5e35ebd27b3e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022616040
 ---
 
 

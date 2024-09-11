@@ -1,5 +1,5 @@
 ---
-title: "이 웹 개발 생성기 10개로 시간을 아낄 수 있는 방법들"
+title: "웹 개발할 때 시간을 아낄 수 있는 10가지 방법들"
 description: ""
 coverImage: "/assets/img/2024-09-10-HowISaveTonsofTimewithThese10WebDevGenerators_0.png"
 date: 2024-09-10 17:46
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How I Save Tons of Time with These 10 WebDev Generators"
 link: "https://medium.com/@arnoldgunter/how-i-save-tons-of-time-with-these-10-webdev-generators-eb8e2a2665f8"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022855799
 ---
 
 

@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "From Utter Flop to Market Giant The Remarkable Journey of Android"
 link: "https://medium.com/@namuparab29.np/from-utter-flop-to-market-giant-the-remarkable-journey-of-android-63a10d261215"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022811443
 ---
 
 

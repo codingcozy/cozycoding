@@ -1,5 +1,5 @@
 ---
-title: "파이썬 연산자에 대해 알았더라면 더 나았을 10가지"
+title: "자주 사용하는 파이썬 연산자 10가지 정리"
 description: ""
 coverImage: "/assets/img/2024-09-10-10ThingsIRegretNotKnowingEarlierAboutPythonOperators_0.png"
 date: 2024-09-10 19:31
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "10 Things I Regret Not Knowing Earlier About Python Operators"
 link: "https://medium.com/gitconnected/10-things-i-regret-not-knowing-earlier-about-python-operators-80fd996aad33"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022503772
 ---
 
 

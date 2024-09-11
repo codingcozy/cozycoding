@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "GenAI with Python Coding Agents"
 link: "https://medium.com/towards-data-science/genai-with-python-coding-agents-765406d26584"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022809556
 ---
 
 

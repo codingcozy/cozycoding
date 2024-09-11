@@ -1,5 +1,5 @@
 ---
-title: "인텔리제이 IDEA 2024.2 화려한 새로운 UI, 더 똑똑해진 Git, 그리고 AI 기반 충돌 해결"
+title: "인텔리제이 IDEA 2024.2 화려한 새로운 UI, 더 똑똑해진 Git, 그리고 AI 기반 충돌 해결 기능 정리"
 description: ""
 coverImage: "/assets/img/2024-09-10-IntelliJIDEA20242AStunningNewUISmarterGitandAI-DrivenConflictResolution_0.png"
 date: 2024-09-10 19:32
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: " IntelliJ IDEA 2024.2 A Stunning New UI, Smarter Git, and AI-Driven Conflict Resolution"
 link: "https://medium.com/@tomaszs2/intellij-idea-2024-2-a-stunning-new-ui-smarter-git-and-ai-driven-conflict-resolution-0a3cb74da92d"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022891347
 ---
 
 

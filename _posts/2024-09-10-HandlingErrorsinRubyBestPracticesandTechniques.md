@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Handling Errors in Ruby Best Practices and Techniques"
 link: "https://medium.com/@patrykrogedu/handling-errors-in-ruby-best-practices-and-techniques-86a04a071bde"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022822386
 ---
 
 

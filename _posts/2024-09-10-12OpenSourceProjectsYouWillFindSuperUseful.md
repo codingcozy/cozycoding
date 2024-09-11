@@ -1,5 +1,5 @@
 ---
-title: "12개의 오픈 소스 프로젝트 당신이 꼭 활용하고 싶어할 것 같아요"
+title: "프로젝트에 사용하면 좋은 12개의 오픈 소스"
 description: ""
 coverImage: "/assets/img/2024-09-10-12OpenSourceProjectsYouWillFindSuperUseful_0.png"
 date: 2024-09-10 18:21
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "12 Open Source Projects You Will Find Super Useful"
 link: "https://medium.com/sourcescribes/12-open-source-projects-you-will-find-super-useful-d37303bf432e"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022554858
 ---
 
 

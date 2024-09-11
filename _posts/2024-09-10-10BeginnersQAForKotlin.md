@@ -1,5 +1,5 @@
 ---
-title: "10가지 초보자를 위한 코틀린 질문과 답변"
+title: "코틀린 기술면접  질문과 답변 10가지"
 description: ""
 coverImage: "/assets/img/2024-09-10-10BeginnersQAForKotlin_0.png"
 date: 2024-09-10 19:21
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "10 Beginners Q,A For Kotlin"
 link: "https://medium.com/@halilozel1903/10-beginners-q-a-for-kotlin-0913df524a82"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022482474
 ---
 
 

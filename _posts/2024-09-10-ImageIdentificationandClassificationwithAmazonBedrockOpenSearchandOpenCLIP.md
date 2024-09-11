@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Image Identification and Classification with Amazon Bedrock, OpenSearch, and OpenCLIP"
 link: "https://medium.com/ai-advances/image-identification-and-classification-with-amazon-bedrock-opensearch-and-openclip-5442baca1846"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022886613
 ---
 
 

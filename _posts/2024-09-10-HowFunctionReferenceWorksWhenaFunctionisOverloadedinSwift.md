@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How Function Reference Works When a Function is Overloaded in Swift"
 link: "https://medium.com/iosplaybook/how-function-reference-works-when-a-function-is-overloaded-in-swift-c6fca8ee9430"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022825163
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "플러터의 성능 개선을 위한 5가지 팁"
+title: "플러터의 성능 개선을 위한 5가지 방법"
 description: ""
 coverImage: "/assets/img/2024-09-10-FluttersBigPerformanceProblem_0.png"
 date: 2024-09-10 19:50
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Flutters Big Performance Problem"
 link: "https://medium.com/@impure/flutters-big-performance-problem-4b9bda5ca9e0"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022771594
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "현대 소프트웨어 개발에서의 현대적인 도구, 프레임워크 및 기술들을 포괄적으로 다루는 가이드"
+title: "새 프로젝트를 시작할 때 프레임워크 및 기술 스택 정하는 방법"
 description: ""
 coverImage: "/assets/no-image.jpg"
 date: 2024-09-10 19:44
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Comprehensive Guide to Modern Tools, Frameworks, and Technologies in Software Development"
 link: "https://medium.com/javascript-in-plain-english/comprehensive-guide-to-modern-tools-frameworks-and-technologies-in-software-development-67add8dc7849"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022731431
 ---
 
 

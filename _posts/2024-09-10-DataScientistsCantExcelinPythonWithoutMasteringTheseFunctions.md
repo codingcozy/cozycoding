@@ -1,5 +1,5 @@
 ---
-title: "데이터 과학자가 파이썬에서 능숙해지지 않으면 안 되는 함수들"
+title: "데이터 사이언티스트라면 알아둬야할 파이썬 함수들"
 description: ""
 coverImage: "/assets/img/2024-09-10-DataScientistsCantExcelinPythonWithoutMasteringTheseFunctions_0.png"
 date: 2024-09-10 18:04
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Data Scientists Cant Excel in Python Without Mastering These Functions"
 link: "https://medium.com/towards-data-science/data-scientists-cant-excel-in-python-without-mastering-these-functions-517dae1f0c37"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022744852
 ---
 
 

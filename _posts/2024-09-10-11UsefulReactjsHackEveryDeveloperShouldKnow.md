@@ -1,5 +1,5 @@
 ---
-title: "모든 개발자가 알아야 할 11가지 유용한 React.js 팁 및 기능"
+title: "신입 개발자가 알아야 할 React.js 팁 및 기능 11가지"
 description: ""
 coverImage: "/assets/img/2024-09-10-11UsefulReactjsHackEveryDeveloperShouldKnow_0.png"
 date: 2024-09-10 18:31
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "11 Useful React.js Hack Every Developer Should Know"
 link: "https://medium.com/javascript-in-plain-english/11-useful-react-js-hack-every-developer-should-know-b635c3af48bd"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022542781
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: "CSS와 HTML을 사용하여 Glassmorphism 효과를 만드는 방법"
+title: "CSS와 HTML로 Glassmorphism 효과를 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-09-10-HowtoCreateGlassmorphismEffectusingCSSandHTML_0.png"
 date: 2024-09-10 17:40
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Create Glassmorphism Effect using CSS and HTML"
 link: "https://medium.com/@infodigit67/how-to-create-glassmorphism-effect-using-css-and-html-8415025d9bdc"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022874290
 ---
 
 

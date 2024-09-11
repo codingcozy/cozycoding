@@ -1,5 +1,5 @@
 ---
-title: "React에서 동적 호버 효과를 만드는 방법 (단계별 가이드)"
+title: "React에서 동적 호버 효과를 만드는 방법"
 description: ""
 coverImage: "/assets/img/2024-09-10-HowtoCreateDynamicHoverEffectsinReactStep-by-StepGuide_0.png"
 date: 2024-09-10 17:50
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "How to Create Dynamic Hover Effects in React (Step-by-Step Guide)"
 link: "https://medium.com/@pinjarirehan/how-to-create-dynamic-hover-effects-in-react-step-by-step-guide-aa40098acee6"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022858282
 ---
 
 

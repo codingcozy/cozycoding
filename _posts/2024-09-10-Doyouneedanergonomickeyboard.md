@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Do you need an ergonomic keyboard"
 link: "https://medium.com/design-bootcamp/do-you-need-an-ergonomic-keyboard-70c5fe1a4ffe"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726022745959
 ---
 
 
