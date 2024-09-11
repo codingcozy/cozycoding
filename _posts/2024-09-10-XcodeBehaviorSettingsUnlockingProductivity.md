@@ -1,5 +1,5 @@
 ---
-title: "Xcode 동작 설정 생산성 높이는 방법"
+title: "개발자 생산성을 높혀주는 Xcode 설정 방법"
 description: ""
 coverImage: "/assets/img/2024-09-10-XcodeBehaviorSettingsUnlockingProductivity_0.png"
 date: 2024-09-10 19:36
@@ -8,7 +8,8 @@ ogImage:
 tag: Tech
 originalTitle: "Xcode Behavior Settings Unlocking Productivity"
 link: "https://medium.com/codex/xcode-behavior-settings-unlocking-productivity-edacd4303485"
-isUpdated: false
+isUpdated: true
+updatedAt: 1726041378986
 ---
 
 
